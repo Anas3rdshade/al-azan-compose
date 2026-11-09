@@ -842,6 +842,7 @@
     <string name="namaz_col_sunnat_after">بعد سنت</string>
     <string name="namaz_col_witr">وتر</string>
     <string name="namaz_col_nafl">نفل</string>
+    <string name="namaz_col_sunnat">سنت</string>
     <string name="namaz_jumuah">جمعہ</string>
     <string name="namaz_note_isha">وتر 3 رکعت (واجب)، پھر 2 نفل۔</string>
     <string name="namaz_note_jumuah">جمعہ کے دن ظہر کی جگہ۔</string>

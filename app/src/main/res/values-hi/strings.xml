@@ -842,6 +842,7 @@
     <string name="namaz_col_sunnat_after">बाद सुन्नत</string>
     <string name="namaz_col_witr">वित्र</string>
     <string name="namaz_col_nafl">नफ़्ल</string>
+    <string name="namaz_col_sunnat">सुन्नत</string>
     <string name="namaz_jumuah">जुमा</string>
     <string name="namaz_note_isha">वित्र 3 रकात (वाजिब), फिर 2 नफ़्ल।</string>
     <string name="namaz_note_jumuah">जुमे के दिन ज़ुहर की जगह।</string>

@@ -6,14 +6,13 @@ import androidx.compose.foundation.border
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.ColumnScope
-import androidx.compose.foundation.layout.ExperimentalLayoutApi
-import androidx.compose.foundation.layout.FlowRow
+import androidx.compose.foundation.layout.Box
+import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
-import androidx.compose.foundation.layout.widthIn
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.FilledTonalButton
@@ -84,6 +83,7 @@ fun NamazScreen(
     ) {
         Section(R.string.namaz_rakat_title) {
             DraftChip()
+            RakatHeader()
             RakatTable.forEach { RakatLine(it) }
             Text(stringResource(R.string.namaz_rakat_legend), style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
         }
@@ -127,48 +127,78 @@ private fun Section(@StringRes title: Int, content: @Composable ColumnScope.() -
     }
 }
 
-/** A prayer's units as pills in prayer order; empty cells are dropped. Fard is filled, ★ tonal, the rest outlined. */
-@OptIn(ExperimentalLayoutApi::class)
+private val RakatCols = listOf(
+    R.string.namaz_col_sunnat,
+    R.string.namaz_col_fard,
+    R.string.namaz_col_sunnat,
+    R.string.namaz_col_witr,
+    R.string.namaz_col_nafl,
+)
+private val RakatNameWidth = 72.dp
+
+/** Column labels once; the two Sunnat columns read as before/after by their place around Fard. */
+@Composable
+private fun RakatHeader() {
+    Row(Modifier.fillMaxWidth().padding(horizontal = 8.dp)) {
+        Spacer(Modifier.width(RakatNameWidth))
+        RakatCols.forEach {
+            Text(
+                stringResource(it),
+                style = MaterialTheme.typography.labelSmall,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+                textAlign = TextAlign.Center,
+                maxLines = 1,
+                modifier = Modifier.weight(1f),
+            )
+        }
+    }
+}
+
+/** One prayer on one line: aligned chips, Fard filled, ★ tonal, the rest outlined; empty cells stay blank. */
 @Composable
 private fun RakatLine(r: RakatRow) {
     val shade = LocalShadeColors.current
-    val units = listOf(
-        r.sunnatBefore to R.string.namaz_col_sunnat_before,
-        r.fard to R.string.namaz_col_fard,
-        r.sunnatAfter to R.string.namaz_col_sunnat_after,
-        r.witr to R.string.namaz_col_witr,
-        r.nafl to R.string.namaz_col_nafl,
-    ).filter { it.first != "–" }
     Column(
         Modifier
             .fillMaxWidth()
             .clip(RoundedCornerShape(12.dp))
             .background(shade.pill)
-            .padding(10.dp),
-        verticalArrangement = Arrangement.spacedBy(6.dp),
+            .padding(horizontal = 8.dp, vertical = 8.dp),
+        verticalArrangement = Arrangement.spacedBy(4.dp),
     ) {
-        Text(stringResource(r.name), style = MaterialTheme.typography.titleSmall, fontWeight = FontWeight.Bold)
-        FlowRow(horizontalArrangement = Arrangement.spacedBy(6.dp), verticalArrangement = Arrangement.spacedBy(6.dp)) {
-            units.forEach { (count, label) ->
-                val fard = label == R.string.namaz_col_fard
-                val shape = RoundedCornerShape(10.dp)
-                val fg = if (fard) Color.White else shade.accent
-                Column(
-                    Modifier
-                        .widthIn(min = 64.dp)
-                        .clip(shape)
-                        .then(
-                            when {
-                                fard -> Modifier.background(shade.accent)
-                                '★' in count -> Modifier.background(shade.accent.copy(alpha = 0.16f))
-                                else -> Modifier.border(1.dp, shade.line, shape)
-                            },
+        Row(verticalAlignment = Alignment.CenterVertically) {
+            Text(
+                stringResource(r.name),
+                style = MaterialTheme.typography.titleSmall,
+                fontWeight = FontWeight.Bold,
+                maxLines = 1,
+                modifier = Modifier.width(RakatNameWidth),
+            )
+            listOf(r.sunnatBefore, r.fard, r.sunnatAfter, r.witr, r.nafl).forEachIndexed { i, count ->
+                Box(Modifier.weight(1f).padding(horizontal = 2.dp), contentAlignment = Alignment.Center) {
+                    if (count != "–") {
+                        val fard = i == 1
+                        val shape = RoundedCornerShape(10.dp)
+                        Text(
+                            count,
+                            fontSize = 16.sp,
+                            fontWeight = FontWeight.Bold,
+                            maxLines = 1,
+                            textAlign = TextAlign.Center,
+                            color = if (fard) Color.White else shade.accent,
+                            modifier = Modifier
+                                .fillMaxWidth()
+                                .clip(shape)
+                                .then(
+                                    when {
+                                        fard -> Modifier.background(shade.accent)
+                                        '★' in count -> Modifier.background(shade.accent.copy(alpha = 0.16f))
+                                        else -> Modifier.border(1.dp, shade.line, shape)
+                                    },
+                                )
+                                .padding(vertical = 6.dp),
                         )
-                        .padding(horizontal = 10.dp, vertical = 6.dp),
-                    horizontalAlignment = Alignment.CenterHorizontally,
-                ) {
-                    Text(count, fontSize = 18.sp, fontWeight = FontWeight.Bold, color = fg)
-                    Text(stringResource(label), style = MaterialTheme.typography.labelSmall, color = if (fard) fg else MaterialTheme.colorScheme.onSurfaceVariant)
+                    }
                 }
             }
         }

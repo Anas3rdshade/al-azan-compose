@@ -858,6 +858,7 @@
     <string name="namaz_col_sunnat_after">Sunnat after</string>
     <string name="namaz_col_witr">Witr</string>
     <string name="namaz_col_nafl">Nafl</string>
+    <string name="namaz_col_sunnat">Sunnat</string>
     <string name="namaz_jumuah">Jumu\'ah</string>
     <string name="namaz_note_isha">Witr is 3 rakat (wajib), then 2 nafl.</string>
     <string name="namaz_note_jumuah">Replaces Zuhr on Friday.</string>
