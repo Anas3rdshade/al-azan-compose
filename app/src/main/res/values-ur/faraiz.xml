@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Faraiz pages; translation of values/faraiz.xml (Namaz Tracker/07_Faraiz_Research.md). -->
+<resources>
+    <string name="faraiz_title">فرائض</string>
+    <string name="faraiz_intro">ہر عمل صحیح طریقے سے کیسے کریں۔ فرض حصے سنہرے رنگ میں ہیں۔</string>
+    <string name="faraiz_wuzu">وضو</string>
+    <string name="faraiz_ghusl">غسل</string>
+    <string name="faraiz_tayammum">تیمم</string>
+    <string name="faraiz_namaz">نماز</string>
+    <string name="faraiz_farz_tag">فرض</string>
+    <string name="faraiz_steps">قدم بہ قدم</string>
+    <string name="faraiz_legend">سنہرا = فرض۔ سنہری ڈیش والی لکیر وہ حد ہے جہاں تک دھونا ضروری ہے۔</string>
+    <string name="faraiz_callout_title">کلی اور ناک میں پانی</string>
+    <string name="faraiz_callout">وضو میں کلی اور ناک میں پانی ڈالنا سنت ہے۔ غسل میں یہ فرض ہیں، اس لیے انہیں نہ چھوڑیں۔</string>
+
+    <string name="faraiz_wuzu_farz_title">فرض (4): ایک بھی چھوٹ جائے تو وضو نہیں ہوتا</string>
+    <string-array name="faraiz_wuzu_farz">
+        <item>پورا چہرہ دھونا: بالوں کی جڑ سے ٹھوڑی کے نیچے تک، ایک کان کی لو سے دوسرے کان کی لو تک۔ صرف گیلا کرنا کافی نہیں؛ پانی بہنا چاہیے۔</item>
+        <item>دونوں ہاتھ کہنیوں سمیت دھونا۔</item>
+        <item>سر کا مسح: کم از کم ¼ سر۔</item>
+        <item>دونوں پاؤں ٹخنوں سمیت دھونا۔</item>
+    </string-array>
+    <string name="faraiz_wuzu_basis">دلیل: سورۃ المائدہ 5:6۔</string>
+    <string name="faraiz_wuzu_sunnat_title">سنتیں (14)</string>
+    <string-array name="faraiz_wuzu_sunnat">
+        <item>نیت</item>
+        <item>شروع میں بسم اللہ</item>
+        <item>دونوں ہاتھ کلائیوں تک 3 بار دھونا</item>
+        <item>مسواک</item>
+        <item>کلی، 3 بار، ہر بار نیا پانی</item>
+        <item>ناک میں پانی، 3 بار، اور بائیں ہاتھ سے صاف کرنا</item>
+        <item>داڑھی کا خلال (مرد)</item>
+        <item>ہاتھوں اور پاؤں کی انگلیوں کا خلال</item>
+        <item>ہر حصہ 3 بار دھونا</item>
+        <item>پورے سر کا مسح، ایک بار</item>
+        <item>اسی پانی سے دونوں کانوں کا مسح</item>
+        <item>ترتیب: قرآن میں بتائی گئی ترتیب</item>
+        <item>موالات: پچھلا حصہ سوکھنے سے پہلے اگلا دھونا</item>
+        <item>دائیں طرف سے شروع کرنا</item>
+    </string-array>
+    <string name="faraiz_wuzu_breaks_title">وضو کن چیزوں سے ٹوٹتا ہے (8)</string>
+    <string-array name="faraiz_wuzu_breaks">
+        <item>آگے یا پیچھے کی شرمگاہ سے کچھ نکلنا (پیشاب، پاخانہ وغیرہ)</item>
+        <item>ہوا خارج ہونا</item>
+        <item>منہ بھر قے</item>
+        <item>لیٹ کر سونا، یا ایسا ٹیک لگا کر کہ سہارا ہٹے تو گر جائے</item>
+        <item>بے ہوش ہونا</item>
+        <item>جنون یا نشہ</item>
+        <item>نماز میں زور سے ہنسنا (جنازے میں نہیں)</item>
+        <item>خون یا پیپ کا زخم کے منہ سے آگے بہ جانا</item>
+    </string-array>
+    <string name="faraiz_wuzu_not_breaks_title">ان سے وضو نہیں ٹوٹتا</string>
+    <string-array name="faraiz_wuzu_not_breaks">
+        <item>خون کا قطرہ جو بہے نہیں</item>
+        <item>کسی کا آپ کے بال دیکھ لینا (یہ الگ گناہ ہے، مگر وضو باقی رہتا ہے)</item>
+    </string-array>
+    <string-array name="faraiz_wuzu_steps">
+        <item>نیت اور بسم اللہ</item>
+        <item>دونوں ہاتھ کلائیوں تک 3 بار دھوئیں</item>
+        <item>کلی، 3 بار</item>
+        <item>ناک میں پانی، 3 بار؛ بائیں ہاتھ سے صاف کریں</item>
+        <item>پورا چہرہ دھوئیں: بالوں کی جڑ سے ٹھوڑی کے نیچے تک، کان کی لو سے کان کی لو تک</item>
+        <item>پہلے دایاں ہاتھ، پھر بایاں، کہنیوں سمیت دھوئیں</item>
+        <item>سر کا مسح: کم از کم ¼ (سنت: پورا سر، ایک بار)</item>
+        <item>اسی پانی سے دونوں کانوں کا مسح</item>
+        <item>پہلے دایاں پاؤں، پھر بایاں، ٹخنوں سمیت دھوئیں</item>
+        <item>ہاتھوں اور پاؤں کی انگلیوں کا خلال</item>
+    </string-array>
+
+    <string name="faraiz_ghusl_farz_title">فرض (3)</string>
+    <string-array name="faraiz_ghusl_farz">
+        <item>کلی: پورے منہ میں پانی پہنچانا (روزہ نہ ہو تو غرارہ سنت ہے)</item>
+        <item>ناک میں پانی: ناک کی نرم ہڈی تک، پھر ناک صاف کریں</item>
+        <item>پورے بدن پر پانی بہانا: بال برابر جگہ بھی سوکھی رہ جائے تو غسل نہیں ہوتا</item>
+    </string-array>
+    <string name="faraiz_ghusl_sunnat_title">سنتیں (9)</string>
+    <string-array name="faraiz_ghusl_sunnat">
+        <item>بسم اللہ</item>
+        <item>نیت</item>
+        <item>دونوں ہاتھ کلائیوں تک دھونا</item>
+        <item>نجاست اور شرمگاہ دھونا</item>
+        <item>وضو کرنا</item>
+        <item>پورے بدن پر 3 بار پانی ڈالنا</item>
+        <item>پہلے سر، پھر دایاں کندھا، پھر بایاں کندھا</item>
+        <item>بدن کو ملنا</item>
+        <item>بیچ میں وقفہ نہ کرنا (موالات)</item>
+    </string-array>
+    <string-array name="faraiz_ghusl_steps">
+        <item>دونوں ہاتھ کلائیوں تک دھوئیں</item>
+        <item>نجاست اور شرمگاہ دھوئیں</item>
+        <item>وضو کریں</item>
+        <item>کلی: پورے منہ میں پانی پہنچائیں</item>
+        <item>ناک میں پانی، نرم ہڈی تک، پھر ناک صاف کریں</item>
+        <item>پورے بدن پر 3 بار پانی: سر، دایاں کندھا، بایاں کندھا</item>
+    </string-array>
+    <string name="faraiz_ghusl_dont_miss">یہ نہ چھوٹیں</string>
+    <string-array name="faraiz_ghusl_dont_miss_items">
+        <item>ناف</item>
+        <item>کانوں کے پیچھے</item>
+        <item>انگوٹھی اور ناک کی کیل کے نیچے</item>
+        <item>گندھے ہوئے بال: جڑیں بھیگنی چاہئیں؛ چوٹی کھولنا ضروری نہیں</item>
+    </string-array>
+
+    <string name="faraiz_tayammum_when_title">کب جائز ہے</string>
+    <string name="faraiz_tayammum_when">جب پانی نہ ملے، یا پانی استعمال کرنے سے نقصان ہو (بیماری)۔</string>
+    <string name="faraiz_tayammum_farz_title">فرض (3)</string>
+    <string-array name="faraiz_tayammum_farz">
+        <item>نیت: تیمم میں نیت ضروری ہے (وضو کی طرح نہیں)</item>
+        <item>پورے چہرے کا مسح</item>
+        <item>دونوں ہاتھوں کا کہنیوں سمیت مسح</item>
+    </string-array>
+    <string name="faraiz_tayammum_steps_title">قدم بہ قدم (2 ضرب)</string>
+    <string-array name="faraiz_tayammum_steps">
+        <item>نیت</item>
+        <item>بسم اللہ</item>
+        <item>دونوں ہتھیلیاں پاک مٹی، پتھر یا گرد پر ماریں</item>
+        <item>پورے چہرے پر پھیریں</item>
+        <item>دوسری بار ماریں</item>
+        <item>دائیں ہاتھ پر کہنی سمیت پھیریں، پھر بائیں پر</item>
+    </string-array>
+    <string name="faraiz_tayammum_breaks_title">تیمم کن چیزوں سے ٹوٹتا ہے</string>
+    <string name="faraiz_tayammum_breaks">ہر وہ چیز جس سے وضو ٹوٹتا ہے، اور عذر ختم ہو جانا (پانی مل جائے، یا بیماری ٹھیک ہو جائے)۔</string>
+
+    <string name="faraiz_shuroot_title">شروط: نماز سے پہلے کی شرطیں (7)</string>
+    <string-array name="faraiz_shuroot">
+        <item>بدن حدث سے پاک ہو (وضو یا غسل میں)</item>
+        <item>بدن اور کپڑے نجاست سے پاک ہوں</item>
+        <item>جگہ پاک ہو</item>
+        <item>ستر ڈھکا ہو (عورت کے لیے: چہرہ، ہاتھ اور پاؤں چھوڑ کر پورا بدن)</item>
+        <item>نماز کا وقت شروع ہو چکا ہو</item>
+        <item>قبلے کی طرف منہ</item>
+        <item>نیت</item>
+    </string-array>
+    <string name="faraiz_shuroot_note">کئی اردو کتابیں 2 اور 3 کو ملا کر 6 شرطیں لکھتی ہیں۔</string>
+    <string name="faraiz_arkan_title">ارکان: نماز کے اندر کے فرض (6)</string>
+    <string-array name="faraiz_arkan">
+        <item>تکبیرِ تحریمہ</item>
+        <item>قیام (کھڑا ہونا)</item>
+        <item>قرأت</item>
+        <item>رکوع</item>
+        <item>دونوں سجدے</item>
+        <item>قعدۂ اخیرہ: آخر میں اتنی دیر بیٹھنا کہ تشہد پڑھا جا سکے</item>
+    </string-array>
+    <string name="faraiz_wajibat_title">واجبات (12)</string>
+    <string name="faraiz_wajibat_note">بھول سے کوئی چھوٹ جائے تو سجدۂ سہو سے پورا ہو جاتا ہے۔ جان بوجھ کر چھوڑا جائے تو نماز دہرائی جائے۔</string>
+    <string-array name="faraiz_wajibat">
+        <item>سورۃ فاتحہ، فرض کی پہلی 2 رکعات میں اور وتر، سنت اور نفل کی ہر رکعت میں</item>
+        <item>فاتحہ کے بعد ایک سورت (3 چھوٹی آیتیں یا 1 لمبی آیت)</item>
+        <item>سورت سے پہلے فاتحہ</item>
+        <item>دہرائے جانے والے اعمال ترتیب سے (پہلے سجدے کے فوراً بعد دوسرا)</item>
+        <item>تعدیلِ ارکان: ہر حالت میں ٹھہرنا</item>
+        <item>قعدۂ اولیٰ (پہلا قعدہ) اور دونوں قعدوں میں تشہد</item>
+        <item>تشہد کے فوراً بعد تیسری رکعت کے لیے کھڑا ہونا</item>
+        <item>وتر میں دعائے قنوت</item>
+        <item>عید کی زائد تکبیریں</item>
+        <item>فجر، مغرب اور عشاء (پہلی 2 رکعات)، جمعہ، عید اور تراویح میں (امام کی) بلند قرأت</item>
+        <item>ظہر، عصر اور بعد کی رکعات میں آہستہ قرأت</item>
+        <item>سلام پر ختم کرنا</item>
+    </string-array>
+    <string name="faraiz_positions_title">عورتوں کی نماز کی حالتیں</string>
+    <string-array name="faraiz_positions">
+        <item>تکبیرِ تحریمہ: ہاتھ کندھوں تک</item>
+        <item>قیام: کھڑی ہوں، ہاتھ سینے پر</item>
+        <item>رکوع: بدن سمٹا ہوا</item>
+        <item>قومہ: کھڑی ہو کر ٹھہریں</item>
+        <item>سجدہ: بدن سمٹا ہوا</item>
+        <item>جلسہ: دونوں سجدوں کے بیچ ٹھہر کر بیٹھیں</item>
+        <item>قعدہ: دونوں پاؤں دائیں طرف نکال کر بیٹھیں</item>
+        <item>سلام: سلام پر نماز ختم کریں</item>
+    </string-array>
+</resources>

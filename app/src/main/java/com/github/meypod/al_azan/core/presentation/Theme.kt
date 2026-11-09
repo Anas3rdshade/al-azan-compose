@@ -68,6 +68,8 @@ data class ShadeColors(
     val line: Color,
     val pill: Color,
     val navBg: Color,
+    /** Farz highlight in the Faraiz diagrams. */
+    val gold: Color,
 )
 
 // Light · Sukoon (sage) and Dark · Raat (night navy + gold); see Namaz Tracker/05_UI_Style_Options.html
@@ -80,6 +82,7 @@ private val SukoonColors = ShadeColors(
     line = Color(0xFFE3E8E2),
     pill = Color(0xFFE2EEE7),
     navBg = Color(0xFFFFFFFF),
+    gold = Color(0xFF8A6414),
 )
 
 private val RaatColors = ShadeColors(
@@ -96,6 +99,7 @@ private val RaatColors = ShadeColors(
     line = Color(0xFF1F2B45),
     pill = Color(0xFF2A3550),
     navBg = Color(0xFF0F182B),
+    gold = Color(0xFFE3B75E),
 )
 
 private fun ShadeColors.toScheme(dark: Boolean, bg: Color, fg: Color, subFg: Color): ColorScheme {

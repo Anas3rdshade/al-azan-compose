@@ -69,6 +69,10 @@ sealed interface Route : NavKey {
         @Serializable
         data object Namaz : Route
 
+        /** Faraiz page reached from the Namaz tab; [topic] indexes main/namaz/FaraizScreen.kt FaraizTopics. */
+        @Serializable
+        data class Faraiz(val topic: Int) : Route
+
         @Serializable
         data object More : Route
 

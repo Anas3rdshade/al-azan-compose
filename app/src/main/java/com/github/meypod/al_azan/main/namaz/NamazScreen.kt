@@ -71,6 +71,7 @@ private val RakatTable = listOf(
 
 private val TasbihTargets = listOf(33, 34, 99, 100)
 
+@OptIn(ExperimentalLayoutApi::class)
 @Composable
 fun NamazScreen(
     counters: CounterUiState,
@@ -86,6 +87,16 @@ fun NamazScreen(
             DraftChip()
             RakatTable.forEach { RakatLine(it) }
             Text(stringResource(R.string.namaz_rakat_legend), style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+        }
+        Section(R.string.faraiz_title) {
+            Text(stringResource(R.string.faraiz_intro), style = MaterialTheme.typography.bodyMedium)
+            FlowRow(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                FaraizTopics.forEachIndexed { i, t ->
+                    FilledTonalButton(onClick = { NavigationController.navigateTo(Route.Main.Faraiz(i)) }) {
+                        Text(stringResource(t))
+                    }
+                }
+            }
         }
         Section(R.string.qibla) {
             Text(stringResource(R.string.namaz_qibla_desc), style = MaterialTheme.typography.bodyMedium)
@@ -117,7 +128,7 @@ fun NamazScreen(
 }
 
 @Composable
-private fun Section(@StringRes title: Int, content: @Composable ColumnScope.() -> Unit) {
+internal fun Section(@StringRes title: Int, content: @Composable ColumnScope.() -> Unit) {
     val shade = LocalShadeColors.current
     Surface(color = shade.card, shape = RoundedCornerShape(16.dp), modifier = Modifier.fillMaxWidth()) {
         Column(Modifier.padding(14.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {

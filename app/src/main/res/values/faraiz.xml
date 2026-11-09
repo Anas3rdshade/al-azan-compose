@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Faraiz pages; content from Namaz Tracker/07_Faraiz_Research.md only (Hanafi). -->
+<resources>
+    <string name="faraiz_title">Faraiz</string>
+    <string name="faraiz_intro">How to do each act properly. The farz parts are in gold.</string>
+    <string name="faraiz_wuzu">Wuzu</string>
+    <string name="faraiz_ghusl">Ghusl</string>
+    <string name="faraiz_tayammum">Tayammum</string>
+    <string name="faraiz_namaz">Namaz</string>
+    <string name="faraiz_farz_tag">Farz</string>
+    <string name="faraiz_steps">Step by step</string>
+    <string name="faraiz_legend">Gold = farz. The dashed gold line is the limit that must be covered.</string>
+    <string name="faraiz_callout_title">Kulli and water in the nose</string>
+    <string name="faraiz_callout">In wuzu, kulli and water in the nose are sunnat. In ghusl they are farz, so do not leave them out.</string>
+
+    <string name="faraiz_wuzu_farz_title">Farz (4): if one is missed, the wuzu is not valid</string>
+    <string-array name="faraiz_wuzu_farz">
+        <item>Wash the whole face: hairline to below the chin, earlobe to earlobe. Wetting it is not enough; water must flow over it.</item>
+        <item>Wash both arms, including the elbows.</item>
+        <item>Masah of the head: at least ¼ of the head.</item>
+        <item>Wash both feet, including the ankles.</item>
+    </string-array>
+    <string name="faraiz_wuzu_basis">Basis: Surah al-Ma\'idah 5:6.</string>
+    <string name="faraiz_wuzu_sunnat_title">Sunnat (14)</string>
+    <string-array name="faraiz_wuzu_sunnat">
+        <item>Niyyat (intention)</item>
+        <item>Bismillah at the start</item>
+        <item>Wash both hands up to the wrists, 3 times</item>
+        <item>Miswak</item>
+        <item>Kulli, 3 times, fresh water each time</item>
+        <item>Water in the nose, 3 times, and clean it with the left hand</item>
+        <item>Khilal of the beard (men)</item>
+        <item>Khilal of the fingers and toes</item>
+        <item>Wash each limb 3 times</item>
+        <item>Masah of the whole head, once</item>
+        <item>Masah of both ears with the same water</item>
+        <item>Tarteeb: the order given in the Quran</item>
+        <item>Muwalat: wash the next limb before the last one dries</item>
+        <item>Start with the right side</item>
+    </string-array>
+    <string name="faraiz_wuzu_breaks_title">What breaks wuzu (8)</string>
+    <string-array name="faraiz_wuzu_breaks">
+        <item>Anything leaving the front or back private part (urine, stool, etc.)</item>
+        <item>Passing wind</item>
+        <item>Vomiting a mouthful</item>
+        <item>Sleeping lying down, or leaning so that you would fall if the support were taken away</item>
+        <item>Fainting or losing consciousness</item>
+        <item>Losing sanity, or intoxication</item>
+        <item>Laughing aloud inside namaz (not in janazah)</item>
+        <item>Blood or pus flowing beyond the mouth of the wound</item>
+    </string-array>
+    <string name="faraiz_wuzu_not_breaks_title">Does not break wuzu</string>
+    <string-array name="faraiz_wuzu_not_breaks">
+        <item>A drop of blood that does not flow</item>
+        <item>Someone seeing your hair (that is a sin of its own, but the wuzu stays)</item>
+    </string-array>
+    <string-array name="faraiz_wuzu_steps">
+        <item>Niyyat and Bismillah</item>
+        <item>Wash both hands up to the wrists, 3 times</item>
+        <item>Kulli, 3 times</item>
+        <item>Water in the nose, 3 times; clean it with the left hand</item>
+        <item>Wash the whole face: hairline to below the chin, earlobe to earlobe</item>
+        <item>Wash the right arm, then the left, including the elbows</item>
+        <item>Masah of the head: at least ¼ (sunnat: the whole head, once)</item>
+        <item>Masah of both ears with the same water</item>
+        <item>Wash the right foot, then the left, including the ankles</item>
+        <item>Khilal of the fingers and toes</item>
+    </string-array>
+
+    <string name="faraiz_ghusl_farz_title">Farz (3)</string>
+    <string-array name="faraiz_ghusl_farz">
+        <item>Kulli: rinse the whole mouth (gargling is sunnat if not fasting)</item>
+        <item>Naak mein pani: up to the soft part of the nose, then blow it out</item>
+        <item>Wash the whole body: if a spot the size of a hair is left dry, the ghusl is not valid</item>
+    </string-array>
+    <string name="faraiz_ghusl_sunnat_title">Sunnat (9)</string>
+    <string-array name="faraiz_ghusl_sunnat">
+        <item>Bismillah</item>
+        <item>Niyyat</item>
+        <item>Wash both hands to the wrists</item>
+        <item>Wash off najasat and the private parts</item>
+        <item>Make wuzu</item>
+        <item>Pour water over the whole body 3 times</item>
+        <item>Head first, then the right shoulder, then the left shoulder</item>
+        <item>Rub the body</item>
+        <item>No gaps (muwalat)</item>
+    </string-array>
+    <string-array name="faraiz_ghusl_steps">
+        <item>Wash both hands to the wrists</item>
+        <item>Wash off najasat and the private parts</item>
+        <item>Make wuzu</item>
+        <item>Kulli: rinse the whole mouth</item>
+        <item>Water in the nose, up to the soft part, then blow it out</item>
+        <item>Water over the whole body 3 times: head, right shoulder, left shoulder</item>
+    </string-array>
+    <string name="faraiz_ghusl_dont_miss">Don\'t miss</string>
+    <string-array name="faraiz_ghusl_dont_miss_items">
+        <item>The navel</item>
+        <item>The backs of the ears</item>
+        <item>Under rings and nose-pins</item>
+        <item>Braided hair: the roots must get wet; the braids don\'t have to be opened</item>
+    </string-array>
+
+    <string name="faraiz_tayammum_when_title">When it is allowed</string>
+    <string name="faraiz_tayammum_when">When water can\'t be found, or using it would cause harm (illness).</string>
+    <string name="faraiz_tayammum_farz_title">Farz (3)</string>
+    <string-array name="faraiz_tayammum_farz">
+        <item>Niyyat: the intention is needed in tayammum (unlike wuzu)</item>
+        <item>Masah of the whole face</item>
+        <item>Masah of both arms, including the elbows</item>
+    </string-array>
+    <string name="faraiz_tayammum_steps_title">Step by step (2 strikes)</string>
+    <string-array name="faraiz_tayammum_steps">
+        <item>Niyyat</item>
+        <item>Bismillah</item>
+        <item>Strike both palms on clean earth, stone or dust</item>
+        <item>Wipe the whole face</item>
+        <item>Strike a second time</item>
+        <item>Wipe the right arm up to and including the elbow, then the left</item>
+    </string-array>
+    <string name="faraiz_tayammum_breaks_title">What breaks tayammum</string>
+    <string name="faraiz_tayammum_breaks">Everything that breaks wuzu, plus the excuse ending (water becomes available, or the illness gets better).</string>
+
+    <string name="faraiz_shuroot_title">Shuroot: conditions before namaz (7)</string>
+    <string-array name="faraiz_shuroot">
+        <item>Body clean of hadas (in wuzu or ghusl)</item>
+        <item>Body and clothes free of najasat</item>
+        <item>The place is clean</item>
+        <item>Satr covered (for women: the whole body except the face, the hands and the feet)</item>
+        <item>The namaz time has started</item>
+        <item>Facing the qibla</item>
+        <item>Niyyat</item>
+    </string-array>
+    <string name="faraiz_shuroot_note">Many Urdu books say 6 sharait by joining items 2 and 3.</string>
+    <string name="faraiz_arkan_title">Arkan: farz inside namaz (6)</string>
+    <string-array name="faraiz_arkan">
+        <item>Takbeer-e-tahreema</item>
+        <item>Qiyam (standing)</item>
+        <item>Qirat</item>
+        <item>Ruku</item>
+        <item>Both sajdas</item>
+        <item>Qada-e-akheerah: sitting at the end for as long as it takes to read the tashahhud</item>
+    </string-array>
+    <string name="faraiz_wajibat_title">Wajibat (12)</string>
+    <string name="faraiz_wajibat_note">If one is missed by mistake, sajda-e-sahw fixes it. If one is missed on purpose, the namaz is repeated.</string>
+    <string-array name="faraiz_wajibat">
+        <item>Surah Fatiha, in the first 2 rakat of fard and in every rakat of witr, sunnat and nafl</item>
+        <item>A surah (3 short ayaat or 1 long ayah) after the Fatiha</item>
+        <item>The Fatiha before the surah</item>
+        <item>Repeated acts in order (the second sajda straight after the first)</item>
+        <item>Ta\'deel-e-arkan: stay still in each position</item>
+        <item>Qada-e-oola (the first sitting) and the tashahhud in both sittings</item>
+        <item>Stand up for the 3rd rakat straight after the tashahhud</item>
+        <item>Dua-e-qunoot in witr</item>
+        <item>The extra takbeers of Eid</item>
+        <item>Loud qirat (imam) in Fajr, Maghrib and Isha (first 2 rakat), Jumu\'ah, Eid and taraweeh</item>
+        <item>Quiet qirat in Zuhr, Asr and the later rakat</item>
+        <item>End with salam</item>
+    </string-array>
+    <string name="faraiz_positions_title">Women\'s namaz positions</string>
+    <string-array name="faraiz_positions">
+        <item>Takbeer-e-tahreema: hands up to the shoulders</item>
+        <item>Qiyam: stand, hands on the chest</item>
+        <item>Ruku: body drawn together</item>
+        <item>Qawma: stand up and stay still</item>
+        <item>Sajda: body drawn together</item>
+        <item>Jalsa: sit still between the two sajdas</item>
+        <item>Qada: sit with both feet out to the right</item>
+        <item>Salam: end the namaz with salam</item>
+    </string-array>
+</resources>

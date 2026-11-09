@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Faraiz pages; translation of values/faraiz.xml (Namaz Tracker/07_Faraiz_Research.md). -->
+<resources>
+    <string name="faraiz_title">फ़राइज़</string>
+    <string name="faraiz_intro">हर अमल सही तरीक़े से कैसे करें। फ़र्ज़ हिस्से सुनहरे रंग में हैं।</string>
+    <string name="faraiz_wuzu">वुज़ू</string>
+    <string name="faraiz_ghusl">ग़ुस्ल</string>
+    <string name="faraiz_tayammum">तयम्मुम</string>
+    <string name="faraiz_namaz">नमाज़</string>
+    <string name="faraiz_farz_tag">फ़र्ज़</string>
+    <string name="faraiz_steps">क़दम ब क़दम</string>
+    <string name="faraiz_legend">सुनहरा = फ़र्ज़। सुनहरी डैश वाली लकीर वह हद है जहाँ तक धोना ज़रूरी है।</string>
+    <string name="faraiz_callout_title">कुल्ली और नाक में पानी</string>
+    <string name="faraiz_callout">वुज़ू में कुल्ली और नाक में पानी डालना सुन्नत है। ग़ुस्ल में ये फ़र्ज़ हैं, इसलिए इन्हें न छोड़ें।</string>
+
+    <string name="faraiz_wuzu_farz_title">फ़र्ज़ (4): एक भी छूट जाए तो वुज़ू नहीं होता</string>
+    <string-array name="faraiz_wuzu_farz">
+        <item>पूरा चेहरा धोना: बालों की जड़ से ठोड़ी के नीचे तक, एक कान की लौ से दूसरे कान की लौ तक। सिर्फ़ गीला करना काफ़ी नहीं; पानी बहना चाहिए।</item>
+        <item>दोनों हाथ कोहनियों समेत धोना।</item>
+        <item>सर का मसह: कम से कम ¼ सर।</item>
+        <item>दोनों पाँव टख़नों समेत धोना।</item>
+    </string-array>
+    <string name="faraiz_wuzu_basis">दलील: सूरह अल-माइदा 5:6।</string>
+    <string name="faraiz_wuzu_sunnat_title">सुन्नतें (14)</string>
+    <string-array name="faraiz_wuzu_sunnat">
+        <item>नियत</item>
+        <item>शुरू में बिस्मिल्लाह</item>
+        <item>दोनों हाथ कलाइयों तक 3 बार धोना</item>
+        <item>मिस्वाक</item>
+        <item>कुल्ली, 3 बार, हर बार नया पानी</item>
+        <item>नाक में पानी, 3 बार, और बाएँ हाथ से साफ़ करना</item>
+        <item>दाढ़ी का ख़िलाल (मर्द)</item>
+        <item>उँगलियों और पाँव की उँगलियों का ख़िलाल</item>
+        <item>हर हिस्सा 3 बार धोना</item>
+        <item>पूरे सर का मसह, एक बार</item>
+        <item>उसी पानी से दोनों कानों का मसह</item>
+        <item>तरतीब: क़ुरआन में बताई गई तरतीब</item>
+        <item>मुवालात: पिछला हिस्सा सूखने से पहले अगला धोना</item>
+        <item>दाईं तरफ़ से शुरू करना</item>
+    </string-array>
+    <string name="faraiz_wuzu_breaks_title">वुज़ू किन चीज़ों से टूटता है (8)</string>
+    <string-array name="faraiz_wuzu_breaks">
+        <item>आगे या पीछे की शर्मगाह से कुछ निकलना (पेशाब, पाख़ाना वग़ैरह)</item>
+        <item>हवा ख़ारिज होना</item>
+        <item>मुँह भर उल्टी</item>
+        <item>लेट कर सोना, या ऐसा टेक लगा कर कि सहारा हटे तो गिर जाए</item>
+        <item>बेहोश होना</item>
+        <item>पागलपन या नशा</item>
+        <item>नमाज़ में ज़ोर से हँसना (जनाज़े में नहीं)</item>
+        <item>ख़ून या पीप का ज़ख़्म के मुँह से आगे बह जाना</item>
+    </string-array>
+    <string name="faraiz_wuzu_not_breaks_title">इनसे वुज़ू नहीं टूटता</string>
+    <string-array name="faraiz_wuzu_not_breaks">
+        <item>ख़ून की बूँद जो बहे नहीं</item>
+        <item>किसी का आपके बाल देख लेना (यह अलग गुनाह है, मगर वुज़ू बाक़ी रहता है)</item>
+    </string-array>
+    <string-array name="faraiz_wuzu_steps">
+        <item>नियत और बिस्मिल्लाह</item>
+        <item>दोनों हाथ कलाइयों तक 3 बार धोएँ</item>
+        <item>कुल्ली, 3 बार</item>
+        <item>नाक में पानी, 3 बार; बाएँ हाथ से साफ़ करें</item>
+        <item>पूरा चेहरा धोएँ: बालों की जड़ से ठोड़ी के नीचे तक, कान की लौ से कान की लौ तक</item>
+        <item>पहले दायाँ हाथ, फिर बायाँ, कोहनियों समेत धोएँ</item>
+        <item>सर का मसह: कम से कम ¼ (सुन्नत: पूरा सर, एक बार)</item>
+        <item>उसी पानी से दोनों कानों का मसह</item>
+        <item>पहले दायाँ पाँव, फिर बायाँ, टख़नों समेत धोएँ</item>
+        <item>उँगलियों और पाँव की उँगलियों का ख़िलाल</item>
+    </string-array>
+
+    <string name="faraiz_ghusl_farz_title">फ़र्ज़ (3)</string>
+    <string-array name="faraiz_ghusl_farz">
+        <item>कुल्ली: पूरे मुँह में पानी पहुँचाना (रोज़ा न हो तो ग़रारा सुन्नत है)</item>
+        <item>नाक में पानी: नाक की नर्म हड्डी तक, फिर छिनक दें</item>
+        <item>पूरे बदन पर पानी बहाना: बाल बराबर जगह भी सूखी रह जाए तो ग़ुस्ल नहीं होता</item>
+    </string-array>
+    <string name="faraiz_ghusl_sunnat_title">सुन्नतें (9)</string>
+    <string-array name="faraiz_ghusl_sunnat">
+        <item>बिस्मिल्लाह</item>
+        <item>नियत</item>
+        <item>दोनों हाथ कलाइयों तक धोना</item>
+        <item>नजासत और शर्मगाह धोना</item>
+        <item>वुज़ू करना</item>
+        <item>पूरे बदन पर 3 बार पानी डालना</item>
+        <item>पहले सर, फिर दायाँ कंधा, फिर बायाँ कंधा</item>
+        <item>बदन को मलना</item>
+        <item>बीच में वक़्फ़ा न करना (मुवालात)</item>
+    </string-array>
+    <string-array name="faraiz_ghusl_steps">
+        <item>दोनों हाथ कलाइयों तक धोएँ</item>
+        <item>नजासत और शर्मगाह धोएँ</item>
+        <item>वुज़ू करें</item>
+        <item>कुल्ली: पूरे मुँह में पानी पहुँचाएँ</item>
+        <item>नाक में पानी, नर्म हड्डी तक, फिर छिनक दें</item>
+        <item>पूरे बदन पर 3 बार पानी: सर, दायाँ कंधा, बायाँ कंधा</item>
+    </string-array>
+    <string name="faraiz_ghusl_dont_miss">ये न छूटें</string>
+    <string-array name="faraiz_ghusl_dont_miss_items">
+        <item>नाफ़</item>
+        <item>कानों के पीछे</item>
+        <item>अँगूठी और नाक की कील के नीचे</item>
+        <item>गुँधे हुए बाल: जड़ें भीगनी चाहिए; चोटी खोलना ज़रूरी नहीं</item>
+    </string-array>
+
+    <string name="faraiz_tayammum_when_title">कब जाइज़ है</string>
+    <string name="faraiz_tayammum_when">जब पानी न मिले, या पानी इस्तेमाल करने से नुक़सान हो (बीमारी)।</string>
+    <string name="faraiz_tayammum_farz_title">फ़र्ज़ (3)</string>
+    <string-array name="faraiz_tayammum_farz">
+        <item>नियत: तयम्मुम में नियत ज़रूरी है (वुज़ू की तरह नहीं)</item>
+        <item>पूरे चेहरे का मसह</item>
+        <item>दोनों हाथों का कोहनियों समेत मसह</item>
+    </string-array>
+    <string name="faraiz_tayammum_steps_title">क़दम ब क़दम (2 ज़र्ब)</string>
+    <string-array name="faraiz_tayammum_steps">
+        <item>नियत</item>
+        <item>बिस्मिल्लाह</item>
+        <item>दोनों हथेलियाँ पाक मिट्टी, पत्थर या धूल पर मारें</item>
+        <item>पूरे चेहरे पर फेरें</item>
+        <item>दूसरी बार मारें</item>
+        <item>दाएँ हाथ पर कोहनी समेत फेरें, फिर बाएँ पर</item>
+    </string-array>
+    <string name="faraiz_tayammum_breaks_title">तयम्मुम किन चीज़ों से टूटता है</string>
+    <string name="faraiz_tayammum_breaks">हर वह चीज़ जिससे वुज़ू टूटता है, और उज़्र ख़त्म हो जाना (पानी मिल जाए, या बीमारी ठीक हो जाए)।</string>
+
+    <string name="faraiz_shuroot_title">शुरूत: नमाज़ से पहले की शर्तें (7)</string>
+    <string-array name="faraiz_shuroot">
+        <item>बदन हदस से पाक हो (वुज़ू या ग़ुस्ल में)</item>
+        <item>बदन और कपड़े नजासत से पाक हों</item>
+        <item>जगह पाक हो</item>
+        <item>सतर ढका हो (औरत के लिए: चेहरा, हाथ और पाँव छोड़ कर पूरा बदन)</item>
+        <item>नमाज़ का वक़्त शुरू हो चुका हो</item>
+        <item>क़िबले की तरफ़ मुँह</item>
+        <item>नियत</item>
+    </string-array>
+    <string name="faraiz_shuroot_note">कई उर्दू किताबें 2 और 3 को मिला कर 6 शर्तें लिखती हैं।</string>
+    <string name="faraiz_arkan_title">अरकान: नमाज़ के अंदर के फ़र्ज़ (6)</string>
+    <string-array name="faraiz_arkan">
+        <item>तकबीर-ए-तहरीमा</item>
+        <item>क़ियाम (खड़ा होना)</item>
+        <item>क़िरात</item>
+        <item>रुकू</item>
+        <item>दोनों सजदे</item>
+        <item>क़ादा-ए-आख़िरा: आख़िर में इतनी देर बैठना कि तशह्हुद पढ़ा जा सके</item>
+    </string-array>
+    <string name="faraiz_wajibat_title">वाजिबात (12)</string>
+    <string name="faraiz_wajibat_note">भूल से कोई छूट जाए तो सजदा-ए-सहू से पूरा हो जाता है। जान-बूझ कर छोड़ा जाए तो नमाज़ दोहराई जाए।</string>
+    <string-array name="faraiz_wajibat">
+        <item>सूरह फ़ातिहा, फ़र्ज़ की पहली 2 रकात में और वित्र, सुन्नत और नफ़्ल की हर रकात में</item>
+        <item>फ़ातिहा के बाद एक सूरत (3 छोटी आयतें या 1 लंबी आयत)</item>
+        <item>सूरत से पहले फ़ातिहा</item>
+        <item>दोहराए जाने वाले अमल तरतीब से (पहले सजदे के फ़ौरन बाद दूसरा)</item>
+        <item>तादील-ए-अरकान: हर हालत में ठहरना</item>
+        <item>क़ादा-ए-ऊला (पहला क़ादा) और दोनों क़ादों में तशह्हुद</item>
+        <item>तशह्हुद के फ़ौरन बाद तीसरी रकात के लिए खड़ा होना</item>
+        <item>वित्र में दुआ-ए-क़ुनूत</item>
+        <item>ईद की ज़ाइद तकबीरें</item>
+        <item>फ़ज्र, मग़रिब और इशा (पहली 2 रकात), जुमा, ईद और तरावीह में (इमाम की) बुलंद क़िरात</item>
+        <item>ज़ुहर, अस्र और बाद की रकात में आहिस्ता क़िरात</item>
+        <item>सलाम पर ख़त्म करना</item>
+    </string-array>
+    <string name="faraiz_positions_title">औरतों की नमाज़ की हालतें</string>
+    <string-array name="faraiz_positions">
+        <item>तकबीर-ए-तहरीमा: हाथ कंधों तक</item>
+        <item>क़ियाम: खड़ी हों, हाथ सीने पर</item>
+        <item>रुकू: बदन सिमटा हुआ</item>
+        <item>क़ौमा: खड़ी हो कर ठहरें</item>
+        <item>सजदा: बदन सिमटा हुआ</item>
+        <item>जलसा: दोनों सजदों के बीच ठहर कर बैठें</item>
+        <item>क़ादा: दोनों पाँव दाईं तरफ़ निकाल कर बैठें</item>
+        <item>सलाम: सलाम पर नमाज़ ख़त्म करें</item>
+    </string-array>
+</resources>
