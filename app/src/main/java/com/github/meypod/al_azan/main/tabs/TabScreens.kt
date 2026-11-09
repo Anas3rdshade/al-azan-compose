@@ -22,7 +22,6 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.semantics.Role
 import androidx.compose.ui.text.font.FontWeight
-import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.navigation3.runtime.NavKey
 import com.github.meypod.al_azan.R
@@ -66,24 +65,6 @@ fun MainTabBar(
                 ),
             )
         }
-    }
-}
-
-/** Tab body for a section that later phases fill in (Quran, Duas, Namaz). */
-@Composable
-fun PlaceholderTabScreen(@StringRes title: Int) {
-    ScreenScaffold(
-        title = stringResource(title),
-        onBackClick = {},
-        navigationIcon = {},
-        verticalArrangement = Arrangement.Center,
-    ) {
-        Text(
-            stringResource(R.string.tab_coming_soon),
-            style = MaterialTheme.typography.bodyLarge,
-            textAlign = TextAlign.Center,
-            modifier = Modifier.fillMaxWidth(),
-        )
     }
 }
 

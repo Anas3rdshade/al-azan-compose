@@ -836,4 +836,19 @@
     <string name="dua_search_clear">تلاش صاف کریں</string>
     <string name="dua_all">سب</string>
     <string name="dua_no_match">کوئی دعا نہیں ملی</string>
+    <string name="namaz_rakat_title">رکعات (حنفی)</string>
+    <string name="namaz_col_sunnat_before">پہلے سنت</string>
+    <string name="namaz_col_fard">فرض</string>
+    <string name="namaz_col_sunnat_after">بعد سنت</string>
+    <string name="namaz_col_witr">وتر</string>
+    <string name="namaz_col_nafl">نفل</string>
+    <string name="namaz_jumuah">جمعہ</string>
+    <string name="namaz_note_isha">وتر 3 رکعت (واجب)، پھر 2 نفل۔</string>
+    <string name="namaz_note_jumuah">جمعہ کے دن ظہر کی جگہ۔</string>
+    <string name="namaz_rakat_legend">★ مؤکدہ · ☆ غیر مؤکدہ</string>
+    <string name="namaz_qibla_desc">کمپاس سے قبلہ کی سمت دیکھیں۔</string>
+    <string name="namaz_open">کھولیں</string>
+    <string name="namaz_all_counters">تمام کاؤنٹر</string>
+    <string name="namaz_tasbih">تسبیح</string>
+    <string name="namaz_tasbih_target">ہدف</string>
 </resources>

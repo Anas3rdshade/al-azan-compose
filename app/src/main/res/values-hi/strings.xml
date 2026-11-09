@@ -836,4 +836,19 @@
     <string name="dua_search_clear">खोज साफ़ करें</string>
     <string name="dua_all">सभी</string>
     <string name="dua_no_match">कोई दुआ नहीं मिली</string>
+    <string name="namaz_rakat_title">रकात (हनफ़ी)</string>
+    <string name="namaz_col_sunnat_before">पहले सुन्नत</string>
+    <string name="namaz_col_fard">फ़र्ज़</string>
+    <string name="namaz_col_sunnat_after">बाद सुन्नत</string>
+    <string name="namaz_col_witr">वित्र</string>
+    <string name="namaz_col_nafl">नफ़्ल</string>
+    <string name="namaz_jumuah">जुमा</string>
+    <string name="namaz_note_isha">वित्र 3 रकात (वाजिब), फिर 2 नफ़्ल।</string>
+    <string name="namaz_note_jumuah">जुमे के दिन ज़ुहर की जगह।</string>
+    <string name="namaz_rakat_legend">★ मुअक्कदा · ☆ ग़ैर-मुअक्कदा</string>
+    <string name="namaz_qibla_desc">कम्पास से क़िबला की दिशा देखें।</string>
+    <string name="namaz_open">खोलें</string>
+    <string name="namaz_all_counters">सभी काउंटर</string>
+    <string name="namaz_tasbih">तस्बीह</string>
+    <string name="namaz_tasbih_target">लक्ष्य</string>
 </resources>
