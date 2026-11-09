@@ -24,7 +24,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "ब्बिस्मिल्लाहिर्रह्मानिर्रहीमि वत्तीनि वज़्ज़ैतून।"
   },
   {
    "id": "quran_095_002",
@@ -43,7 +44,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वतूरि सीनीन।"
   },
   {
    "id": "quran_095_003",
@@ -62,7 +64,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वहाज़ल् बलदिल् अमीन।"
   },
   {
    "id": "quran_095_004",
@@ -81,7 +84,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "लक़द ख़लक़्नल् इन्सान फ़ी अह्सनि तक़्वीम।"
   },
   {
    "id": "quran_095_005",
@@ -100,7 +104,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "सुम्म रदद्नाहु अस्फ़ल साफ़िलीन।"
   },
   {
    "id": "quran_095_006",
@@ -119,7 +124,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "इल्लल्लज़ीन आमनू वअमिलुस्सालिहाति फ़लहुम अज्रुन ग़ैरु मम्नून।"
   },
   {
    "id": "quran_095_007",
@@ -138,7 +144,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "फ़मा युकज़्ज़िबुक बअदु बिद्दीन।"
   },
   {
    "id": "quran_095_008",
@@ -157,7 +164,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "अलैसल्लाहु बिअह्कमिल् हाकिमीन।"
   }
  ]
 }

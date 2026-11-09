@@ -24,7 +24,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "बिस्मिल्लाहिर्रह्मानिर्रहीम। इन्ना अअतैनाकल् कौसर।"
   },
   {
    "id": "quran_108_002",
@@ -43,7 +44,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "फ़सल्लि लिरब्बिक वन्हर।"
   },
   {
    "id": "quran_108_003",
@@ -62,7 +64,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "इन्न शानिअक हुवल् अब्तर।"
   }
  ]
 }

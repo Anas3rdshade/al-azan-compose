@@ -24,7 +24,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "बिस्मिल्लाहिर्रह्मानिर्रहीम। क़ुल याअय्युहल् काफ़िरून।"
   },
   {
    "id": "quran_109_002",
@@ -43,7 +44,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "ला अअबुदु मा तअबुदून।"
   },
   {
    "id": "quran_109_003",
@@ -62,7 +64,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वला अन्तुम आबिदून मा अअबुद।"
   },
   {
    "id": "quran_109_004",
@@ -81,7 +84,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वला अन आबिदुम्मा अबत्तुम।"
   },
   {
    "id": "quran_109_005",
@@ -100,7 +104,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वला अन्तुम आबिदून मा अअबुद।"
   },
   {
    "id": "quran_109_006",
@@ -119,7 +124,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "लकुम दीनुकुम वलिय दीन।"
   }
  ]
 }

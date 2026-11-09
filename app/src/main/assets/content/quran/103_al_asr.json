@@ -24,7 +24,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "बिस्मिल्लाहिर्रह्मानिर्रहीम। वल्अस्र।"
   },
   {
    "id": "quran_103_002",
@@ -43,7 +44,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "इन्नल् इन्सान लफ़ी ख़ुस्र।"
   },
   {
    "id": "quran_103_003",
@@ -62,7 +64,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "इल्लल्लज़ीन आमनू वअमिलुस्सालिहाति वतवासौ बिल्हक़्क़ि वतवासौ बिस्सब्र।"
   }
  ]
 }

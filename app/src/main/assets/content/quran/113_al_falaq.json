@@ -24,7 +24,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "बिस्मिल्लाहिर्रह्मानिर्रहीम। क़ुल अऊज़ु बिरब्बिल् फ़लक़।"
   },
   {
    "id": "quran_113_002",
@@ -43,7 +44,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "मिन शर्रि मा ख़लक़।"
   },
   {
    "id": "quran_113_003",
@@ -62,7 +64,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वमिन शर्रि ग़ासिक़िन इज़ा वक़ब।"
   },
   {
    "id": "quran_113_004",
@@ -81,7 +84,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वमिन शर्रिन्नफ़्फ़ासाति फ़िल् उक़द।"
   },
   {
    "id": "quran_113_005",
@@ -100,7 +104,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वमिन शर्रि हासिदिन इज़ा हसद।"
   }
  ]
 }

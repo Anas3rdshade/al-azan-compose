@@ -24,7 +24,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "बिस्मिल्लाहिर्रह्मानिर्रहीम। वल्आदियाति ज़ब्हा।"
   },
   {
    "id": "quran_100_002",
@@ -43,7 +44,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "फ़ल्मूरियाति क़द्हा।"
   },
   {
    "id": "quran_100_003",
@@ -62,7 +64,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "फ़ल्मुग़ीराति सुब्हा।"
   },
   {
    "id": "quran_100_004",
@@ -81,7 +84,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "फ़असर्न बिही नक़्आ।"
   },
   {
    "id": "quran_100_005",
@@ -100,7 +104,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "फ़वसत्न बिही जम्आ।"
   },
   {
    "id": "quran_100_006",
@@ -119,7 +124,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "इन्नल् इन्सान लिरब्बिही लकनूद।"
   },
   {
    "id": "quran_100_007",
@@ -138,7 +144,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वइन्नहू अला ज़ालिक लशहीद।"
   },
   {
    "id": "quran_100_008",
@@ -157,7 +164,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वइन्नहू लिहुब्बिल् ख़ैरि लशदीद।"
   },
   {
    "id": "quran_100_009",
@@ -176,7 +184,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "अफ़ला यअलमु इज़ा बुअसिर मा फ़िल् क़ुबूर।"
   },
   {
    "id": "quran_100_010",
@@ -195,7 +204,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वहुस्सिल मा फ़िस्सुदूर।"
   },
   {
    "id": "quran_100_011",
@@ -214,7 +224,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "इन्न रब्बहुम बिहिम यौमइज़िल्लख़बीर।"
   }
  ]
 }

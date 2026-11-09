@@ -24,7 +24,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "बिस्मिल्लाहिर्रह्मानिर्रहीम। तब्बत यदा अबी लहबिन वतब्ब।"
   },
   {
    "id": "quran_111_002",
@@ -43,7 +44,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "मा अग़्ना अन्हु मालुहू वमा कसब।"
   },
   {
    "id": "quran_111_003",
@@ -62,7 +64,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "सयस्ला नारन ज़ात लहब।"
   },
   {
    "id": "quran_111_004",
@@ -81,7 +84,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वम्रअतुहू हम्मालतल् हतब।"
   },
   {
    "id": "quran_111_005",
@@ -100,7 +104,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "फ़ी जीदिहा हब्लुम्मिम्मसद।"
   }
  ]
 }

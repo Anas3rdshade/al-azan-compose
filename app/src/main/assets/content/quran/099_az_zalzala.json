@@ -24,7 +24,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "बिस्मिल्लाहिर्रह्मानिर्रहीम। इज़ा ज़ुल्ज़िलतिल् अर्ज़ु ज़िल्ज़ालहा।"
   },
   {
    "id": "quran_099_002",
@@ -43,7 +44,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वअख़्रजतिल् अर्ज़ु अस्क़ालहा।"
   },
   {
    "id": "quran_099_003",
@@ -62,7 +64,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वक़ालल् इन्सानु मा लहा।"
   },
   {
    "id": "quran_099_004",
@@ -81,7 +84,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "यौमइज़िन तुहद्दिसु अख़्बारहा।"
   },
   {
    "id": "quran_099_005",
@@ -100,7 +104,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "बिअन्न रब्बक औहा लहा।"
   },
   {
    "id": "quran_099_006",
@@ -119,7 +124,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "यौमइज़िन यस्दुरुन्नासु अश्तातल्लियुरौ अअमालहुम।"
   },
   {
    "id": "quran_099_007",
@@ -138,7 +144,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "फ़मन यअमल मिस्क़ाल ज़र्रतिन ख़ैरन यरह।"
   },
   {
    "id": "quran_099_008",
@@ -157,7 +164,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वमन यअमल मिस्क़ाल ज़र्रतिन शर्रन यरह।"
   }
  ]
 }

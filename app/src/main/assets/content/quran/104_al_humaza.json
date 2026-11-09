@@ -24,7 +24,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "बिस्मिल्लाहिर्रह्मानिर्रहीम। वैलुल्लिकुल्लि हुमज़तिल्लुमज़ह।"
   },
   {
    "id": "quran_104_002",
@@ -43,7 +44,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "अल्लज़ी जमअ मालन वअद्ददह।"
   },
   {
    "id": "quran_104_003",
@@ -62,7 +64,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "यह्सबु अन्न मालहू अख़्लदह।"
   },
   {
    "id": "quran_104_004",
@@ -81,7 +84,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "कल्ला लयुम्बज़न्न फ़िल् हुतमह।"
   },
   {
    "id": "quran_104_005",
@@ -100,7 +104,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वमा अद्राक मल् हुतमह।"
   },
   {
    "id": "quran_104_006",
@@ -119,7 +124,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "नारुल्लाहिल् मूक़दह।"
   },
   {
    "id": "quran_104_007",
@@ -138,7 +144,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "अल्लती तत्तलिउ अलल् अइदह।"
   },
   {
    "id": "quran_104_008",
@@ -157,7 +164,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "इन्नहा अलैहिम्मुअसदह।"
   },
   {
    "id": "quran_104_009",
@@ -176,7 +184,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "फ़ी अमदिम्मुमद्ददह।"
   }
  ]
 }

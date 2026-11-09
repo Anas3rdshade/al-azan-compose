@@ -10,11 +10,9 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
-import androidx.compose.foundation.lazy.LazyRow
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.FilledTonalButton
-import androidx.compose.material3.FilterChip
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.OutlinedTextField
@@ -41,6 +39,7 @@ import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.github.meypod.al_azan.R
 import com.github.meypod.al_azan.core.data.content.Dua
 import com.github.meypod.al_azan.core.presentation.LocalShadeColors
+import com.github.meypod.al_azan.core.presentation.components.BottomSelect
 import com.github.meypod.al_azan.core.presentation.components.ScreenScaffold
 import com.github.meypod.al_azan.main.quran.ArabicStyle
 import com.github.meypod.al_azan.main.quran.ContentViewModel
@@ -117,13 +116,16 @@ fun DuasScreen(vm: ContentViewModel) {
                     modifier = Modifier.fillMaxWidth(),
                 )
             }
-            item(key = "chips") {
-                LazyRow(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
-                    item { FilterChip(selected = picked == null, onClick = { picked = null }, label = { Text(stringResource(R.string.dua_all)) }) }
-                    items(names.keys.toList()) { c ->
-                        FilterChip(selected = picked == c, onClick = { picked = if (picked == c) null else c }, label = { Text(names.getValue(c)) })
-                    }
-                }
+            item(key = "category") {
+                val all = stringResource(R.string.dua_all)
+                BottomSelect(
+                    options = listOf("") + names.keys,
+                    selectedKey = picked ?: "",
+                    optionKey = { it },
+                    optionLabel = { if (it.isEmpty()) all else names.getValue(it) },
+                    onSelect = { picked = it.ifEmpty { null } },
+                    modifier = Modifier.fillMaxWidth(),
+                )
             }
             if (groups.isEmpty()) {
                 item(key = "none") {
@@ -193,7 +195,7 @@ private fun DuaCard(d: Dua, lang: String, showTitle: Boolean) {
 }
 
 @Composable
-private fun DraftChip() {
+internal fun DraftChip() {
     Text(
         stringResource(R.string.dua_draft_label),
         style = MaterialTheme.typography.labelSmall,

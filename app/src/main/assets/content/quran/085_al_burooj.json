@@ -24,7 +24,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "बिस्मिल्लाहिर्रह्मानिर्रहीम। वस्समाइ ज़ातिल् बुरूज।"
   },
   {
    "id": "quran_085_002",
@@ -43,7 +44,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वल्यौमिल् मौऊद।"
   },
   {
    "id": "quran_085_003",
@@ -62,7 +64,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वशाहिदिन वमश्हूद।"
   },
   {
    "id": "quran_085_004",
@@ -81,7 +84,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "क़ुतिल अस्हाबुल् उख़्दूद।"
   },
   {
    "id": "quran_085_005",
@@ -100,7 +104,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "अन्नारि ज़ातिल् वक़ूद।"
   },
   {
    "id": "quran_085_006",
@@ -119,7 +124,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "इज़ हुम अलैहा क़ुऊद।"
   },
   {
    "id": "quran_085_007",
@@ -138,7 +144,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वहुम अला मा यफ़्अलून बिल्मुअमिनीन शुहूद।"
   },
   {
    "id": "quran_085_008",
@@ -157,7 +164,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वमा नक़मू मिन्हुम इल्ला अन युअमिनू बिल्लाहिल् अज़ीज़िल् हमीद।"
   },
   {
    "id": "quran_085_009",
@@ -176,7 +184,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "अल्लज़ी लहू मुल्कुस्समावाति वल्अर्ज़ि वल्लाहु अला कुल्लि शैइन शहीद।"
   },
   {
    "id": "quran_085_010",
@@ -195,7 +204,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "इन्नल्लज़ीन फ़तनुल् मुअमिनीन वल्मुअमिनाति सुम्म लम यतूबू फ़लहुम अज़ाबु जहन्नम वलहुम अज़ाबुल् हरीक़।"
   },
   {
    "id": "quran_085_011",
@@ -214,7 +224,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "इन्नल्लज़ीन आमनू वअमिलुस्सालिहाति लहुम जन्नातुन तज्री मिन तह्तिहल् अन्हारु ज़ालिकल् फ़ौज़ुल् कबीर।"
   },
   {
    "id": "quran_085_012",
@@ -233,7 +244,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "इन्न बत्श रब्बिक लशदीद।"
   },
   {
    "id": "quran_085_013",
@@ -252,7 +264,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "इन्नहू हुव युब्दिउ वयुईद।"
   },
   {
    "id": "quran_085_014",
@@ -271,7 +284,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वहुवल् ग़फ़ूरुल् वदूद।"
   },
   {
    "id": "quran_085_015",
@@ -290,7 +304,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "ज़ुल् अर्शिल् मजीद।"
   },
   {
    "id": "quran_085_016",
@@ -309,7 +324,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "फ़अआलुल्लिमा युरीद।"
   },
   {
    "id": "quran_085_017",
@@ -328,7 +344,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "हल अताक हदीसुल् जुनूद।"
   },
   {
    "id": "quran_085_018",
@@ -347,7 +364,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "फ़िर्औन वसमूद।"
   },
   {
    "id": "quran_085_019",
@@ -366,7 +384,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "बलिल्लज़ीन कफ़रू फ़ी तक्ज़ीब।"
   },
   {
    "id": "quran_085_020",
@@ -385,7 +404,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वल्लाहु मिन वराइहिम्मुहीत।"
   },
   {
    "id": "quran_085_021",
@@ -404,7 +424,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "बल हुव क़ुर्आनुम्मजीद।"
   },
   {
    "id": "quran_085_022",
@@ -423,7 +444,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "फ़ी लौहिम्मह्फ़ूज़।"
   }
  ]
 }

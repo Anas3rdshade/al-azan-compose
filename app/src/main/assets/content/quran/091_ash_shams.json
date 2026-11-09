@@ -24,7 +24,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "बिस्मिल्लाहिर्रह्मानिर्रहीम। वश्शम्सि वज़ुहाहा।"
   },
   {
    "id": "quran_091_002",
@@ -43,7 +44,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वल्क़मरि इज़ा तलाहा।"
   },
   {
    "id": "quran_091_003",
@@ -62,7 +64,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वन्नहारि इज़ा जल्लाहा।"
   },
   {
    "id": "quran_091_004",
@@ -81,7 +84,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वल्लैलि इज़ा यग़्शाहा।"
   },
   {
    "id": "quran_091_005",
@@ -100,7 +104,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वस्समाइ वमा बनाहा।"
   },
   {
    "id": "quran_091_006",
@@ -119,7 +124,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वल्अर्ज़ि वमा तहाहा।"
   },
   {
    "id": "quran_091_007",
@@ -138,7 +144,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वनफ़्सिन वमा सव्वाहा।"
   },
   {
    "id": "quran_091_008",
@@ -157,7 +164,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "फ़अल्हमहा फ़ुजूरहा वतक़्वाहा।"
   },
   {
    "id": "quran_091_009",
@@ -176,7 +184,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "क़द अफ़्लह मन ज़क्काहा।"
   },
   {
    "id": "quran_091_010",
@@ -195,7 +204,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वक़द ख़ाब मन दस्साहा।"
   },
   {
    "id": "quran_091_011",
@@ -214,7 +224,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "कज़्ज़बत समूदु बितग़्वाहा।"
   },
   {
    "id": "quran_091_012",
@@ -233,7 +244,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "इज़िम्बअस अश्क़ाहा।"
   },
   {
    "id": "quran_091_013",
@@ -252,7 +264,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "फ़क़ाल लहुम रसूलुल्लाहि नाक़तल्लाहि वसुक़्याहा।"
   },
   {
    "id": "quran_091_014",
@@ -271,7 +284,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "फ़कज़्ज़बूहु फ़अक़रूहा फ़दम्दम अलैहिम रब्बुहुम बिज़म्बिहिम फ़सव्वाहा।"
   },
   {
    "id": "quran_091_015",
@@ -290,7 +304,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वला यख़ाफ़ु उक़्बाहा।"
   }
  ]
 }

@@ -9,6 +9,7 @@ import kotlinx.serialization.json.Json
 data class Ayah(
     val ayah: Int,
     val arabic: String,
+    @SerialName("transliteration_hi") val transliterationHi: String? = null,
     val hindi: String,
     @SerialName("hindi_footnotes") val hindiFootnotes: String? = null,
     val urdu: String,

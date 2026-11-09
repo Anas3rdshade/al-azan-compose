@@ -24,7 +24,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "बिस्मिल्लाहिर्रह्मानिर्रहीम। इज़स्समाउन्फ़तरत।"
   },
   {
    "id": "quran_082_002",
@@ -43,7 +44,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वइज़ल् कवाकिबुन्तसरत।"
   },
   {
    "id": "quran_082_003",
@@ -62,7 +64,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वइज़ल् बिहारु फ़ुज्जिरत।"
   },
   {
    "id": "quran_082_004",
@@ -81,7 +84,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वइज़ल् क़ुबूरु बुअसिरत।"
   },
   {
    "id": "quran_082_005",
@@ -100,7 +104,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "अलिमत नफ़्सुम्मा क़द्दमत वअख़्ख़रत।"
   },
   {
    "id": "quran_082_006",
@@ -119,7 +124,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "याअय्युहल् इन्सानु मा ग़र्रक बिरब्बिकल् करीम।"
   },
   {
    "id": "quran_082_007",
@@ -138,7 +144,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "अल्लज़ी ख़लक़क फ़सव्वाक फ़अदलक।"
   },
   {
    "id": "quran_082_008",
@@ -157,7 +164,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "फ़ी अय्यि सूरतिम्मा शाअ रक्कबक।"
   },
   {
    "id": "quran_082_009",
@@ -176,7 +184,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "कल्ला बल तुकज़्ज़िबून बिद्दीन।"
   },
   {
    "id": "quran_082_010",
@@ -195,7 +204,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वइन्न अलैकुम लहाफ़िज़ीन।"
   },
   {
    "id": "quran_082_011",
@@ -214,7 +224,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "किरामन कातिबीन।"
   },
   {
    "id": "quran_082_012",
@@ -233,7 +244,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "यअलमून मा तफ़्अलून।"
   },
   {
    "id": "quran_082_013",
@@ -252,7 +264,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "इन्नल् अब्रार लफ़ी नईम।"
   },
   {
    "id": "quran_082_014",
@@ -271,7 +284,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वइन्नल् फ़ुज्जार लफ़ी जहीम।"
   },
   {
    "id": "quran_082_015",
@@ -290,7 +304,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "यस्लौनहा यौमद्दीन।"
   },
   {
    "id": "quran_082_016",
@@ -309,7 +324,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वमा हुम अन्हा बिग़ाइबीन।"
   },
   {
    "id": "quran_082_017",
@@ -328,7 +344,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वमा अद्राक मा यौमुद्दीन।"
   },
   {
    "id": "quran_082_018",
@@ -347,7 +364,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "सुम्म मा अद्राक मा यौमुद्दीन।"
   },
   {
    "id": "quran_082_019",
@@ -366,7 +384,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "यौम ला तम्लिकु नफ़्सुल्लिनफ़्सिन शअन वल्अम्रु यौमइज़िल्लिल्लह।"
   }
  ]
 }

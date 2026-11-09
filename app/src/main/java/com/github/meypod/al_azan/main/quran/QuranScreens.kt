@@ -1,6 +1,7 @@
 package com.github.meypod.al_azan.main.quran
 
 import androidx.compose.foundation.background
+import com.github.meypod.al_azan.main.duas.DraftChip
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
@@ -212,6 +213,7 @@ private fun ReaderHeader(s: Surah, onPlay: () -> Unit) {
 private fun AyahCard(a: Ayah, lang: String, onPlayFrom: () -> Unit) {
     val shade = LocalShadeColors.current
     var showNotes by rememberSaveable { mutableStateOf(false) }
+    var showMeaning by rememberSaveable { mutableStateOf(false) }
     val dir = translationDirection(lang)
     Surface(color = shade.card, shape = RoundedCornerShape(16.dp), modifier = Modifier.fillMaxWidth()) {
         Column(Modifier.padding(14.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
@@ -227,9 +229,16 @@ private fun AyahCard(a: Ayah, lang: String, onPlayFrom: () -> Unit) {
                 }
             }
             Text(a.arabic, style = ArabicStyle, modifier = Modifier.fillMaxWidth())
-            Text(a.translation(lang), style = MaterialTheme.typography.bodyLarge.copy(textDirection = dir), modifier = Modifier.fillMaxWidth())
+            a.transliterationHi?.let {
+                Text(it, style = MaterialTheme.typography.bodyLarge, modifier = Modifier.fillMaxWidth())
+                DraftChip() // rule-generated, awaiting a native reader
+            }
+            TextButton(onClick = { showMeaning = !showMeaning }) {
+                Text(stringResource(R.string.dua_meaning) + if (showMeaning) "  ▲" else "  ▼")
+            }
+            if (showMeaning) Text(a.translation(lang), style = MaterialTheme.typography.bodyLarge.copy(textDirection = dir), modifier = Modifier.fillMaxWidth())
             val notes = a.footnotes(lang)
-            if (!notes.isNullOrBlank()) {
+            if (showMeaning && !notes.isNullOrBlank()) {
                 TextButton(onClick = { showNotes = !showNotes }) {
                     Text(stringResource(R.string.quran_footnotes) + if (showNotes) "  ▲" else "  ▼")
                 }

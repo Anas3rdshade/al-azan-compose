@@ -24,7 +24,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "ब्बिस्मिल्लाहिर्रह्मानिर्रहीमि इन्ना अन्ज़ल्नाहु फ़ी लैलतिल् क़द्र।"
   },
   {
    "id": "quran_097_002",
@@ -43,7 +44,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वमा अद्राक मा लैलतुल् क़द्र।"
   },
   {
    "id": "quran_097_003",
@@ -62,7 +64,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "लैलतुल् क़द्रि ख़ैरुम्मिन अल्फ़ि शह्र।"
   },
   {
    "id": "quran_097_004",
@@ -81,7 +84,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "तनज़्ज़लुल् मलाइकतु वर्रूहु फ़ीहा बिइज़्नि रब्बिहिम्मिन कुल्लि अम्र।"
   },
   {
    "id": "quran_097_005",
@@ -100,7 +104,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "सलामुन हिय हत्ता मत्लइल् फ़ज्र।"
   }
  ]
 }

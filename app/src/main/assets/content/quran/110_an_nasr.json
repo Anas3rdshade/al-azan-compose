@@ -24,7 +24,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "बिस्मिल्लाहिर्रह्मानिर्रहीम। इज़ा जाअ नस्रुल्लाहि वल्फ़त्ह।"
   },
   {
    "id": "quran_110_002",
@@ -43,7 +44,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "वरऐतन्नास यद्ख़ुलून फ़ी दीनिल्लाहि अफ़्वाजा।"
   },
   {
    "id": "quran_110_003",
@@ -62,7 +64,8 @@
     "hindi": "quranenc_hindi_omari",
     "urdu": "quranenc_urdu_junagarhi",
     "audio": "islamicnetwork_alafasy"
-   }
+   },
+   "transliteration_hi": "फ़सब्बिह बिहम्दि रब्बिक वस्तग़्फ़िर्हु इन्नहू कान तव्वाबा।"
   }
  ]
 }
