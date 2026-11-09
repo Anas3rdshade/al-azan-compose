@@ -790,4 +790,21 @@
          (both already localized); this string is only the separator, so it isn't translated. -->
     <string name="reschedule_when" translatable="false">%1$s, %2$s</string>
 
+    <!-- Bottom-bar tabs and Today screen -->
+    <string name="tab_today">Today</string>
+    <string name="tab_quran">Quran</string>
+    <string name="tab_duas">Duas</string>
+    <string name="tab_namaz">Namaz</string>
+    <string name="tab_more">More</string>
+    <string name="tab_coming_soon">Coming soon</string>
+    <string name="today_next_prayer">Next prayer</string>
+    <string name="today_left_until">left · %1$s</string>
+    <string name="today_adhan_on">Adhan on</string>
+    <string name="today_adhan_off">Adhan off</string>
+    <string name="prayer_ar_fajr" translatable="false">الفجر</string>
+    <string name="prayer_ar_dhuhr" translatable="false">الظهر</string>
+    <string name="prayer_ar_asr" translatable="false">العصر</string>
+    <string name="prayer_ar_maghrib" translatable="false">المغرب</string>
+    <string name="prayer_ar_isha" translatable="false">العشاء</string>
+
 </resources>

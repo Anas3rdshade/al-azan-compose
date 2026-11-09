@@ -1,5 +1,6 @@
 package com.github.meypod.al_azan.main.home
 
+import com.github.meypod.al_azan.core.domain.model.adhan.Prayer
 import kotlinx.datetime.LocalDate
 
 sealed interface HomeUiAction {
@@ -24,4 +25,6 @@ sealed interface HomeUiAction {
     object OnAboutLinkClick : HomeUiAction
     object OnMonthlyViewClick : HomeUiAction
     object OnDeveloperLinkClick : HomeUiAction
+    data class OnTogglePrayed(val prayer: Prayer) : HomeUiAction
+    data class OnToggleAdhan(val prayer: Prayer) : HomeUiAction
 }

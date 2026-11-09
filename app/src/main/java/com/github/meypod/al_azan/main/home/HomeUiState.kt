@@ -39,6 +39,10 @@ data class HomeUiState(
     val is24Hour: Boolean = true,
     val hiddenPrayers: List<Prayer> = emptyList(),
     val skippedPrayers: Set<Prayer> = emptySet(),
+    /** Prayers ticked for the viewed day. */
+    val prayedToday: Set<Prayer> = emptySet(),
+    /** Prayers whose adhan sound is enabled on any day. */
+    val adhanOn: Set<Prayer> = emptySet(),
     val isDeveloper: Boolean = false,
     val homeShortcuts: List<HomeShortcut> = emptyList(),
     val hideToolbarCalendar: Boolean = false,

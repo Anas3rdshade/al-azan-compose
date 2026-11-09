@@ -53,6 +53,19 @@ sealed interface Route : NavKey {
         @Serializable
         data object Home : Route, DeepLinkableRoute
 
+        // bottom-bar tabs besides Home (Today); see main/tabs/TabScreens.kt
+        @Serializable
+        data object Quran : Route
+
+        @Serializable
+        data object Duas : Route
+
+        @Serializable
+        data object Namaz : Route
+
+        @Serializable
+        data object More : Route
+
         /** Status + manual-end screen for an active "Dismiss & silent" window. Reached from the control
          *  notification and from the system DND-rule configuration entry point. */
         @Serializable

@@ -3,6 +3,8 @@ package com.github.meypod.al_azan.main.home
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.github.meypod.al_azan.core.domain.model.adhan.NON_PRAYERS_IN_ORDER
+import com.github.meypod.al_azan.core.domain.model.adhan.Prayer
+import com.github.meypod.al_azan.core.domain.model.alarm.PrayerAlarmSettings
 import com.github.meypod.al_azan.core.domain.model.adhan.SHARIA_TIMES_IN_ORDER
 import com.github.meypod.al_azan.core.domain.model.adhan.ShariaTimesResult
 import com.github.meypod.al_azan.core.domain.model.adhan.timesOrNull
@@ -82,6 +84,11 @@ class HomeViewModel
         collectCurrentInstant()
         collectViewingInstant()
         viewModelScope.launch { settingsRepository.data.collect { latestSettings = it } }
+        viewModelScope.launch {
+            alarmSettingsRepository.data.collect { alarm ->
+                _uiState.update { it.copy(adhanOn = SHARIA_TIMES_IN_ORDER.filter { p -> alarm.getSoundSettings(p).selectedDays().isNotEmpty() }.toSet()) }
+            }
+        }
     }
 
     /** What the home permission gate needs to decide which permissions to re-request on load. */
@@ -166,6 +173,31 @@ class HomeViewModel
             HomeUiAction.OnAboutLinkClick -> onAboutLinkClick()
             HomeUiAction.OnMonthlyViewClick -> onMonthlyViewClick()
             HomeUiAction.OnDeveloperLinkClick -> onDeveloperLinkClick()
+            is HomeUiAction.OnTogglePrayed -> onTogglePrayed(action.prayer)
+            is HomeUiAction.OnToggleAdhan -> onToggleAdhan(action.prayer)
+        }
+    }
+
+    private fun onTogglePrayed(prayer: Prayer) {
+        val key = uiState.value.viewingInstant.toLocalDate().toString()
+        viewModelScope.launch {
+            settingsRepository.update {
+                val day = it.prayedLog[key].orEmpty()
+                it.copy(prayedLog = it.prayedLog + (key to if (prayer in day) day - prayer else day + prayer))
+            }
+        }
+    }
+
+    /** Same coupling as the adhan settings screen: sound on implies notify on; sound off keeps notify. */
+    private fun onToggleAdhan(prayer: Prayer) {
+        viewModelScope.launch {
+            alarmSettingsRepository.update {
+                if (it.getSoundSettings(prayer).selectedDays().isNotEmpty()) {
+                    it.setSoundSettings(prayer, PrayerAlarmSettings.Bool(false))
+                } else {
+                    it.setSoundSettings(prayer, PrayerAlarmSettings.Bool(true)).setNotifSettings(prayer, PrayerAlarmSettings.Bool(true))
+                }
+            }
         }
     }
 
@@ -422,6 +454,7 @@ class HomeViewModel
                         shariaTimes = shariaTimesResult?.timesOrNull,
                         prayerTimesUnresolvable = shariaTimesResult is ShariaTimesResult.Unresolvable,
                         skippedPrayers = skippedPrayers,
+                        prayedToday = settings.prayedLog[viewingDate.toString()].orEmpty(),
                     )
                 }
             }.collect()

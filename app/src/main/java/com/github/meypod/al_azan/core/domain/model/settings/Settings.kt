@@ -190,7 +190,7 @@ data class Settings(
     val locationIdBeforeTravel: String? = null,
     val travelModeLastUpdateMillis: Long? = null,
     val showHomeNextPrayerCountdown: Boolean = true,
-    val countdownSkipNonPrayers: Boolean = false,
+    val countdownSkipNonPrayers: Boolean = true,
     /**
      * Shortcut icon buttons shown in the home top app bar, in the user's chosen left-to-right order,
      * capped at [MAX_HOME_SHORTCUTS].
@@ -206,6 +206,8 @@ data class Settings(
      * unknown key and are dropped — harmless, since skips are ephemeral future-only state.
      */
     val skippedOccurrences: List<SkippedAlarm> = emptyList(),
+    /** Prayers ticked as prayed on the Today screen, keyed by ISO local date (yyyy-MM-dd). */
+    val prayedLog: Map<String, Set<Prayer>> = emptyMap(),
     /** Epoch millis until which alarms (adhan and reminders) are suppressed ("Dismiss & silent"). Null = not silenced. */
     val silencedUntilMillis: Long? = null,
     /**

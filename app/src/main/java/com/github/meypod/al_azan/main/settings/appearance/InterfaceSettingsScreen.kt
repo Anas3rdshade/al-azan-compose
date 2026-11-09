@@ -53,8 +53,6 @@ import com.github.meypod.al_azan.core.domain.util.formatWithUnicodeDigits
 import com.github.meypod.al_azan.core.domain.util.localeFirstDayOfWeek
 import com.github.meypod.al_azan.core.domain.util.weekdaysFrom
 import com.github.meypod.al_azan.core.presentation.AlAzanThemePreview
-import com.github.meypod.al_azan.core.presentation.DarkSurface
-import com.github.meypod.al_azan.core.presentation.LightSecondaryContainer
 import com.github.meypod.al_azan.core.presentation.components.ACard
 import com.github.meypod.al_azan.core.presentation.components.BottomSelect
 import com.github.meypod.al_azan.core.presentation.components.CheckboxTable
@@ -481,6 +479,9 @@ private fun CalendarDisplayCard(
     }
 }
 
+private val SukoonSwatch = Color(0xFFDFE9E0)
+private val RaatSwatch = Color(0xFF0C1424)
+
 @Composable
 private fun ThemeGrid(
     selected: ThemeColor,
@@ -488,11 +489,8 @@ private fun ThemeGrid(
 ) {
     val themeEntries = listOf(
         ThemeColor.Default to Triple(R.string.theme_system_default, Color.Transparent, false),
-        ThemeColor.Light to Triple(R.string.theme_light, LightSecondaryContainer, false),
-        ThemeColor.Dark to Triple(R.string.theme_dark, DarkSurface, false),
-        ThemeColor.ClassicDark to Triple(R.string.theme_classic_black, Color.Black, false),
-        ThemeColor.ClassicLight to Triple(R.string.theme_classic_light, Color.White, false),
-        ThemeColor.Dynamic to Triple(R.string.theme_dynamic, Color(0xFFB3A3F5), false),
+        ThemeColor.Light to Triple(R.string.theme_light, SukoonSwatch, false),
+        ThemeColor.Dark to Triple(R.string.theme_dark, RaatSwatch, false),
     )
 
     FlowRow(
@@ -527,14 +525,14 @@ private fun ThemeGrid(
                         .then(
                             if (theme == ThemeColor.Default) {
                                 Modifier.drawBehind {
-                                    drawRect(DarkSurface)
+                                    drawRect(RaatSwatch)
                                     val path = Path().apply {
                                         moveTo(size.width, 0f)
                                         lineTo(size.width, size.height)
                                         lineTo(0f, size.height)
                                         close()
                                     }
-                                    drawPath(path, LightSecondaryContainer)
+                                    drawPath(path, SukoonSwatch)
                                 }
                             } else {
                                 Modifier.background(meta.second)

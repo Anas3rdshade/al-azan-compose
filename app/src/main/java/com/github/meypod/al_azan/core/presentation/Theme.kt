@@ -1,60 +1,25 @@
 package com.github.meypod.al_azan.core.presentation
 
-import android.os.Build
 import androidx.activity.compose.LocalActivity
 import androidx.compose.foundation.isSystemInDarkTheme
+import androidx.compose.material3.ColorScheme
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.darkColorScheme
-import androidx.compose.material3.dynamicDarkColorScheme
-import androidx.compose.material3.dynamicLightColorScheme
 import androidx.compose.material3.lightColorScheme
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.CompositionLocalProvider
+import androidx.compose.runtime.Immutable
 import androidx.compose.runtime.SideEffect
+import androidx.compose.runtime.staticCompositionLocalOf
+import androidx.compose.ui.graphics.Brush
+import androidx.compose.ui.graphics.Color
 import androidx.compose.runtime.remember
 import androidx.compose.ui.platform.LocalConfiguration
-import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.unit.Density
 import androidx.core.view.WindowCompat
 import com.github.meypod.al_azan.core.domain.model.settings.ThemeColor
 
-private val DarkColorScheme = darkColorScheme(
-    primary = DarkPrimary,
-    onPrimary = DarkOnPrimary,
-    primaryContainer = DarkPrimaryContainer,
-    onPrimaryContainer = DarkOnPrimaryContainer,
-    secondary = DarkSecondary,
-    onSecondary = DarkOnSecondary,
-    secondaryContainer = DarkSecondaryContainer,
-    onSecondaryContainer = DarkOnSecondaryContainer,
-    tertiary = DarkTertiary,
-    onTertiary = DarkOnTertiary,
-    tertiaryContainer = DarkTertiaryContainer,
-    onTertiaryContainer = DarkOnTertiaryContainer,
-    error = DarkError,
-    onError = DarkOnError,
-    errorContainer = DarkErrorContainer,
-    onErrorContainer = DarkOnErrorContainer,
-    background = DarkBackground,
-    onBackground = DarkOnBackground,
-    surface = DarkSurface,
-    onSurface = DarkOnSurface,
-    surfaceVariant = DarkSurfaceVariant,
-    onSurfaceVariant = DarkOnSurfaceVariant,
-    outline = DarkOutline,
-    outlineVariant = DarkOutlineVariant,
-    scrim = DarkScrim,
-    inverseSurface = DarkInverseSurface,
-    inverseOnSurface = DarkInverseOnSurface,
-    inversePrimary = DarkInversePrimary,
-    surfaceTint = DarkSurfaceTint,
-    surfaceContainer = DarkSurfaceContainer,
-    surfaceContainerLow = DarkSurfaceContainerLow,
-    surfaceContainerHigh = DarkSurfaceContainerHigh,
-    surfaceContainerLowest = DarkSurfaceContainerLowest,
-    surfaceContainerHighest = DarkSurfaceContainerHighest,
-)
 val LightColorScheme = lightColorScheme(
     primary = LightPrimary,
     onPrimary = LightOnPrimary,
@@ -92,83 +57,86 @@ val LightColorScheme = lightColorScheme(
     surfaceContainerHighest = LightSurfaceContainerHighest,
 )
 
-private val LightHighContrastColorScheme = lightColorScheme(
-    primary = LightHighContrastPrimary,
-    onPrimary = LightHighContrastOnPrimary,
-    primaryContainer = LightHighContrastPrimaryContainer,
-    onPrimaryContainer = LightHighContrastOnPrimaryContainer,
-    secondary = LightHighContrastSecondary,
-    onSecondary = LightHighContrastOnSecondary,
-    secondaryContainer = LightHighContrastSecondaryContainer,
-    onSecondaryContainer = LightHighContrastOnSecondaryContainer,
-    tertiary = LightHighContrastTertiary,
-    onTertiary = LightHighContrastOnTertiary,
-    tertiaryContainer = LightHighContrastTertiaryContainer,
-    onTertiaryContainer = LightHighContrastOnTertiaryContainer,
-    error = LightHighContrastError,
-    onError = LightHighContrastOnError,
-    errorContainer = LightHighContrastErrorContainer,
-    onErrorContainer = LightHighContrastOnErrorContainer,
-    background = LightHighContrastBackground,
-    onBackground = LightHighContrastOnBackground,
-    // spec surface equals background here; use the container tone so elevated
-    // surfaces (cards) stay distinct from the page background
-    surface = LightHighContrastSurfaceContainer,
-    onSurface = LightHighContrastOnSurface,
-    surfaceVariant = LightHighContrastSurfaceVariant,
-    onSurfaceVariant = LightHighContrastOnSurfaceVariant,
-    outline = LightHighContrastOutline,
-    outlineVariant = LightHighContrastOutlineVariant,
-    scrim = LightHighContrastScrim,
-    inverseSurface = LightHighContrastInverseSurface,
-    inverseOnSurface = LightHighContrastInverseOnSurface,
-    inversePrimary = LightHighContrastInversePrimary,
-    surfaceTint = LightHighContrastSurfaceTint,
-    surfaceContainerLowest = LightHighContrastSurfaceContainerLowest,
-    surfaceContainerLow = LightHighContrastSurfaceContainerLow,
-    surfaceContainer = LightHighContrastSurfaceContainer,
-    surfaceContainerHigh = LightHighContrastSurfaceContainerHigh,
-    surfaceContainerHighest = LightHighContrastSurfaceContainerHighest,
+/** Redesign tokens Material's [ColorScheme] has no slot for (hero card, row card, muted, line, nav). */
+@Immutable
+data class ShadeColors(
+    val accent: Color,
+    val hero: Brush,
+    val heroFg: Color,
+    val card: Color,
+    val muted: Color,
+    val line: Color,
+    val pill: Color,
+    val navBg: Color,
 )
 
-private val DarkHighContrastColorScheme = darkColorScheme(
-    primary = DarkHighContrastPrimary,
-    onPrimary = DarkHighContrastOnPrimary,
-    primaryContainer = DarkHighContrastPrimaryContainer,
-    onPrimaryContainer = DarkHighContrastOnPrimaryContainer,
-    secondary = DarkHighContrastSecondary,
-    onSecondary = DarkHighContrastOnSecondary,
-    secondaryContainer = DarkHighContrastSecondaryContainer,
-    onSecondaryContainer = DarkHighContrastOnSecondaryContainer,
-    tertiary = DarkHighContrastTertiary,
-    onTertiary = DarkHighContrastOnTertiary,
-    tertiaryContainer = DarkHighContrastTertiaryContainer,
-    onTertiaryContainer = DarkHighContrastOnTertiaryContainer,
-    error = DarkHighContrastError,
-    onError = DarkHighContrastOnError,
-    errorContainer = DarkHighContrastErrorContainer,
-    onErrorContainer = DarkHighContrastOnErrorContainer,
-    background = DarkHighContrastBackground,
-    onBackground = DarkHighContrastOnBackground,
-    // spec surface equals background here; use the container tone so elevated
-    // surfaces (cards) stay distinct from the page background
-    surface = DarkHighContrastSurfaceContainer,
-    onSurface = DarkHighContrastOnSurface,
-    surfaceVariant = DarkHighContrastSurfaceVariant,
-    onSurfaceVariant = DarkHighContrastOnSurfaceVariant,
-    outline = DarkHighContrastOutline,
-    outlineVariant = DarkHighContrastOutlineVariant,
-    scrim = DarkHighContrastScrim,
-    inverseSurface = DarkHighContrastInverseSurface,
-    inverseOnSurface = DarkHighContrastInverseOnSurface,
-    inversePrimary = DarkHighContrastInversePrimary,
-    surfaceTint = DarkHighContrastSurfaceTint,
-    surfaceContainerLowest = DarkHighContrastSurfaceContainerLowest,
-    surfaceContainerLow = DarkHighContrastSurfaceContainerLow,
-    surfaceContainer = DarkHighContrastSurfaceContainer,
-    surfaceContainerHigh = DarkHighContrastSurfaceContainerHigh,
-    surfaceContainerHighest = DarkHighContrastSurfaceContainerHighest,
+// Light · Sukoon (sage) and Dark · Raat (night navy + gold); see Namaz Tracker/05_UI_Style_Options.html
+private val SukoonColors = ShadeColors(
+    accent = Color(0xFF5F8F7B),
+    hero = Brush.linearGradient(listOf(Color(0xFFDFE9E0), Color(0xFFDFE9E0))),
+    heroFg = Color(0xFF24312B),
+    card = Color(0xFFFFFFFF),
+    muted = Color(0xFFBFC8C0),
+    line = Color(0xFFE3E8E2),
+    pill = Color(0xFFE2EEE7),
+    navBg = Color(0xFFFFFFFF),
 )
+
+private val RaatColors = ShadeColors(
+    accent = Color(0xFFE3B75E),
+    // 170deg CSS gradient: near-vertical, top slightly left
+    hero = Brush.linearGradient(
+        listOf(Color(0xFF1C2C4F), Color(0xFF0F1A30)),
+        start = androidx.compose.ui.geometry.Offset(0f, 0f),
+        end = androidx.compose.ui.geometry.Offset(180f, 1000f),
+    ),
+    heroFg = Color(0xFFF2EAD6),
+    card = Color(0xFF152036),
+    muted = Color(0xFF4A5878),
+    line = Color(0xFF1F2B45),
+    pill = Color(0xFF2A3550),
+    navBg = Color(0xFF0F182B),
+)
+
+private fun ShadeColors.toScheme(dark: Boolean, bg: Color, fg: Color, subFg: Color): ColorScheme {
+    val onAccent = if (dark) Color(0xFF1A1405) else Color.White
+    val base = if (dark) darkColorScheme() else lightColorScheme()
+    return base.copy(
+        primary = accent,
+        onPrimary = onAccent,
+        primaryContainer = pill,
+        onPrimaryContainer = fg,
+        secondary = accent,
+        onSecondary = onAccent,
+        secondaryContainer = pill,
+        onSecondaryContainer = fg,
+        tertiary = accent,
+        onTertiary = onAccent,
+        tertiaryContainer = pill,
+        onTertiaryContainer = fg,
+        background = bg,
+        onBackground = fg,
+        surface = card,
+        onSurface = fg,
+        surfaceVariant = pill,
+        onSurfaceVariant = subFg,
+        surfaceTint = accent,
+        outline = muted,
+        outlineVariant = line,
+        surfaceContainerLowest = card,
+        surfaceContainerLow = card,
+        surfaceContainer = card,
+        surfaceContainerHigh = pill,
+        surfaceContainerHighest = pill,
+    )
+}
+
+private val SukoonColorScheme =
+    SukoonColors.toScheme(dark = false, bg = Color(0xFFF2F4EF), fg = Color(0xFF2B3330), subFg = Color(0xFF5E6B64))
+private val RaatColorScheme =
+    RaatColors.toScheme(dark = true, bg = Color(0xFF0C1424), fg = Color(0xFFE8ECF4), subFg = Color(0xFF9AA6BF))
+
+val LocalShadeColors = staticCompositionLocalOf { SukoonColors }
 
 @Composable
 fun AlAzanTheme(
@@ -182,30 +150,9 @@ fun AlAzanTheme(
         ThemeColor.Dark, ThemeColor.ClassicDark -> true
         ThemeColor.Dynamic, ThemeColor.Default -> systemDarkTheme
     }
-    val colorScheme = when {
-        themeColor == ThemeColor.Dynamic && Build.VERSION.SDK_INT >= Build.VERSION_CODES.S -> {
-            val context = LocalContext.current
-            val dynamic = if (darkTheme) dynamicDarkColorScheme(context) else dynamicLightColorScheme(context)
-            // dynamic schemes set surface == background; shift surface to the container
-            // tone so elevated surfaces (cards) stay distinct from the page background
-            dynamic.copy(surface = dynamic.surfaceContainer)
-        }
-
-        else ->
-            when (themeColor) {
-                ThemeColor.Light -> LightColorScheme
-
-                ThemeColor.Dark -> DarkColorScheme
-
-                ThemeColor.ClassicLight -> LightHighContrastColorScheme
-
-                ThemeColor.ClassicDark -> DarkHighContrastColorScheme
-
-                ThemeColor.Dynamic,
-                ThemeColor.Default,
-                -> if (darkTheme) DarkColorScheme else LightColorScheme
-            }
-    }
+    // Classic and Dynamic are no longer offered; existing values fall back to the redesign palette.
+    val colorScheme = if (darkTheme) RaatColorScheme else SukoonColorScheme
+    val shadeColors = if (darkTheme) RaatColors else SukoonColors
 
     val activity = LocalActivity.current
     if (activity != null) {
@@ -231,13 +178,17 @@ fun AlAzanTheme(
     val typography = when (LocalConfiguration.current.locales[0].language) {
         "fa" -> VazirmatnTypography
         "ar" -> NotoSansArabicTypography
-        else -> Typography
+        else -> ManropeTypography
     }
 
     MaterialTheme(
         colorScheme = colorScheme,
         typography = typography,
     ) {
-        CompositionLocalProvider(LocalDensity provides scaledDensity, content = content)
+        CompositionLocalProvider(
+            LocalDensity provides scaledDensity,
+            LocalShadeColors provides shadeColors,
+            content = content,
+        )
     }
 }

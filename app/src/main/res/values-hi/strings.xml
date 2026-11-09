@@ -783,4 +783,15 @@
     <!-- "%1$s" = day (Today / Tomorrow / weekday), "%2$s" = clock time -->
     <string name="upcoming_alarm_when">%1$s · %2$s</string>
 
+    <string name="tab_today">आज</string>
+    <string name="tab_quran">क़ुरआन</string>
+    <string name="tab_duas">दुआएँ</string>
+    <string name="tab_namaz">नमाज़</string>
+    <string name="tab_more">और</string>
+    <string name="tab_coming_soon">जल्द आ रहा है</string>
+    <string name="today_next_prayer">अगली नमाज़</string>
+    <string name="today_left_until">बाक़ी · %1$s</string>
+    <string name="today_adhan_on">अज़ान चालू</string>
+    <string name="today_adhan_off">अज़ान बंद</string>
+
 </resources>

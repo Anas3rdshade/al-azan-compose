@@ -5,6 +5,10 @@ import androidx.compose.animation.slideInHorizontally
 import androidx.compose.animation.slideOutHorizontally
 import androidx.compose.animation.togetherWith
 import androidx.compose.foundation.background
+import androidx.compose.foundation.layout.WindowInsets
+import androidx.compose.foundation.layout.consumeWindowInsets
+import androidx.compose.foundation.layout.padding
+import androidx.compose.material3.Scaffold
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
@@ -32,7 +36,6 @@ import com.github.meypod.al_azan.main.about.AboutViewModel
 import com.github.meypod.al_azan.main.counter.CounterScreen
 import com.github.meypod.al_azan.main.counter.CounterViewModel
 import com.github.meypod.al_azan.main.home.HomePermissionGate
-import com.github.meypod.al_azan.main.home.HomeScreen
 import com.github.meypod.al_azan.main.home.HomeViewModel
 import com.github.meypod.al_azan.main.home.RamadanNoticeGate
 import com.github.meypod.al_azan.main.location.LocationScreen
@@ -76,6 +79,11 @@ import com.github.meypod.al_azan.main.settings.widget.custom.CustomWidgetBuilder
 import com.github.meypod.al_azan.main.silence.SilenceStatusScreen
 import com.github.meypod.al_azan.main.silence.SilenceStatusViewModel
 import com.github.meypod.al_azan.main.upcoming_alarms.UpcomingAlarmsScreen
+import com.github.meypod.al_azan.main.tabs.MainTabBar
+import com.github.meypod.al_azan.main.tabs.MainTabs
+import com.github.meypod.al_azan.main.tabs.MoreTabScreen
+import com.github.meypod.al_azan.main.tabs.PlaceholderTabScreen
+import com.github.meypod.al_azan.main.today.TodayScreen
 import com.github.meypod.al_azan.main.upcoming_alarms.UpcomingAlarmsViewModel
 
 @Composable
@@ -103,9 +111,29 @@ fun MainNavigation(
         canPopBack = { mainBackstack.size > 1 },
     )
 
+    val topRoute = mainBackstack.lastOrNull()
+    val onTabRoute = MainTabs.any { it.first == topRoute }
+
+    // Bar shows only on the five tab roots; a tab tap resets the stack to [Home] or [Home, tab] so
+    // Back from any tab lands on Today.
+    Scaffold(
+        modifier = modifier,
+        contentWindowInsets = WindowInsets(0),
+        bottomBar = {
+            if (onTabRoute) {
+                MainTabBar(selected = topRoute) { tab ->
+                    while (mainBackstack.size > 1) mainBackstack.removeAt(mainBackstack.lastIndex)
+                    if (tab != Route.Main.Home) mainBackstack.add(tab)
+                }
+            }
+        },
+    ) { innerPadding ->
     NavDisplay(
         backStack = mainBackstack,
-        modifier = modifier.background(MaterialTheme.colorScheme.background),
+        modifier = Modifier
+            .padding(innerPadding)
+            .consumeWindowInsets(innerPadding)
+            .background(MaterialTheme.colorScheme.background),
         transitionSpec = {
             slideInHorizontally(animationSpec = tween(280), initialOffsetX = { fw -> fw * slideDirections.forwardEnter }) togetherWith
                 slideOutHorizontally(animationSpec = tween(280), targetOffsetX = { fw -> fw * slideDirections.forwardExit / 2 })
@@ -126,7 +154,7 @@ fun MainNavigation(
             entry<Route.Main.Home> {
                 val vm = hiltViewModel<HomeViewModel>()
                 val s by vm.uiState.collectAsStateWithLifecycle()
-                HomeScreen(s, vm::onAction)
+                TodayScreen(s, vm::onAction)
                 HomePermissionGate(
                     isDontAskAgain = vm::isDontAskAgain,
                     onDontAskAgain = vm::onPermissionDontAskAgain,
@@ -140,6 +168,10 @@ fun MainNavigation(
                     onDontShowAgain = vm::onRamadanDontShowAgain,
                 )
             }
+            entry<Route.Main.Quran> { PlaceholderTabScreen(R.string.tab_quran) }
+            entry<Route.Main.Duas> { PlaceholderTabScreen(R.string.tab_duas) }
+            entry<Route.Main.Namaz> { PlaceholderTabScreen(R.string.tab_namaz) }
+            entry<Route.Main.More> { MoreTabScreen() }
             entry<Route.Main.SilenceStatus> {
                 val vm = hiltViewModel<SilenceStatusViewModel>()
                 val s by vm.uiState.collectAsStateWithLifecycle()
@@ -279,4 +311,5 @@ fun MainNavigation(
             }
         },
     )
+    }
 }

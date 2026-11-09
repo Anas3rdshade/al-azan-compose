@@ -78,6 +78,24 @@ private fun Typography.withFontFamily(fontFamily: FontFamily) =
         labelSmall = labelSmall.copy(fontFamily = fontFamily),
     )
 
+/** Bundled UI font (OFL), the default for Latin/Devanagari-script locales. Variable `wght` axis. */
+val Manrope = FontFamily(
+    Font(R.font.manrope, FontWeight.Normal),
+    Font(R.font.manrope, FontWeight.Medium),
+    Font(R.font.manrope, FontWeight.SemiBold),
+    Font(R.font.manrope, FontWeight.Bold),
+    Font(R.font.manrope, FontWeight.ExtraBold),
+)
+
+/** Bundled Arabic display font (OFL) for Arabic prayer names and the Hijri date. */
+val Amiri = FontFamily(
+    Font(R.font.amiri_regular, FontWeight.Normal),
+    Font(R.font.amiri_bold, FontWeight.Bold),
+)
+
+/** Default typography: Manrope for every style. */
+val ManropeTypography = Typography.withFontFamily(Manrope)
+
 /** Typography used when the UI locale is Persian. */
 val VazirmatnTypography = Typography.withFontFamily(Vazirmatn)
 
