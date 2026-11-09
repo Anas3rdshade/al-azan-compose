@@ -262,10 +262,18 @@ private fun MosquesNearMe() {
     var searching by remember { mutableStateOf(false) }
     fun open(lat: Double?, lng: Double?) {
         val geo = if (lat != null && lng != null) "geo:$lat,$lng?q=mosque" else "geo:0,0?q=mosque"
-        try {
-            context.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(geo)))
-        } catch (_: ActivityNotFoundException) {
-            context.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://www.google.com/maps/search/?api=1&query=mosque")))
+        // Google Maps first: a bare geo: intent also offers Ola, Zomato, Zoom etc. in the chooser.
+        val tries = listOf(
+            Intent(Intent.ACTION_VIEW, Uri.parse(geo)).setPackage("com.google.android.apps.maps"),
+            Intent(Intent.ACTION_VIEW, Uri.parse(geo)),
+            Intent(Intent.ACTION_VIEW, Uri.parse("https://www.google.com/maps/search/?api=1&query=mosque")),
+        )
+        for (intent in tries) {
+            try {
+                context.startActivity(intent)
+                return
+            } catch (_: ActivityNotFoundException) {
+            }
         }
     }
     val trigger = rememberLocationAccessHelperDialogs(
