@@ -849,6 +849,10 @@
     <string name="namaz_rakat_legend">★ मुअक्कदा · ☆ ग़ैर-मुअक्कदा</string>
     <string name="namaz_qibla_desc">कम्पास से क़िबला की दिशा देखें।</string>
     <string name="namaz_open">खोलें</string>
+    <string name="namaz_mosques_title">पास की मस्जिदें</string>
+    <string name="namaz_mosques_desc">आपकी मौजूदा जगह पर Google Maps खोलकर आस-पास की मस्जिदें दिखाता है। रास्ते के लिए किसी मस्जिद पर टैप करें।</string>
+    <string name="namaz_mosques_open">मस्जिदें दिखाएँ</string>
+    <string name="namaz_mosques_locating">आपकी जगह ढूँढ रहे हैं…</string>
     <string name="namaz_all_counters">सभी काउंटर</string>
     <string name="namaz_tasbih">तस्बीह</string>
     <string name="namaz_tasbih_target">लक्ष्य</string>

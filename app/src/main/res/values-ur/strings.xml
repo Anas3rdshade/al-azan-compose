@@ -849,6 +849,10 @@
     <string name="namaz_rakat_legend">★ مؤکدہ · ☆ غیر مؤکدہ</string>
     <string name="namaz_qibla_desc">کمپاس سے قبلہ کی سمت دیکھیں۔</string>
     <string name="namaz_open">کھولیں</string>
+    <string name="namaz_mosques_title">قریبی مساجد</string>
+    <string name="namaz_mosques_desc">آپ کی موجودہ جگہ پر Google Maps کھول کر آس پاس کی مساجد دکھاتا ہے۔ راستے کے لیے کسی مسجد پر ٹیپ کریں۔</string>
+    <string name="namaz_mosques_open">مساجد دکھائیں</string>
+    <string name="namaz_mosques_locating">آپ کی جگہ تلاش ہو رہی ہے…</string>
     <string name="namaz_all_counters">تمام کاؤنٹر</string>
     <string name="namaz_tasbih">تسبیح</string>
     <string name="namaz_tasbih_target">ہدف</string>

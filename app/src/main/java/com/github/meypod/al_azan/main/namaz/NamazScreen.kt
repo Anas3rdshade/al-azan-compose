@@ -23,11 +23,21 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
 import androidx.compose.material3.TextButton
+import android.content.ActivityNotFoundException
+import android.content.Intent
+import android.net.Uri
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableIntStateOf
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
+import androidx.compose.ui.platform.LocalContext
+import com.github.meypod.al_azan.core.presentation.dialog.rememberLocationAccessHelperDialogs
+import com.github.meypod.al_azan.core.util.android.LocationUtils
+import kotlinx.coroutines.launch
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
@@ -105,6 +115,7 @@ fun NamazScreen(
                 Text(stringResource(R.string.namaz_open))
             }
         }
+        Section(R.string.namaz_mosques_title) { MosquesNearMe() }
         Section(R.string.counter) {
             // The fork's Qada counter (MMKV JSON via CounterRepository); the fast counter stays on its own screen.
             counters.counters.filter { it.id in DEFAULT_COUNTER_IDS && it.id != COUNTER_ID_FAST }.forEach { c ->
@@ -240,5 +251,38 @@ private fun Tasbih() {
         }
         Text(stringResource(R.string.dua_tap_to_count), style = MaterialTheme.typography.bodySmall, modifier = Modifier.padding(top = 6.dp))
         if (count > 0) TextButton(onClick = { count = 0 }) { Text(stringResource(R.string.reset)) }
+    }
+}
+
+/** Hands the search to Google Maps (or any geo: app), so the app itself needs no INTERNET permission. See 08_Nearby_Mosques_Research.md. */
+@Composable
+private fun MosquesNearMe() {
+    val context = LocalContext.current
+    val scope = rememberCoroutineScope()
+    var searching by remember { mutableStateOf(false) }
+    fun open(lat: Double?, lng: Double?) {
+        val geo = if (lat != null && lng != null) "geo:$lat,$lng?q=mosque" else "geo:0,0?q=mosque"
+        try {
+            context.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(geo)))
+        } catch (_: ActivityNotFoundException) {
+            context.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://www.google.com/maps/search/?api=1&query=mosque")))
+        }
+    }
+    val trigger = rememberLocationAccessHelperDialogs(
+        onPermissionGranted = { forceFresh ->
+            scope.launch {
+                searching = true
+                try {
+                    val loc = LocationUtils.requestCurrentLocation(context, forceFresh = forceFresh).getOrNull()
+                    open(loc?.latitude, loc?.longitude) // no fix: Maps falls back to its own location
+                } finally {
+                    searching = false
+                }
+            }
+        },
+    )
+    Text(stringResource(R.string.namaz_mosques_desc), style = MaterialTheme.typography.bodyMedium)
+    FilledTonalButton(onClick = { trigger(true) }, enabled = !searching) {
+        Text(stringResource(if (searching) R.string.namaz_mosques_locating else R.string.namaz_mosques_open))
     }
 }

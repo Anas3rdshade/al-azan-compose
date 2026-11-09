@@ -865,6 +865,10 @@
     <string name="namaz_rakat_legend">★ muakkadah · ☆ ghair-muakkadah</string>
     <string name="namaz_qibla_desc">Find the Qibla direction with the compass.</string>
     <string name="namaz_open">Open</string>
+    <string name="namaz_mosques_title">Mosques near me</string>
+    <string name="namaz_mosques_desc">Opens Google Maps at your current location and shows the mosques around you. Tap one for directions.</string>
+    <string name="namaz_mosques_open">Show mosques</string>
+    <string name="namaz_mosques_locating">Finding your location…</string>
     <string name="namaz_all_counters">All counters</string>
     <string name="namaz_tasbih">Tasbih</string>
     <string name="namaz_tasbih_target">Target</string>
