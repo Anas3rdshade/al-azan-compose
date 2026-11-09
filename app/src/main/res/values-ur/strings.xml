@@ -794,4 +794,11 @@
     <string name="today_adhan_on">اذان آن</string>
     <string name="today_adhan_off">اذان آف</string>
 
+    <string name="india_use_my_location">میری لوکیشن استعمال کریں</string>
+    <string name="india_locating">آپ کا شہر ڈھونڈ رہے ہیں…</string>
+    <string name="india_gps_confirm">%1$s، %2$s — درست ہے؟</string>
+    <string name="india_gps_yes">ہاں</string>
+    <string name="india_pick_manually">خود چنیں</string>
+    <string name="india_gps_failed">لوکیشن نہیں ملی۔ نیچے سے اپنی ریاست اور شہر چنیں۔</string>
+    <string name="india_search_city">شہر تلاش کریں</string>
 </resources>

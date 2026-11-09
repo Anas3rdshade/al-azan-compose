@@ -65,12 +65,11 @@ import com.github.meypod.al_azan.intro.components.IntroTitle
 import com.github.meypod.al_azan.intro.languageselection.LanguageSelectionScreen
 import com.github.meypod.al_azan.intro.languageselection.LanguageSelectionViewModel
 import com.github.meypod.al_azan.intro.restorebackup.RestoreBackupScreen
-import com.github.meypod.al_azan.main.location.LocationScreenContent
-import com.github.meypod.al_azan.main.location.LocationUiAction
-import com.github.meypod.al_azan.main.location.LocationViewModel
 import com.github.meypod.al_azan.main.settings.adhan.AdhanSettingsViewModel
 import com.github.meypod.al_azan.main.settings.adhan.PrayerScheduleScreen
 import com.github.meypod.al_azan.main.settings.adhan.ScheduleAndMuezzinContent
+import com.github.meypod.al_azan.main.location.IndiaLocationContent
+import com.github.meypod.al_azan.main.location.IndiaLocationViewModel
 import com.github.meypod.al_azan.main.settings.calculation.CalculationSettingsScreen
 import com.github.meypod.al_azan.main.settings.calculation.CalculationSettingsViewModel
 import com.github.meypod.al_azan.main.settings.calculation.adjustments.AdjustmentsScreen
@@ -175,27 +174,12 @@ fun IntroNavigation(onFinishIntro: () -> Unit) {
                     }
                 }
                 entry<Route.Intro.Location> {
-                    val viewModel = hiltViewModel<LocationViewModel>()
+                    val viewModel = hiltViewModel<IndiaLocationViewModel>()
                     val uiState by viewModel.uiState.collectAsStateWithLifecycle()
                     IntroStepScaffold(
                         uiState = introUiState,
                         onAction = introViewModel::onAction,
-                        floatingActionButton = {
-                            if (uiState.locations.isNotEmpty()) {
-                                FloatingActionButton(
-                                    onClick = {
-                                        viewModel.onAction(LocationUiAction.OnNewLocationClick)
-                                    },
-                                    containerColor = MaterialTheme.colorScheme.secondaryContainer,
-                                    contentColor = MaterialTheme.colorScheme.onSecondaryContainer,
-                                ) {
-                                    Icon(
-                                        painterResource(R.drawable.add),
-                                        contentDescription = stringResource(R.string.add_new_location_button),
-                                    )
-                                }
-                            }
-                        },
+                        scrollable = false,
                     ) { modifier ->
                         Column(
                             modifier,
@@ -203,11 +187,11 @@ fun IntroNavigation(onFinishIntro: () -> Unit) {
                             verticalArrangement = Arrangement.spacedBy(dimensionResource(R.dimen.element_padding)),
                         ) {
                             IntroTitle(R.string.location_title)
-                            LocationScreenContent(
+                            IndiaLocationContent(
                                 uiState = uiState,
-                                onAction = viewModel::onAction,
-                                getCountries = viewModel::getCountries,
-                                getCities = viewModel::getCities,
+                                vm = viewModel,
+                                onPicked = { introViewModel.onAction(IntroUiAction.OnNextClick) },
+                                modifier = Modifier.weight(1f),
                             )
                         }
                     }

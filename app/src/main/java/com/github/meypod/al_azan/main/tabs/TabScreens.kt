@@ -107,6 +107,9 @@ fun MoreTabScreen() {
             NavigationController.navigateTo(Route.Main.UpcomingAlarms)
         }
         MoreItem(R.string.location_title, R.drawable.map_marker) { NavigationController.navigateTo(Route.Main.Location) }
+        MoreItem(R.string.adjustments_title, R.drawable.calculator_variant_outline) {
+            NavigationController.navigateTo(Route.Main.Settings.Calculations.Adjustments)
+        }
         MoreItem(R.string.settings, R.drawable.settings) { NavigationController.navigateTo(Route.Main.Settings) }
         MoreItem(R.string.about, R.drawable.info_variant_outline) { NavigationController.navigateTo(Route.Main.About) }
     }

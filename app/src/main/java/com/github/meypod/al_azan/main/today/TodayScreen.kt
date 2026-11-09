@@ -93,8 +93,7 @@ fun TodayScreen(
                     fontWeight = FontWeight.Bold,
                     color = fg,
                 )
-                // shortcut: shows country until phase 2 adds a state field to the city list
-                detail?.country?.let { Text(it.toString(), fontSize = 13.sp, color = MaterialTheme.colorScheme.onSurfaceVariant) }
+                (detail?.state ?: detail?.country)?.let { Text(it.toString(), fontSize = 13.sp, color = MaterialTheme.colorScheme.onSurfaceVariant) }
             }
             Column(horizontalAlignment = Alignment.End) {
                 Text(
@@ -222,7 +221,7 @@ fun TodayScreen(
                             tint = fg,
                             modifier = Modifier
                                 .size(18.dp)
-                                .alpha(if (adhanOn) 0.6f else 0.2f),
+                                .alpha(if (adhanOn) 1f else 0.45f),
                         )
                     }
                 }

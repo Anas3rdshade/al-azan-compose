@@ -38,8 +38,6 @@ import com.github.meypod.al_azan.main.counter.CounterViewModel
 import com.github.meypod.al_azan.main.home.HomePermissionGate
 import com.github.meypod.al_azan.main.home.HomeViewModel
 import com.github.meypod.al_azan.main.home.RamadanNoticeGate
-import com.github.meypod.al_azan.main.location.LocationScreen
-import com.github.meypod.al_azan.main.location.LocationViewModel
 import com.github.meypod.al_azan.main.monthly.MonthlyViewScreen
 import com.github.meypod.al_azan.main.monthly.MonthlyViewViewModel
 import com.github.meypod.al_azan.main.qibla.QiblaCompassRoute
@@ -59,6 +57,8 @@ import com.github.meypod.al_azan.main.settings.backup.BackupRestoreViewModel
 import com.github.meypod.al_azan.main.settings.calculation.CalculationSettingsScreen
 import com.github.meypod.al_azan.main.settings.calculation.CalculationSettingsViewModel
 import com.github.meypod.al_azan.main.settings.calculation.adjustments.AdjustmentsScreen
+import com.github.meypod.al_azan.main.location.IndiaLocationScreen
+import com.github.meypod.al_azan.main.location.IndiaLocationViewModel
 import com.github.meypod.al_azan.main.settings.calculation.adjustments.AdjustmentsViewModel
 import com.github.meypod.al_azan.main.settings.calculation.advanced.AdvancedCalcScreen
 import com.github.meypod.al_azan.main.settings.calculation.advanced.AdvancedCalcViewModel
@@ -178,9 +178,9 @@ fun MainNavigation(
                 SilenceStatusScreen(s, vm::onAction)
             }
             entry<Route.Main.Location> {
-                val vm = hiltViewModel<LocationViewModel>()
+                val vm = hiltViewModel<IndiaLocationViewModel>()
                 val s by vm.uiState.collectAsStateWithLifecycle()
-                LocationScreen(s, vm::onAction, getCountries = vm::getCountries, getCities = vm::getCities)
+                IndiaLocationScreen(s, vm)
             }
             entry<Route.Main.Settings> {
                 val vm = hiltViewModel<SettingsMenuViewModel>()

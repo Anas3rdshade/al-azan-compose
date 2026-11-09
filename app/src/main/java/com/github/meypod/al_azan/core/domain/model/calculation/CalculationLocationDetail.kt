@@ -12,6 +12,8 @@ data class CalculationLocationDetail(
     val long: Double,
     val city: CityGeoInfo? = null,
     val country: CountryGeoInfo? = null,
+    /** Indian state/UT name, set by the India city picker */
+    val state: String? = null,
     /** available on `FavoriteLocation`s */
     val label: String? = null,
 ) {

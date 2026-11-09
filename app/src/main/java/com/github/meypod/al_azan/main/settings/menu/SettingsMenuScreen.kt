@@ -61,12 +61,6 @@ fun SettingsMenuScreen(
             onAction(SettingsMenuUiAction.OnScheduleAndMuezzinClick)
         }
         MenuListItem(
-            R.string.calculation_title,
-            R.drawable.calculator_variant_outline,
-        ) {
-            onAction(SettingsMenuUiAction.OnCalculationClick)
-        }
-        MenuListItem(
             R.string.location_title,
             R.drawable.map_marker,
         ) {
