@@ -29,7 +29,6 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
-import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
@@ -185,7 +184,7 @@ private fun RakatLine(r: RakatRow) {
                             fontWeight = FontWeight.Bold,
                             maxLines = 1,
                             textAlign = TextAlign.Center,
-                            color = if (fard) Color.White else shade.accent,
+                            color = if (fard) shade.card else shade.accent,
                             modifier = Modifier
                                 .fillMaxWidth()
                                 .clip(shape)
