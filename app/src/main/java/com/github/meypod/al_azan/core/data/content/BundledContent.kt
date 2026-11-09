@@ -35,15 +35,19 @@ data class Dua(
     val repeat: Int = 1,
     val arabic: String,
     val transliteration: String? = null,
+    /** The Arabic words in Devanagari letters. */
+    @SerialName("transliteration_hi") val transliterationHi: String? = null,
     val hindi: String,
     val urdu: String,
-    /** Keys "hindi", "urdu", "arabic"; "draft_needs_native_reader" marks a meaning not yet reviewed. */
+    /** Keys "hindi", "urdu", "arabic", "transliteration_hi";"draft_needs_native_reader" marks a meaning not yet reviewed. */
     @SerialName("review_status") val reviewStatus: Map<String, String> = emptyMap(),
     val reference: List<String> = emptyList(),
 ) {
     fun meaning(lang: String) = if (lang == "ur") urdu else hindi
 
     fun isDraft(lang: String) = reviewStatus[if (lang == "ur") "urdu" else "hindi"] == "draft_needs_native_reader"
+
+    val isTransliterationHiDraft get() = reviewStatus["transliteration_hi"] == "draft_needs_native_reader"
 }
 
 @Serializable

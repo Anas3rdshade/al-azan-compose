@@ -829,6 +829,7 @@
     <string name="dua_count" translatable="false">%1$d / %2$d</string>
     <string name="dua_draft_label">Draft — awaiting reviewer</string>
     <string name="dua_reference">Reference</string>
+    <string name="dua_meaning">Meaning</string>
     <string name="dua_cat_morning_evening">Morning and evening</string>
     <string name="dua_cat_morning">Morning</string>
     <string name="dua_cat_evening">Evening</string>

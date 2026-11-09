@@ -813,6 +813,7 @@
     <string name="dua_tap_to_count">गिनने के लिए टैप करें</string>
     <string name="dua_draft_label">मसौदा — समीक्षक की प्रतीक्षा</string>
     <string name="dua_reference">हवाला</string>
+    <string name="dua_meaning">मतलब</string>
     <string name="dua_cat_morning_evening">सुबह और शाम</string>
     <string name="dua_cat_morning">सुबह</string>
     <string name="dua_cat_evening">शाम</string>

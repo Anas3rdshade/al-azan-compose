@@ -83,7 +83,7 @@ fun DuasScreen(vm: ContentViewModel) {
     val groups = duas
         .filter { picked == null || it.category == picked }
         .filter { d ->
-            q.isEmpty() || listOfNotNull(d.titleEn, d.transliteration, d.meaning(lang), names[d.category])
+            q.isEmpty() || listOfNotNull(d.titleEn, d.transliteration, d.transliterationHi, d.meaning(lang), names[d.category])
                 .any { it.contains(q, ignoreCase = true) }
         }
         .groupBy { it.category }
@@ -151,24 +151,25 @@ private fun DuaCard(d: Dua, lang: String, showTitle: Boolean) {
     val shade = LocalShadeColors.current
     var count by rememberSaveable { mutableIntStateOf(0) }
     var showRef by rememberSaveable { mutableStateOf(false) }
+    var showMeaning by rememberSaveable { mutableStateOf(false) }
     val dir = translationDirection(lang)
     Surface(color = shade.card, shape = RoundedCornerShape(16.dp), modifier = Modifier.fillMaxWidth()) {
         Column(Modifier.padding(14.dp), verticalArrangement = Arrangement.spacedBy(8.dp)) {
             if (showTitle) Text(d.titleEn, style = MaterialTheme.typography.titleSmall)
             Text(d.arabic, style = ArabicStyle, modifier = Modifier.fillMaxWidth())
+            d.transliterationHi?.let {
+                Text(it, style = MaterialTheme.typography.bodyLarge, modifier = Modifier.fillMaxWidth())
+                if (d.isTransliterationHiDraft) DraftChip()
+            }
             d.transliteration?.let {
                 Text(it, style = MaterialTheme.typography.bodyMedium, fontStyle = FontStyle.Italic, color = MaterialTheme.colorScheme.onSurfaceVariant)
             }
-            Text(d.meaning(lang), style = MaterialTheme.typography.bodyLarge.copy(textDirection = dir), modifier = Modifier.fillMaxWidth())
-            if (d.isDraft(lang)) {
-                Text(
-                    stringResource(R.string.dua_draft_label),
-                    style = MaterialTheme.typography.labelSmall,
-                    color = MaterialTheme.colorScheme.onSurfaceVariant,
-                    modifier = Modifier
-                        .background(shade.pill, RoundedCornerShape(50))
-                        .padding(horizontal = 10.dp, vertical = 3.dp),
-                )
+            TextButton(onClick = { showMeaning = !showMeaning }) {
+                Text(stringResource(R.string.dua_meaning) + if (showMeaning) "  ▲" else "  ▼")
+            }
+            if (showMeaning) {
+                Text(d.meaning(lang), style = MaterialTheme.typography.bodyLarge.copy(textDirection = dir), modifier = Modifier.fillMaxWidth())
+                if (d.isDraft(lang)) DraftChip()
             }
             Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(8.dp)) {
                 FilledTonalButton(onClick = { count++ }) {
@@ -189,4 +190,16 @@ private fun DuaCard(d: Dua, lang: String, showTitle: Boolean) {
             }
         }
     }
+}
+
+@Composable
+private fun DraftChip() {
+    Text(
+        stringResource(R.string.dua_draft_label),
+        style = MaterialTheme.typography.labelSmall,
+        color = MaterialTheme.colorScheme.onSurfaceVariant,
+        modifier = Modifier
+            .background(LocalShadeColors.current.pill, RoundedCornerShape(50))
+            .padding(horizontal = 10.dp, vertical = 3.dp),
+    )
 }

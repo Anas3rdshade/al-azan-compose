@@ -7,12 +7,14 @@
       "repeat": 3,
       "arabic": "بِسْمِ اللّٰهِ الَّذِيْ لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ ، وَهُوَ السَّمِيْعُ الْعَلِيْمُ.",
       "transliteration": "Bismi-llāhi-lladhī lā yaḍurru maʿasmihi shay’un fi-l-arḍi wa lā fi-s-samā’, wa Huwa-s-Samīʿu-l-ʿAlīm.",
+      "transliteration_hi": "बिस्मिल्लाहिल्लज़ी ला यज़ुर्रु मअस्मिही शैउन फ़िल अर्ज़ि व ला फ़िस्समाइ, व हुवस्समीउल अलीम।",
       "hindi": "अल्लाह के नाम से, जिसके नाम के साथ ज़मीन और आसमान में कोई चीज़ नुक़सान नहीं पहुँचा सकती, और वह सब कुछ सुनने वाला, सब कुछ जानने वाला है।",
       "urdu": "اللہ کے نام سے، جس کے نام کے ساتھ زمین اور آسمان میں کوئی چیز نقصان نہیں پہنچا سکتی، اور وہی سب کچھ سننے والا، سب کچھ جاننے والا ہے۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -35,12 +37,14 @@
       "repeat": 1,
       "arabic": "اَللّٰهُمَّ أَنْتَ رَبِّيْ لَا إِلٰهَ إِلَّا أَنْتَ ، خَلَقْتَنِيْ وَأَنَا عَبْدُكَ ، وَأَنَا عَلَىٰ عَهْدِكَ وَوَعْدِكَ مَا اسْتَطَعْتُ ، أَعُوْذُ بِكَ مِنْ شَرِّ مَا صَنَعْتُ ، أَبُوْءُ لَكَ بِنِعْمَتِكَ عَلَيَّ وَأَبُوْءُ لَكَ بِذَنْبِيْ ، فَاغْفِرْ لِيْ فَإِنَّهُ لَا يَغْفِرُ الذُّنُوْبَ إِلَّا أَنْتَ.",
       "transliteration": "Allāhumma Anta Rabbī, lā ilāha illā Ant, khalaqtanī wa ana ʿabduk, wa ana ʿalā ʿahdika wa waʿdika mā’staṭaʿt, aʿūdhu bika min sharri mā ṣanaʿt, abū’u laka bi niʿmatika ʿalayya wa abū’u laka bi-dhambī fa-ghfir lī fa-innahū lā yaghfiru-dh-dhunūba illā Ant.",
+      "transliteration_hi": "अल्लाहुम्म अन्त रब्बी, ला इलाह इल्ला अन्त, ख़लक़्तनी व अना अब्दुक, व अना अला अह्दिक व वअदिक मस्ततअत, अऊज़ु बिक मिन शर्रि मा सनअत, अबूउ लक बि निअमतिक अलय्य व अबूउ लक बिज़म्बी फ़ग़्फ़िर ली फ़इन्नहू ला यग़्फ़िरुज़्ज़ुनूब इल्ला अन्त।",
       "hindi": "ऐ अल्लाह! तू मेरा रब है, तेरे सिवा कोई माबूद (इबादत के लायक़) नहीं। तूने मुझे पैदा किया और मैं तेरा बंदा/तेरी बंदी हूँ, और मैं जहाँ तक हो सके तेरे अहद (इक़रार) और तेरे वादे पर क़ायम हूँ। मैंने जो कुछ किया उसकी बुराई से मैं तेरी पनाह माँगता/माँगती हूँ। मुझ पर तेरी जो नेमत है उसका मैं इक़रार करता/करती हूँ, और अपने गुनाह का भी इक़रार करता/करती हूँ, तो मुझे माफ़ कर दे, क्योंकि तेरे सिवा कोई गुनाहों को माफ़ नहीं करता।",
       "urdu": "اے اللہ! تو میرا رب ہے، تیرے سوا کوئی معبود نہیں۔ تو نے مجھے پیدا کیا اور میں تیرا بندہ/تیری بندی ہوں، اور میں جہاں تک ہو سکے تیرے عہد اور تیرے وعدے پر قائم ہوں۔ میں نے جو کچھ کیا اس کی برائی سے میں تیری پناہ مانگتا/مانگتی ہوں۔ مجھ پر تیری جو نعمت ہے اس کا میں اقرار کرتا/کرتی ہوں، اور اپنے گناہ کا بھی اقرار کرتا/کرتی ہوں، تو مجھے بخش دے، کیونکہ تیرے سوا کوئی گناہوں کو نہیں بخشتا۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": "Title label (سيد الاستغفار) removed from the Arabic in phase 3.",
       "reference": [
@@ -61,12 +65,14 @@
       "repeat": 3,
       "arabic": "اَللّٰهُمَّ عَافِنِيْ فِيْ بَدَنِيْ ، اَللّٰهُمَّ عَافِنِيْ فِيْ سَمْعِيْ ، اَللّٰهُمَّ عَافِنِيْ فِيْ بَصَرِيْ ، لَا إِلٰهَ إِلَّا أَنْتَ ، اَللّٰهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنَ الْكُفْرِ وَالْفَقْرِ، وأَعُوْذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، لَا إِلٰهَ إِلَّا أَنْتَ.",
       "transliteration": "Allāhumma ʿāfinī fī badanī, Allāhumma ʿāfinī fī samʿī, Allāhumma ʿāfinī fī baṣarī, lā ilāha illā Ant, Allāhumma innī aʿūdhu bika mina-l-kufri wa-l-faqr, wa aʿūdhu bika min ʿadhābi-l-qabr, lā ilāha illā Ant.",
+      "transliteration_hi": "अल्लाहुम्म आफ़िनी फ़ी बदनी, अल्लाहुम्म आफ़िनी फ़ी समई, अल्लाहुम्म आफ़िनी फ़ी बसरी, ला इलाह इल्ला अन्त, अल्लाहुम्म इन्नी अऊज़ु बिक मिनल कुफ़्रि वल फ़क़्र, व अऊज़ु बिक मिन अज़ाबिल क़ब्र, ला इलाह इल्ला अन्त।",
       "hindi": "ऐ अल्लाह! मेरे बदन में मुझे आफ़ियत (सेहत और सलामती) दे। ऐ अल्लाह! मेरी सुनने की ताक़त में मुझे आफ़ियत दे। ऐ अल्लाह! मेरी नज़र में मुझे आफ़ियत दे। तेरे सिवा कोई माबूद (इबादत के लायक़) नहीं। ऐ अल्लाह! मैं कुफ़्र और ग़रीबी से तेरी पनाह माँगता/माँगती हूँ, और क़ब्र के अज़ाब से तेरी पनाह माँगता/माँगती हूँ। तेरे सिवा कोई माबूद नहीं।",
       "urdu": "اے اللہ! میرے بدن میں مجھے عافیت دے۔ اے اللہ! میری سننے کی طاقت میں مجھے عافیت دے۔ اے اللہ! میری نظر میں مجھے عافیت دے۔ تیرے سوا کوئی معبود نہیں۔ اے اللہ! میں کفر اور غریبی سے تیری پناہ مانگتا/مانگتی ہوں، اور قبر کے عذاب سے تیری پناہ مانگتا/مانگتی ہوں۔ تیرے سوا کوئی معبود نہیں۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -87,12 +93,14 @@
       "repeat": 7,
       "arabic": "حَسْبِيَ اللّٰهُ لَا إِلٰهَ إِلَّا هُوَ ، عَلَيْهِ تَوَكَّلْتُ ، وَهُوَ رَبُّ الْعَرْشِ الْعَظِيْمِ.",
       "transliteration": "Ḥasbiya-Allāhu lā ilāha illā Huwa, ʿalayhi tawakkaltu, wa Huwa Rabbu-l-ʿArshi-l-ʿaẓīm.",
+      "transliteration_hi": "हस्बियल्लाहु ला इलाह इल्ला हुव, अलैहि तवक्कल्तु, व हुव रब्बुल अर्शिल अज़ीम।",
       "hindi": "मेरे लिए अल्लाह काफ़ी है, उसके सिवा कोई माबूद (इबादत के लायक़) नहीं, मैंने उसी पर भरोसा किया, और वह बड़े अर्श (तख़्त) का रब है।",
       "urdu": "میرے لیے اللہ کافی ہے، اس کے سوا کوئی معبود نہیں، میں نے اسی پر بھروسا کیا، اور وہ عرشِ عظیم کا رب ہے۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -113,12 +121,14 @@
       "repeat": 3,
       "arabic": "أَصْبَحْتُ أُثْنِيْ عَلَيْكَ حَمْدًا ، وَأَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللّٰهُ.",
       "transliteration": "Aṣbaḥtu uthnī ʿalayka ḥamdā, wa ash-hadu al-lā ilāha illāl- Allāh.",
+      "transliteration_hi": "अस्बह्तु उस्नी अलैक हम्दा, व अश्हदु अल्ला इलाह इल्लल्लाह।",
       "hindi": "मैंने सुबह की, तेरी तारीफ़ और सना करते हुए, और मैं गवाही देता/देती हूँ कि अल्लाह के सिवा कोई माबूद (इबादत के लायक़) नहीं।",
       "urdu": "میں نے صبح کی، تیری حمد و ثنا کرتے ہوئے، اور میں گواہی دیتا/دیتی ہوں کہ اللہ کے سوا کوئی معبود نہیں۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": "Retagged morning in phase 3: the Arabic is the morning wording (أصبحت); the evening form uses أمسيت.",
       "reference": [
@@ -139,12 +149,14 @@
       "repeat": 1,
       "arabic": "اَللّٰهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ ، وَأَعُوْذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ، وَأَعُوْذُ بِكَ مِنَ الْجُبْنِ وَالْبُخْلِ ، وَأَعُوْذُ بِكَ مِنْ غَلَبَةِ الدَّيْنِ وَقَهْرِ الرِّجَالِ.",
       "transliteration": "Allāhumma innī aʿūdhu bika min-l-hammi wa-l-ḥazan, wa aʿūdhu bika min-l-ʿajzi wa-l-kasal, wa aʿūdhu bika min-l-jubni wa-l-bukhl, wa aʿūdhu bika min ghalabati-d-dayni wa qahri-r-rijāl.",
+      "transliteration_hi": "अल्लाहुम्म इन्नी अऊज़ु बिक मिनल हम्मि वल हज़न, व अऊज़ु बिक मिनल अज्ज़ि वल कसल, व अऊज़ु बिक मिनल जुब्नि वल बुख़्ल, व अऊज़ु बिक मिन ग़लबतिद्दैनि व क़हरिर्रिजाल।",
       "hindi": "ऐ अल्लाह! मैं फ़िक्र और ग़म से तेरी पनाह माँगता/माँगती हूँ, और बेबसी और सुस्ती से तेरी पनाह माँगता/माँगती हूँ, और बुज़दिली और कंजूसी से तेरी पनाह माँगता/माँगती हूँ, और क़र्ज़ के बोझ के ग़ालिब आ जाने और लोगों के दबा लेने से तेरी पनाह माँगता/माँगती हूँ।",
       "urdu": "اے اللہ! میں فکر اور غم سے تیری پناہ مانگتا/مانگتی ہوں، اور بے بسی اور سستی سے تیری پناہ مانگتا/مانگتی ہوں، اور بزدلی اور کنجوسی سے تیری پناہ مانگتا/مانگتی ہوں، اور قرض کے بوجھ کے غالب آ جانے اور لوگوں کے دبا لینے سے تیری پناہ مانگتا/مانگتی ہوں۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": "Transliteration writes min-l- (x3) where the Arabic is mina-l- (مِنَ الْ).",
       "reference": [
@@ -165,12 +177,14 @@
       "repeat": 100,
       "arabic": "سُبْحَانَ اللّٰهِ وَبِحَمْدِهِ.",
       "transliteration": "Subḥāna-llāhi wa bi ḥamdih.",
+      "transliteration_hi": "सुब्हानल्लाहि व बि हम्दिही।",
       "hindi": "अल्लाह (हर कमी से) पाक है, उसकी तारीफ़ के साथ।",
       "urdu": "اللہ (ہر کمی سے) پاک ہے، اس کی تعریف کے ساتھ۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -192,12 +206,14 @@
       "repeat": 1,
       "arabic": "اَللّٰهُمَّ بِكَ أَصْبَحْنَا وَبِكَ أَمْسَيْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوْتُ وَإِلَيْكَ النُّشُوْرُ.",
       "transliteration": "Allāhumma bika aṣbaḥnā wa bika amsaynā wa bika naḥyā wa bika namūtu wa ilayka-n-nushūr.",
+      "transliteration_hi": "अल्लाहुम्म बिक अस्बह्ना व बिक अम्सैना व बिक नह्या व बिक नमूतु व इलैकन्नुशूर।",
       "hindi": "ऐ अल्लाह! तेरे ही हुक्म से हमने सुबह की और तेरे ही हुक्म से शाम की, तेरे ही हुक्म से हम जीते हैं और तेरे ही हुक्म से मरते हैं, और तेरी ही तरफ़ (क़यामत में) उठकर जाना है।",
       "urdu": "اے اللہ! تیرے ہی حکم سے ہم نے صبح کی اور تیرے ہی حکم سے شام کی، تیرے ہی حکم سے ہم جیتے ہیں اور تیرے ہی حکم سے مرتے ہیں، اور تیری ہی طرف (قیامت میں) اٹھ کر جانا ہے۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -218,12 +234,14 @@
       "repeat": 1,
       "arabic": "اَللّٰهُمَّ بِكَ أَمْسَيْنَا وَبِكَ أَصْبَحْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوْتُ وَإِلَيْكَ الْمَصِيْرُ.",
       "transliteration": "Allāhumma bika amsaynā wa bika aṣbaḥnā wa bika naḥyā wa bika namūtu wa ilayka-l-maṣīr.",
+      "transliteration_hi": "अल्लाहुम्म बिक अम्सैना व बिक अस्बह्ना व बिक नह्या व बिक नमूतु व इलैकल मसीर।",
       "hindi": "ऐ अल्लाह! तेरे ही हुक्म से हमने शाम की और तेरे ही हुक्म से सुबह की, तेरे ही हुक्म से हम जीते हैं और तेरे ही हुक्म से मरते हैं, और तेरी ही तरफ़ लौटकर जाना है।",
       "urdu": "اے اللہ! تیرے ہی حکم سے ہم نے شام کی اور تیرے ہی حکم سے صبح کی، تیرے ہی حکم سے ہم جیتے ہیں اور تیرے ہی حکم سے مرتے ہیں، اور تیری ہی طرف لوٹ کر جانا ہے۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -244,12 +262,14 @@
       "repeat": 3,
       "arabic": "أَعُوْذُ بِكَلِمَاتِ اللّٰهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ.",
       "transliteration": "Aʿūdhu bi kalimāti-l-llāhi-t-tāmmāti min sharri mā khalaq",
+      "transliteration_hi": "अऊज़ु बि कलिमातिल्लाहित्ताम्माति मिन शर्रि मा ख़लक़।",
       "hindi": "मैं अल्लाह के मुकम्मल कलिमात (बातों) के ज़रिए उसकी पैदा की हुई हर चीज़ की बुराई से पनाह माँगता/माँगती हूँ।",
       "urdu": "میں اللہ کے مکمل کلمات کے ذریعے اس کی پیدا کی ہوئی ہر چیز کی برائی سے پناہ مانگتا/مانگتی ہوں۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -271,12 +291,14 @@
       "repeat": 1,
       "arabic": "أَسْتَغْفِرُ اللهَ (x3) ، اَللّٰهُمَّ أَنْتَ السَّلَامُ ، وَمِنْكَ السَّلَامُ ، تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ.",
       "transliteration": "Astaghfiru-llāh (x3), Allāhumma Anta-s-Salām, wa minka-s-salām, tabārakta yā Dha-l-Jalāli wa-l-Ikrām.",
+      "transliteration_hi": "अस्तग़्फ़िरुल्लाह (3 बार), अल्लाहुम्म अन्तस्सलाम, व मिन्कस्सलाम, तबारक्त या ज़ल जलालि वल इकराम।",
       "hindi": "मैं अल्लाह से माफ़ी माँगता/माँगती हूँ (3 बार)। ऐ अल्लाह! तू ही सलाम (सलामती देने वाला) है और तुझ ही से सलामती है, तू बड़ी बरकत वाला है, ऐ जलाल और इकराम वाले।",
       "urdu": "میں اللہ سے بخشش مانگتا/مانگتی ہوں (3 بار)۔ اے اللہ! تو ہی سلام (سلامتی دینے والا) ہے اور تجھ ہی سے سلامتی ہے، تو بڑی برکت والا ہے، اے جلال اور اکرام والے۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -297,12 +319,14 @@
       "repeat": 1,
       "arabic": "لَا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيْكَ لَهُ ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيْرٌ ، اَللّٰهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ ، وَلَا يَنْفَعُ ذَا الْجَـدِّ مِنْكَ الْجَـدُّ.",
       "transliteration": "Lā ilāha illā-llāhu waḥdahū lā sharīka lah, lahu-l-mulku wa lahu-l-ḥamd, wa Huwa ʿalā kulli shay’in Qadīr, Allāhumma lā māniʿa li-mā aʿaṭayt, wa lā muʿṭiya li-mā manʿat, wa lā yanfaʿu dha-l-jaddi minka-l-jadd.",
+      "transliteration_hi": "ला इलाह इल्लल्लाहु वह्दहू ला शरीक लह, लहुल मुल्कु व लहुल हम्द, व हुव अला कुल्लि शैइन क़दीर, अल्लाहुम्म ला मानिअ लिमा अअतैत, व ला मुअतिय लिमा मनअत, व ला यन्फ़उ ज़ल जद्दि मिन्कल जद्द।",
       "hindi": "अल्लाह के सिवा कोई माबूद (इबादत के लायक़) नहीं, वह अकेला है, उसका कोई शरीक नहीं, उसी की बादशाहत है और उसी के लिए सब तारीफ़ है, और वह हर चीज़ पर क़ुदरत रखता है। ऐ अल्लाह! जो तू दे उसे कोई रोकने वाला नहीं, और जो तू रोक ले उसे कोई देने वाला नहीं, और किसी दौलत वाले की दौलत तेरे मुक़ाबले में उसके कुछ काम नहीं आती।",
       "urdu": "اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، اسی کی بادشاہی ہے اور اسی کے لیے تمام تعریف ہے، اور وہ ہر چیز پر قدرت رکھتا ہے۔ اے اللہ! جو تو دے اسے کوئی روکنے والا نہیں، اور جو تو روک لے اسے کوئی دینے والا نہیں، اور کسی دولت والے کی دولت تیرے مقابلے میں اس کے کچھ کام نہیں آتی۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": "Transliteration typos: aʿaṭayt should be aʿṭayt (أَعْطَيْتَ), manʿat should be manaʿt (مَنَعْتَ).",
       "reference": [
@@ -323,12 +347,14 @@
       "repeat": 1,
       "arabic": "اَللّٰهُمَّ أَعِنِّيْ عَلَىٰ ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ.",
       "transliteration": "Allāhumma aʿinnī ʿalā dhikrika wa shukrika wa ḥusni ʿibādatik.",
+      "transliteration_hi": "अल्लाहुम्म अइन्नी अला ज़िक्रिक व शुक्रिक व हुस्नि इबादतिक।",
       "hindi": "ऐ अल्लाह! अपने ज़िक्र, अपने शुक्र और अपनी अच्छी तरह इबादत करने में मेरी मदद कर।",
       "urdu": "اے اللہ! اپنے ذکر، اپنے شکر اور اپنی اچھی طرح عبادت کرنے میں میری مدد کر۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -349,12 +375,14 @@
       "repeat": 1,
       "arabic": "(x33) سُبْحَانَ اللّٰهِ.\n(x33) اَلْحَمْدُ لِلّٰهِ.\n(x33) اَللّٰهُ أَكْبَرُ.\nلَا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيْكَ لَهُ ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ ، وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيْرٌ.",
       "transliteration": "Subḥāna-llāh (x33),\nAlḥamduli-llāh (x33),\nAllāhu akbar (x33),\nLā ilāha illā Allāhu waḥdahū lā sharīka lah, lahu-l-mulku wa lahu-l-ḥamd, wa Huwa ʿalā kulli shay’in Qadīr.",
+      "transliteration_hi": "सुब्हानल्लाह (33 बार),\nअल्हम्दु लिल्लाह (33 बार),\nअल्लाहु अकबर (33 बार),\nला इलाह इल्लल्लाहु वह्दहू ला शरीक लह, लहुल मुल्कु व लहुल हम्द, व हुव अला कुल्लि शैइन क़दीर।",
       "hindi": "अल्लाह पाक है (33 बार)। सब तारीफ़ अल्लाह के लिए है (33 बार)। अल्लाह सबसे बड़ा है (33 बार)। अल्लाह के सिवा कोई माबूद (इबादत के लायक़) नहीं, वह अकेला है, उसका कोई शरीक नहीं, उसी की बादशाहत है और उसी के लिए सब तारीफ़ है, और वह हर चीज़ पर क़ुदरत रखता है।",
       "urdu": "اللہ پاک ہے (33 بار)۔ تمام تعریف اللہ کے لیے ہے (33 بار)۔ اللہ سب سے بڑا ہے (33 بار)۔ اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، اسی کی بادشاہی ہے اور اسی کے لیے تمام تعریف ہے، اور وہ ہر چیز پر قدرت رکھتا ہے۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -377,12 +405,14 @@
       "repeat": 7,
       "arabic": "اَللّٰهُمَّ أَجِرْنِيْ مِنَ النَّارِ.",
       "transliteration": "Allāhumma ajirnī mina-n-nār.",
+      "transliteration_hi": "अल्लाहुम्म अजिरनी मिनन्नार।",
       "hindi": "ऐ अल्लाह! मुझे (जहन्नम की) आग से बचा।",
       "urdu": "اے اللہ! مجھے (جہنم کی) آگ سے بچا۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -403,12 +433,14 @@
       "repeat": 1,
       "arabic": "سُبْحَانَكَ اللّٰهُمَّ وَبِحَمْدِكَ ، وَتَبَارَكَ اسْمُكَ ، وَتَعَالَىٰ جَدُّكَ ، وَلَا إِلٰهَ غَيْرُكَ.",
       "transliteration": "Subḥānaka Allāhumma wa bi-ḥamdika wa tabāraka-smuka wa taʿālā jadduka wa lā ilāha ghayruk.",
+      "transliteration_hi": "सुब्हानकल्लाहुम्म व बि हम्दिक व तबारकस्मुक व तआला जद्दुक व ला इलाह ग़ैरुक।",
       "hindi": "ऐ अल्लाह! तू पाक है, तेरी तारीफ़ के साथ, तेरा नाम बड़ी बरकत वाला है, तेरी शान बहुत ऊँची है, और तेरे सिवा कोई माबूद (इबादत के लायक़) नहीं।",
       "urdu": "اے اللہ! تو پاک ہے، تیری تعریف کے ساتھ، تیرا نام بڑی برکت والا ہے، تیری شان بہت بلند ہے، اور تیرے سوا کوئی معبود نہیں۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -429,12 +461,14 @@
       "repeat": 3,
       "arabic": "سُبْحَانَ رَبِّـيَ الْعَظِيْمِ.",
       "transliteration": "Subḥāna Rabiyya-l-ʿAẓīm.",
+      "transliteration_hi": "सुब्हान रब्बियल अज़ीम।",
       "hindi": "पाक है मेरा रब, जो बड़ी अज़मत वाला है।",
       "urdu": "پاک ہے میرا رب، جو بڑی عظمت والا ہے۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": "Transliteration typo: Rabiyya should be Rabbiya (رَبِّيَ).",
       "reference": [
@@ -455,12 +489,14 @@
       "repeat": 1,
       "arabic": "اَللّٰهُمَّ رَبَّنَا لَكَ الْحَمْدُ.",
       "transliteration": "Allāhumma Rabbanā laka-l-ḥamd.",
+      "transliteration_hi": "अल्लाहुम्म रब्बना लकल हम्द।",
       "hindi": "ऐ अल्लाह! ऐ हमारे रब! सब तारीफ़ तेरे ही लिए है।",
       "urdu": "اے اللہ! اے ہمارے رب! تمام تعریف تیرے ہی لیے ہے۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -481,12 +517,14 @@
       "repeat": 3,
       "arabic": "سُبْحَانَ رَبِّـيَ الْأَعْلَىٰ.",
       "transliteration": "Subḥāna Rabbiya-l-Aʿlā.",
+      "transliteration_hi": "सुब्हान रब्बियल आला।",
       "hindi": "पाक है मेरा रब, जो सबसे बुलंद है।",
       "urdu": "پاک ہے میرا رب، جو سب سے بلند ہے۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -507,12 +545,14 @@
       "repeat": 1,
       "arabic": "اَلتَّحِيَّاتُ لِلّٰهِ، وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، اَلسَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ ، اَلسَّلاَمُ عَلَيْنَا وَعَلَىٰ عِبَادِ اللّٰهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللّٰهُ ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ.",
       "transliteration": "At-taḥiyyātu lil-lāhi, wa-ṣalawātu, wa- ṭayyibātu, as-salāmu ʿalyaka ayyuha-n-nabiyyu wa raḥmatul-lāhi wa barakātuh, as-salāmu ʿalyanā wa ʿalā ʿibādillah-ṣ-ṣalihīn, ash-hadu an-lā ilāha illa-l-lāhu wa ashadu an-na Muḥammadan ʿabduhū wa rasūluh.",
+      "transliteration_hi": "अत्तहिय्यातु लिल्लाहि वस्सलवातु वत्तय्यिबातु, अस्सलामु अलैक अय्युहन्नबिय्यु व रह्मतुल्लाहि व बरकातुह, अस्सलामु अलैना व अला इबादिल्लाहिस्सालिहीन, अश्हदु अल्ला इलाह इल्लल्लाहु व अश्हदु अन्न मुहम्मदन अब्दुहू व रसूलुह।",
       "hindi": "सारी ताज़ीमें (आदर भरे सलाम) अल्लाह के लिए हैं, और सारी नमाज़ें (दुआएँ) और सारी पाकीज़ा बातें भी। ऐ नबी! आप पर सलाम हो, और अल्लाह की रहमत और उसकी बरकतें। हम पर और अल्लाह के नेक बंदों पर सलाम हो। मैं गवाही देता/देती हूँ कि अल्लाह के सिवा कोई माबूद (इबादत के लायक़) नहीं, और मैं गवाही देता/देती हूँ कि मुहम्मद उसके बंदे और उसके रसूल हैं।",
       "urdu": "تمام تعظیمیں اللہ کے لیے ہیں، اور تمام نمازیں (دعائیں) اور تمام پاکیزہ باتیں بھی۔ اے نبی! آپ پر سلام ہو، اور اللہ کی رحمت اور اس کی برکتیں۔ ہم پر اور اللہ کے نیک بندوں پر سلام ہو۔ میں گواہی دیتا/دیتی ہوں کہ اللہ کے سوا کوئی معبود نہیں، اور میں گواہی دیتا/دیتی ہوں کہ محمد اس کے بندے اور اس کے رسول ہیں۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": "Transliteration typos: ʿalyaka and ʿalyanā should be ʿalayka (عَلَيْكَ) and ʿalaynā (عَلَيْنَا); ashadu should be ash-hadu.",
       "reference": [
@@ -533,12 +573,14 @@
       "repeat": 1,
       "arabic": "اَللّٰهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَّعَلَىٰ اٰلِ مُحَمَّدٍ ، كَمَا صَلَّيْتَ عَلَىٰ إِبْرَاهِيْمَ وَعَلَىٰ اٰلِ إِبْرَاهِيْمَ ، إِنَّكَ حَمِيْدٌ مَّجِيْدٌ ، اَللّٰهُمَّ بَارِكْ عَلَىٰ مُحَمَّدٍ وَّعَلَىٰ اٰلِ مُحَمَّدٍ ، كَمَا بَارَكْتَ عَلَىٰ إِبْرَاهِيْمَ وَعَلَىٰ اٰلِ إِبْرَاهِيْمَ ، إِنَّكَ حَمِيْدٌ مَّجِيْدٌ.",
       "transliteration": "Allāhumma ṣalli ʿalā Muḥammad wa ʿalā āli Muḥammad, kamā ṣallayta ʿalā Ibrāhīma wa ʿalā āli Ibrāhīm, innaka Ḥamīdu-m-Majīd, Allāhumma bārik ʿalā Muḥammad, wa ʿalā āli Muḥammad, kamā bārakta ʿalā Ibrāhīma wa ʿalā āli Ibrāhīm, innaka Ḥamīdu-m-Majīd.",
+      "transliteration_hi": "अल्लाहुम्म सल्लि अला मुहम्मद व अला आलि मुहम्मद, कमा सल्लैत अला इब्राहीम व अला आलि इब्राहीम, इन्नक हमीदुम्मजीद, अल्लाहुम्म बारिक अला मुहम्मद, व अला आलि मुहम्मद, कमा बारक्त अला इब्राहीम व अला आलि इब्राहीम, इन्नक हमीदुम्मजीद।",
       "hindi": "ऐ अल्लाह! मुहम्मद पर और मुहम्मद की आल (घर वालों) पर रहमत नाज़िल कर, जैसे तूने इब्राहीम पर और इब्राहीम की आल पर रहमत नाज़िल की, बेशक तू तारीफ़ के लायक़, बड़ी शान वाला है। ऐ अल्लाह! मुहम्मद पर और मुहम्मद की आल पर बरकत नाज़िल कर, जैसे तूने इब्राहीम पर और इब्राहीम की आल पर बरकत नाज़िल की, बेशक तू तारीफ़ के लायक़, बड़ी शान वाला है।",
       "urdu": "اے اللہ! محمد پر اور محمد کی آل پر رحمت نازل کر، جیسے تو نے ابراہیم پر اور ابراہیم کی آل پر رحمت نازل کی، بے شک تو تعریف کے لائق، بڑی شان والا ہے۔ اے اللہ! محمد پر اور محمد کی آل پر برکت نازل کر، جیسے تو نے ابراہیم پر اور ابراہیم کی آل پر برکت نازل کی، بے شک تو تعریف کے لائق، بڑی شان والا ہے۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -559,12 +601,14 @@
       "repeat": 1,
       "arabic": "اَللّٰهُمَّ إِنِّيْ ظَلَمْتُ نَفْسِيْ ظُلْمًا كَثِيْرًا ، وَّلَا يَغْفِرُ الذُّنُوْبَ إِلَّا أَنْتَ ، فَاغْفِرْ لِيْ مَغْفِرَةً مِّنْ عِنْدِكَ ، وَارْحَمْنِيْ إِنَّكَ أَنْتَ الْغَفُوْرُ الرَّحِيْمُ.",
       "transliteration": "Allāhumma innī ẓalamtu nafsī ẓulman kathīrā, wa lā yaghfiru-dh-dhunūba illā Ant, fa-ghfir lī maghfirata-m-min ʿindik, war-ḥamnī, innaka Anta-l-Ghafūru-r-Raḥīm.",
+      "transliteration_hi": "अल्लाहुम्म इन्नी ज़लम्तु नफ़्सी ज़ुल्मन कसीरा, व ला यग़्फ़िरुज़्ज़ुनूब इल्ला अन्त, फ़ग़्फ़िर ली मग़्फ़िरतम्मिन इन्दिक, वर्हम्नी, इन्नक अन्तल ग़फ़ूरुर्रहीम।",
       "hindi": "ऐ अल्लाह! मैंने अपनी जान पर बहुत ज़ुल्म किया है, और तेरे सिवा कोई गुनाहों को माफ़ नहीं करता, तो अपनी तरफ़ से मुझे ख़ास माफ़ी दे दे, और मुझ पर रहम कर, बेशक तू ही बहुत माफ़ करने वाला, बहुत रहम करने वाला है।",
       "urdu": "اے اللہ! میں نے اپنی جان پر بہت ظلم کیا ہے، اور تیرے سوا کوئی گناہوں کو نہیں بخشتا، تو اپنی طرف سے مجھے خاص بخشش عطا کر، اور مجھ پر رحم کر، بے شک تو ہی بہت بخشنے والا، بہت رحم کرنے والا ہے۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -585,12 +629,14 @@
       "repeat": 1,
       "arabic": "اَللّٰهُمَّ إِنَّا نَسْتَعِيْنُكَ وَنَسْتَغْفِرُكَ ، وَنُؤْمِنُ بِكَ وَنُثْنِيْ عَلَيْكَ الْخَيْرَ وَلَا نَكْفُرُكَ ، وَنَخْلَعُ وَنَتْرُكُ مَنْ يَّفْجُرُكَ ، اَللّٰهُمَّ إِيَّاكَ نَعْبُدُ ، وَلَكَ نُصَلِّيْ وَنَسْجُدُ ، وَإِلَيْكَ نَسْعَىٰ وَنَحْفِدُ ، نَرْجُوْ رَحْمَتَكَ وَنَخْشَىٰ عَذَابَكَ ، إِنَّ عَذَابَكَ الْجِدَّ بِالْكُفَّارِ مُلْحِقٌ.",
       "transliteration": "Allāhumma innā nastaʿīnuka wa nastaghfiruka, wa nu’minu bika wa nuthnī ʿalayka-l-khayr, wa lā nakfuruka wa naklaʿu wa natruku may-yafjuruk, Allāhumma iyyāka naʿbudu, wa laka nuṣallī, wa nasjud, wa ilayka nasʿā wa naḥfid, narjū raḥmatak, wa nakhshā ʿadhābak, inna ʿadhābaka-l-jidda bi-l-kuffāri mulḥiq.",
+      "transliteration_hi": "अल्लाहुम्म इन्ना नस्तईनुक व नस्तग़्फ़िरुक, व नुअमिनु बिक व नुस्नी अलैकल ख़ैर, व ला नक्फ़ुरुक व नख़्लउ व नत्रुकु मय्यफ़्जुरुक, अल्लाहुम्म इय्याक नअबुदु, व लक नुसल्ली, व नस्जुद, व इलैक नस्आ व नह्फ़िद, नर्जू रह्मतक, व नख़्शा अज़ाबक, इन्न अज़ाबकल जिद्द बिल कुफ़्फ़ारि मुल्हिक़।",
       "hindi": "ऐ अल्लाह! हम तुझसे मदद माँगते हैं और तुझसे माफ़ी माँगते हैं, और तुझ पर ईमान रखते हैं, और भलाई के साथ तेरी तारीफ़ करते हैं, और तेरी नाशुक्री नहीं करते, और जो तेरी नाफ़रमानी करे उससे हम अलग होते और उसे छोड़ देते हैं। ऐ अल्लाह! हम तेरी ही इबादत करते हैं, और तेरे ही लिए नमाज़ पढ़ते और सजदा करते हैं, और तेरी ही तरफ़ दौड़ते और जल्दी करते हैं, हम तेरी रहमत की उम्मीद रखते हैं और तेरे अज़ाब से डरते हैं, बेशक तेरा सख़्त अज़ाब काफ़िरों को पहुँचकर रहेगा।",
       "urdu": "اے اللہ! ہم تجھ سے مدد مانگتے ہیں اور تجھ سے بخشش مانگتے ہیں، اور تجھ پر ایمان رکھتے ہیں، اور بھلائی کے ساتھ تیری تعریف کرتے ہیں، اور تیری ناشکری نہیں کرتے، اور جو تیری نافرمانی کرے اس سے ہم الگ ہوتے اور اسے چھوڑ دیتے ہیں۔ اے اللہ! ہم تیری ہی عبادت کرتے ہیں، اور تیرے ہی لیے نماز پڑھتے اور سجدہ کرتے ہیں، اور تیری ہی طرف دوڑتے اور جلدی کرتے ہیں، ہم تیری رحمت کی امید رکھتے ہیں اور تیرے عذاب سے ڈرتے ہیں، بے شک تیرا سخت عذاب کافروں کو پہنچ کر رہے گا۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": "Transliteration typo: naklaʿu should be nakhlaʿu (نَخْلَعُ).",
       "reference": [
@@ -611,12 +657,14 @@
       "repeat": 1,
       "arabic": "اَللّٰهُمَّ بِاسْمِكَ أَمُوْتُ وَأَحْيَا.",
       "transliteration": "Allāhumma bismika amūtu wa aḥyā.",
+      "transliteration_hi": "अल्लाहुम्म बिस्मिक अमूतु व अह्या।",
       "hindi": "ऐ अल्लाह! तेरे ही नाम के साथ मैं मरता/मरती हूँ और जीता/जीती हूँ।",
       "urdu": "اے اللہ! تیرے ہی نام کے ساتھ میں مرتا/مرتی ہوں اور جیتا/جیتی ہوں۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -637,12 +685,14 @@
       "repeat": 3,
       "arabic": "اَللّٰهُمَّ قِنِيْ عَذَابَكَ يَوْمَ تَبْعَثُ عِبَادَكَ.",
       "transliteration": "Allāhumma qinī ʿadhābaka yawma tabʿathu ʿibādak.",
+      "transliteration_hi": "अल्लाहुम्म क़िनी अज़ाबक यौम तब्असु इबादक।",
       "hindi": "ऐ अल्लाह! मुझे अपने अज़ाब से बचा, जिस दिन तू अपने बंदों को (दोबारा) उठाएगा।",
       "urdu": "اے اللہ! مجھے اپنے عذاب سے بچا، جس دن تو اپنے بندوں کو (دوبارہ) اٹھائے گا۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -663,12 +713,14 @@
       "repeat": 1,
       "arabic": "اَلْحَمْدُ لِلّٰهِ الَّذِيْ أَحْيَانَا بَعْدَ مَا أَمَاتَنَا وَإِلَيْهِ النُّشُوْرُ.",
       "transliteration": "Alḥamdu li-llāhi-l-ladhī aḥyānā baʿda mā amātanā wa ilayhi-n-nushūr.",
+      "transliteration_hi": "अल्हम्दु लिल्लाहिल्लज़ी अह्याना बअद मा अमातना व इलैहिन्नुशूर।",
       "hindi": "सब तारीफ़ अल्लाह के लिए है जिसने हमें मौत (नींद) देने के बाद ज़िंदगी दी, और उसी की तरफ़ लौटकर जाना है।",
       "urdu": "تمام تعریف اللہ کے لیے ہے جس نے ہمیں موت (نیند) دینے کے بعد زندگی دی، اور اسی کی طرف لوٹ کر جانا ہے۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -689,12 +741,14 @@
       "repeat": 1,
       "arabic": "بِسْمِ اللّٰهِ تَوَكَّلْتُ عَلَى اللّٰهِ ، لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللّٰهِ.",
       "transliteration": "Bismi-llāhi tawakkaltu ʿalal-llāh, lā ḥawla wa lā quwwata illā bi-llāh.",
+      "transliteration_hi": "बिस्मिल्लाहि तवक्कल्तु अलल्लाह, ला हौल व ला क़ुव्वत इल्ला बिल्लाह।",
       "hindi": "अल्लाह के नाम से, मैंने अल्लाह पर भरोसा किया, अल्लाह के बिना न कोई ताक़त है न कोई क़ुव्वत।",
       "urdu": "اللہ کے نام سے، میں نے اللہ پر بھروسا کیا، اللہ کے بغیر نہ کوئی طاقت ہے نہ کوئی قوت۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -715,12 +769,14 @@
       "repeat": 1,
       "arabic": "اَللّٰهُمَّ إِنِّيْ أَعُوْذُ بِكَ أَنْ أَضِلَّ أَوْ أُضَلَّ ، أَوْ أَزِلَّ أَوْ أُزَلَّ ، أَوْ أَظْلِمَ أَوْ أُظْلَمَ ، أَوْ أَجْهَلَ أَوْ يُجْهَلَ عَلَيَّ.",
       "transliteration": "Allāhumma innī aʿūdhu bika an aḍilla aw uḍall, aw azilla aw uzall, aw aẓlima aw uẓlam, aw ajhala aw yujhala ʿalayy.",
+      "transliteration_hi": "अल्लाहुम्म इन्नी अऊज़ु बिक अन अज़िल्ल औ उज़ल्ल, औ अज़िल्ल औ उज़ल्ल, औ अज़्लिम औ उज़्लम, औ अज्हल औ युज्हल अलय्य।",
       "hindi": "ऐ अल्लाह! मैं तेरी पनाह माँगता/माँगती हूँ इससे कि मैं ख़ुद गुमराह हो जाऊँ या कोई मुझे गुमराह कर दे, या मैं ख़ुद फिसल जाऊँ (ग़लती करूँ) या कोई मुझे फिसला दे, या मैं किसी पर ज़ुल्म करूँ या मुझ पर ज़ुल्म किया जाए, या मैं किसी के साथ नादानी करूँ या कोई मेरे साथ नादानी करे।",
       "urdu": "اے اللہ! میں تیری پناہ مانگتا/مانگتی ہوں اس سے کہ میں خود گمراہ ہو جاؤں یا کوئی مجھے گمراہ کر دے، یا میں خود پھسل جاؤں (غلطی کروں) یا کوئی مجھے پھسلا دے، یا میں کسی پر ظلم کروں یا مجھ پر ظلم کیا جائے، یا میں کسی کے ساتھ جہالت کروں یا کوئی میرے ساتھ جہالت کرے۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": "English says 'misguiding others' but the Arabic أَضِلَّ means 'I go astray' myself; meaning follows the Arabic.",
       "reference": [
@@ -741,12 +797,14 @@
       "repeat": 1,
       "arabic": "اَللّٰهُمَّ إِنِّيْ أَسْأَلُكَ خَيْرَ الْمَوْلَجِ ، وَخَيْرَ الْمَخْرَجِ ، بِسْمِ اللّٰهِ وَلَجْنَا ، وَبِسْمِ اللّٰهِ خَرَجْنَا ، وَعَلَى اللّٰهِ رَبِّنَا تَوَكَّلْنَا.",
       "transliteration": "Allāhumma innī as’aluka khayra-l-mawlaj, wa khayra-l-makhraj, bismi-llāhi walajnā, wa bismi-llāhi kharajnā, wa ʿalā-llāhi rabbinā tawakkalnā.",
+      "transliteration_hi": "अल्लाहुम्म इन्नी असअलुक ख़ैरल मौलज, व ख़ैरल मख़्रज, बिस्मिल्लाहि वलज्ना, व बिस्मिल्लाहि ख़रज्ना, व अलल्लाहि रब्बिना तवक्कल्ना।",
       "hindi": "ऐ अल्लाह! मैं तुझसे अंदर आने की भलाई और बाहर जाने की भलाई माँगता/माँगती हूँ। अल्लाह के नाम से हम अंदर आए, और अल्लाह के नाम से हम बाहर निकले, और अल्लाह पर, जो हमारा रब है, हमने भरोसा किया।",
       "urdu": "اے اللہ! میں تجھ سے اندر آنے کی بھلائی اور باہر جانے کی بھلائی مانگتا/مانگتی ہوں۔ اللہ کے نام سے ہم اندر آئے، اور اللہ کے نام سے ہم باہر نکلے، اور اللہ پر، جو ہمارا رب ہے، ہم نے بھروسا کیا۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -770,12 +828,14 @@
       "repeat": 1,
       "arabic": "بِسْمِ اللّٰهِ.",
       "transliteration": "Bismi-llāh.",
+      "transliteration_hi": "बिस्मिल्लाह।",
       "hindi": "अल्लाह के नाम से।",
       "urdu": "اللہ کے نام سے۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -798,12 +858,14 @@
       "repeat": 1,
       "arabic": "بِسْمِ اللّٰهِ أَوَّلَهُ وَآخِرَهُ.",
       "transliteration": "Bismi-llāhi awwalahū wa ākhirah.",
+      "transliteration_hi": "बिस्मिल्लाहि अव्वलहू व आख़िरह।",
       "hindi": "शुरू में भी अल्लाह के नाम से और आख़िर में भी।",
       "urdu": "شروع میں بھی اللہ کے نام سے اور آخر میں بھی۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -825,12 +887,14 @@
       "repeat": 1,
       "arabic": "اَلْحَمْدُ لِلّٰهِ الَّذِيْ أَطْعَمَنِيْ هٰذَا ، وَرَزَقَنِيْهِ مِنْ غَيْرِ حَوْلٍ مِنِّيْ وَلَا قُوَّةٍ.",
       "transliteration": "Alḥamdu-lillāhi-l-ladhī aṭʿamanī hādhā wa razaqanīhi min ghayri ḥawlim-minnī wa lā quwwah.",
+      "transliteration_hi": "अल्हम्दु लिल्लाहिल्लज़ी अत्अमनी हाज़ा व रज़क़नीहि मिन ग़ैरि हौलिम्मिन्नी व ला क़ुव्वह।",
       "hindi": "सब तारीफ़ अल्लाह के लिए है जिसने मुझे यह खिलाया, और मेरी किसी ताक़त और क़ुव्वत के बिना मुझे यह रोज़ी दी।",
       "urdu": "تمام تعریف اللہ کے لیے ہے جس نے مجھے یہ کھلایا، اور میری کسی طاقت اور قوت کے بغیر مجھے یہ روزی دی۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -851,12 +915,14 @@
       "repeat": 1,
       "arabic": "اَللّٰهُمَّ لَكَ صُمْتُ وَعَلَىٰ رِزْقِكَ أَفْطَرْتُ.",
       "transliteration": "Allāhumma laka ṣumtu wa ʿalā rizqiqa afṭart.",
+      "transliteration_hi": "अल्लाहुम्म लक सुम्तु व अला रिज़्क़िक अफ़्तर्त।",
       "hindi": "ऐ अल्लाह! मैंने तेरे ही लिए रोज़ा रखा, और तेरे ही दिए हुए रिज़्क़ (रोज़ी) से रोज़ा खोला।",
       "urdu": "اے اللہ! میں نے تیرے ہی لیے روزہ رکھا، اور تیرے ہی دیے ہوئے رزق سے روزہ کھولا۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": "Transliteration typo: rizqiqa should be rizqika (رِزْقِكَ).",
       "reference": [
@@ -877,12 +943,14 @@
       "repeat": 1,
       "arabic": "بِسْمِ اللّٰهِ ، اَللّٰهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ.",
       "transliteration": "Bismi-llāh, Allāhumma innī aʿūdhu bika mina-l-khubuthi wa-l-khabā’ith",
+      "transliteration_hi": "बिस्मिल्लाह, अल्लाहुम्म इन्नी अऊज़ु बिक मिनल ख़ुबुसि वल ख़बाइस।",
       "hindi": "अल्लाह के नाम से। ऐ अल्लाह! मैं नापाक शैतानों से, नर हों या मादा, तेरी पनाह माँगता/माँगती हूँ।",
       "urdu": "اللہ کے نام سے۔ اے اللہ! میں ناپاک شیطانوں سے، نر ہوں یا مادہ، تیری پناہ مانگتا/مانگتی ہوں۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -905,12 +973,14 @@
       "repeat": 1,
       "arabic": "غُفْرَانَكَ.",
       "transliteration": "Ghufrānak.",
+      "transliteration_hi": "ग़ुफ़रानक।",
       "hindi": "मैं तेरी माफ़ी माँगता/माँगती हूँ।",
       "urdu": "میں تیری بخشش مانگتا/مانگتی ہوں۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -931,12 +1001,14 @@
       "repeat": 1,
       "arabic": "بِسْمِ اللّٰهِ.",
       "transliteration": "Bismi-llāh.",
+      "transliteration_hi": "बिस्मिल्लाह।",
       "hindi": "अल्लाह के नाम से।",
       "urdu": "اللہ کے نام سے۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -957,12 +1029,14 @@
       "repeat": 1,
       "arabic": "أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيْكَ لَهُ ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ ورَسُوْلُهُ ، اَللّٰهُمَّ اجْعَلْنِيْ مِنَ التَّوَّابِيْنَ ، وَاجْعَلْنِيْ مِنَ المُتَطَهِّرِيْنَ.",
       "transliteration": "Ash-hadu al-lā ilāha illā-llāhu waḥdahū lā sharīka lah, wa ash-hadu anna Muḥammadan ʿabduhū wa rasūluh. Allāhumma-j-ʿalnī mina-t-tawwābīn, wa-j-ʿalnī mina-l-mutaṭahhirīn.",
+      "transliteration_hi": "अश्हदु अल्ला इलाह इल्लल्लाहु वह्दहू ला शरीक लह, व अश्हदु अन्न मुहम्मदन अब्दुहू व रसूलुह। अल्लाहुम्मज्अल्नी मिनत्तव्वाबीन, वज्अल्नी मिनल मुततह्हिरीन।",
       "hindi": "मैं गवाही देता/देती हूँ कि अल्लाह के सिवा कोई माबूद (इबादत के लायक़) नहीं, वह अकेला है, उसका कोई शरीक नहीं, और मैं गवाही देता/देती हूँ कि मुहम्मद उसके बंदे और उसके रसूल हैं। ऐ अल्लाह! मुझे बहुत तौबा करने वालों में शामिल कर, और मुझे ख़ूब पाक-साफ़ रहने वालों में शामिल कर।",
       "urdu": "میں گواہی دیتا/دیتی ہوں کہ اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، اور میں گواہی دیتا/دیتی ہوں کہ محمد اس کے بندے اور اس کے رسول ہیں۔ اے اللہ! مجھے بہت توبہ کرنے والوں میں شامل کر، اور مجھے خوب پاک صاف رہنے والوں میں شامل کر۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -983,12 +1057,14 @@
       "repeat": 1,
       "arabic": "اَللّٰهُمَّ رَبَّ هٰذِهِ الدَّعْوَةِ التَّامَّةِ وَالصَّلَاةِ الْقَائِمَةِ ، آتِ مُحَمَّدًا الْوَسِيْلَةَ وَالْفَضِيْلَةَ ، وَابْعَثْهُ مَقَامًا مَّحْمُوْدًا الَّذِيْ وَعَدْتَّهُ",
       "transliteration": "Allāhumma rabba hādhi-hi-d-dʿawati-t-tāmmati wa-ṣ-ṣalāti-l-qāimah, āti Muḥammadani-l-wasīlata wa-l-faḍīlah, wa-b-ʿath-hu maqāma-m-maḥmūdani-l-ladhī wa ʿadtah.",
+      "transliteration_hi": "अल्लाहुम्म रब्ब हाज़िहिद्दअवतित्ताम्मति वस्सलातिल क़ाइमह, आति मुहम्मदनिल वसीलत वल फ़ज़ीलह, वब्असहु मक़ामम्मह्मूदनिल्लज़ी वअद्तह।",
       "hindi": "ऐ अल्लाह! इस मुकम्मल पुकार (अज़ान) और क़ायम होने वाली नमाज़ के रब! मुहम्मद को वसीला (जन्नत का एक ख़ास दर्जा) और फ़ज़ीलत (बड़ाई) अता कर, और उन्हें उस मक़ाम-ए-महमूद (तारीफ़ वाले मक़ाम) पर उठा जिसका तूने उनसे वादा किया है।",
       "urdu": "اے اللہ! اس مکمل پکار (اذان) اور قائم ہونے والی نماز کے رب! محمد کو وسیلہ (جنت کا ایک خاص درجہ) اور فضیلت عطا کر، اور انہیں اس مقامِ محمود پر اٹھا جس کا تو نے ان سے وعدہ کیا ہے۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": "Transliteration typo: dʿawati should be daʿwati (الدَّعْوَةِ).",
       "reference": [
@@ -1009,12 +1085,14 @@
       "repeat": 1,
       "arabic": "بِسْمِ اللّٰهِ ، وَالصَّلَاةُ وَالسَّلَامُ عَلَىٰ رَسُوْلِ اللّٰهِ ، اَللّٰهُمَّ اغْفِرْ لِيْ ذُنُوْبِيْ ، اَللّٰهُمَّ افْتَحْ لِيْ أَبْوَابَ رَحْمَتِكَ",
       "transliteration": "Bismi-llāh, wa-ṣ-ṣalātu wa-s-salāmu ʿalā Rasūl-i-llāh, Allāhumma-ghfir lī dhunūbī, Allāhumma-f-taḥ lī abwāba raḥmatik.",
+      "transliteration_hi": "बिस्मिल्लाह, वस्सलातु वस्सलामु अला रसूलिल्लाह, अल्लाहुम्मग़्फ़िर ली ज़ुनूबी, अल्लाहुम्मफ़्तह ली अब्वाब रह्मतिक।",
       "hindi": "अल्लाह के नाम से, और अल्लाह के रसूल पर दुरूद और सलाम हो। ऐ अल्लाह! मेरे गुनाह माफ़ कर दे। ऐ अल्लाह! मेरे लिए अपनी रहमत के दरवाज़े खोल दे।",
       "urdu": "اللہ کے نام سے، اور اللہ کے رسول پر درود اور سلام ہو۔ اے اللہ! میرے گناہ بخش دے۔ اے اللہ! میرے لیے اپنی رحمت کے دروازے کھول دے۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [
@@ -1037,12 +1115,14 @@
       "repeat": 1,
       "arabic": "بِسْمِ اللّٰهِ ، وَالصَّلَاةُ وَالسَّلَامُ عَلَىٰ رَسُوْلِ اللّٰهِ ، اَللّٰهُمَّ إِنِّيْ أَسْأَلُكَ مِنْ فَضْلِكَ",
       "transliteration": "Bismi-llāh, wa-ṣ-ṣalātu wa-s-salāmu ʿalā rasūl-illāh, allāhumma innī as’aluka min faḍlik.",
+      "transliteration_hi": "बिस्मिल्लाह, वस्सलातु वस्सलामु अला रसूलिल्लाह, अल्लाहुम्म इन्नी असअलुक मिन फ़ज़्लिक।",
       "hindi": "अल्लाह के नाम से, और अल्लाह के रसूल पर दुरूद और सलाम हो। ऐ अल्लाह! मैं तुझसे तेरा फ़ज़्ल (मेहरबानी) माँगता/माँगती हूँ।",
       "urdu": "اللہ کے نام سے، اور اللہ کے رسول پر درود اور سلام ہو۔ اے اللہ! میں تجھ سے تیرا فضل مانگتا/مانگتی ہوں۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
-        "arabic": "check_against_hisnul_muslim_print"
+        "arabic": "check_against_hisnul_muslim_print",
+        "transliteration_hi": "draft_needs_native_reader"
       },
       "review_flag": null,
       "reference": [

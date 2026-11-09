@@ -813,6 +813,7 @@
     <string name="dua_tap_to_count">گننے کے لیے ٹیپ کریں</string>
     <string name="dua_draft_label">مسودہ — نظرثانی کا انتظار</string>
     <string name="dua_reference">حوالہ</string>
+    <string name="dua_meaning">مطلب</string>
     <string name="dua_cat_morning_evening">صبح و شام</string>
     <string name="dua_cat_morning">صبح</string>
     <string name="dua_cat_evening">شام</string>
