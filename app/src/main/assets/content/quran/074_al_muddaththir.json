@@ -1,0 +1,1131 @@
+{
+ "surah": 74,
+ "name_arabic": "سُورَةُ المُدَّثِّرِ",
+ "name_en": "Al-Muddaththir",
+ "translation_versions": {
+  "hindi_omari": "1.1.5",
+  "urdu_junagarhi": "1.1.3"
+ },
+ "ayahs": [
+  {
+   "id": "quran_074_001",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 1,
+   "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ يَـٰٓأَيُّهَا ٱلْمُدَّثِّرُ",
+   "transliteration": null,
+   "hindi": "ऐ कपड़े में लिपटने वाले![1]",
+   "hindi_footnotes": "[1] नबी (सल्लल्लाहु अलैहि व सल्लम) पर प्रथम वह़्य के पश्चात् कुछ दिनों तक वह़्य नहीं आई। फिर एक बार आप जा रहे थे कि आकाश से एक आवाज़ सुनी। ऊपर देखा, तो वही फ़रिश्ता जो आपके पास 'ह़िरा' नामी गुफ़ा में आया था आकाश तथा धरती के बीच एक कुर्सी पर विराजमान था। जिससे आप डर गए और धरती पर गिर गए। फिर घर आए और अपनी पत्नी से कहा : मुझे चादर ओढ़ा दो, मुझे चादर ओढ़ा दो। उन्होंने चादर ओढ़ा दी। और अल्लाह ने यह सूरत उतारी। फिर निरंतर वह़्य आने लगी। (सह़ीह़ बुख़ारी : 4925, 4926, सह़ीह़ मुस्लिम : 161) प्रथम वह़्य से आप (सल्लल्लाहु अलैहि व सल्लम) को नबी बनाया गया। और अब आपपर धर्म के प्रचार का भार रख दिया गया। इन आयतों में आपके माध्यम से मुसलमानों को पवित्र रहने के निर्देश दिए गए हैं।",
+   "urdu": "اے کپڑا اوڑھنے والے.[1]",
+   "urdu_footnotes": "[1] سب سے پہلے جو وحی نازل ہوئی وہ «اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ» ہے اس کے بعد وحی میں وقفہ ہوگیا اور نبی (صلى الله عليه وسلم) سخت مضطرب اور پریشان رہتے۔ ایک روز اچانک پھر وہی فرشتہ، جو غار حرا میں پہلی مرتبہ وحی لے کر آیا تھا۔ آپ نے دیکھا کہ آسمان و زمین کے درمیان ایک کرسی پر بیٹھا ہے، جس سے آپ پر ایک خوف سا طاری ہوگیا اور گھر جاکر گھر والوں سے کہا کہ مجھے کوئی کپڑا اوڑھا دو، مجھے کپڑا اوڑھا دو۔ چنانچہ انہوں نے آپ کے جسم پر ایک کپڑا ڈال دیا، اسی حالت میں وحی نازل ہوئی۔ (صحيح البخاري، ومسلم، سورة المدثر وكتاب الإيمان) اس اعتبار سے یہ دوسری وحی اور احکام کے حساب سے پہلی وحی ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "बिस्मिल्लाहिर्रह्मानिर्रहीम। याअय्युहल् मुद्दस्सिर।"
+  },
+  {
+   "id": "quran_074_002",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 2,
+   "arabic": "قُمْ فَأَنذِرْ",
+   "transliteration": null,
+   "hindi": "खड़े हो जाओ, फिर सावधान करो।",
+   "hindi_footnotes": null,
+   "urdu": "کھڑا ہوجا اور آگاه کردے.[1]",
+   "urdu_footnotes": "[1] یعنی اہل مکہ کو ڈرا، اگر وہ ایمان نہ لائیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "क़ुम फ़अन्ज़िर।"
+  },
+  {
+   "id": "quran_074_003",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 3,
+   "arabic": "وَرَبَّكَ فَكَبِّرْ",
+   "transliteration": null,
+   "hindi": "तथा अपने पालनहार ही की महिमा का वर्णन करो।",
+   "hindi_footnotes": null,
+   "urdu": "اور اپنے رب ہی کی بڑائیاں بیان کر.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वरब्बक फ़कब्बिर।"
+  },
+  {
+   "id": "quran_074_004",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 4,
+   "arabic": "وَثِيَابَكَ فَطَهِّرْ",
+   "transliteration": null,
+   "hindi": "तथा अपने कपड़े को पवित्र रखो।",
+   "hindi_footnotes": null,
+   "urdu": "اپنے کپڑوں کو پاک رکھا کر.[1]",
+   "urdu_footnotes": "[1] یعنی قلب اور نیت کے ساتھ کپڑے بھی پاک رکھ۔ یہ حکم اس لئے دیا گیا کہ مشرکین مکہ طہارت کا اہتمام نہیں کرتے تھے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वसियाबक फ़तह्हिर।"
+  },
+  {
+   "id": "quran_074_005",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 5,
+   "arabic": "وَٱلرُّجْزَ فَٱهْجُرْ",
+   "transliteration": null,
+   "hindi": "और गंदगी (बुतों) से दूर रहो।",
+   "hindi_footnotes": null,
+   "urdu": "ناپاکی کو چھوڑ دے.[1]",
+   "urdu_footnotes": "[1] یعنی بتوں کی عبادت چھوڑ دے۔ یہ دراصل لوگوں کو آپ کے ذریعے سے حکم دیا جا رہا ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वर्रुज्ज़ फ़ह्जुर।"
+  },
+  {
+   "id": "quran_074_006",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 6,
+   "arabic": "وَلَا تَمْنُن تَسْتَكْثِرُ",
+   "transliteration": null,
+   "hindi": "तथा उपकार न जताओ (अपनी नेकियों को) अधिक समझ कर।",
+   "hindi_footnotes": null,
+   "urdu": "اور احسان کرکے زیاده لینے کی خواہش نہ کر.[1]",
+   "urdu_footnotes": "[1] یعنی احسان کرکے یہ خواہش نہ کر کہ بدلے میں اس سے زیادہ ملے گا۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वला तम्नुन तस्तक्सिर।"
+  },
+  {
+   "id": "quran_074_007",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 7,
+   "arabic": "وَلِرَبِّكَ فَٱصْبِرْ",
+   "transliteration": null,
+   "hindi": "और अपने पालनहार ही के लिए धैर्य से काम लो।",
+   "hindi_footnotes": null,
+   "urdu": "اور اپنے رب کی راه میں صبر کر.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वलिरब्बिक फ़स्बिर।"
+  },
+  {
+   "id": "quran_074_008",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 8,
+   "arabic": "فَإِذَا نُقِرَ فِى ٱلنَّاقُورِ",
+   "transliteration": null,
+   "hindi": "फिर जब सूर में फूँक[2] मारी जाएगी।",
+   "hindi_footnotes": "[2] अर्थात प्रलय के दिन।",
+   "urdu": "پس جب کہ صور میں پھونک ماری جائے گی.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़इज़ा नुक़िर फ़िन्नाक़ूर।"
+  },
+  {
+   "id": "quran_074_009",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 9,
+   "arabic": "فَذَٰلِكَ يَوْمَئِذٍ يَوْمٌ عَسِيرٌ",
+   "transliteration": null,
+   "hindi": "तो वह दिन अति भीषण दिन होगा।",
+   "hindi_footnotes": null,
+   "urdu": "تو وه دن بڑا سخت دن ہوگا.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़ज़ालिक यौमइज़िन यौमुन असीर।"
+  },
+  {
+   "id": "quran_074_010",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 10,
+   "arabic": "عَلَى ٱلْكَـٰفِرِينَ غَيْرُ يَسِيرٍ",
+   "transliteration": null,
+   "hindi": "काफ़िरों पर आसान न होगा।",
+   "hindi_footnotes": null,
+   "urdu": "جو کافروں پر آسان نہ ہوگا.[1]",
+   "urdu_footnotes": "[1] یعنی قیامت کا دن کافروں پر بھاری ہوگا کیونکہ اس روز کفر کا نتیجہ انہیں بھگتنا ہوگا، جو جرم وہ دنیا میں کرتے رہے ہونگے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अलल् काफ़िरीन ग़ैरु यसीर।"
+  },
+  {
+   "id": "quran_074_011",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 11,
+   "arabic": "ذَرْنِى وَمَنْ خَلَقْتُ وَحِيدًا",
+   "transliteration": null,
+   "hindi": "आप मुझे और उसे छोड़ दें, जिसे मैंने अकेला पैदा किया।",
+   "hindi_footnotes": null,
+   "urdu": "مجھے اور اسے چھوڑ دے جسے میں نے اکیلا پیدا کیا ہے.[1]",
+   "urdu_footnotes": "[1] یہ کلمہ وعید و تہدید ہے کہ اسے، جسے میں نے ماں کے پیٹ میں اکیلا پیدا کیا، اس کے پاس مال تھا نہ اولاد، اور مجھے اکیلا چھوڑ دو، یعنی میں خود ہی اس سے نمٹ لوں گا، کہتے ہیں کہ یہ ولید بن مغیرہ کی طرف اشارہ ہے۔ یہ کفر و طغیان میں بہت بڑھا ہوا تھا، اس لئے اس کا خصوصی طور پر ذکر کیا ہے۔ واللہ عالم۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "ज़र्नी वमन ख़लक़्तु वहीदा।"
+  },
+  {
+   "id": "quran_074_012",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 12,
+   "arabic": "وَجَعَلْتُ لَهُۥ مَالًا مَّمْدُودًا",
+   "transliteration": null,
+   "hindi": "और मैंने उसे बहुत सारा धन प्रदान किया।",
+   "hindi_footnotes": null,
+   "urdu": "اور اسے بہت سا مال دے رکھا ہے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वजअल्तु लहू मालम्मम्दूदा।"
+  },
+  {
+   "id": "quran_074_013",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 13,
+   "arabic": "وَبَنِينَ شُهُودًا",
+   "transliteration": null,
+   "hindi": "और उपस्थित रहने वाले बेटे[3] दिए।",
+   "hindi_footnotes": "[3] जो उसकी सेवा में उपस्थित रहते हैं। कहा गया है कि इससे अभिप्राय वलीद बिन मुग़ीरह है, जिसके दस पुत्र थे।",
+   "urdu": "اور حاضر باش فرزند بھی.[1]",
+   "urdu_footnotes": "[1] اسے اللہ نے اولاد سے نوازا تھا اور وہ ہر وقت اس کے پاس ہی رہتے تھے، گھر میں دولت کی فروانی تھی، اس لئے بیٹوں کو تجارت و کاروبار کے لئے باہر جانے کی ضرورت پیش نہیں آتی تھی بعض کہتے ہیں کہ اس کے تین بیٹے مسلمان ہوگئے تھے، خالد، ہشام اور ولید بن ولید (فتح القدیر)",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वबनीन शुहूदा।"
+  },
+  {
+   "id": "quran_074_014",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 14,
+   "arabic": "وَمَهَّدتُّ لَهُۥ تَمْهِيدًا",
+   "transliteration": null,
+   "hindi": "और मैंने उसे प्रत्येक प्रकार का संसाधन दिया।",
+   "hindi_footnotes": null,
+   "urdu": "اور میں نے اسے بہت کچھ کشادگی دے رکھی ہے.[1]",
+   "urdu_footnotes": "[1] یعنی مال و دولت میں ریاست و سرداری میں اور درازی عمر میں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वमह्हत्तु लहू तम्हीदा।"
+  },
+  {
+   "id": "quran_074_015",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 15,
+   "arabic": "ثُمَّ يَطْمَعُ أَنْ أَزِيدَ",
+   "transliteration": null,
+   "hindi": "फिर वह लोभ रखता है कि मैं उसे और अधिक दूँ।",
+   "hindi_footnotes": null,
+   "urdu": "پھر بھی اس کی چاہت ہے کہ میں اسے اور زیاده دوں.[1]",
+   "urdu_footnotes": "[1] یعنی کفرو معصیت کے باوجود، اس کی خواہش ہے کہ میں اسے زیادہ دوں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "सुम्म यत्मउ अन अज़ीद।"
+  },
+  {
+   "id": "quran_074_016",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 16,
+   "arabic": "كَلَّآ ۖ إِنَّهُۥ كَانَ لِـَٔايَـٰتِنَا عَنِيدًا",
+   "transliteration": null,
+   "hindi": "कदापि नहीं! निश्चय वह हमारी आयतों का सख़्त विरोधी है।",
+   "hindi_footnotes": null,
+   "urdu": "نہیں نہیں، [1] وه ہماری آیتوں کا مخالف ہے.[2]",
+   "urdu_footnotes": "[1] یعنی میں اسے زیادہ نہیں دونگا۔\n[2] یہ کلا کی علت ہے۔ عنید اس شخص کو کہتے ہیں جو جاننے کے باوجود حق کی مخالفت کرے اور اس کو رد کرے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "कल्ला इन्नहू कान इयातिना अनीदा।"
+  },
+  {
+   "id": "quran_074_017",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 17,
+   "arabic": "سَأُرْهِقُهُۥ صَعُودًا",
+   "transliteration": null,
+   "hindi": "शीघ्र ही मैं उसे एक कठोर चढ़ाई[4] चढ़ाऊँगा।",
+   "hindi_footnotes": "[4] अर्थात कड़ी यातना दूँगा। (इब्ने कसीर)",
+   "urdu": "عنقریب میں اسے ایک سخت چڑھائی چڑھاؤں گا.[1]",
+   "urdu_footnotes": "[1] یعنی ایسے عذاب میں مبتلا کروں گا جس کا برداشت کرنا نہایت سخت ہوگا، بعض کہتے ہیں، جہنم میں آگ کا پہاڑ ہوگا جس پر اس کو چڑھایا جائے گا۔ ارھاق کے معنی ہیں۔ انسان پر بھاری چیز لاد دینا۔ (فتح القدیر)",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "सउर्हिक़ुहू सऊदा।"
+  },
+  {
+   "id": "quran_074_018",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 18,
+   "arabic": "إِنَّهُۥ فَكَّرَ وَقَدَّرَ",
+   "transliteration": null,
+   "hindi": "निःसंदेह उसने सोच-विचार किया और बात बनाई।[5]",
+   "hindi_footnotes": "[5] क़ुरआन के संबंध में प्रश्न किया गया तो वह सोचने लगा कि कौन सी बात बनाए और उसके बारे में क्या कहे? (इब्ने कसीर)",
+   "urdu": "اس نے غور کرکے تجویز کی.[1]",
+   "urdu_footnotes": "[1] یعنی قرآن اور نبی (صلى الله عليه وسلم) کا پیغام سن کر، اس نے اس امر پر غور کیا کہ میں اس کا جواب دوں؟ اور اپنے جی میں اس نے وہ تیار کیا۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "इन्नहू फ़क्कर वक़द्दर।"
+  },
+  {
+   "id": "quran_074_019",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 19,
+   "arabic": "فَقُتِلَ كَيْفَ قَدَّرَ",
+   "transliteration": null,
+   "hindi": "तो वह मारा जाए! उसने कैसी कैसी बात बनाई?",
+   "hindi_footnotes": null,
+   "urdu": "اسے ہلاکت ہو کیسی (تجویز) سوچی؟",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़क़ुतिल कैफ़ क़द्दर।"
+  },
+  {
+   "id": "quran_074_020",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 20,
+   "arabic": "ثُمَّ قُتِلَ كَيْفَ قَدَّرَ",
+   "transliteration": null,
+   "hindi": "फिर मारा जाए! उसने कैसी बात बनाई?",
+   "hindi_footnotes": null,
+   "urdu": "وه پھر غارت ہو کس طرح اندازه کیا.[1]",
+   "urdu_footnotes": "[1] یہ اس کے حق میں بد دعائیہ کلمے ہیں، کہ ہلاک ہو، مارا جائے، کیا بات اس نے سوچی ہے؟",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "सुम्म क़ुतिल कैफ़ क़द्दर।"
+  },
+  {
+   "id": "quran_074_021",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 21,
+   "arabic": "ثُمَّ نَظَرَ",
+   "transliteration": null,
+   "hindi": "फिर उसने देखा।",
+   "hindi_footnotes": null,
+   "urdu": "اس نے پھر دیکھا.[1]",
+   "urdu_footnotes": "[1] یعنی پھر غور کیا کہ قرآن کا رو کس طرح ممکن ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "सुम्म नज़र।"
+  },
+  {
+   "id": "quran_074_022",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 22,
+   "arabic": "ثُمَّ عَبَسَ وَبَسَرَ",
+   "transliteration": null,
+   "hindi": "फिर उसने त्योरी चढ़ाई और मुँह बनाया।",
+   "hindi_footnotes": null,
+   "urdu": "پھر تیوری چڑھائی اور منھ بنایا.[1]",
+   "urdu_footnotes": "[1] یعنی جواب سوچتے وقت چہرے کی سلوٹیں بدلیں، اور منہ بسورا، جیسا کہ عمومًا کسی مشکل بات پر غور کرتے وقت آدمی ایسا کرتا ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "सुम्म अबस वबसर।"
+  },
+  {
+   "id": "quran_074_023",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 23,
+   "arabic": "ثُمَّ أَدْبَرَ وَٱسْتَكْبَرَ",
+   "transliteration": null,
+   "hindi": "फिर उसने पीठ फेरी और घमंड किया।",
+   "hindi_footnotes": null,
+   "urdu": "پھر پیچھے ہٹ گیا اور غرور کیا.[1]",
+   "urdu_footnotes": "[1] یعنی حق سے اعرض کیا اور ایمان لانے سے تکبر کیا۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "सुम्म अद्बर वस्तक्बर।"
+  },
+  {
+   "id": "quran_074_024",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 24,
+   "arabic": "فَقَالَ إِنْ هَـٰذَآ إِلَّا سِحْرٌ يُؤْثَرُ",
+   "transliteration": null,
+   "hindi": "फिर उसने कहा : यह तो मात्र एक जादू है, जो (पहलों से) नक़ल (उद्धृत) किया जाता है।[6]",
+   "hindi_footnotes": "[6] अर्थात मुह़म्मद (सल्लल्लाहु अलैहि व सल्लम) ने यह किसी से सीख लिया है। कहा जाता है कि वलीद बिन मुग़ीरह ने अबू जह्ल से कहा था कि लोगों में क़ुरआन के जादू होने का प्रचार किया जाए।",
+   "urdu": "اور کہنے لگا تو یہ صرف جادو ہے جو نقل کیا جاتا ہے.[1]",
+   "urdu_footnotes": "[1] یعنی کسی سے یہ سیکھ آیا ہے اور وہاں سے نقل کر لایا ہے اور دعویٰ کر دیا کہ اللہ کا نازل کردہ ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़क़ाल इन हाज़ा इल्ला सिह्रुन युअसर।"
+  },
+  {
+   "id": "quran_074_025",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 25,
+   "arabic": "إِنْ هَـٰذَآ إِلَّا قَوْلُ ٱلْبَشَرِ",
+   "transliteration": null,
+   "hindi": "यह तो मात्र मनुष्य[7] की वाणी है।",
+   "hindi_footnotes": "[7] अर्थात अल्लाह की वाणी नहीं है।",
+   "urdu": "سوائے انسانی کلام کے کچھ بھی نہیں ہے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "इन हाज़ा इल्ला क़ौलुल् बशर।"
+  },
+  {
+   "id": "quran_074_026",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 26,
+   "arabic": "سَأُصْلِيهِ سَقَرَ",
+   "transliteration": null,
+   "hindi": "मैं उसे शीघ्र ही 'सक़र' (जहन्नम) में झोंक दूँगा।",
+   "hindi_footnotes": null,
+   "urdu": "میں عنقریب اسے دوزخ میں ڈالوں گا.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "सउस्लीहि सक़र।"
+  },
+  {
+   "id": "quran_074_027",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 27,
+   "arabic": "وَمَآ أَدْرَىٰكَ مَا سَقَرُ",
+   "transliteration": null,
+   "hindi": "और आपको किस चीज़ ने अवगत कराया कि 'सक़र' (जहन्नम) क्या है?",
+   "hindi_footnotes": null,
+   "urdu": "اور تجھے کیا خبر کہ دوزخ کیا چیز ہے؟[1]",
+   "urdu_footnotes": "[1] دوزخ کے ناموں یا درجات ایک کا نام سَقَرُ بھی ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वमा अद्राक मा सक़र।"
+  },
+  {
+   "id": "quran_074_028",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 28,
+   "arabic": "لَا تُبْقِى وَلَا تَذَرُ",
+   "transliteration": null,
+   "hindi": "वह न शेष रखेगी और न छोड़ेगी।",
+   "hindi_footnotes": null,
+   "urdu": "نہ وه باقی رکھتی ہے نہ چھوڑتی ہے.[1]",
+   "urdu_footnotes": "[1] ان کے جسموں پر گوشت چھوڑے گی نہ ہڈی، یا مطلب ہے جہنمیوں کو زندہ چھوڑے گی نہ مردہ'لا یموت فیھا و لا یحیٰ",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "ला तुब्क़ी वला तज़र।"
+  },
+  {
+   "id": "quran_074_029",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 29,
+   "arabic": "لَوَّاحَةٌ لِّلْبَشَرِ",
+   "transliteration": null,
+   "hindi": "वह खाल को झुलस देने वाली है।",
+   "hindi_footnotes": null,
+   "urdu": "کھال کو جھلسا دیتی ہے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "लव्वाहतुल्लिल्बशर।"
+  },
+  {
+   "id": "quran_074_030",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 30,
+   "arabic": "عَلَيْهَا تِسْعَةَ عَشَرَ",
+   "transliteration": null,
+   "hindi": "उसपर उन्नीस (फ़रिश्ते) नियुक्त हैं।",
+   "hindi_footnotes": null,
+   "urdu": "اور اس میں انیس (فرشتے مقرر) ہیں.[1]",
+   "urdu_footnotes": "[1] یعنی جہنم پر بطور دربان ١٩ فرشتے مقرر ہیں",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अलैहा तिस्अत अशर।"
+  },
+  {
+   "id": "quran_074_031",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 31,
+   "arabic": "وَمَا جَعَلْنَآ أَصْحَـٰبَ ٱلنَّارِ إِلَّا مَلَـٰٓئِكَةً ۙ وَمَا جَعَلْنَا عِدَّتَهُمْ إِلَّا فِتْنَةً لِّلَّذِينَ كَفَرُوا۟ لِيَسْتَيْقِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَيَزْدَادَ ٱلَّذِينَ ءَامَنُوٓا۟ إِيمَـٰنًا ۙ وَلَا يَرْتَابَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ وَٱلْمُؤْمِنُونَ ۙ وَلِيَقُولَ ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ وَٱلْكَـٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَـٰذَا مَثَلًا ۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهْدِى مَن يَشَآءُ ۚ وَمَا يَعْلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَ ۚ وَمَا هِىَ إِلَّا ذِكْرَىٰ لِلْبَشَرِ",
+   "transliteration": null,
+   "hindi": "और हमने जहन्नम के रक्षक फ़रिश्ते ही बनाए हैं और उनकी संख्या को काफ़िरों के लिए परीक्षण बनाया है। ताकि अह्ले किताब[8] विश्वास कर लें और ईमान वाले ईमान में आगे बढ़ जाएँ। और किताब वाले एवं ईमान वाले किसी संदेह में न पड़ें। और ताकि वे लोग जिनके दिलों में रोग है और वे लोग जो काफ़िर[9] हैं, यह कहें कि इस उदाहरण से अल्लाह का क्या तात्पर्य है? ऐसे ही, अल्लाह जिसे चाहता है गुमराह करता है और जिसे चाहता है सीधा मार्ग दिखाता है। और आपके पालनहार की सेनाओं को उसके सिवा कोई नहीं जानता। और यह तो केवल मनुष्य के लिए उपदेश है।",
+   "hindi_footnotes": "[8] क्योंकि यहूदियों तथा ईसाइयों की पुस्तकों में भी नरक के अधिकारियों की यही संख्या बताई गई है।\n[9] जब क़ुरैश ने नरक के अधिकारियों की चर्चा सुनी, तो अबू जह्ल ने कहा : ऐ क़ुरैश के समूह! क्या तुम में से दस-दस लोग, एक-एक फ़रिश्ते के लिए काफ़ी नहीं हैं? और एक व्यक्ति ने जिसे अपने बल पर बड़ा गर्व था कहा कि 17 को मैं अकेला देख लूँगा। और तुम सब मिलकर दो को देख लेना। (इब्ने कसीर)",
+   "urdu": "ہم نے دوزخ کے داروغے صرف فرشتے رکھے ہیں۔ اور ہم نے ان کی تعداد صرف کافروں کی آزمائش کے لیے مقرر کی ہے[1] تاکہ اہل کتاب یقین کرلیں[2]، اوراہل ایمان کے ایمان میں اضافہ ہو جائے[3] اور اہل کتاب اور اہل ایمان شک نہ کریں اور جن کے دلوں میں بیماری ہے وه اور کافر کہیں کہ اس بیان سے اللہ تعالیٰ کی کیا مراد ہے[4]؟ اسی طرح اللہ تعالیٰ جسے چاہتا ہے گمراه کرتا ہے اور جسے چاہتا ہے ہدایت دیتا ہے[5]۔ تیرے رب کے لشکروں کو اس کے سوا کوئی نہیں جانتا[6]، یہ تو کل بنی آدم کے لیے سراسر پند ونصیحت ہے.[7]",
+   "urdu_footnotes": "[1] یہ مشرکین قریش کا رد ہے، جب جہنم کے دروغوں کا اللہ نے ذکر فرمایا تو ابو جہل نے جماعت قریش کو خطاب کرتے ہوئے کہا کہ کیا تم میں سے ہر دس آدمیوں کا گروپ، ایک ایک فرشتے کے لئے کافی نہیں ہوگا، بعض کہتے ہیں کہ کالدہ نامی شخص نے اپنی طاقت پر بڑا گھمنڈ تھا، کہا، تم سب صرف دو فرشتے سنبھال لینا، ١٧ فرشتوں کو تو میں اکیلا ہی کافی ہوں۔ کہتے ہیں اس نے رسول اللہ (صلى الله عليه وسلم) کو کشتی کا بھی کئی مرتبہ چلینج دیا اور ہر مرتبہ شکست کھائی مگر ایمان نہیں لایا، کہتے ہیں اس کے علاوہ رکانہ بن عبد یزید کے ساتھ بھی آپ (صلى الله عليه وسلم) نے کشتی لڑی تھی لیکن وہ شکست کھا کر مسلمان ہوگئے تھے (ابن کثیر) مطلب یہ کہ یہ تعداد بھی ان کے مذاق یا آزمائش کا سبب بن گئی۔\n[2] یعنی جان لیں کہ رسول برحق ہے اور اس نے وہی بات کی ہے جو پچھلی کتابوں میں بھی درج ہے۔\n[3] کہ اہل کتاب نے ان کے پیغمبر کی بات کی تصدیق کی ہے ۔\n[4] بیمار دلوں سے مراد منافقین ہیں یا پھر وہ جن کے دلوں میں شکوک تھے کیونکہ مکہ میں منافقین نہیں تھے۔ یعنی یہ پوچھیں گے کہ اس تعداد کو یہاں ذکر کرنے میں اللہ کی کیا حکمت ہے؟\n[5] یعنی گذشتہ گمراہی کی طرح جسے چاہتا ہے گمراہ اور جسے چاہتا ہے، راہ یاب کر دیتا ہے، اس میں حکمت بالغہ ہوتی ہے اسے صرف اللہ ہی جانتا ہے۔\n[6] یعنی کفار و مشرکین سمجھتے ہیں کہ جہنم میں 19 فرشتے ہی تو ہیں، جن پر قابو پانا کون سا مشکل کام ہے؟ لیکن ان کو معلوم نہیں کہ رب کے لشکر تو اتنے ہیں جنہیں اللہ کے سوا کوئی نہیں جانتا ہی نہیں۔ صرف فرشتے ہی اتنی تعداد میں ہیں کہ 70 ہزار فرشتے روزانہ اللہ کی عبادت کے لئے بیت المعمور میں داخل ہوتے ہیں، پھر قیامت تک ان کی باری نہیں آئے گی۔ (صحیح بخاری)\n[7] یعنی یہ جہنم اور اس پر مقرر فرشتے، انسانوں کی پند و نصیحت کے لئے ہیں کہ شاید وہ نافرمانیوں سے باز آجائیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वमा जअल्ना अस्हाबन्नारि इल्ला मलाइकतन वमा जअल्ना इद्दतहुम इल्ला फ़ित्नतल्लिल्लज़ीन कफ़रू लियस्तैक़िनल्लज़ीन ऊतुल् किताब वयज़्दादल्लज़ीन आमनू ईमानन वला यर्ताबल्लज़ीन ऊतुल् किताब वल्मुअमिनून वलियक़ूलल्लज़ीन फ़ी क़ुलूबिहिम्मरज़ुन वल्काफ़िरून माज़ा अरादल्लाहु बिहाज़ा मसलन कज़ालिक युज़िल्लुल्लाहु मन यशाउ वयह्दी मन यशाउ वमा यअलमु जुनूद रब्बिक इल्ला हुव वमा हिय इल्ला ज़िक्रा लिल्बशर।"
+  },
+  {
+   "id": "quran_074_032",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 32,
+   "arabic": "كَلَّا وَٱلْقَمَرِ",
+   "transliteration": null,
+   "hindi": "कदापि नहीं, क़सम है चाँद की!",
+   "hindi_footnotes": null,
+   "urdu": "سچ کہتا ہوں[1] قسم ہے چاند کی.",
+   "urdu_footnotes": "[1] کلا یہ اہل مکہ کے خیالات کی نفی ہے یعنی جو وہ سمجھتے ہیں کہ ہم فرشتوں کو مغلوب کر لیں گے ہر گز ایسا نہیں ہوگا۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "कल्ला वल्क़मर।"
+  },
+  {
+   "id": "quran_074_033",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 33,
+   "arabic": "وَٱلَّيْلِ إِذْ أَدْبَرَ",
+   "transliteration": null,
+   "hindi": "तथा रात की, जब वह जाने लगे!",
+   "hindi_footnotes": null,
+   "urdu": "اور رات کی جب وه پیچھے ہٹے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वल्लैलि इज़ अद्बर।"
+  },
+  {
+   "id": "quran_074_034",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 34,
+   "arabic": "وَٱلصُّبْحِ إِذَآ أَسْفَرَ",
+   "transliteration": null,
+   "hindi": "और सुबह की, जब वह प्रकाशित हो जाए!",
+   "hindi_footnotes": null,
+   "urdu": "اور صبح کی جب کہ روشن ہو جائے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वस्सुब्हि इज़ा अस्फ़र।"
+  },
+  {
+   "id": "quran_074_035",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 35,
+   "arabic": "إِنَّهَا لَإِحْدَى ٱلْكُبَرِ",
+   "transliteration": null,
+   "hindi": "निःसंदेह वह (जहन्नम) निश्चय बहुत बड़ी चीज़ों[10] में से एक है।",
+   "hindi_footnotes": "[10] अर्थात जैसे रात्रि के पश्चात दिन होता है, उसी प्रकार कर्मों का भी परिणाम सामने आना है। और दुष्कर्मों का परिणाम नरक है।",
+   "urdu": "کہ (یقیناً وه جہنم) بڑی چیزوں میں سے ایک ہے.[1]",
+   "urdu_footnotes": "[1] یہ جواب قسم ہے کُبَر، کُبْرَیٰ کی جمع ہے تین نہایت اہم چیزوں کی قسموں کے بعد اللہ نے جہنم کی بڑائی اور ہولناکی کو بیان کیا ہے جس سے اس کی بڑائی میں کوئی شک نہیں رہتا۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "इन्नहा लइह्दल् कुबर।"
+  },
+  {
+   "id": "quran_074_036",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 36,
+   "arabic": "نَذِيرًا لِّلْبَشَرِ",
+   "transliteration": null,
+   "hindi": "मनुष्य के लिए डराने वाली है।",
+   "hindi_footnotes": null,
+   "urdu": "بنی آدم کو ڈرانے والی.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "नज़ीरल्लिल्बशर।"
+  },
+  {
+   "id": "quran_074_037",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 37,
+   "arabic": "لِمَن شَآءَ مِنكُمْ أَن يَتَقَدَّمَ أَوْ يَتَأَخَّرَ",
+   "transliteration": null,
+   "hindi": "तुम में से उसके लिए, जो आगे बढ़ना चाहे अथवा पीछे हटना चाहे।[11]",
+   "hindi_footnotes": "[11] अर्थात आज्ञापालन द्वारा अग्रसर हो जाए, अथवा अवज्ञा करके पीछे रह जाए।",
+   "urdu": "(یعنی) اسے[1] جو تم میں سے آگے بڑھنا چاہے یا پیچھے ہٹنا چاہے.[2]",
+   "urdu_footnotes": "[1] یعنی یہ جہنم ڈرانے والی ہے یا نذیر سے مراد نبی کریم (صلى الله عليه وسلم) ہیں یا قرآن بھی اپنے بیان کردہ وعد و وعید کے اعتبار سے انسانوں کے لئے نذیر ہے۔\n[2] یعنی ایمان واطاعت میں آگے بڑھنا چاہیے یا اس سے پیچھے ہٹنا چاہیے مطلب ہے کہ انداز ہر ایک کے لیے ہے جو ایمان لائے یا کفر کرے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "लिमन शाअ मिन्कुम अन यतक़द्दम औ यतअख़्ख़र।"
+  },
+  {
+   "id": "quran_074_038",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 38,
+   "arabic": "كُلُّ نَفْسٍۭ بِمَا كَسَبَتْ رَهِينَةٌ",
+   "transliteration": null,
+   "hindi": "प्रत्येक व्यक्ति उसके बदले जो उसने कमाया, गिरवी[12] रखा हुआ है।",
+   "hindi_footnotes": "[12] यदि सत्कर्म किया, तो मुक्त हो जाएगा।",
+   "urdu": "ہر شخص اپنے اعمال کے بدلے میں گروی ہے.[1]",
+   "urdu_footnotes": "[1] رہن گروی کو کہتے ہیں یعنی ہر شخص اپنے عمل کا گروی ہے، وہ عمل اسے عذاب سے چھڑا لے گا، (اگر نیک ہوگا) یا ہلاک کروا دے گا۔ (اگر برا ہے)",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "कुल्लु नफ़्सिम बिमा कसबत रहीनह।"
+  },
+  {
+   "id": "quran_074_039",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 39,
+   "arabic": "إِلَّآ أَصْحَـٰبَ ٱلْيَمِينِ",
+   "transliteration": null,
+   "hindi": "सिवाय दाहिने वालों के।",
+   "hindi_footnotes": null,
+   "urdu": "مگر دائیں ہاتھ والے.[1]",
+   "urdu_footnotes": "[1] یعنی وہ اپنے گناہوں کے اسیر نہیں ہوں گے بلکہ اپنے نیک اعمال کی وجہ سے آزاد ہونگے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "इल्ला अस्हाबल् यमीन।"
+  },
+  {
+   "id": "quran_074_040",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 40,
+   "arabic": "فِى جَنَّـٰتٍ يَتَسَآءَلُونَ",
+   "transliteration": null,
+   "hindi": "वे जन्नतों में एक-दूसरे से पूछेंगे।",
+   "hindi_footnotes": null,
+   "urdu": "کہ وه بہشتوں میں (بیٹھے ہوئے) گناه گاروں سے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़ी जन्नातिन यतसाअलून।"
+  },
+  {
+   "id": "quran_074_041",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 41,
+   "arabic": "عَنِ ٱلْمُجْرِمِينَ",
+   "transliteration": null,
+   "hindi": "अपराधियों के बारे में।",
+   "hindi_footnotes": null,
+   "urdu": "سوال کرتے ہوں گے.[1]",
+   "urdu_footnotes": "[1] فی الجنات،اصحاب الیمین سے غال ہےاہل جنت بالاخانوں میں بیٹھے، جہنمیوں سے سوال کریں گے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अनिल् मुज्रिमीन।"
+  },
+  {
+   "id": "quran_074_042",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 42,
+   "arabic": "مَا سَلَكَكُمْ فِى سَقَرَ",
+   "transliteration": null,
+   "hindi": "तुम्हें किस चीज़ ने जहन्नम में डाला?",
+   "hindi_footnotes": null,
+   "urdu": "تمہیں دوزخ میں کس چیز نے ڈاﻻ.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "मा सलककुम फ़ी सक़र।"
+  },
+  {
+   "id": "quran_074_043",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 43,
+   "arabic": "قَالُوا۟ لَمْ نَكُ مِنَ ٱلْمُصَلِّينَ",
+   "transliteration": null,
+   "hindi": "वे कहेंगे : हम नमाज़ पढ़ने वालों में से न थे।",
+   "hindi_footnotes": null,
+   "urdu": "وه جواب دیں گے کہ ہم نمازی نہ تھے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "क़ालू लम नकु मिनल् मुसल्लीन।"
+  },
+  {
+   "id": "quran_074_044",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 44,
+   "arabic": "وَلَمْ نَكُ نُطْعِمُ ٱلْمِسْكِينَ",
+   "transliteration": null,
+   "hindi": "और न हम निर्धन को खाना खिलाते थे।",
+   "hindi_footnotes": null,
+   "urdu": "نہ مسکینوں کو کھانا کھلاتے تھے.[1]",
+   "urdu_footnotes": "[1] نماز حقوق اللہ میں سے اور مساکین کو کھانا کھلانا حقوق العباد میں سے ہے مطلب یہ ہوا کہ ہم نے اللہ کے حقوق ادا کیے نہ بندوں کے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वलम नकु नुत्इमुल् मिस्कीन।"
+  },
+  {
+   "id": "quran_074_045",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 45,
+   "arabic": "وَكُنَّا نَخُوضُ مَعَ ٱلْخَآئِضِينَ",
+   "transliteration": null,
+   "hindi": "और हम बेहूदा बहस करने वालों के साथ मिलकर व्यर्थ बहस किया करते थे।",
+   "hindi_footnotes": null,
+   "urdu": "اور ہم بحﺚ کرنے والے (انکاریوں) کا ساتھ دے کر بحﺚ مباحثہ میں مشغول رہا کرتے تھے.[1]",
+   "urdu_footnotes": "[1] یعنی کج بحثی اور گمراہی کی حمایت میں سرگرمی سے حصہ لیتے تھے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वकुन्ना नख़ूज़ु मअल् ख़ाइज़ीन।"
+  },
+  {
+   "id": "quran_074_046",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 46,
+   "arabic": "وَكُنَّا نُكَذِّبُ بِيَوْمِ ٱلدِّينِ",
+   "transliteration": null,
+   "hindi": "और हम बदले के दिन को झुठलाया करते थे।",
+   "hindi_footnotes": null,
+   "urdu": "اور روز جزا کو جھٹلاتے تھے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वकुन्ना नुकज़्ज़िबु बियौमिद्दीन।"
+  },
+  {
+   "id": "quran_074_047",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 47,
+   "arabic": "حَتَّىٰٓ أَتَىٰنَا ٱلْيَقِينُ",
+   "transliteration": null,
+   "hindi": "यहाँ तक कि मौत हमारे पास आ गई।",
+   "hindi_footnotes": null,
+   "urdu": "یہاں تک کہ ہمیں موت آگئی.[1]",
+   "urdu_footnotes": "[1] یقین کے معنی موت کے ہیں، جیسے دوسرے مقام پر ہے۔ واعبد ربک حتی یاتیک الیقین» (الحجر: 99)",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "हत्ता अतानल् यक़ीन।"
+  },
+  {
+   "id": "quran_074_048",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 48,
+   "arabic": "فَمَا تَنفَعُهُمْ شَفَـٰعَةُ ٱلشَّـٰفِعِينَ",
+   "transliteration": null,
+   "hindi": "तो उन्हें सिफ़ारिश करने वालों की सिफ़ारिश लाभ नहीं देगी।[13]",
+   "hindi_footnotes": "[13] अर्थात नबियों और फ़रिश्तों इत्यादि की। किंतु जिससे अल्लाह प्रसन्न हो और उसके लिए सिफ़ारिश की अनुमति दे।",
+   "urdu": "پس انہیں سفارش کرنے والوں کی سفارش نفع نہ دے گی.[1]",
+   "urdu_footnotes": "[1] یعنی جو صفات مذکورہ کا حامل ہوگا، اسے کسی کی شفاعت بھی فائدہ نہیں پہنچائے گی، اس لئے کہ کفر کی وجہ سے محل شفاعت ہی نہیں ہوگا، شفاعت تو صرف ان کے لئے مفید ہوگی جو ایمان کی وجہ سے شفاعت کے قابل ہونگے۔اللہ کی طرف سے شفاعت کی اجازت بھی انہی کے لئے ملے گی نہ کہ ہر ایک کے لئے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़मा तन्फ़उहुम शफ़ाअतुश्शाफ़िईन।"
+  },
+  {
+   "id": "quran_074_049",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 49,
+   "arabic": "فَمَا لَهُمْ عَنِ ٱلتَّذْكِرَةِ مُعْرِضِينَ",
+   "transliteration": null,
+   "hindi": "तो उन्हें क्या हो गया है कि उपदेश से मुँह फेर रहे हैं?",
+   "hindi_footnotes": null,
+   "urdu": "انہیں کیا ہو گیا ہے؟ کہ نصیحت سے منھ موڑ رہے ہیں.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़मा लहुम अनित्तज़्किरति मुअरिज़ीन।"
+  },
+  {
+   "id": "quran_074_050",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 50,
+   "arabic": "كَأَنَّهُمْ حُمُرٌ مُّسْتَنفِرَةٌ",
+   "transliteration": null,
+   "hindi": "जैसे वे सख़्त बिदकने वाले गधे हैं।",
+   "hindi_footnotes": null,
+   "urdu": "گویا کہ وه بِدکے ہوئے گدھے ہیں.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "कअन्नहुम हुमुरुम्मुस्तन्फ़िरह।"
+  },
+  {
+   "id": "quran_074_051",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 51,
+   "arabic": "فَرَّتْ مِن قَسْوَرَةٍۭ",
+   "transliteration": null,
+   "hindi": "जो शेर से भागे हैं।",
+   "hindi_footnotes": null,
+   "urdu": "جو شیر سے بھاگے ہوں.[1]",
+   "urdu_footnotes": "[1] یعنی یہ حق سے نفرت اور اعراض کرنے میں ایسے ہیں جیسے وحشی، خوف زدہ گدھے، شیر سے بھاگتے ہیں جب وہ ان کا شکار کرنا چاہیے۔قسورۃ'بمعنی شیر بعض نے تئر انداز معنی بھی کئے ہیں ۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़र्रत मिन क़स्वरह।"
+  },
+  {
+   "id": "quran_074_052",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 52,
+   "arabic": "بَلْ يُرِيدُ كُلُّ ٱمْرِئٍ مِّنْهُمْ أَن يُؤْتَىٰ صُحُفًا مُّنَشَّرَةً",
+   "transliteration": null,
+   "hindi": "बल्कि उनमें से प्रत्येक व्यक्ति चाहता है कि उसे खुली पुस्तकें[14] दी जाएँ।",
+   "hindi_footnotes": "[14] अर्थात वे चाहते हैं कि प्रत्येक के ऊपर वैसे ही पुस्तक उतारी जाए, जैसे मुह़म्मद (सल्लल्लाहु अलैहि व सल्लम) पर उतारी गई है। तब वे ईमान लाएँगे। (इब्ने कसीर)",
+   "urdu": "بلکہ ان میں سے ہر شخص چاہتا ہے کہ اسے کھلی ہوئی کتابیں دی جائیں.[1]",
+   "urdu_footnotes": "[1] یعنی ہر ایک کے ہاتھ میں اللہ کی طرف سے ایک ایک کتاب مفتوح نازل ہو جس میں لکھا ہو کہ محمد (صلی اللہ علیہ وسلم) اللہ کے رسول ہیں۔ بعض نے اس کا مفہوم یہ بیان کیا ہے کہ بغیر عمل کے یہ عذاب سے چھٹکارہ چاہتے ہیں، یعنی ہر ایک کو پروانہ نجات مل جائے۔ (ابن کثیر)",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "बल युरीदु कुल्लुम्रिइम्मिन्हुम अन युअता सुहुफ़म्मुनश्शरह।"
+  },
+  {
+   "id": "quran_074_053",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 53,
+   "arabic": "كَلَّا ۖ بَل لَّا يَخَافُونَ ٱلْـَٔاخِرَةَ",
+   "transliteration": null,
+   "hindi": "ऐसा कदापि नहीं हो सकता, बल्कि वे आख़िरत से नहीं डरते।",
+   "hindi_footnotes": null,
+   "urdu": "ہرگز ایسا نہیں (ہوسکتا بلکہ) یہ قیامت سے بے خوف ہیں.[1]",
+   "urdu_footnotes": "[1] یعنی ان کے فساد کی وجہ سے ان کا آخرت پر عدم ایمان اور اس کی تکذیب ہے جس نے انہیں بےخوف کر دیا ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "कल्ला बल ल्ला यख़ाफ़ूनआख़िरह।"
+  },
+  {
+   "id": "quran_074_054",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 54,
+   "arabic": "كَلَّآ إِنَّهُۥ تَذْكِرَةٌ",
+   "transliteration": null,
+   "hindi": "हरगिज़ नहीं, निश्चय यह (क़ुरआन) एक उपदेश (याददेहानी) है।",
+   "hindi_footnotes": null,
+   "urdu": "سچی بات تو یہ ہے کہ یہ (قرآن) ایک نصیحت ہے.[1]",
+   "urdu_footnotes": "[1] لیکن اس کے لئے جو اس قرآن کے واعظ اور نصیحت سے عبرت حاصل کرنا چاہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "कल्ला इन्नहू तज़्किरह।"
+  },
+  {
+   "id": "quran_074_055",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 55,
+   "arabic": "فَمَن شَآءَ ذَكَرَهُۥ",
+   "transliteration": null,
+   "hindi": "अतः जो चाहे, उससे नसीहत प्राप्त करे।",
+   "hindi_footnotes": null,
+   "urdu": "اب جو چاہے اس سے نصیحت حاصل کرے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़मन शाअ ज़करह।"
+  },
+  {
+   "id": "quran_074_056",
+   "category": "quran",
+   "surah": 74,
+   "ayah": 56,
+   "arabic": "وَمَا يَذْكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ ۚ هُوَ أَهْلُ ٱلتَّقْوَىٰ وَأَهْلُ ٱلْمَغْفِرَةِ",
+   "transliteration": null,
+   "hindi": "और वे नसीहत प्राप्त नहीं कर सकते, परंतु यह कि अल्लाह चाहे। वही इस योग्य है कि उससे डरा जाए और वही इस योग्य है कि क्षमा करे।",
+   "hindi_footnotes": null,
+   "urdu": "اور وه اس وقت نصیحت حاصل کریں گے جب اللہ تعالیٰ چاہے[1] ، وه اسی ﻻئق ہے کہ اس سے ڈریں اور اس ﻻئق بھی کہ وه بخشے.[2]",
+   "urdu_footnotes": "[1] یعنی اس قرآن سے ہدایت اور نصیحت اسے ہی حاصل ہوگی جسے اللہ چاہے گا۔\n[2] یعنی وہ اللہ ہی اس لائق ہے اس سے ڈرا جائے اور وہی معاف کرنے کے اختیارات رکھتا ہے۔ اس لئے وہی اس بات کا مستحق ہے کہ اس کی اطاعت کی جائے اور اسکی نافرمانی سے بچا جائے تاکہ انسان اس کی مغفرت و رحمت کا سزاوار قرار پائے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वमा यज़्कुरून इल्ला अन यशाअल्लाहु हुव अह्लुत्तक़्वा वअह्लुल् मग़्फ़िरह।"
+  }
+ ]
+}

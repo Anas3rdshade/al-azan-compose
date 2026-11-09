@@ -1,0 +1,991 @@
+{
+ "surah": 52,
+ "name_arabic": "سُورَةُ الطُّورِ",
+ "name_en": "At-Tur",
+ "translation_versions": {
+  "hindi_omari": "1.1.5",
+  "urdu_junagarhi": "1.1.3"
+ },
+ "ayahs": [
+  {
+   "id": "quran_052_001",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 1,
+   "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلطُّورِ",
+   "transliteration": null,
+   "hindi": "क़सम है तूर[1] (पर्वत) की!",
+   "hindi_footnotes": "[1] यह उस पर्वत का नाम है जिसपर मूसा (अलैहिस्सलाम) ने अल्लाह से वार्तालाप की थी।",
+   "urdu": "قسم ہے طور کی.[1]",
+   "urdu_footnotes": "[1] طُورٌ وہ پہاڑ ہے جس پر حضرت موسیٰ (عليه السلام) اللہ سے ہم کلام ہوئے۔ اسے طور سینا، بھی کہا جاتا ہے۔ اللہ نے اس کے اسی شرف کی بنا پر اس کی قسم کھائی ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "बिस्मिल्लाहिर्रह्मानिर्रहीम। वत्तूर।"
+  },
+  {
+   "id": "quran_052_002",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 2,
+   "arabic": "وَكِتَـٰبٍ مَّسْطُورٍ",
+   "transliteration": null,
+   "hindi": "और एक पुस्तक[2] की जो लिखी हुई है!",
+   "hindi_footnotes": "[2] इससे अभिप्राय क़ुरआन है।",
+   "urdu": "اور لکھی ہوئی کتاب کی.[1]",
+   "urdu_footnotes": "[1] مَسْطُورٍ کے معنی ہیں۔ مکتوب، لکھی ہوئی چیز۔ اس کا مصداق مختلف بیان کیے گئے ہیں۔ قرآن مجید، لوح محفوظ، تمام کتب منزلہ یا وہ انسانی اعمال نامے جو فرشتے لکھتے ہیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वकिताबिम्मस्तूर।"
+  },
+  {
+   "id": "quran_052_003",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 3,
+   "arabic": "فِى رَقٍّ مَّنشُورٍ",
+   "transliteration": null,
+   "hindi": "ऐसे पन्ने में जो खुला हुआ है।",
+   "hindi_footnotes": null,
+   "urdu": "جو جھلی کے کھلے ہوئے ورق میں ہے.[1]",
+   "urdu_footnotes": "[1] یہ متعلق ہےمَسْطُورٍ کے۔ رَقٍّ ، وہ باریک چمڑا جس پر لکھا جاتا تھا۔ مَنْشُورٍ بمعنی مَبْسُوطٍ، پھیلایا کھلا ہوا۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़ी रक़्क़िम्मन्शूर।"
+  },
+  {
+   "id": "quran_052_004",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 4,
+   "arabic": "وَٱلْبَيْتِ ٱلْمَعْمُورِ",
+   "transliteration": null,
+   "hindi": "तथा बैतुल-मा'मूर (आबाद घर)[3] की!",
+   "hindi_footnotes": "[3] यह आकाश में एक घर है जिसकी फ़रिश्ते सदैव परिक्रमा करते रहते हैं। कुछ व्याख्याकारों ने इसका अर्थ काबा लिया है, जो उपासकों से प्रत्येक समय आबाद रहता है। क्योंकि मा'मूर का अर्थ \"आबाद\" है।",
+   "urdu": "اورآباد گھر کی.[1]",
+   "urdu_footnotes": "[1] یہ بیعت معمور، ساتویں آسمان پر وہ عبادت خانہ ہے جس میں فرشتے عبادت کرتےہیں۔ یہ عبادت خانہ فرشتوں سے اس طرح بھرا ہوتا ہے کہ روزانہ اس میں ستر ہزار فرشتے عبادت کے لیے آتےہیں جن کی پھر دوبارہ قیامت تک باری نہیں آتی۔ جیسا کہ احادیث معراج میں بیان کیا گیا ہے۔ بعض بیت معمور سے مراد خانہ کعبہ لیتے ہیں، جو عبادت کےلئے آنے والے انسانوں سے ہر وقت بھرا رہتا ہے۔ معمور کے معنی ہی آباد اور بھرے ہوئے کے ہیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वल्बैतिल् मअमूर।"
+  },
+  {
+   "id": "quran_052_005",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 5,
+   "arabic": "وَٱلسَّقْفِ ٱلْمَرْفُوعِ",
+   "transliteration": null,
+   "hindi": "तथा ऊँची उठाई हुई छत (आकाश) की!",
+   "hindi_footnotes": null,
+   "urdu": "اور اونچی چھت کی.[1]",
+   "urdu_footnotes": "[1] اس سے مراد آسمان ہے جو زمین کے لیے بمنزلۂ چھت کے ہے۔ قرآن نے دوسرےمقام پر اسے (محفوظ چھت) کہا ہے۔ «وَجَعَلْنَا السَّمَاءَ سَقْفًا مَحْفُوظًا وَهُمْ عَنْ آيَاتِهَا مُعْرِضُونَ» (سورة الأنبياء:32) بعض نے اس سے عرش مراد لیا ہے جو تمام مخلوقات کے لیے چھت ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वस्सक़्फ़िल् मर्फ़ूअ।"
+  },
+  {
+   "id": "quran_052_006",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 6,
+   "arabic": "وَٱلْبَحْرِ ٱلْمَسْجُورِ",
+   "transliteration": null,
+   "hindi": "और लबालब भरे हुए समुद्र [4] की!",
+   "hindi_footnotes": "[4] (देखिए : सूरत तकवीर, आयत : 6)",
+   "urdu": "اور بھڑکائے ہوئے سمندر کی.[1]",
+   "urdu_footnotes": "[1] مسجور کے معنی ہیں، بھڑکے ہوئے۔ بعض کہتے ہیں، اس سے وہ پانی مراد ہے جو زیر عرش ہے جس سے قیامت والے دن بارش نازل ہو گی، اس سے مردہ جسم زندہ ہوجائیں گے۔ بعض کہتے ہیں اس سے مراد سمندر ہیں، ان میں سے قیامت والے دن آگ بھڑک اٹھے گی۔ جیسے فرمایا: «وَإِذَا الْبِحَارُ سُجِّرَتْ» (التكوير: 6) ”اور جب سمندر بھڑکا دیئے جائیں گے“۔ امام شوکانی نے اسی مفہوم کو اولیٰ قرار دیا ہے اور بعض نے مَسْجُورٌ کے معنی مَمْلُوءٌ (بھرے ہوئے) کےلیے ہیں یعنی فی الحال سمندروں میں آگ تو نہیں ہے، البتہ وہ پانی سے بھرے ہوئےہیں، امام طبری نے اس قول کو اختیار کیا ہے۔ اس کے اور بھی کئی معنی بیان کیے گئے ہیں۔ (دیکھئے تفسیر ابن کثیر)۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वल्बह्रिल् मस्जूर।"
+  },
+  {
+   "id": "quran_052_007",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 7,
+   "arabic": "إِنَّ عَذَابَ رَبِّكَ لَوَٰقِعٌ",
+   "transliteration": null,
+   "hindi": "कि निश्चय आपके पालनहार की यातना अवश्चय घटित होने वाली है।",
+   "hindi_footnotes": null,
+   "urdu": "بیشک آپ کے رب کا عذاب ہو کر رہنے واﻻ ہے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "इन्न अज़ाब रब्बिक लवाक़िअ।"
+  },
+  {
+   "id": "quran_052_008",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 8,
+   "arabic": "مَّا لَهُۥ مِن دَافِعٍ",
+   "transliteration": null,
+   "hindi": "उसे कोई टालने वाला नहीं।",
+   "hindi_footnotes": null,
+   "urdu": "اسے کوئی روکنے واﻻ نہیں.[1]",
+   "urdu_footnotes": "[1] یہ مذکورہ قسموں کا جواب ہے یعنی یہ تمام چیزیں، جو اللہ تعالیٰ کی عظیم قدرت کی مظہر ہیں اس بات کی دلیل ہیں کہ اللہ کا وہ عذاب بھی یقیناً واقع ہو کررہے گا جس کا اس نے وعدہ کیا ہے، اسے کوئی ٹالنے پر قادر نہیں ہوگا۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "म्मा लहू मिन दाफ़िअ।"
+  },
+  {
+   "id": "quran_052_009",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 9,
+   "arabic": "يَوْمَ تَمُورُ ٱلسَّمَآءُ مَوْرًا",
+   "transliteration": null,
+   "hindi": "जिस दिन आकाश बुरी तरह डगमगाएगा।",
+   "hindi_footnotes": null,
+   "urdu": "جس دن آسمان تھرتھرانے لگے گا.[1]",
+   "urdu_footnotes": "[1] مور کے معنی ہیں حرکت واضطراب۔ قیامت والے دن آسمان کے نظم میں جو اختلال اور کواکب وسیارگان کی ٹوٹ پھوٹ کی وجہ سے جو اضطراب واقع ہو گا، اس کو ان الفاظ سے تعبیر کیا گیا ہے، اور یہ مذکورہ عذاب کےلیے ظرف ہے۔ یعنی یہ عذاب اس روز واقع ہوگا جب آسمان تھرتھرائے گا اور پہاڑی اپنی جگہ چھوڑ کر روئی کے گالوں اور ریت کے ذروں کی طرح اڑ جائیں گے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "यौम तमूरुस्समाउ मौरा।"
+  },
+  {
+   "id": "quran_052_010",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 10,
+   "arabic": "وَتَسِيرُ ٱلْجِبَالُ سَيْرًا",
+   "transliteration": null,
+   "hindi": "तथा पर्वत बहुत तेज़ी से चलेंगे।",
+   "hindi_footnotes": null,
+   "urdu": "اور پہاڑ چلنے پھرنے لگیں گے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वतसीरुल् जिबालु सैरा।"
+  },
+  {
+   "id": "quran_052_011",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 11,
+   "arabic": "فَوَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+   "transliteration": null,
+   "hindi": "तो उस दिन झुठलाने वालों के लिए बड़ी तबाही है।",
+   "hindi_footnotes": null,
+   "urdu": "اس دن جھٹلانے والوں کو (پوری) خرابی ہے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़वैलुन यौमइज़िल्लिल्मुकज़्ज़िबीन।"
+  },
+  {
+   "id": "quran_052_012",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 12,
+   "arabic": "ٱلَّذِينَ هُمْ فِى خَوْضٍ يَلْعَبُونَ",
+   "transliteration": null,
+   "hindi": "जो व्यर्थ बातों में पड़े खेल रहे हैं।",
+   "hindi_footnotes": null,
+   "urdu": "جو اپنی بیہوده گوئی میں اچھل کود کر رہے ہیں.[1]",
+   "urdu_footnotes": "[1] یعنی اپنے کفر وباطل میں مصروف اور حق کی تکذیب واستہزا میں لگے ہوئے ہیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अल्लज़ीन हुम फ़ी ख़ौज़िन यल्अबून।"
+  },
+  {
+   "id": "quran_052_013",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 13,
+   "arabic": "يَوْمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا",
+   "transliteration": null,
+   "hindi": "जिस दिन उन्हें ज़ोर से धक्का देकर जहन्नम की आग में धकेला जाएगा।",
+   "hindi_footnotes": null,
+   "urdu": "جس دن وه دھکے دے[1] دے کر آتش جہنم کی طرف ﻻئیں جائیں گے.",
+   "urdu_footnotes": "[1] الدَّعُّ کے معنی ہیں نہایت سختی کے ساتھ دھکیلنا۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "यौम युदअऊन इला नारि जहन्नम दअआ।"
+  },
+  {
+   "id": "quran_052_014",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 14,
+   "arabic": "هَـٰذِهِ ٱلنَّارُ ٱلَّتِى كُنتُم بِهَا تُكَذِّبُونَ",
+   "transliteration": null,
+   "hindi": "यही है वह आग, जिसे तुम झुठलाते थे।",
+   "hindi_footnotes": null,
+   "urdu": "یہی وه آتش دوزخ ہے جسے تم جھوٹ بتلاتے تھے.[1]",
+   "urdu_footnotes": "[1] یہ جہنم پر مقرر فرشتے (زبانیہ) انہیں کہیں گے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "हाज़िहिन्नारुल्लती कुन्तुम बिहा तुकज़्ज़िबून।"
+  },
+  {
+   "id": "quran_052_015",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 15,
+   "arabic": "أَفَسِحْرٌ هَـٰذَآ أَمْ أَنتُمْ لَا تُبْصِرُونَ",
+   "transliteration": null,
+   "hindi": "तो क्या यह जादू है, या तुम नहीं देख रहे?",
+   "hindi_footnotes": null,
+   "urdu": "(اب بتاؤ) کیا یہ جادو ہے[1] ؟ یا تم دیکھتے ہی نہیں ہو.[2]",
+   "urdu_footnotes": "[1] جس طرح تم دنیا میں پیغمبروں کو جادوگر کہا کرتے تھے، بتلاؤ ! کیا یہ بھی کوئی جادو کاکرتب ہے؟\n[2] یا جس طرح تم دنیا میں حق دیکھنے سے اندھے تھے، یہ عذاب بھی تمہیں نظر نہیں آ رہاہے یہ تقریع وتوبیخ کے لیے انہیں کہا جائے گا، ورنہ ہر چیز ان کے مشاہدےمیں آ چکی ہوگی۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अफ़सिह्रुन हाज़ा अम अन्तुम ला तुब्सिरून।"
+  },
+  {
+   "id": "quran_052_016",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 16,
+   "arabic": "ٱصْلَوْهَا فَٱصْبِرُوٓا۟ أَوْ لَا تَصْبِرُوا۟ سَوَآءٌ عَلَيْكُمْ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+   "transliteration": null,
+   "hindi": "इसमें प्रवेश कर जाओ। फिर सब्र करो या सब्र न करो, तुम्हारे लिए बराबर है। तुम्हें केवल उसी का बदला दिया जाएगा, जो तुम किया करते थे।",
+   "hindi_footnotes": null,
+   "urdu": "جاؤ دوزخ میں اب تمہارا صبر کرنا اور نہ کرنا تمہارے لیے یکساں ہے تمہیں فقط تمہارے کیے کا بدلہ دیا جائے گا.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "इस्लौहा फ़स्बिरू औ ला तस्बिरू सवाउन अलैकुम इन्नमा तुज्ज़ौन मा कुन्तुम तअमलून।"
+  },
+  {
+   "id": "quran_052_017",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 17,
+   "arabic": "إِنَّ ٱلْمُتَّقِينَ فِى جَنَّـٰتٍ وَنَعِيمٍ",
+   "transliteration": null,
+   "hindi": "निःसंदेह डरने वाले लोग बागों और बड़ी नेमत में हैं।",
+   "hindi_footnotes": null,
+   "urdu": "یقیناً پرہیزگار لوگ جنتوں میں اور نعمتوں میں ہیں.[1]",
+   "urdu_footnotes": "[1] اہل کفر واہل شقاوت کے بعد اہل ایمان واہل سعادت کا تذکرہ کیا جا رہا ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "इन्नल् मुत्तक़ीन फ़ी जन्नातिन वनईम।"
+  },
+  {
+   "id": "quran_052_018",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 18,
+   "arabic": "فَـٰكِهِينَ بِمَآ ءَاتَىٰهُمْ رَبُّهُمْ وَوَقَىٰهُمْ رَبُّهُمْ عَذَابَ ٱلْجَحِيمِ",
+   "transliteration": null,
+   "hindi": "उसका आनंद लेने वाले हैं जो उनके रब ने उन्हें दिया और उनके रब ने उन्हें दहकती हुई आग की यातना से बचा लिया।",
+   "hindi_footnotes": null,
+   "urdu": "جو انہیں ان کے رب نے دے رکھی ہیں اس پر خوش خوش ہیں[1] ، اوران کے پروردگار نے انہیں جہنم کے عذاب سے بھی بچا لیا ہے.",
+   "urdu_footnotes": "[1] یعنی جنت کے گھر، لباس، کھانے، سواریاں، حسین وجمیل بیویاں (حورعین) اور دیگر نعمتیں ان سب پر وہ خوش ہوں گے، کیونکہ یہ نعمتیں دنیا کی نعمتوں سے بدرجہا بڑھ کر ہوں گی اور (مَا لا عَيْنٌ رَأَتْ وَلا أُذُنٌ سَمِعَتْ وَلا خَطَرَ عَلَى قَلْبِ بَشَرٍ) کا مصداق۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़ाकिहीन बिमा आताहुम रब्बुहुम ववक़ाहुम रब्बुहुम अज़ाबल् जहीम।"
+  },
+  {
+   "id": "quran_052_019",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 19,
+   "arabic": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+   "transliteration": null,
+   "hindi": "मज़े से खाओ और पियो, उसके बदले जो तुम किया करते थे।",
+   "hindi_footnotes": null,
+   "urdu": "تم مزے سے کھاتے پیتے رہو ان اعمال کے بدلے جو تم کرتے تھے.[1]",
+   "urdu_footnotes": "[1] دوسرے مقام پرفرمایا «كُلُوا وَاشْرَبُوا هَنِيئًا بِمَا أَسْلَفْتُمْ فِي الأَيَّامِ الْخَالِيَةِ» . . اس سے معلوم ہوا کہ اللہ کی رحمت حاصل کرنے کے لیےایمان کے ساتھ اعمال صالحہ بہت ضروری ہیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "कुलू वश्रबू हनिअम बिमा कुन्तुम तअमलून।"
+  },
+  {
+   "id": "quran_052_020",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 20,
+   "arabic": "مُتَّكِـِٔينَ عَلَىٰ سُرُرٍ مَّصْفُوفَةٍ ۖ وَزَوَّجْنَـٰهُم بِحُورٍ عِينٍ",
+   "transliteration": null,
+   "hindi": "पंक्तिबद्ध तख़्तों पर तकिया लगाए हुए होंगे और हमने उनका विवाह गोरे बदन, काली आँखों वाली औरतों से कर दिया, जो बड़ी-बड़ी आँखों वाली हैं।",
+   "hindi_footnotes": null,
+   "urdu": "برابر بچھے ہوئے شاندار تختے پر تکیے لگائے ہوئے[1] ۔ اور ہم نے ان کے نکاح بڑی بڑی آنکھوں والی (حوروں) سے کر دیئے ہیں.",
+   "urdu_footnotes": "[1] مَصْفُوفَةٍ، ایک دوسرے کے ساتھ ملے ہوئے۔ گویا وہ ایک صف ہیں۔ یا بعض نے اس کامﻔہوم بیان کیا ہے کہ ان کے چہرے ایک دوسرے کے سامنے ہوں گے، جیسے میدان جنگ میں فوجیں ایک دوسرے کے سامنے ہوتی ہیں۔ اس مفہوم کو قرآن میں دوسری جگہ ان الفاظ میں بیان کیا گیا ہے۔ «عَلَى سُرُرٍ مُتَقَابِلِينَ» (الصافات: 44) ”ایک دوسرےکے سامنے تختوں پر فروکش ہوں گے“۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "मुत्तईन अला सुरुरिम्मस्फ़ूफ़तिन वज़व्वज्नाहुम बिहूरिन ईन।"
+  },
+  {
+   "id": "quran_052_021",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 21,
+   "arabic": "وَٱلَّذِينَ ءَامَنُوا۟ وَٱتَّبَعَتْهُمْ ذُرِّيَّتُهُم بِإِيمَـٰنٍ أَلْحَقْنَا بِهِمْ ذُرِّيَّتَهُمْ وَمَآ أَلَتْنَـٰهُم مِّنْ عَمَلِهِم مِّن شَىْءٍ ۚ كُلُّ ٱمْرِئٍۭ بِمَا كَسَبَ رَهِينٌ",
+   "transliteration": null,
+   "hindi": "और जो लोग ईमान लाए और उनकी संतान ने ईमान के साथ उनका अनुसरण किया, हम उनकी संतान को उनके साथ मिला देंगे तथा उनके कर्मों में उनसे कुछ भी कम न करेंगे। प्रत्येक व्यक्ति उसके बदले में जो उसने कमाया, गिरवी[5] रखा हुआ है।",
+   "hindi_footnotes": "[5] अर्थात जो जैसा करेगा, वैसा भोगेगा।",
+   "urdu": "اور جو لوگ ایمان ﻻئے اور ان کی اوﻻد نے بھی ایمان میں ان کی پیروی کی ہم ان کی اوﻻد کو ان تک پہنچا دیں گے اور ان کے عمل سے ہم کچھ کم نہ کریں گے[1] ، ہر شخص اپنے اپنے اعمال کا گروی ہے.[2]",
+   "urdu_footnotes": "[1] یعنی جن کے باپ اپنے اخلاص و تقویٰ اورعمل و کردار کی بنیاد پر جنت کےاعلیٰ درجوں پر فائز ہوں گے، اللہ تعالیٰ ان کی ایماندار اولاد کے بھی درجے بلند کرکے، ان کو ان کے باپوں کے ساتھ ملا دے گا۔ یہ نہیں کرے گا کہ ان کے باپوں کے درجے کم کرکے ان کی اولاد والے کمتر درجوں میں انہیں لے آئے۔ یعنی اہل ایمان پر دو گونہ احسان فرمائے گا۔ ایک تو باپ بیٹوں کو آپس میں ملادے گا تاکہ ان کی آنکھیں ٹھنڈی ہوں، بشرطیکہ دونوں ایماندار ہو۔ دوسرا یہ کہ کم تر درجے والوں کو اٹھا کر اونچے درجوں پرفائز فرما دے گا۔ ورنہ دونوں کے ملاپ کا یہ طریقہ بھی ہو سکتا ہے کہ اے کلاس والوں کو بی کلاس دے دے، یہ بات چونکہ اس کے فضل واحسان سے فروتر ہوگی، اس لیے وہ ایسا نہیں کرے گا بلکہ بی کلاس والوں کو اے کلاس عطا فرمائے گا۔ یہ تو اللہ کا وہ احسان ہے جو اولاد پر، آباکے عملونکی برکت سے ہوگا اورحدیث میں آتاہے کہ اولاد کی دعا واستغفار سے آباکے درجات میں بھی اضافہ ہوتا ہے ایک شخص کے جب جنت میں درجے بلند ہوتے ہیں تو وہ اللہ سے اس کا سبب پوچھتا ہے، اللہ تعالیٰ فرماتا ہے تیری اولاد کی تیرے لیے دعائے مغفرت کرنے کی وجہ سے (مسند احمد، 2 / 509) اس کی تائید اس حدیث سے بھی ہوتی ہے جس میں آتا ہے کہ ”جب انسان مر جاتا ہےتواس کے عمل کا سلسلہ منقطع ہوجاتا ہے۔ البتہ تین چیزوں کا ثواب، موت کے بعد بھی جاری رہتا ہے ایک صدقۂ جاریہ۔ دوسرا، وہ علم جس سے لوگ فیض یاب ہوتے رہیں اور تیسری، نیک اولاد جو اس کے لیے دعا کرتی ہو۔ (مسلم، كتاب الوصية، باب ما يلحق الإنسان من الثواب بعد وفاته)۔\n[2] رَهِينٌ بمعنی مَرْهُونٍ (گروی شدہ چیز) ہر شخص اپنے عمل کا گروی ہوگا۔ یہ عام ہے، مومن اور کافر دونوں کو شامل ہے اورمطلب ہے کہ جو جیسا (اچھا یا برا) عمل کرے گا، اس کےمطابق (اچھی یا بری) جزا پائے گا۔ یا اس سےمراد صرف کافر ہیں کہ وہ اپنے اعمال میں گرفتار ہوں گے، جیسے دوسرے مقام پر فرمایا «كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ ، إِلا أَصْحَابَ الْيَمِينِ» (المدثر: 38۔ 39) ”ہرشخص اپنےاعمال میں گرفتار ہو گا۔ سوائے اصحاب الیمین (اہل ایمان) کے“۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वल्लज़ीन आमनू वत्तबअत्हुम ज़ुर्रिय्यतुहुम बिईमानिन अल्हक़्ना बिहिम ज़ुर्रिय्यतहुम वमा अलत्नाहुम्मिन अमलिहिम्मिन शैइन कुल्लुम्रिइम बिमा कसब रहीन।"
+  },
+  {
+   "id": "quran_052_022",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 22,
+   "arabic": "وَأَمْدَدْنَـٰهُم بِفَـٰكِهَةٍ وَلَحْمٍ مِّمَّا يَشْتَهُونَ",
+   "transliteration": null,
+   "hindi": "तथा हम उन्हें और अधिक फल और मांस देंगे उसमें से जो वे चाहेंगे।",
+   "hindi_footnotes": null,
+   "urdu": "ہم ان کے لیے میوے اورمرغوب گوشت کی ریل پیل کردیں گے.[1]",
+   "urdu_footnotes": "[1] أَمْدَدْنَاهُمْ بمعنی زِدْنَاهُمْ، یعنی خوب دیں گے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वअम्दद्नाहुम बिफ़ाकिहतिन वलह्मिम्मिम्मा यश्तहून।"
+  },
+  {
+   "id": "quran_052_023",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 23,
+   "arabic": "يَتَنَـٰزَعُونَ فِيهَا كَأْسًا لَّا لَغْوٌ فِيهَا وَلَا تَأْثِيمٌ",
+   "transliteration": null,
+   "hindi": "वे उसमें एक-दूसरे से मदिरा का प्याला लेंगे, जिसमें न कोई व्यर्थ बात होगी और न गुनाह में डालना।",
+   "hindi_footnotes": null,
+   "urdu": "(خوش طبعی کے ساتھ) ایک دوسرے سے جام (شراب) کی چھینا جھپٹی کریں گے[1] جس شراب کے سرور میں تو بیہوده گوئی ہوگی نہ گناه.[2]",
+   "urdu_footnotes": "[1] يَتَنَازَعُونَ، يَتَعَاطَونَ وَيَتَنَاوَلُونَ۔ ایک دوسرے سے لیں گے۔ یا پھر وہ معنی ہیں جو فاضل مترجم نےکیےہیں۔ کاﺱ، اس پیالے اور جام کو کہتے ہیں جو شراب یا کسی اور مشروب سے بھرا ہوا ہو۔ خالی برتن کو کاس نہیں کہتے۔ (فتح القدیر)۔\n[2] اس شراب میں دنیا کی شراب کی تاثیر نہیں ہوگی، اسے پی کر نہ کوئی بہکے گا کہ لغو گوئی کرے نہ اتنا مدہوش اور مست ہو گا کہ گناہ کا ارتکاب کرے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "यतनाज़ऊन फ़ीहा कअसल्ला लग़्वुन फ़ीहा वला तअसीम।"
+  },
+  {
+   "id": "quran_052_024",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 24,
+   "arabic": "۞ وَيَطُوفُ عَلَيْهِمْ غِلْمَانٌ لَّهُمْ كَأَنَّهُمْ لُؤْلُؤٌ مَّكْنُونٌ",
+   "transliteration": null,
+   "hindi": "तथा उनके आस-पास चक्कर लगाते रहेंगे उन्हीं के बच्चे, जैसे वे छुपाए हुए मोती हों।",
+   "hindi_footnotes": null,
+   "urdu": "اور ان کے اردگرد ان کے نو عمر غلام چل پھر رہے ہوں گے، گویا کہ وه موتی تھے جو ڈھکے رکھے تھے.[1]",
+   "urdu_footnotes": "[1] یعنی جنتیوں کی خدمت کے لیے انہیں نو عمر خادم بھی دیئے جائیں گے جو ان کی خدمت کےلیے پھر رہے ہوں گے اورحسن وجمال اور صفائی ورعنائی میں وہ ایسے ہوں گے جیسے موتی، جسے ڈھک کر رکھا گیا ہو، تاکہ ہاتھ لگنے سے اس کی چمک دمک ماند پڑے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वयतूफ़ु अलैहिम ग़िल्मानुल्लहुम कअन्नहुम लुअलुउम्मक्नून।"
+  },
+  {
+   "id": "quran_052_025",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 25,
+   "arabic": "وَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَسَآءَلُونَ",
+   "transliteration": null,
+   "hindi": "और वे एक-दूसरे की ओर मुतवज्जह होकर आपस में सवाल करेंगे।",
+   "hindi_footnotes": null,
+   "urdu": "اور آپس میں ایک دوسرے کی طرف متوجہ ہو کر سوال کریں گے.[1]",
+   "urdu_footnotes": "[1] ایک دوسرے سے دنیا کے حالات پوچھیں گے کہ دنیا میں وہ کن حالات میں زندگی گزارتے اور ایمان وعمل کے تقاضے کس طرح پورے کرتے رہے؟",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वअक़्बल बअज़ुहुम अला बअज़िन यतसाअलून।"
+  },
+  {
+   "id": "quran_052_026",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 26,
+   "arabic": "قَالُوٓا۟ إِنَّا كُنَّا قَبْلُ فِىٓ أَهْلِنَا مُشْفِقِينَ",
+   "transliteration": null,
+   "hindi": "वे कहेंगे : निःसंदेह हम इससे पहले[6] अपने घरवालों में डरने वाले थे।",
+   "hindi_footnotes": "[6] अर्थात संसार में अल्लाह की यातना से।",
+   "urdu": "کہیں گے کہ اس سے پہلے ہم اپنے گھر والوں کے درمیان بہت ڈرا کرتے تھے.[1]",
+   "urdu_footnotes": "[1] یعنی اللہ کے عذاب سے۔ اس لیے اس عذاب سے بچنے کا اہتمام بھی کرتے رہے، اس لیے کہ انسان کو جس چیز کا ڈر ہوتا ہے، اس سے بچنےکے لیے وہ تگ ودو بھی کرتا ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "क़ालू इन्ना कुन्ना क़ब्लु फ़ी अह्लिना मुश्फ़िक़ीन।"
+  },
+  {
+   "id": "quran_052_027",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 27,
+   "arabic": "فَمَنَّ ٱللَّهُ عَلَيْنَا وَوَقَىٰنَا عَذَابَ ٱلسَّمُومِ",
+   "transliteration": null,
+   "hindi": "तो अल्लाह ने हमपर उपकार किया और हमें विषैली लू की यातना से बचा लिया।",
+   "hindi_footnotes": null,
+   "urdu": "پس اللہ تعالیٰ نے ہم پر بڑا احسان کیا اور ہمیں تیز وتند گرم ہواؤں کے عذاب سے بچا لیا.[1]",
+   "urdu_footnotes": "[1] سَمُومٌ، لو، جھلس ڈالنے والی گرم ہوا کو کہتے ہیں، جہنم کے ناموں میں سے ایک نام بھی ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़मन्नल्लाहु अलैना ववक़ाना अज़ाबस्समूम।"
+  },
+  {
+   "id": "quran_052_028",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 28,
+   "arabic": "إِنَّا كُنَّا مِن قَبْلُ نَدْعُوهُ ۖ إِنَّهُۥ هُوَ ٱلْبَرُّ ٱلرَّحِيمُ",
+   "transliteration": null,
+   "hindi": "निःसंदेह हम इससे पहले[7] ही उसे पुकारा करते थे। निश्चय वही तो अति परोपकारी, अत्यंत दयावान् है।",
+   "hindi_footnotes": "[7] अर्थात संसार में।",
+   "urdu": "ہم اس سے پہلے ہی اس کی عبادت کیا کرتے تھے[1] ، بیشک وه محسن اور مہربان ہے.",
+   "urdu_footnotes": "[1] یعنی صرف اسی ایک کی عبادت کرتے تھے، اس کے ساتھ کسی کو شریک نہیں ٹھہراتے تھے، یا یہ مطلب ہے کہ اسی سے عذاب جہنم سے بچنے کے لیے دعا کرتے تھے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "इन्ना कुन्ना मिन क़ब्लु नद्ऊहु इन्नहू हुवल् बर्रुर्रहीम।"
+  },
+  {
+   "id": "quran_052_029",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 29,
+   "arabic": "فَذَكِّرْ فَمَآ أَنتَ بِنِعْمَتِ رَبِّكَ بِكَاهِنٍ وَلَا مَجْنُونٍ",
+   "transliteration": null,
+   "hindi": "अतः आप नसीहत करें। क्योंकि अपने पालनहार के अनुग्रह से आप न तो काहिन हैं और न ही पागल।[8]",
+   "hindi_footnotes": "[8] जैसाकि वे आपपर यह आरोप लगा कर हताश करना चाहते हैं।",
+   "urdu": "تو آپ سمجھاتے رہیں کیونکہ آپ اپنے رب کے فضل سے نہ تو کاہن ہیں نہ دیوانہ.[1]",
+   "urdu_footnotes": "[1] اس میں نبی صلی اللہ علیہ وسلم کو تسلی دی جا رہی ہے کہ آپ وعظ وتبلیغ اورنصیحت کا کام کرتے رہیں اور یہ آپ کی بابت جوکچھ کہتے رہتےہیں، ان کی طرف کان نہ دھریں، اس لیے کہ آپ اللہ کے فضل سےکاہن ہیں نہ دیوانہ (جیساکہ یہ کہتے ہیں) بلکہ آپ پر باقاعدہ ہماری طرف سے وحی آتی ہے، جو کہ کاہنپر نہیں آتی، آپ جو کلام لوگوں کو سناتے ہیں، وہ دانش وبصیرت کا آئینہ دارہوتا ہے، ایک دیوانے سے اس طرح گفتگو کیونکر ممکن ہے؟",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़ज़क्किर फ़मा अन्त बिनिअमति रब्बिक बिकाहिनिन वला मज्नून।"
+  },
+  {
+   "id": "quran_052_030",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 30,
+   "arabic": "أَمْ يَقُولُونَ شَاعِرٌ نَّتَرَبَّصُ بِهِۦ رَيْبَ ٱلْمَنُونِ",
+   "transliteration": null,
+   "hindi": "या वे कहते है कि यह एक कवि है जिसपर हम ज़माने की घटनाओं का इंतज़ार करते हैं?[9]",
+   "hindi_footnotes": "[9] अर्थात क़ुरैश इस प्रतीक्षा में हैं कि संभवतः आप (सल्लल्लाहु अलैहि व सल्लम) को मौत आ जाए, तो हमें चैन मिल जाए।",
+   "urdu": "کیا کافر یوں کہتے ہیں کہ یہ شاعر ہے ہم اس پر زمانے کے حوادث (یعنی موت) کا انتظار کر رہے ہیں.[1]",
+   "urdu_footnotes": "[1] رَيْبٌ کے معنی ہیں حوادث ، مَنُونٌ، موت کےناموں میں سے ایک نام ہے۔ مطلب ہے کہ قریش مکہ اس انتظار میں ہیں کہ زمانے کےحوادث سے شاید اس محمد (صلی اللہ علیہ وسلم) کو موت آ جائے اور ہمیں چین نصیب ہو جائے، جو اس کی دعوت توحید نے ہم سے چھین لیاہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अम यक़ूलून शाइरुन्नतरब्बसु बिही रैबल् मनून।"
+  },
+  {
+   "id": "quran_052_031",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 31,
+   "arabic": "قُلْ تَرَبَّصُوا۟ فَإِنِّى مَعَكُم مِّنَ ٱلْمُتَرَبِّصِينَ",
+   "transliteration": null,
+   "hindi": "आप कह दें कि तुम प्रतीक्षा करते रहो, मैं (भी) तुम्हारे साथ प्रतीक्षा करने वालों में से हूँ।",
+   "hindi_footnotes": null,
+   "urdu": "کہہ دیجئے! تم منتظر رہو میں بھی تمہارے ساتھ انتظار کرنے والوں میں ہوں.[1]",
+   "urdu_footnotes": "[1] یعنی دیکھو ! موت پہلے کسے آتی ہے؟ اور ہلاکت کس کا مقدر بنتی ہے؟",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "क़ुल तरब्बसू फ़इन्नी मअकुम्मिनल् मुतरब्बिसीन।"
+  },
+  {
+   "id": "quran_052_032",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 32,
+   "arabic": "أَمْ تَأْمُرُهُمْ أَحْلَـٰمُهُم بِهَـٰذَآ ۚ أَمْ هُمْ قَوْمٌ طَاغُونَ",
+   "transliteration": null,
+   "hindi": "क्या उन्हें उनकी बुद्धियाँ इस बात का आदेश देती हैं, ये वे स्वयं ही सरकश लोग हैं?",
+   "hindi_footnotes": null,
+   "urdu": "کیا ان کی عقلیں انہیں یہی سکھاتی ہیں[1] ؟ یا یہ لوگ ہی سرکش ہیں.[2]",
+   "urdu_footnotes": "[1] یعنی یہ تیرے بارےمیں جو اس طرح اناپ شناب جھوٹ اور غلط سلط باتیں کرتے رہتےہیں، کیا ان کی عقلیں ان کو یہی سجھاتی ہیں؟\n[2] نہیں بلکہ یہ سرکش اورگمراہ لوگ ہیں،اور یہی سرکشی اور گمراہی انہیں ان باتوں پر برانگیختہ کرتی ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अम तअमुरुहुम अह्लामुहुम बिहाज़ा अम हुम क़ौमुन ताग़ून।"
+  },
+  {
+   "id": "quran_052_033",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 33,
+   "arabic": "أَمْ يَقُولُونَ تَقَوَّلَهُۥ ۚ بَل لَّا يُؤْمِنُونَ",
+   "transliteration": null,
+   "hindi": "या वे कहते हैं कि उसने इसे स्वयं गढ़ लिया है? बल्कि वे ईमान नहीं लाते।",
+   "hindi_footnotes": null,
+   "urdu": "کیا یہ کہتے ہیں کہ اس نبی نے (قرآن) خود گھڑ لیا ہے، واقعہ یہ ہے کہ وه ایمان نہیں ﻻتے.[1]",
+   "urdu_footnotes": "[1] یعنی قرآن گھڑنے کے الزام پر ان کو آمادہ کرنے والابھی ان کا کفرہی ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अम यक़ूलून तक़व्वलहू बल ल्ला युअमिनून।"
+  },
+  {
+   "id": "quran_052_034",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 34,
+   "arabic": "فَلْيَأْتُوا۟ بِحَدِيثٍ مِّثْلِهِۦٓ إِن كَانُوا۟ صَـٰدِقِينَ",
+   "transliteration": null,
+   "hindi": "तो फिर वे इस (क़ुरआन) के समान एक ही बात बनाकर ले आएँ, यदि वे सच्चे हैं।",
+   "hindi_footnotes": null,
+   "urdu": "اچھا اگر یہ سچے ہیں تو بھلا اس جیسی ایک (ہی) بات یہ (بھی) تو لے آئیں.[1]",
+   "urdu_footnotes": "[1] یعنی اگر یہ اپنے اس دعوے میں سچے ہیں کہ یہ قرآن محمد (صلى الله عليه وسلم) کا اپنا گھڑا ہوا ہے تو پھر یہ بھی اس جیسی کتاب بنا کر پیش کر دیں جو نظم، اعجاز وبلاغت، حسن بیان، ندرت اسلوب، تعین حقائق اور حل مسائل میں اس کا مقابلہ کر سکے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़ल्यअतू बिहदीसिम्मिस्लिही इन कानू सादिक़ीन।"
+  },
+  {
+   "id": "quran_052_035",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 35,
+   "arabic": "أَمْ خُلِقُوا۟ مِنْ غَيْرِ شَىْءٍ أَمْ هُمُ ٱلْخَـٰلِقُونَ",
+   "transliteration": null,
+   "hindi": "या वे बिना किसी चीज़ के[10] पैदा हो गए हैं, या वे (स्वयं) पैदा करने वाले हैं?",
+   "hindi_footnotes": "[10] जुबैर बिन मुतइम कहते हैं कि नबी (सल्लल्लाहु अलैहि व सल्लम) मग़्रिब की नमाज़ में सूरतुत्- तूर पढ़ रहे थे। जब इन आयतों पर पहुँचे तो मेरे दिल की दशा यह हुई कि वह उड़ जाएगा। (सह़ीह़ बुख़ारी : 4854)",
+   "urdu": "کیا یہ بغیر کسی (پیدا کرنے والے) کے خود بخود پیدا ہوگئے ہیں[1] ؟ یا یہ خود پیدا کرنے والے ہیں؟[2]",
+   "urdu_footnotes": "[1] یعنی اگر واقعی ایسا ہے تو پھر کسی کو یہ حق نہیں ہے کہ انہیں کسی بات کا حکم دے یاکسی بات سے منع کرے۔ لیکن جب ایسا نہیں ہے بلکہ انہیں ایک پیدا کرنے والے نے پیداکیا ہے، تو ظاہر ہے اس کا انہیں پیدا کرنے کا ایک خاص مقصد ہے، وہ انہیں پیدا کر کے یوں ہی کس طرح چھوڑ دے گا؟\n[2] یعنی یہ خود بھی اپنے خالق نہیں ہیں، بلکہ یہ اللہ کے خالق ہونے کااعتراف کرتے ہیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अम ख़ुलिक़ू मिन ग़ैरि शैइन अम हुमुल् ख़ालिक़ून।"
+  },
+  {
+   "id": "quran_052_036",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 36,
+   "arabic": "أَمْ خَلَقُوا۟ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ ۚ بَل لَّا يُوقِنُونَ",
+   "transliteration": null,
+   "hindi": "या उन्होंने आकाशों और धरती को पैदा किया है? बल्कि वे विश्वास ही नहीं करते।",
+   "hindi_footnotes": null,
+   "urdu": "کیا انہوں نے ہی آسمانوں اور زمین کو پیدا کیا ہے؟ بلکہ یہ یقین نہ کرنے والے لوگ ہیں.[1]",
+   "urdu_footnotes": "[1] بلکہ اس کے وعدوں اور وعیدوں کے بارے میں شک میں مبتلا ہیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अम ख़लक़ुस्समावाति वल्अर्ज़ बल ल्ला यूक़िनून।"
+  },
+  {
+   "id": "quran_052_037",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 37,
+   "arabic": "أَمْ عِندَهُمْ خَزَآئِنُ رَبِّكَ أَمْ هُمُ ٱلْمُصَۣيْطِرُونَ",
+   "transliteration": null,
+   "hindi": "या उनके पास आपके पालनहार के ख़ज़ाने हैं, या वही अधिकार चलाने वाले हैं?",
+   "hindi_footnotes": null,
+   "urdu": "یا کیا ان کے پاس تیرے رب کے خزانے ہیں[1] ؟ یا (ان خزانوں کے) یہ داروغہ ہیں.[2]",
+   "urdu_footnotes": "[1] کہ یہ جس کو چاہیں روزی دیں اور جس کو چاہیں نہ دیں یاجس کو چاہیں نبوت سے نوازیں۔\n[2] مُصَيْطِرٌ یا مُسَيْطِرٌ، سَطْرٌ سے ہے، لکھنے والا، جو محافظ ونگران ہو، وہ چونکہ ساری تفصیلات لکھتا ہے، اس لیے یہ محافظ اورنگران کے معنی میں بھی استعمال ہوتا ہے۔ یعنی کیا اللہ کے خزانوں یا اس کی رحمتوں پر ان کا تسلط ہے کہ جس کو چاہیں دیں یا نہ دیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अम इन्दहुम ख़ज़ाइनु रब्बिक अम हुमुल् मुस्य्तिरून।"
+  },
+  {
+   "id": "quran_052_038",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 38,
+   "arabic": "أَمْ لَهُمْ سُلَّمٌ يَسْتَمِعُونَ فِيهِ ۖ فَلْيَأْتِ مُسْتَمِعُهُم بِسُلْطَـٰنٍ مُّبِينٍ",
+   "transliteration": null,
+   "hindi": "या उनके पास कोई सीढ़ी है, जिसपर वे अच्छी तरह सुन[11] लेते हैं? तो उनके सुनने वाले को चाहिए कि वह कोई स्पष्ट प्रमाण प्रस्तुत करे।",
+   "hindi_footnotes": "[11] अर्थात आकाश की बातें। और जब उनके पास आकाश की बातें जानने का कोई साधन नहीं, तो ये लोग अल्लाह, फ़रिश्ते और धर्म की बातें किस आधार पर करते हैं?",
+   "urdu": "یا کیا ان کے پاس کوئی سیڑھی ہے جس پر چڑھ کر سنتے ہیں[1] ؟ (اگر ایسا ہے) تو ان کا سننے واﻻ کوئی روشن دلیل پیش کرے.",
+   "urdu_footnotes": "[1] یعنی کیا یہ ان کا دعویٰ ہے کہ سیڑھی کے ذریعے سے یہ بھی محمد ﹲ کی طرح آسمانوں پر جا کر ملائکہ کی باتیں یا ان کی طرف جو وحی کی جاتی ہے، وہ سن آئے ہیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अम लहुम सुल्लमुन यस्तमिऊन फ़ीहि फ़ल्यअति मुस्तमिउहुम बिसुल्तानिम्मुबीन।"
+  },
+  {
+   "id": "quran_052_039",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 39,
+   "arabic": "أَمْ لَهُ ٱلْبَنَـٰتُ وَلَكُمُ ٱلْبَنُونَ",
+   "transliteration": null,
+   "hindi": "या उस (अल्लाह) के लिए तो बेटियाँ है और तुम्हारे लिए बेटे?",
+   "hindi_footnotes": null,
+   "urdu": "کیا اللہ کی تو سب لڑکیاں ہیں اور تمہارے ہاں لڑکے ہیں؟",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अम लहुल् बनातु वलकुमुल् बनून।"
+  },
+  {
+   "id": "quran_052_040",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 40,
+   "arabic": "أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ",
+   "transliteration": null,
+   "hindi": "या आप उनसे कोई पारिश्रमिक[12] माँगते हैं? तो वे उस तावान के बोझ से दबे जा रहे हैं।",
+   "hindi_footnotes": "[12] अर्थात सत्धर्म के प्रचार पर।",
+   "urdu": "کیا تو ان سے کوئی اجرت طلب کرتا ہے کہ یہ اس کے تاوان سے بوجھل ہو رہے ہیں.[1]",
+   "urdu_footnotes": "[1] یعنی اس کی ادائیگی ان کے لیے مشکل ہو۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अम तअलुहुम अज्रन फ़हुम्मिम्मग़्रमिम्मुस्क़लून।"
+  },
+  {
+   "id": "quran_052_041",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 41,
+   "arabic": "أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ",
+   "transliteration": null,
+   "hindi": "या उनके पास परोक्ष (का ज्ञान) है? तो वे उसे लिखते[13] रहते हैं।",
+   "hindi_footnotes": "[13] इसीलिए इस वह़्य (क़ुरआन) को नहीं मानते हैं।",
+   "urdu": "کیا ان کے پاس علم غیب ہے جسے یہ لکھ لیتے ہیں؟[1]",
+   "urdu_footnotes": "[1] کہ ضرور ان سے پہلے محمد (صلى الله عليه وسلم) مر جائیں گے اور ان کو موت اس کے بعد آئے گی۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अम इन्दहुमुल् ग़ैबु फ़हुम यक्तुबून।"
+  },
+  {
+   "id": "quran_052_042",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 42,
+   "arabic": "أَمْ يُرِيدُونَ كَيْدًا ۖ فَٱلَّذِينَ كَفَرُوا۟ هُمُ ٱلْمَكِيدُونَ",
+   "transliteration": null,
+   "hindi": "या वे कोई चाल चलना चाहते हैं? तो जिन लोगों ने इनकार किया, वही चाल में आने वाले हैं।",
+   "hindi_footnotes": null,
+   "urdu": "کیا یہ لوگ کوئی فریب کرنا چاہتے ہیں[1] ؟ تو یقین کرلیں کہ فریب خورده کافر ہی ہیں.[2]",
+   "urdu_footnotes": "[1] یعنی ہمارے پیغمبر کے ساتھ، جس سے اس کی ہلاکت واقع ہو جائے۔\n[2] یعنی کید ومکر ان ہی پرالٹ پڑے گا اور سارا نقصان انہی کو ہو گا۔ جیسا فرمایا : «وَلا يَحِيقُ الْمَكْرُ السَّيِّئُ إِلا بِأَهْلِهِ» (فاطر:43) چنانچہ بدر میں یہ کافر مارے گئے اور بھی بہت سی جگہوں پر ذلت و رسوائی سے دوچار ہوئے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अम युरीदून कैदन फ़ल्लज़ीन कफ़रू हुमुल् मकीदून।"
+  },
+  {
+   "id": "quran_052_043",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 43,
+   "arabic": "أَمْ لَهُمْ إِلَـٰهٌ غَيْرُ ٱللَّهِ ۚ سُبْحَـٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ",
+   "transliteration": null,
+   "hindi": "या उनका अल्लाह के सिवा कोई पूज्य है? पवित्र है अल्लाह उससे जो वे साझी ठहराते हैं।",
+   "hindi_footnotes": null,
+   "urdu": "کیا اللہ کے سوا ان کا کوئی معبود ہے؟ (ہرگز نہیں) اللہ تعالیٰ ان کے شرک سے پاک ہے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अम लहुम इलाहुन ग़ैरुल्लाहि सुब्हानल्लाहि अम्मा युश्रिकून।"
+  },
+  {
+   "id": "quran_052_044",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 44,
+   "arabic": "وَإِن يَرَوْا۟ كِسْفًا مِّنَ ٱلسَّمَآءِ سَاقِطًا يَقُولُوا۟ سَحَابٌ مَّرْكُومٌ",
+   "transliteration": null,
+   "hindi": "और यदि वे आकाश से कोई टुकड़ा गिरता हुआ देख लें, तो कह देंगे कि यह परत दर परत बादल है।[14]",
+   "hindi_footnotes": "[14] अर्थात तब भी अपने कुफ़्र से नहीं रुकेंगे जब तक कि उनपर यातना न आ जाए।",
+   "urdu": "اگر یہ لوگ آسمان کے کسی ٹکڑے کو گرتا ہوا دیکھ لیں تب بھی کہہ دیں کہ یہ تہ بہ تہ بادل ہے.[1]",
+   "urdu_footnotes": "[1] مطلب ہے کہ اپنے کفر وعنادسے پھر بھی باز نہ آئیں گے، بلکہ ڈھٹائی کا مظاہرہ کرتے ہوئے کہیں گے کہ یہ عذاب نہیں، بلکہ ایک پر ایک بادل چڑھا آرہا ہے، جیساکہ بعض موقعوں پر ایسا ہوتاہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वइन यरौ किस्फ़म्मिनस्समाइ साक़ितन यक़ूलू सहाबुम्मर्कूम।"
+  },
+  {
+   "id": "quran_052_045",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 45,
+   "arabic": "فَذَرْهُمْ حَتَّىٰ يُلَـٰقُوا۟ يَوْمَهُمُ ٱلَّذِى فِيهِ يُصْعَقُونَ",
+   "transliteration": null,
+   "hindi": "अतः आप उन्हें छोड़ दें, यहाँ तक कि वे अपने उस दिन को जा मिलें, जिसमें[15] वे बेहोश किए जाएँगे।",
+   "hindi_footnotes": "[15] अर्थात प्रलय के दिन।",
+   "urdu": "تو انہیں چھوڑ دے یہاں تک کہ انہیں اس دن سے سابقہ پڑے جس میں یہ بے ہوش کر دیئے جائیں گے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़ज़र्हुम हत्ता युलाक़ू यौमहुमुल्लज़ी फ़ीहि युस्अक़ून।"
+  },
+  {
+   "id": "quran_052_046",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 46,
+   "arabic": "يَوْمَ لَا يُغْنِى عَنْهُمْ كَيْدُهُمْ شَيْـًٔا وَلَا هُمْ يُنصَرُونَ",
+   "transliteration": null,
+   "hindi": "जिस दिन न तो उनकी चाल काम आएगी और न उनकी सहायता की जाएगी।",
+   "hindi_footnotes": null,
+   "urdu": "جس دن انہیں ان کا مکر کچھ کام نہ دے گا اور نہ وه مدد کیے جائیں گے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "यौम ला युग़्नी अन्हुम कैदुहुम शअन वला हुम युन्सरून।"
+  },
+  {
+   "id": "quran_052_047",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 47,
+   "arabic": "وَإِنَّ لِلَّذِينَ ظَلَمُوا۟ عَذَابًا دُونَ ذَٰلِكَ وَلَـٰكِنَّ أَكْثَرَهُمْ لَا يَعْلَمُونَ",
+   "transliteration": null,
+   "hindi": "तथा निश्चय उन लोगों के लिए जिन्होंने अत्याचार किया, उस (आख़िरत) से पहले भी एक यातना[16] है। परंतु उनमें से अक्सर लोग नहीं जानते।",
+   "hindi_footnotes": "[16] इससे संकेत सांसारिक यातनाओं की ओर है। (देखिए : सूरतुस-सजदा, आयत : 21)",
+   "urdu": "بیشک ﻇالموں کے لیے اس کے علاوه اور عذاب بھی ہیں[1] ۔ لیکن ان لوگوں میں سے اکثر بےعلم ہیں.[2]",
+   "urdu_footnotes": "[1] یعنی دنیامیں، جیسے دوسرے مقام پر فرمایا: «وَلَنُذِيقَنَّهُمْ مِنَ الْعَذَابِ الأَدْنَى دُونَ الْعَذَابِ الأَكْبَرِ لَعَلَّهُمْ يَرْجِعُونَ» (الم السجدة:21)۔\n[2] اس بات سے کہ دنیا کے یہ عذاب اور مصائب، اس لیےہیں تاکہ انسان اللہ کی طرف رجوع کریں۔ یہ نکتہ چونکہ نہیں سمجھتے اس لیے گناہوں سے تائب نہیں ہوتے بلکہ بعض دفعہ پہلے سے بھی زیادہ گناہ کرنے لگ جاتےہیں۔ جس طرح ایک حدیث میں فرمایا کہ ”منافق جب بیمار ہو کر صحت مند ہوجاتا ہے تو اس کی مثال اونٹ کی سی ہے۔ وہ نہیں جانتا کہ اسے کیوں رسیوں سے باندھا گیا۔ اور کیوں کھلا چھوڑ دیا گیا؟“ (أبو داود، كتاب الجنائز، نمبر 3089)۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वइन्न लिल्लज़ीन ज़लमू अज़ाबन दून ज़ालिक वलाकिन्न अक्सरहुम ला यअलमून।"
+  },
+  {
+   "id": "quran_052_048",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 48,
+   "arabic": "وَٱصْبِرْ لِحُكْمِ رَبِّكَ فَإِنَّكَ بِأَعْيُنِنَا ۖ وَسَبِّحْ بِحَمْدِ رَبِّكَ حِينَ تَقُومُ",
+   "transliteration": null,
+   "hindi": "और (ऐ नबी!) आप अपने पालनहार का आदेश आने तक धैर्य रखें। निःसंदेह आप हमारी आँखों के सामने हैं। तथा जब आप उठें, तो अपने रब की प्रशंसा के साथ उसकी पवित्रता बयान करें।",
+   "hindi_footnotes": null,
+   "urdu": "تو اپنے رب کے حکم کے انتظار میں صبر سے کام لے، بیشک تو ہماری آنکھوں کے سامنے ہے۔ صبح کو جب تو اٹھے[1] اپنے رب کی پاکی اور حمد بیان کر.",
+   "urdu_footnotes": "[1] اس کھڑے ہونے سے کون سا کھڑا ہونا مراد ہے؟ بعض کہتےہیں جب نماز کے لیے کھڑے ہوں۔ جیساکہ آغاز نماز میں «سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ وَتَبَارَكَ اسْمُكَ» . . . پڑھی جاتی ہے۔ بعض کہتے ہیں، جب نیند سے بیدار ہو کر کھڑے ہوں۔ اس وقت بھی اللہ کی تسبیح و تحمید مسنون ہے۔ بعض کہتےہیں کہ جب کسی مجلس سےکھڑے ہوں۔ جیسے حدیث میں آتا ہے۔ جو شخص کسی مجلس سے اٹھتے وقت یہ دعا پڑھ لے گا تو یہ اس کی مجلس کے گناہوں کاکفارہ ہو جائے گا۔ «سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ أَشْهَدُ أَنْ لا إِلَهَ إِلا أَنْتَ أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ» (سنن الترمذي، أبواب الدعوات، باب ما يقول إذا قام من مجلسه)۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वस्बिर लिहुक्मि रब्बिक फ़इन्नक बिअअयुनिना वसब्बिह बिहम्दि रब्बिक हीन तक़ूम।"
+  },
+  {
+   "id": "quran_052_049",
+   "category": "quran",
+   "surah": 52,
+   "ayah": 49,
+   "arabic": "وَمِنَ ٱلَّيْلِ فَسَبِّحْهُ وَإِدْبَـٰرَ ٱلنُّجُومِ",
+   "transliteration": null,
+   "hindi": "तथा रात के कुछ भाग में फिर उसकी पवित्रता का वर्णन करें और सितारों के चले जाने के बाद भी।[17]",
+   "hindi_footnotes": "[17] रात्रि में तथा तारों के डूबने के बाद से संकेत मग़्रिब तथा इशा और फ़ज्र की नमाज़ की ओर है जिनमें ये सब नमाजें पढ़ी जाती हैं।",
+   "urdu": "اور رات کو بھی اس کی تسبیح پڑھ[1] اور ستاروں کے ڈوبتے وقت بھی.[2]",
+   "urdu_footnotes": "[1] اس سے مراد قیام اللیل۔ یعنی نماز تہجد ہے،جو عمر بھر نبی ﹲ کا معمول رہا۔\n[2] أَيْ: وَقْت إِدْبَارِهَا مِنْ آخِرِ اللَّيْلِ اس سےمراد فجر کی دو سنتیں ہیں، نوافل میں سب سے زیادہ اس کی نبی صلی اللہ علیہ وسلم حفاظت فرماتے تھے۔ اور ایک روایت میں آپ صلی اللہ علیہ وسلم نے فرمایا ”فجر کی دو سنتیں دنیا و مافیہا سے بہترہے“ (صحيح بخاري، كتاب التهجد، باب تعاهد ركعتي الفجر ومن سماها تطوعا ، وصحيح مسلم، كتاب الصلاة باب استحباب ركعتي الفجر)۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वमिनल्लैलि फ़सब्बिह्हु वइद्बारन्नुजूम।"
+  }
+ ]
+}
