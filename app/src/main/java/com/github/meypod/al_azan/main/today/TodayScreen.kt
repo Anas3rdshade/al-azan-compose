@@ -127,7 +127,7 @@ fun TodayScreen(
             var langMenu by remember { mutableStateOf(false) }
             Box {
                 IconButton(onClick = { langMenu = true }) {
-                    Icon(painterResource(R.drawable.globe), contentDescription = stringResource(R.string.language), tint = shade.accent, modifier = Modifier.size(22.dp))
+                    Icon(painterResource(R.drawable.outline_translate_24), contentDescription = stringResource(R.string.language), tint = shade.accent)
                 }
                 DropdownMenu(expanded = langMenu, onDismissRequest = { langMenu = false }) {
                     QuickLocales.mapNotNull { v -> SupportedLocales.find { it.value == v } }.forEach { l ->

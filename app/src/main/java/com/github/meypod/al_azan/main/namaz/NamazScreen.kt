@@ -1,19 +1,23 @@
 package com.github.meypod.al_azan.main.namaz
 
 import androidx.annotation.StringRes
+import androidx.compose.foundation.background
+import androidx.compose.foundation.border
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.ColumnScope
+import androidx.compose.foundation.layout.ExperimentalLayoutApi
+import androidx.compose.foundation.layout.FlowRow
 import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.layout.widthIn
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.FilledTonalButton
 import androidx.compose.material3.FilledTonalIconButton
-import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
@@ -25,6 +29,8 @@ import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.draw.clip
+import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
@@ -78,7 +84,6 @@ fun NamazScreen(
     ) {
         Section(R.string.namaz_rakat_title) {
             DraftChip()
-            RakatHeader()
             RakatTable.forEach { RakatLine(it) }
             Text(stringResource(R.string.namaz_rakat_legend), style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
         }
@@ -122,30 +127,53 @@ private fun Section(@StringRes title: Int, content: @Composable ColumnScope.() -
     }
 }
 
-@Composable
-private fun RakatCells(name: String, cells: List<String>, header: Boolean) {
-    val style = if (header) MaterialTheme.typography.labelSmall else MaterialTheme.typography.bodyMedium
-    Row(verticalAlignment = Alignment.CenterVertically, modifier = Modifier.fillMaxWidth()) {
-        Text(name, style = style, fontWeight = FontWeight.Bold, modifier = Modifier.weight(1.4f))
-        cells.forEach { Text(it, style = style, textAlign = TextAlign.Center, modifier = Modifier.weight(1f)) }
-    }
-}
-
-@Composable
-private fun RakatHeader() {
-    RakatCells(
-        "",
-        listOf(R.string.namaz_col_sunnat_before, R.string.namaz_col_fard, R.string.namaz_col_sunnat_after, R.string.namaz_col_witr, R.string.namaz_col_nafl)
-            .map { stringResource(it) },
-        header = true,
-    )
-    HorizontalDivider(color = LocalShadeColors.current.line)
-}
-
+/** A prayer's units as pills in prayer order; empty cells are dropped. Fard is filled, ★ tonal, the rest outlined. */
+@OptIn(ExperimentalLayoutApi::class)
 @Composable
 private fun RakatLine(r: RakatRow) {
-    RakatCells(stringResource(r.name), listOf(r.sunnatBefore, r.fard, r.sunnatAfter, r.witr, r.nafl), header = false)
-    r.note?.let { Text(stringResource(it), style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant) }
+    val shade = LocalShadeColors.current
+    val units = listOf(
+        r.sunnatBefore to R.string.namaz_col_sunnat_before,
+        r.fard to R.string.namaz_col_fard,
+        r.sunnatAfter to R.string.namaz_col_sunnat_after,
+        r.witr to R.string.namaz_col_witr,
+        r.nafl to R.string.namaz_col_nafl,
+    ).filter { it.first != "–" }
+    Column(
+        Modifier
+            .fillMaxWidth()
+            .clip(RoundedCornerShape(12.dp))
+            .background(shade.pill)
+            .padding(10.dp),
+        verticalArrangement = Arrangement.spacedBy(6.dp),
+    ) {
+        Text(stringResource(r.name), style = MaterialTheme.typography.titleSmall, fontWeight = FontWeight.Bold)
+        FlowRow(horizontalArrangement = Arrangement.spacedBy(6.dp), verticalArrangement = Arrangement.spacedBy(6.dp)) {
+            units.forEach { (count, label) ->
+                val fard = label == R.string.namaz_col_fard
+                val shape = RoundedCornerShape(10.dp)
+                val fg = if (fard) Color.White else shade.accent
+                Column(
+                    Modifier
+                        .widthIn(min = 64.dp)
+                        .clip(shape)
+                        .then(
+                            when {
+                                fard -> Modifier.background(shade.accent)
+                                '★' in count -> Modifier.background(shade.accent.copy(alpha = 0.16f))
+                                else -> Modifier.border(1.dp, shade.line, shape)
+                            },
+                        )
+                        .padding(horizontal = 10.dp, vertical = 6.dp),
+                    horizontalAlignment = Alignment.CenterHorizontally,
+                ) {
+                    Text(count, fontSize = 18.sp, fontWeight = FontWeight.Bold, color = fg)
+                    Text(stringResource(label), style = MaterialTheme.typography.labelSmall, color = if (fard) fg else MaterialTheme.colorScheme.onSurfaceVariant)
+                }
+            }
+        }
+        r.note?.let { Text(stringResource(it), style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant) }
+    }
 }
 
 @Composable
