@@ -28,4 +28,5 @@ sealed interface HomeUiAction {
     data class OnTogglePrayed(val prayer: Prayer) : HomeUiAction
     data class OnToggleAdhan(val prayer: Prayer) : HomeUiAction
     data class OnSetDarkTheme(val dark: Boolean) : HomeUiAction
+    data class OnChangeLanguage(val locale: String) : HomeUiAction
 }

@@ -19,12 +19,18 @@ import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.foundation.verticalScroll
+import androidx.compose.material3.DropdownMenu
+import androidx.compose.material3.DropdownMenuItem
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.LocalTextStyle
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.alpha
@@ -40,6 +46,7 @@ import androidx.compose.ui.unit.em
 import androidx.compose.ui.unit.sp
 import com.github.meypod.al_azan.R
 import com.github.meypod.al_azan.core.domain.model.adhan.Prayer
+import com.github.meypod.al_azan.core.domain.model.settings.SupportedLocales
 import com.github.meypod.al_azan.core.domain.util.addDaysTimeZoneAware
 import com.github.meypod.al_azan.core.domain.util.formatInstant
 import com.github.meypod.al_azan.core.presentation.Amiri
@@ -50,7 +57,9 @@ import android.icu.text.DateFormat
 import kotlin.time.Clock
 import kotlin.time.Duration.Companion.days
 
-private val FivePrayers = listOf(Prayer.Fajr, Prayer.Dhuhr, Prayer.Asr, Prayer.Maghrib, Prayer.Isha)
+private val QuickLocales = listOf("en", "hi", "ur")
+
+private val FivePrayers =listOf(Prayer.Fajr, Prayer.Dhuhr, Prayer.Asr, Prayer.Maghrib, Prayer.Isha)
 
 @StringRes
 private fun Prayer.arabicName(): Int =
@@ -113,6 +122,24 @@ fun TodayScreen(
                     fontSize = 13.sp,
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
                 )
+            }
+            // Quick switch between the app's three target languages; the full list stays in Settings.
+            var langMenu by remember { mutableStateOf(false) }
+            Box {
+                IconButton(onClick = { langMenu = true }) {
+                    Icon(painterResource(R.drawable.globe), contentDescription = stringResource(R.string.language), tint = shade.accent, modifier = Modifier.size(22.dp))
+                }
+                DropdownMenu(expanded = langMenu, onDismissRequest = { langMenu = false }) {
+                    QuickLocales.mapNotNull { v -> SupportedLocales.find { it.value == v } }.forEach { l ->
+                        DropdownMenuItem(
+                            text = { Text(l.label, fontWeight = if (uiState.locale.startsWith(l.value)) FontWeight.Bold else FontWeight.Normal) },
+                            onClick = {
+                                langMenu = false
+                                onAction(HomeUiAction.OnChangeLanguage(l.value))
+                            },
+                        )
+                    }
+                }
             }
             val dark = MaterialTheme.colorScheme.background.luminance() < 0.5f
             IconButton(onClick = { onAction(HomeUiAction.OnSetDarkTheme(!dark)) }) {

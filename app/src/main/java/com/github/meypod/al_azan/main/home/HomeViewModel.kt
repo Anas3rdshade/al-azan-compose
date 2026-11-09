@@ -12,6 +12,7 @@ import com.github.meypod.al_azan.core.domain.model.alarm.AlarmSettings
 import com.github.meypod.al_azan.core.domain.model.alarm.SkippedAlarm
 import com.github.meypod.al_azan.core.domain.model.settings.Settings
 import com.github.meypod.al_azan.core.domain.model.settings.ThemeColor
+import com.github.meypod.al_azan.core.domain.usecase.ChangeLanguageUseCase
 import com.github.meypod.al_azan.core.domain.repository.AlarmRepository
 import com.github.meypod.al_azan.core.domain.repository.AlarmSettingsRepository
 import com.github.meypod.al_azan.core.domain.repository.CalculationSettingsRepository
@@ -68,6 +69,7 @@ class HomeViewModel
     private val systemChangeRepository: SystemChangeRepository,
     private val alarmRepository: AlarmRepository,
     private val alarmSettingsRepository: AlarmSettingsRepository,
+    private val changeLanguage: ChangeLanguageUseCase,
 ) : ViewModel() {
     private val _uiState = MutableStateFlow(HomeUiState())
     val uiState = _uiState.asStateFlow()
@@ -179,6 +181,7 @@ class HomeViewModel
             is HomeUiAction.OnSetDarkTheme -> viewModelScope.launch {
                 settingsRepository.update { it.copy(themeColor = if (action.dark) ThemeColor.Dark else ThemeColor.Light) }
             }
+            is HomeUiAction.OnChangeLanguage -> viewModelScope.launch { changeLanguage(action.locale) }
         }
     }
 
