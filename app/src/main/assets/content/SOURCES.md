@@ -90,5 +90,10 @@ All checked live on 2026-11-09. "Bundle?" means: may this file ship inside a sid
 - The Hindi uses a mixed "माँगता/माँगती" form, which the app could later switch by user gender.
 - Verdict: **USE after review.** This is the fallback for every dua Hindi and Urdu line.
 
+### Full-wording pass (2026-11-09)
+- Anas asked for every dua in its full, commonly recited wording. Eight entries were extended: 017, 019 (wa bi-hamdih, Abu Dawud 870), 018 (Bukhari 799), 023 (Hanafi qunut: wa natawakkalu alayka, wa nashkuruka), 030 (wa ala barakatillah, al-Hakim), 033 (wa bika amantu wa alayka tawakkaltu), 036 (wal-hamdu lillah, al-Tabarani), 038 (innaka la tukhlifu-l-mi'ad, al-Bayhaqi).
+- Several of these additions are weak, disputed or have no hadith source. Each entry's `reference` list ends with a "Note:" line naming the source and grading. Hindi/Urdu for the added words is our own draft.
+- Transliteration typos flagged in phase 3 were fixed (006, 012, 017, 020, 023, 033, 038).
+
 ## Attribution block for the About screen
 > Quran text: Tanzil Project (tanzil.net), CC BY 3.0, verbatim. Hindi translation: Azizul Haq Al-Omari, QuranEnc.com v1.1.5. Urdu translation: Muhammad Ibrahim Junagarhi, QuranEnc.com v1.1.3. Recitation: Mishary Rashid Alafasy via Islamic Network (alquran.cloud). Dua Arabic and transliteration: House of Islam for Developers. Dua Hindi/Urdu meanings: written for this app.

@@ -148,7 +148,7 @@
       "title_en": "Protect Yourself From Anxiety, Laziness, Debt etc",
       "repeat": 1,
       "arabic": "اَللّٰهُمَّ إِنِّيْ أَعُوْذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ ، وَأَعُوْذُ بِكَ مِنَ الْعَجْزِ وَالْكَسَلِ، وَأَعُوْذُ بِكَ مِنَ الْجُبْنِ وَالْبُخْلِ ، وَأَعُوْذُ بِكَ مِنْ غَلَبَةِ الدَّيْنِ وَقَهْرِ الرِّجَالِ.",
-      "transliteration": "Allāhumma innī aʿūdhu bika min-l-hammi wa-l-ḥazan, wa aʿūdhu bika min-l-ʿajzi wa-l-kasal, wa aʿūdhu bika min-l-jubni wa-l-bukhl, wa aʿūdhu bika min ghalabati-d-dayni wa qahri-r-rijāl.",
+      "transliteration": "Allāhumma innī aʿūdhu bika mina-l-hammi wa-l-ḥazan, wa aʿūdhu bika mina-l-ʿajzi wa-l-kasal, wa aʿūdhu bika mina-l-jubni wa-l-bukhl, wa aʿūdhu bika min ghalabati-d-dayni wa qahri-r-rijāl.",
       "transliteration_hi": "अल्लाहुम्म इन्नी अऊज़ु बिक मिनल हम्मि वल हज़न, व अऊज़ु बिक मिनल अज्ज़ि वल कसल, व अऊज़ु बिक मिनल जुब्नि वल बुख़्ल, व अऊज़ु बिक मिन ग़लबतिद्दैनि व क़हरिर्रिजाल।",
       "hindi": "ऐ अल्लाह! मैं फ़िक्र और ग़म से तेरी पनाह माँगता/माँगती हूँ, और बेबसी और सुस्ती से तेरी पनाह माँगता/माँगती हूँ, और बुज़दिली और कंजूसी से तेरी पनाह माँगता/माँगती हूँ, और क़र्ज़ के बोझ के ग़ालिब आ जाने और लोगों के दबा लेने से तेरी पनाह माँगता/माँगती हूँ।",
       "urdu": "اے اللہ! میں فکر اور غم سے تیری پناہ مانگتا/مانگتی ہوں، اور بے بسی اور سستی سے تیری پناہ مانگتا/مانگتی ہوں، اور بزدلی اور کنجوسی سے تیری پناہ مانگتا/مانگتی ہوں، اور قرض کے بوجھ کے غالب آ جانے اور لوگوں کے دبا لینے سے تیری پناہ مانگتا/مانگتی ہوں۔",
@@ -158,7 +158,7 @@
         "arabic": "check_against_hisnul_muslim_print",
         "transliteration_hi": "draft_needs_native_reader"
       },
-      "review_flag": "Transliteration writes min-l- (x3) where the Arabic is mina-l- (مِنَ الْ).",
+      "review_flag": "Fixed (full-wording pass): Transliteration writes min-l- (x3) where the Arabic is mina-l- (مِنَ الْ).",
       "reference": [
         "Abū Saʿīd al-Khudrī (raḍiy Allāhu ʿanhu) narrated that one day, the Messenger of Allah ﷺ entered the masjid. He saw a man from the Anṣār called Abū Umāmah (raḍiy Allāhu ʿanhu). He ﷺ asked, “What is the matter? Why are you sitting in the mosque when it is not the time for prayer?” He replied, “Never-ending worries and debts, O Messenger of Allah.” The Messenger of Allah ﷺ then asked, “Shall I not teach you words by which, when you say them, Allah will remove your worries, and settle your debts?” He replied, “Yes of course, O Messenger of Allah.” He ﷺ said, “Say in the morning and evening [the above].” Abū Umāmah (raḍiy Allāhu ʿanhu) said, “Then I did that, and Allah removed my worries and settled my debts.” (Abū Dāwūd 1555)"
       ],
@@ -318,7 +318,7 @@
       "title_en": "After Salah #2",
       "repeat": 1,
       "arabic": "لَا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيْكَ لَهُ ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَىٰ كُلِّ شَيْءٍ قَدِيْرٌ ، اَللّٰهُمَّ لَا مَانِعَ لِمَا أَعْطَيْتَ ، وَلَا مُعْطِيَ لِمَا مَنَعْتَ ، وَلَا يَنْفَعُ ذَا الْجَـدِّ مِنْكَ الْجَـدُّ.",
-      "transliteration": "Lā ilāha illā-llāhu waḥdahū lā sharīka lah, lahu-l-mulku wa lahu-l-ḥamd, wa Huwa ʿalā kulli shay’in Qadīr, Allāhumma lā māniʿa li-mā aʿaṭayt, wa lā muʿṭiya li-mā manʿat, wa lā yanfaʿu dha-l-jaddi minka-l-jadd.",
+      "transliteration": "Lā ilāha illā-llāhu waḥdahū lā sharīka lah, lahu-l-mulku wa lahu-l-ḥamd, wa Huwa ʿalā kulli shay’in Qadīr, Allāhumma lā māniʿa li-mā aʿṭayt, wa lā muʿṭiya li-mā manaʿt, wa lā yanfaʿu dha-l-jaddi minka-l-jadd.",
       "transliteration_hi": "ला इलाह इल्लल्लाहु वह्दहू ला शरीक लह, लहुल मुल्कु व लहुल हम्द, व हुव अला कुल्लि शैइन क़दीर, अल्लाहुम्म ला मानिअ लिमा अअतैत, व ला मुअतिय लिमा मनअत, व ला यन्फ़उ ज़ल जद्दि मिन्कल जद्द।",
       "hindi": "अल्लाह के सिवा कोई माबूद (इबादत के लायक़) नहीं, वह अकेला है, उसका कोई शरीक नहीं, उसी की बादशाहत है और उसी के लिए सब तारीफ़ है, और वह हर चीज़ पर क़ुदरत रखता है। ऐ अल्लाह! जो तू दे उसे कोई रोकने वाला नहीं, और जो तू रोक ले उसे कोई देने वाला नहीं, और किसी दौलत वाले की दौलत तेरे मुक़ाबले में उसके कुछ काम नहीं आती।",
       "urdu": "اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، اسی کی بادشاہی ہے اور اسی کے لیے تمام تعریف ہے، اور وہ ہر چیز پر قدرت رکھتا ہے۔ اے اللہ! جو تو دے اسے کوئی روکنے والا نہیں، اور جو تو روک لے اسے کوئی دینے والا نہیں، اور کسی دولت والے کی دولت تیرے مقابلے میں اس کے کچھ کام نہیں آتی۔",
@@ -328,7 +328,7 @@
         "arabic": "check_against_hisnul_muslim_print",
         "transliteration_hi": "draft_needs_native_reader"
       },
-      "review_flag": "Transliteration typos: aʿaṭayt should be aʿṭayt (أَعْطَيْتَ), manʿat should be manaʿt (مَنَعْتَ).",
+      "review_flag": "Fixed (full-wording pass): Transliteration typos: aʿaṭayt should be aʿṭayt (أَعْطَيْتَ), manʿat should be manaʿt (مَنَعْتَ).",
       "reference": [
         "Warrād (the clerk of Mughīrah b. Shuʿbah) said: Mughīrah (raḍiy Allāhu ʿanhu) dictated to me in a letter addressed to Muʿāwiyah (raḍiy Allāhu ʿanhu) that the Prophet ﷺ used to say [the above] after every compulsory prayer. (Bukhārī 844)"
       ],
@@ -459,20 +459,21 @@
       "category": "in_salah",
       "title_en": "Rukuʿ #1",
       "repeat": 3,
-      "arabic": "سُبْحَانَ رَبِّـيَ الْعَظِيْمِ.",
-      "transliteration": "Subḥāna Rabiyya-l-ʿAẓīm.",
-      "transliteration_hi": "सुब्हान रब्बियल अज़ीम।",
-      "hindi": "पाक है मेरा रब, जो बड़ी अज़मत वाला है।",
-      "urdu": "پاک ہے میرا رب، جو بڑی عظمت والا ہے۔",
+      "arabic": "سُبْحَانَ رَبِّـيَ الْعَظِيْمِ وَبِحَمْدِهٖ.",
+      "transliteration": "Subḥāna Rabbiya-l-ʿAẓīmi wa bi-ḥamdih.",
+      "transliteration_hi": "सुब्हान रब्बियल अज़ीमि व बिहम्दिह।",
+      "hindi": "पाक है मेरा रब, जो बड़ी अज़मत वाला है, और उसी की तारीफ़ के साथ।",
+      "urdu": "پاک ہے میرا رب، جو بڑی عظمت والا ہے، اور اسی کی تعریف کے ساتھ۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
         "arabic": "check_against_hisnul_muslim_print",
         "transliteration_hi": "draft_needs_native_reader"
       },
-      "review_flag": "Transliteration typo: Rabiyya should be Rabbiya (رَبِّيَ).",
+      "review_flag": "Fixed (full-wording pass): Transliteration typo: Rabiyya should be Rabbiya (رَبِّيَ).",
       "reference": [
-        "Ḥudhayfah (raḍiy Allāhu ʿanhu) said, “I prayed with the Messenger of Allah ﷺ one night and he started reciting Sūrah al-Baqarah. I said to myself that he will do rukūʿ at the end of one hundred āyāt, but he carried on reciting. I then said to myself that he will perhaps recite the whole sūrah in a rakʿah, and he carried on reciting. (At the end of Sūrah al-Baqarah), I said to myself that he will (now) go into rukūʿ. However, he then started Sūrah al-Nisā’, and recited it. He then started Sūrah Āl ʿImrān and recited it slowly.\n\nWhen he recited the āyāt which entailed the glorification of Allah (tasbīḥ), he glorified Him. When he recited the āyāt which entailed asking (duʿā’), he would ask Allah. And when he recited the āyāt which entailed the protection of Allah, he sought His protection.\n\nHe ﷺ then went into rukūʿ and said, [the above]. His bowing lasted about the same length of time as his standing. He then said, ‘May Allah respond to the one who has praised Him’, and he then stood for a long time, about the same length of time as he had spent in bowing. He then performed sajdah and said, ‘How Perfect is my Lord, the Most Exalted’, and his prostration lasted nearly the same length of time as his standing” (Muslim 772)."
+        "Ḥudhayfah (raḍiy Allāhu ʿanhu) said, “I prayed with the Messenger of Allah ﷺ one night and he started reciting Sūrah al-Baqarah. I said to myself that he will do rukūʿ at the end of one hundred āyāt, but he carried on reciting. I then said to myself that he will perhaps recite the whole sūrah in a rakʿah, and he carried on reciting. (At the end of Sūrah al-Baqarah), I said to myself that he will (now) go into rukūʿ. However, he then started Sūrah al-Nisā’, and recited it. He then started Sūrah Āl ʿImrān and recited it slowly.\n\nWhen he recited the āyāt which entailed the glorification of Allah (tasbīḥ), he glorified Him. When he recited the āyāt which entailed asking (duʿā’), he would ask Allah. And when he recited the āyāt which entailed the protection of Allah, he sought His protection.\n\nHe ﷺ then went into rukūʿ and said, [the above]. His bowing lasted about the same length of time as his standing. He then said, ‘May Allah respond to the one who has praised Him’, and he then stood for a long time, about the same length of time as he had spent in bowing. He then performed sajdah and said, ‘How Perfect is my Lord, the Most Exalted’, and his prostration lasted nearly the same length of time as his standing” (Muslim 772).",
+        "Note: 'wa bi-ḥamdih' is from Abū Dāwūd 870; its grading is disputed (al-Albānī: ḍaʿīf; Zubair ʿAlī Zaʾī: ṣaḥīḥ). The form without it is in Muslim 772."
       ],
       "audio_file": null,
       "source_id": {
@@ -487,20 +488,21 @@
       "category": "in_salah",
       "title_en": "After Standing Up From Rukuʿ #1",
       "repeat": 1,
-      "arabic": "اَللّٰهُمَّ رَبَّنَا لَكَ الْحَمْدُ.",
-      "transliteration": "Allāhumma Rabbanā laka-l-ḥamd.",
-      "transliteration_hi": "अल्लाहुम्म रब्बना लकल हम्द।",
-      "hindi": "ऐ अल्लाह! ऐ हमारे रब! सब तारीफ़ तेरे ही लिए है।",
-      "urdu": "اے اللہ! اے ہمارے رب! تمام تعریف تیرے ہی لیے ہے۔",
+      "arabic": "رَبَّنَا وَلَكَ الْحَمْدُ، حَمْدًا كَثِيْرًا طَيِّبًا مُّبَارَكًا فِيْهِ.",
+      "transliteration": "Rabbanā wa laka-l-ḥamd, ḥamdan kathīran ṭayyiban mubārakan fīh.",
+      "transliteration_hi": "रब्बना व लकल हम्द, हम्दन कसीरन तय्यिबम्मुबारकन फ़ीह।",
+      "hindi": "ऐ हमारे रब! और सब तारीफ़ तेरे ही लिए है, बहुत ज़्यादा, पाकीज़ा और बरकत वाली तारीफ़।",
+      "urdu": "اے ہمارے رب! اور تمام تعریف تیرے ہی لیے ہے، بہت زیادہ، پاکیزہ اور برکت والی تعریف۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
         "arabic": "check_against_hisnul_muslim_print",
         "transliteration_hi": "draft_needs_native_reader"
       },
-      "review_flag": null,
+      "review_flag": "Full wording added in the full-wording pass; see the Note in reference for its grading.",
       "reference": [
-        "The Messenger of Allah ﷺ said, “When the Imām says: سَمِعَ اللَّهُ لِمَنْ حَمِدَه say: اللهم ربنا لك الحمد, for indeed whoever coincides in saying this with the angels, his past sins will be forgiven.” (Bukhārī 796)"
+        "The Messenger of Allah ﷺ said, “When the Imām says: سَمِعَ اللَّهُ لِمَنْ حَمِدَه say: اللهم ربنا لك الحمد, for indeed whoever coincides in saying this with the angels, his past sins will be forgiven.” (Bukhārī 796)",
+        "Note: full wording from Bukhārī 799 (ṣaḥīḥ). The short 'Rabbanā laka-l-ḥamd' (Bukhārī 796) is also sufficient."
       ],
       "audio_file": null,
       "source_id": {
@@ -515,20 +517,21 @@
       "category": "in_salah",
       "title_en": "Sujud #1",
       "repeat": 3,
-      "arabic": "سُبْحَانَ رَبِّـيَ الْأَعْلَىٰ.",
-      "transliteration": "Subḥāna Rabbiya-l-Aʿlā.",
-      "transliteration_hi": "सुब्हान रब्बियल आला।",
-      "hindi": "पाक है मेरा रब, जो सबसे बुलंद है।",
-      "urdu": "پاک ہے میرا رب، جو سب سے بلند ہے۔",
+      "arabic": "سُبْحَانَ رَبِّـيَ الْأَعْلَىٰ وَبِحَمْدِهٖ.",
+      "transliteration": "Subḥāna Rabbiya-l-Aʿlā wa bi-ḥamdih.",
+      "transliteration_hi": "सुब्हान रब्बियल आला व बिहम्दिह।",
+      "hindi": "पाक है मेरा रब, जो सबसे बुलंद है, और उसी की तारीफ़ के साथ।",
+      "urdu": "پاک ہے میرا رب، جو سب سے بلند ہے، اور اسی کی تعریف کے ساتھ۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
         "arabic": "check_against_hisnul_muslim_print",
         "transliteration_hi": "draft_needs_native_reader"
       },
-      "review_flag": null,
+      "review_flag": "Full wording added in the full-wording pass; see the Note in reference for its grading.",
       "reference": [
-        "Ḥudhayfah (raḍiy Allāhu ʿanhu) said, “I prayed with the Messenger of Allah ﷺ one night and he started reciting Sūrah al-Baqarah. I said to myself that he will do rukūʿ at the end of one hundred āyāt, but he carried on reciting. I then said to myself that he will perhaps recite the whole sūrah in a rakʿah, and he carried on reciting. (At the end of Sūrah al-Baqarah), I said to myself that he will (now) go into rukūʿ. However, he then started Sūrah al-Nisā’, and recited it. He then started Sūrah Āl ʿImrān and recited it slowly.\n\nWhen he recited the āyāt which entailed the glorification of Allah (tasbīḥ), he glorified Him. When he recited the āyāt which entailed asking (duʿā’), he would ask Allah. And when he recited the āyāt which entailed the protection of Allah, he sought His protection.\n\nHe ﷺ then went into rukūʿ and said, ‘How Perfect is my Lord, the Magnificent.’ His bowing lasted about the same length of time as his standing. He then said, ‘May Allah respond to the one who has praised Him’, and he then stood for a long time, about the same length of time as he had spent in bowing. He then performed sajdah and said, [the above], and his prostration lasted nearly the same length of time as his standing” (Muslim 772)."
+        "Ḥudhayfah (raḍiy Allāhu ʿanhu) said, “I prayed with the Messenger of Allah ﷺ one night and he started reciting Sūrah al-Baqarah. I said to myself that he will do rukūʿ at the end of one hundred āyāt, but he carried on reciting. I then said to myself that he will perhaps recite the whole sūrah in a rakʿah, and he carried on reciting. (At the end of Sūrah al-Baqarah), I said to myself that he will (now) go into rukūʿ. However, he then started Sūrah al-Nisā’, and recited it. He then started Sūrah Āl ʿImrān and recited it slowly.\n\nWhen he recited the āyāt which entailed the glorification of Allah (tasbīḥ), he glorified Him. When he recited the āyāt which entailed asking (duʿā’), he would ask Allah. And when he recited the āyāt which entailed the protection of Allah, he sought His protection.\n\nHe ﷺ then went into rukūʿ and said, ‘How Perfect is my Lord, the Magnificent.’ His bowing lasted about the same length of time as his standing. He then said, ‘May Allah respond to the one who has praised Him’, and he then stood for a long time, about the same length of time as he had spent in bowing. He then performed sajdah and said, [the above], and his prostration lasted nearly the same length of time as his standing” (Muslim 772).",
+        "Note: 'wa bi-ḥamdih' is from Abū Dāwūd 870; its grading is disputed (al-Albānī: ḍaʿīf; Zubair ʿAlī Zaʾī: ṣaḥīḥ). The form without it is in Muslim 772."
       ],
       "audio_file": null,
       "source_id": {
@@ -544,7 +547,7 @@
       "title_en": "Tashahhud",
       "repeat": 1,
       "arabic": "اَلتَّحِيَّاتُ لِلّٰهِ، وَالصَّلَوَاتُ وَالطَّيِّبَاتُ، اَلسَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللّٰهِ وَبَرَكَاتُهُ ، اَلسَّلاَمُ عَلَيْنَا وَعَلَىٰ عِبَادِ اللّٰهِ الصَّالِحِيْنَ، أَشْهَدُ أَنْ لَّا إِلٰهَ إِلَّا اللّٰهُ ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُوْلُهُ.",
-      "transliteration": "At-taḥiyyātu lil-lāhi, wa-ṣalawātu, wa- ṭayyibātu, as-salāmu ʿalyaka ayyuha-n-nabiyyu wa raḥmatul-lāhi wa barakātuh, as-salāmu ʿalyanā wa ʿalā ʿibādillah-ṣ-ṣalihīn, ash-hadu an-lā ilāha illa-l-lāhu wa ashadu an-na Muḥammadan ʿabduhū wa rasūluh.",
+      "transliteration": "At-taḥiyyātu lil-lāhi, wa-ṣalawātu, wa- ṭayyibātu, as-salāmu ʿalayka ayyuha-n-nabiyyu wa raḥmatul-lāhi wa barakātuh, as-salāmu ʿalaynā wa ʿalā ʿibādillah-ṣ-ṣalihīn, ash-hadu an lā ilāha illa-l-lāhu wa ash-hadu anna Muḥammadan ʿabduhū wa rasūluh.",
       "transliteration_hi": "अत्तहिय्यातु लिल्लाहि वस्सलवातु वत्तय्यिबातु, अस्सलामु अलैक अय्युहन्नबिय्यु व रह्मतुल्लाहि व बरकातुह, अस्सलामु अलैना व अला इबादिल्लाहिस्सालिहीन, अश्हदु अल्ला इलाह इल्लल्लाहु व अश्हदु अन्न मुहम्मदन अब्दुहू व रसूलुह।",
       "hindi": "सारी ताज़ीमें (आदर भरे सलाम) अल्लाह के लिए हैं, और सारी नमाज़ें (दुआएँ) और सारी पाकीज़ा बातें भी। ऐ नबी! आप पर सलाम हो, और अल्लाह की रहमत और उसकी बरकतें। हम पर और अल्लाह के नेक बंदों पर सलाम हो। मैं गवाही देता/देती हूँ कि अल्लाह के सिवा कोई माबूद (इबादत के लायक़) नहीं, और मैं गवाही देता/देती हूँ कि मुहम्मद उसके बंदे और उसके रसूल हैं।",
       "urdu": "تمام تعظیمیں اللہ کے لیے ہیں، اور تمام نمازیں (دعائیں) اور تمام پاکیزہ باتیں بھی۔ اے نبی! آپ پر سلام ہو، اور اللہ کی رحمت اور اس کی برکتیں۔ ہم پر اور اللہ کے نیک بندوں پر سلام ہو۔ میں گواہی دیتا/دیتی ہوں کہ اللہ کے سوا کوئی معبود نہیں، اور میں گواہی دیتا/دیتی ہوں کہ محمد اس کے بندے اور اس کے رسول ہیں۔",
@@ -554,7 +557,7 @@
         "arabic": "check_against_hisnul_muslim_print",
         "transliteration_hi": "draft_needs_native_reader"
       },
-      "review_flag": "Transliteration typos: ʿalyaka and ʿalyanā should be ʿalayka (عَلَيْكَ) and ʿalaynā (عَلَيْنَا); ashadu should be ash-hadu.",
+      "review_flag": "Fixed (full-wording pass): Transliteration typos: ʿalyaka and ʿalyanā should be ʿalayka (عَلَيْكَ) and ʿalaynā (عَلَيْنَا); ashadu should be ash-hadu.",
       "reference": [
         "Ibn Mas’ūd (raḍiy Allāhu ‘anhu) said: “The Messenger of Allah ﷺ taught me the Tashahhud as he taught me a sūrah from the Qur’an, while my hand was between his hands. (Bukhārī 6265)"
       ],
@@ -627,20 +630,21 @@
       "category": "witr_qunut",
       "title_en": "Qunut #2",
       "repeat": 1,
-      "arabic": "اَللّٰهُمَّ إِنَّا نَسْتَعِيْنُكَ وَنَسْتَغْفِرُكَ ، وَنُؤْمِنُ بِكَ وَنُثْنِيْ عَلَيْكَ الْخَيْرَ وَلَا نَكْفُرُكَ ، وَنَخْلَعُ وَنَتْرُكُ مَنْ يَّفْجُرُكَ ، اَللّٰهُمَّ إِيَّاكَ نَعْبُدُ ، وَلَكَ نُصَلِّيْ وَنَسْجُدُ ، وَإِلَيْكَ نَسْعَىٰ وَنَحْفِدُ ، نَرْجُوْ رَحْمَتَكَ وَنَخْشَىٰ عَذَابَكَ ، إِنَّ عَذَابَكَ الْجِدَّ بِالْكُفَّارِ مُلْحِقٌ.",
-      "transliteration": "Allāhumma innā nastaʿīnuka wa nastaghfiruka, wa nu’minu bika wa nuthnī ʿalayka-l-khayr, wa lā nakfuruka wa naklaʿu wa natruku may-yafjuruk, Allāhumma iyyāka naʿbudu, wa laka nuṣallī, wa nasjud, wa ilayka nasʿā wa naḥfid, narjū raḥmatak, wa nakhshā ʿadhābak, inna ʿadhābaka-l-jidda bi-l-kuffāri mulḥiq.",
-      "transliteration_hi": "अल्लाहुम्म इन्ना नस्तईनुक व नस्तग़्फ़िरुक, व नुअमिनु बिक व नुस्नी अलैकल ख़ैर, व ला नक्फ़ुरुक व नख़्लउ व नत्रुकु मय्यफ़्जुरुक, अल्लाहुम्म इय्याक नअबुदु, व लक नुसल्ली, व नस्जुद, व इलैक नस्आ व नह्फ़िद, नर्जू रह्मतक, व नख़्शा अज़ाबक, इन्न अज़ाबकल जिद्द बिल कुफ़्फ़ारि मुल्हिक़।",
-      "hindi": "ऐ अल्लाह! हम तुझसे मदद माँगते हैं और तुझसे माफ़ी माँगते हैं, और तुझ पर ईमान रखते हैं, और भलाई के साथ तेरी तारीफ़ करते हैं, और तेरी नाशुक्री नहीं करते, और जो तेरी नाफ़रमानी करे उससे हम अलग होते और उसे छोड़ देते हैं। ऐ अल्लाह! हम तेरी ही इबादत करते हैं, और तेरे ही लिए नमाज़ पढ़ते और सजदा करते हैं, और तेरी ही तरफ़ दौड़ते और जल्दी करते हैं, हम तेरी रहमत की उम्मीद रखते हैं और तेरे अज़ाब से डरते हैं, बेशक तेरा सख़्त अज़ाब काफ़िरों को पहुँचकर रहेगा।",
-      "urdu": "اے اللہ! ہم تجھ سے مدد مانگتے ہیں اور تجھ سے بخشش مانگتے ہیں، اور تجھ پر ایمان رکھتے ہیں، اور بھلائی کے ساتھ تیری تعریف کرتے ہیں، اور تیری ناشکری نہیں کرتے، اور جو تیری نافرمانی کرے اس سے ہم الگ ہوتے اور اسے چھوڑ دیتے ہیں۔ اے اللہ! ہم تیری ہی عبادت کرتے ہیں، اور تیرے ہی لیے نماز پڑھتے اور سجدہ کرتے ہیں، اور تیری ہی طرف دوڑتے اور جلدی کرتے ہیں، ہم تیری رحمت کی امید رکھتے ہیں اور تیرے عذاب سے ڈرتے ہیں، بے شک تیرا سخت عذاب کافروں کو پہنچ کر رہے گا۔",
+      "arabic": "اَللّٰهُمَّ إِنَّا نَسْتَعِيْنُكَ وَنَسْتَغْفِرُكَ ، وَنُؤْمِنُ بِكَ وَنَتَوَكَّلُ عَلَيْكَ ، وَنُثْنِيْ عَلَيْكَ الْخَيْرَ وَنَشْكُرُكَ وَلَا نَكْفُرُكَ ، وَنَخْلَعُ وَنَتْرُكُ مَنْ يَّفْجُرُكَ ، اَللّٰهُمَّ إِيَّاكَ نَعْبُدُ ، وَلَكَ نُصَلِّيْ وَنَسْجُدُ ، وَإِلَيْكَ نَسْعَىٰ وَنَحْفِدُ ، نَرْجُوْ رَحْمَتَكَ وَنَخْشَىٰ عَذَابَكَ ، إِنَّ عَذَابَكَ الْجِدَّ بِالْكُفَّارِ مُلْحِقٌ.",
+      "transliteration": "Allāhumma innā nastaʿīnuka wa nastaghfiruka, wa nu’minu bika wa natawakkalu ʿalayka, wa nuthnī ʿalayka-l-khayr, wa nashkuruka wa lā nakfuruka, wa nakhlaʿu wa natruku may-yafjuruk, Allāhumma iyyāka naʿbudu, wa laka nuṣallī wa nasjud, wa ilayka nasʿā wa naḥfid, narjū raḥmatak, wa nakhshā ʿadhābak, inna ʿadhābaka-l-jidda bi-l-kuffāri mulḥiq.",
+      "transliteration_hi": "अल्लाहुम्म इन्ना नस्तईनुक व नस्तग़्फ़िरुक, व नुअमिनु बिक व नतवक्कलु अलैक, व नुस्नी अलैकल ख़ैर, व नश्कुरुक व ला नक्फ़ुरुक व नख़्लउ व नत्रुकु मय्यफ़्जुरुक, अल्लाहुम्म इय्याक नअबुदु, व लक नुसल्ली, व नस्जुद, व इलैक नस्आ व नह्फ़िद, नर्जू रह्मतक, व नख़्शा अज़ाबक, इन्न अज़ाबकल जिद्द बिल कुफ़्फ़ारि मुल्हिक़।",
+      "hindi": "ऐ अल्लाह! हम तुझसे मदद माँगते हैं और तुझसे माफ़ी माँगते हैं, और तुझ पर ईमान रखते हैं, और तुझ पर भरोसा करते हैं, और भलाई के साथ तेरी तारीफ़ करते हैं, और तेरा शुक्र अदा करते हैं, और तेरी नाशुक्री नहीं करते, और जो तेरी नाफ़रमानी करे उससे हम अलग होते और उसे छोड़ देते हैं। ऐ अल्लाह! हम तेरी ही इबादत करते हैं, और तेरे ही लिए नमाज़ पढ़ते और सजदा करते हैं, और तेरी ही तरफ़ दौड़ते और जल्दी करते हैं, हम तेरी रहमत की उम्मीद रखते हैं और तेरे अज़ाब से डरते हैं, बेशक तेरा सख़्त अज़ाब काफ़िरों को पहुँचकर रहेगा।",
+      "urdu": "اے اللہ! ہم تجھ سے مدد مانگتے ہیں اور تجھ سے بخشش مانگتے ہیں، اور تجھ پر ایمان رکھتے ہیں، اور تجھ پر بھروسہ کرتے ہیں، اور بھلائی کے ساتھ تیری تعریف کرتے ہیں، اور تیرا شکر ادا کرتے ہیں، اور تیری ناشکری نہیں کرتے، اور جو تیری نافرمانی کرے اس سے ہم الگ ہوتے اور اسے چھوڑ دیتے ہیں۔ اے اللہ! ہم تیری ہی عبادت کرتے ہیں، اور تیرے ہی لیے نماز پڑھتے اور سجدہ کرتے ہیں، اور تیری ہی طرف دوڑتے اور جلدی کرتے ہیں، ہم تیری رحمت کی امید رکھتے ہیں اور تیرے عذاب سے ڈرتے ہیں، بے شک تیرا سخت عذاب کافروں کو پہنچ کر رہے گا۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
         "arabic": "check_against_hisnul_muslim_print",
         "transliteration_hi": "draft_needs_native_reader"
       },
-      "review_flag": "Transliteration typo: naklaʿu should be nakhlaʿu (نَخْلَعُ).",
+      "review_flag": "Fixed (full-wording pass): Transliteration typo: naklaʿu should be nakhlaʿu (نَخْلَعُ).",
       "reference": [
-        "Abū ʿAbdur Raḥmān relates: “Ibn Masʿūd (raḍiy Allāhu ‘anhu) taught us that we read [the above] in the qunūt.” (Ibn Abī Shaybah 518/4)"
+        "Abū ʿAbdur Raḥmān relates: “Ibn Masʿūd (raḍiy Allāhu ‘anhu) taught us that we read [the above] in the qunūt.” (Ibn Abī Shaybah 518/4)",
+        "Note: 'wa natawakkalu ʿalayka' and 'wa nashkuruka' are part of the Ḥanafī wording (Fatḥ Bāb al-ʿInāya; reports from Ibn Masʿūd and ʿUmar in Ibn Abī Shaybah and al-Bayhaqī). It is a Companion report, not a hadith of the Prophet ﷺ."
       ],
       "audio_file": null,
       "source_id": {
@@ -826,22 +830,23 @@
       "category": "eating",
       "title_en": "Before Eating #1",
       "repeat": 1,
-      "arabic": "بِسْمِ اللّٰهِ.",
-      "transliteration": "Bismi-llāh.",
-      "transliteration_hi": "बिस्मिल्लाह।",
-      "hindi": "अल्लाह के नाम से।",
-      "urdu": "اللہ کے نام سے۔",
+      "arabic": "بِسْمِ اللّٰهِ وَعَلَىٰ بَرَكَةِ اللّٰهِ.",
+      "transliteration": "Bismi-llāhi wa ʿalā barakati-llāh.",
+      "transliteration_hi": "बिस्मिल्लाहि व अला बरकतिल्लाह।",
+      "hindi": "अल्लाह के नाम से, और अल्लाह की बरकत पर।",
+      "urdu": "اللہ کے نام سے، اور اللہ کی برکت پر۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
         "arabic": "check_against_hisnul_muslim_print",
         "transliteration_hi": "draft_needs_native_reader"
       },
-      "review_flag": null,
+      "review_flag": "Full wording added in the full-wording pass; see the Note in reference for its grading.",
       "reference": [
         "The Messenger of Allah ﷺ said: “When one of you eats, he should mention Allah’s name.” (Abū Dāwūd 3767, Tirmidhī 1858)",
         "The Messenger of Allah ﷺ said: “When a man enters his house and remembers Allah upon entering and before eating, Shayṭān says (to his fellow shayṭān): ‘There is no place for you to spend the night and there is no supper for you.’ When he enters the house and does not remember Allah, Shayṭān says: ‘You have found a place to spend the night.’ When he does not remember Allah before eating his food, Shayṭān says: ‘You have found a place to stay and some supper.’” (Muslim 2018)",
-        "The Messenger of Allah ﷺ was eating food with six of his Companions when a Bedouin came and ate it all in two bites. The Messenger of Allāh ﷺ said: “If he had taken Allah’s Name (said bismillah), it would have sufficed you (all).” (Aḥmad 25535)"
+        "The Messenger of Allah ﷺ was eating food with six of his Companions when a Bedouin came and ate it all in two bites. The Messenger of Allāh ﷺ said: “If he had taken Allah’s Name (said bismillah), it would have sufficed you (all).” (Aḥmad 25535)",
+        "Note: 'wa ʿalā barakatillāh' is reported by al-Ḥākim (Mustadrak) with a disputed chain; 'Bismillāh' alone is the established minimum (Abū Dāwūd 3767, Tirmidhī 1858)."
       ],
       "audio_file": null,
       "source_id": {
@@ -913,20 +918,21 @@
       "category": "iftar",
       "title_en": "After Opening a Fast #2",
       "repeat": 1,
-      "arabic": "اَللّٰهُمَّ لَكَ صُمْتُ وَعَلَىٰ رِزْقِكَ أَفْطَرْتُ.",
-      "transliteration": "Allāhumma laka ṣumtu wa ʿalā rizqiqa afṭart.",
-      "transliteration_hi": "अल्लाहुम्म लक सुम्तु व अला रिज़्क़िक अफ़्तर्त।",
-      "hindi": "ऐ अल्लाह! मैंने तेरे ही लिए रोज़ा रखा, और तेरे ही दिए हुए रिज़्क़ (रोज़ी) से रोज़ा खोला।",
-      "urdu": "اے اللہ! میں نے تیرے ہی لیے روزہ رکھا، اور تیرے ہی دیے ہوئے رزق سے روزہ کھولا۔",
+      "arabic": "اَللّٰهُمَّ لَكَ صُمْتُ وَبِكَ آمَنْتُ وَعَلَيْكَ تَوَكَّلْتُ وَعَلَىٰ رِزْقِكَ أَفْطَرْتُ.",
+      "transliteration": "Allāhumma laka ṣumtu wa bika āmantu wa ʿalayka tawakkaltu wa ʿalā rizqika afṭart.",
+      "transliteration_hi": "अल्लाहुम्म लक सुम्तु व बिक आमन्तु व अलैक तवक्कल्तु व अला रिज़्क़िक अफ़्तर्त।",
+      "hindi": "ऐ अल्लाह! मैंने तेरे ही लिए रोज़ा रखा, और तुझ पर ईमान रखा, और तुझ पर भरोसा किया, और तेरे ही दिए हुए रिज़्क़ (रोज़ी) से रोज़ा खोला।",
+      "urdu": "اے اللہ! میں نے تیرے ہی لیے روزہ رکھا، اور تجھ پر ایمان رکھا، اور تجھ پر بھروسہ کیا، اور تیرے ہی دیے ہوئے رزق سے روزہ کھولا۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
         "arabic": "check_against_hisnul_muslim_print",
         "transliteration_hi": "draft_needs_native_reader"
       },
-      "review_flag": "Transliteration typo: rizqiqa should be rizqika (رِزْقِكَ).",
+      "review_flag": "Fixed (full-wording pass): Transliteration typo: rizqiqa should be rizqika (رِزْقِكَ).",
       "reference": [
-        "When the Messenger of Allah ﷺ broke his fast he would say [the above]. (Abū Dāwūd 2358)"
+        "When the Messenger of Allah ﷺ broke his fast he would say [the above]. (Abū Dāwūd 2358)",
+        "Note: 'wa bika āmantu wa ʿalayka tawakkaltu' is the wording commonly recited in South Asia but has no hadith source (Mullā ʿAlī al-Qārī). The base wording is Abū Dāwūd 2358 (mursal, ḍaʿīf)."
       ],
       "audio_file": null,
       "source_id": {
@@ -999,20 +1005,21 @@
       "category": "wudu",
       "title_en": "Before Wuḍu",
       "repeat": 1,
-      "arabic": "بِسْمِ اللّٰهِ.",
-      "transliteration": "Bismi-llāh.",
-      "transliteration_hi": "बिस्मिल्लाह।",
-      "hindi": "अल्लाह के नाम से।",
-      "urdu": "اللہ کے نام سے۔",
+      "arabic": "بِسْمِ اللّٰهِ وَالْحَمْدُ لِلّٰهِ.",
+      "transliteration": "Bismi-llāhi wa-l-ḥamdu lillāh.",
+      "transliteration_hi": "बिस्मिल्लाहि वल्हम्दु लिल्लाह।",
+      "hindi": "अल्लाह के नाम से, और सब तारीफ़ अल्लाह के लिए है।",
+      "urdu": "اللہ کے نام سے، اور تمام تعریف اللہ کے لیے ہے۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
         "arabic": "check_against_hisnul_muslim_print",
         "transliteration_hi": "draft_needs_native_reader"
       },
-      "review_flag": null,
+      "review_flag": "Full wording added in the full-wording pass; see the Note in reference for its grading.",
       "reference": [
-        "The Messenger of Allah ﷺ said: “There is no ṣalāh for a person who does not perform wuḍū, and there is no wuḍū for a person who does not mention the name of Allah (in the beginning).” (Abū Dāwūd 101, Ibn Mājah 399)"
+        "The Messenger of Allah ﷺ said: “There is no ṣalāh for a person who does not perform wuḍū, and there is no wuḍū for a person who does not mention the name of Allah (in the beginning).” (Abū Dāwūd 101, Ibn Mājah 399)",
+        "Note: 'wa-l-ḥamdu lillāh' is from al-Ṭabarānī, al-Muʿjam al-Ṣaghīr (chain hasan per al-Haythamī, single narration). 'Bismillāh' alone is in Abū Dāwūd 101."
       ],
       "audio_file": null,
       "source_id": {
@@ -1055,20 +1062,21 @@
       "category": "adhan",
       "title_en": "After the Adhan is complete #3",
       "repeat": 1,
-      "arabic": "اَللّٰهُمَّ رَبَّ هٰذِهِ الدَّعْوَةِ التَّامَّةِ وَالصَّلَاةِ الْقَائِمَةِ ، آتِ مُحَمَّدًا الْوَسِيْلَةَ وَالْفَضِيْلَةَ ، وَابْعَثْهُ مَقَامًا مَّحْمُوْدًا الَّذِيْ وَعَدْتَّهُ",
-      "transliteration": "Allāhumma rabba hādhi-hi-d-dʿawati-t-tāmmati wa-ṣ-ṣalāti-l-qāimah, āti Muḥammadani-l-wasīlata wa-l-faḍīlah, wa-b-ʿath-hu maqāma-m-maḥmūdani-l-ladhī wa ʿadtah.",
-      "transliteration_hi": "अल्लाहुम्म रब्ब हाज़िहिद्दअवतित्ताम्मति वस्सलातिल क़ाइमह, आति मुहम्मदनिल वसीलत वल फ़ज़ीलह, वब्असहु मक़ामम्मह्मूदनिल्लज़ी वअद्तह।",
-      "hindi": "ऐ अल्लाह! इस मुकम्मल पुकार (अज़ान) और क़ायम होने वाली नमाज़ के रब! मुहम्मद को वसीला (जन्नत का एक ख़ास दर्जा) और फ़ज़ीलत (बड़ाई) अता कर, और उन्हें उस मक़ाम-ए-महमूद (तारीफ़ वाले मक़ाम) पर उठा जिसका तूने उनसे वादा किया है।",
-      "urdu": "اے اللہ! اس مکمل پکار (اذان) اور قائم ہونے والی نماز کے رب! محمد کو وسیلہ (جنت کا ایک خاص درجہ) اور فضیلت عطا کر، اور انہیں اس مقامِ محمود پر اٹھا جس کا تو نے ان سے وعدہ کیا ہے۔",
+      "arabic": "اَللّٰهُمَّ رَبَّ هٰذِهِ الدَّعْوَةِ التَّامَّةِ وَالصَّلَاةِ الْقَائِمَةِ ، آتِ مُحَمَّدًا الْوَسِيْلَةَ وَالْفَضِيْلَةَ ، وَابْعَثْهُ مَقَامًا مَّحْمُوْدًا الَّذِيْ وَعَدْتَّهُ ، إِنَّكَ لَا تُخْلِفُ الْمِيْعَادَ",
+      "transliteration": "Allāhumma rabba hādhi-hi-d-daʿwati-t-tāmmati wa-ṣ-ṣalāti-l-qā’imah, āti Muḥammadani-l-wasīlata wa-l-faḍīlah, wa-b-ʿath-hu maqāma-m-maḥmūdani-l-ladhī waʿadtah, innaka lā tukhlifu-l-mīʿād.",
+      "transliteration_hi": "अल्लाहुम्म रब्ब हाज़िहिद्दअवतित्ताम्मति वस्सलातिल क़ाइमह, आति मुहम्मदनिल वसीलत वल फ़ज़ीलह, वब्असहु मक़ामम्मह्मूदनिल्लज़ी वअद्तह, इन्नक ला तुख़्लिफ़ुल मीआद।",
+      "hindi": "ऐ अल्लाह! इस मुकम्मल पुकार (अज़ान) और क़ायम होने वाली नमाज़ के रब! मुहम्मद को वसीला (जन्नत का एक ख़ास दर्जा) और फ़ज़ीलत (बड़ाई) अता कर, और उन्हें उस मक़ाम-ए-महमूद (तारीफ़ वाले मक़ाम) पर उठा जिसका तूने उनसे वादा किया है। बेशक तू वादे के ख़िलाफ़ नहीं करता।",
+      "urdu": "اے اللہ! اس مکمل پکار (اذان) اور قائم ہونے والی نماز کے رب! محمد کو وسیلہ (جنت کا ایک خاص درجہ) اور فضیلت عطا کر، اور انہیں اس مقامِ محمود پر اٹھا جس کا تو نے ان سے وعدہ کیا ہے۔ بے شک تو وعدہ خلافی نہیں کرتا۔",
       "review_status": {
         "hindi": "draft_needs_native_reader",
         "urdu": "draft_needs_native_reader",
         "arabic": "check_against_hisnul_muslim_print",
         "transliteration_hi": "draft_needs_native_reader"
       },
-      "review_flag": "Transliteration typo: dʿawati should be daʿwati (الدَّعْوَةِ).",
+      "review_flag": "Fixed (full-wording pass): Transliteration typo: dʿawati should be daʿwati (الدَّعْوَةِ).",
       "reference": [
-        "The Messenger of Allah ﷺ said: “Whoever says [the above] after the adhān shall receive my intercession on the Day of Judgement.” (Bukhārī 614)"
+        "The Messenger of Allah ﷺ said: “Whoever says [the above] after the adhān shall receive my intercession on the Day of Judgement.” (Bukhārī 614)",
+        "Note: 'innaka lā tukhlifu-l-mīʿād' is from al-Bayhaqī, al-Sunan al-Kubrā; its grading is disputed (al-Albānī: shādhdh; Ibn Bāz: ḥasan). Bukhārī 614 ends at 'waʿadtah'."
       ],
       "audio_file": null,
       "source_id": {
