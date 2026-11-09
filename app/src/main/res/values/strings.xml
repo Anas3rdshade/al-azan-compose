@@ -814,4 +814,36 @@
     <string name="india_pick_manually">Pick manually</string>
     <string name="india_gps_failed">Could not get your location. Pick your state and city below.</string>
     <string name="india_search_city">Search city</string>
+    <string name="content_lang">hi</string>
+    <string name="quran_continue">Continue reading</string>
+    <string name="quran_continue_detail">%1$s · Ayah %2$d</string>
+    <string name="quran_ayahs_n">%d ayahs</string>
+    <string name="quran_play_surah">Play surah</string>
+    <string name="quran_play_from_here">Play from this ayah</string>
+    <string name="quran_pause">Pause</string>
+    <string name="quran_resume">Resume</string>
+    <string name="quran_footnotes">Footnotes</string>
+    <string name="translation_hindi" translatable="false">हिन्दी</string>
+    <string name="translation_urdu" translatable="false">اردو</string>
+    <string name="dua_tap_to_count">Tap to count</string>
+    <string name="dua_count" translatable="false">%1$d / %2$d</string>
+    <string name="dua_draft_label">Draft — awaiting reviewer</string>
+    <string name="dua_reference">Reference</string>
+    <string name="dua_cat_morning_evening">Morning and evening</string>
+    <string name="dua_cat_morning">Morning</string>
+    <string name="dua_cat_evening">Evening</string>
+    <string name="dua_cat_after_fajr_maghrib">After Fajr and Maghrib</string>
+    <string name="dua_cat_adhan">After the adhan</string>
+    <string name="dua_cat_wudu">Wudu</string>
+    <string name="dua_cat_masjid">Masjid</string>
+    <string name="dua_cat_in_salah">In the prayer</string>
+    <string name="dua_cat_after_salah">After the prayer</string>
+    <string name="dua_cat_witr_qunut">Witr (Qunut)</string>
+    <string name="dua_cat_eating">Eating</string>
+    <string name="dua_cat_iftar">Iftar</string>
+    <string name="dua_cat_leaving_home">Leaving home</string>
+    <string name="dua_cat_entering_home">Entering home</string>
+    <string name="dua_cat_lavatory">Lavatory</string>
+    <string name="dua_cat_sleep">Before sleep</string>
+    <string name="dua_cat_waking_up">Waking up</string>
 </resources>

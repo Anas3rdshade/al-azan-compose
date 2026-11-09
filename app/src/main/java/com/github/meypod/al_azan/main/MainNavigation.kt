@@ -83,6 +83,10 @@ import com.github.meypod.al_azan.main.tabs.MainTabBar
 import com.github.meypod.al_azan.main.tabs.MainTabs
 import com.github.meypod.al_azan.main.tabs.MoreTabScreen
 import com.github.meypod.al_azan.main.tabs.PlaceholderTabScreen
+import com.github.meypod.al_azan.main.duas.DuasScreen
+import com.github.meypod.al_azan.main.quran.ContentViewModel
+import com.github.meypod.al_azan.main.quran.QuranListScreen
+import com.github.meypod.al_azan.main.quran.QuranReaderScreen
 import com.github.meypod.al_azan.main.today.TodayScreen
 import com.github.meypod.al_azan.main.upcoming_alarms.UpcomingAlarmsViewModel
 
@@ -168,8 +172,9 @@ fun MainNavigation(
                     onDontShowAgain = vm::onRamadanDontShowAgain,
                 )
             }
-            entry<Route.Main.Quran> { PlaceholderTabScreen(R.string.tab_quran) }
-            entry<Route.Main.Duas> { PlaceholderTabScreen(R.string.tab_duas) }
+            entry<Route.Main.Quran> { QuranListScreen(hiltViewModel<ContentViewModel>()) }
+            entry<Route.Main.QuranReader> { route -> QuranReaderScreen(route, hiltViewModel<ContentViewModel>()) }
+            entry<Route.Main.Duas> { DuasScreen(hiltViewModel<ContentViewModel>()) }
             entry<Route.Main.Namaz> { PlaceholderTabScreen(R.string.tab_namaz) }
             entry<Route.Main.More> { MoreTabScreen() }
             entry<Route.Main.SilenceStatus> {

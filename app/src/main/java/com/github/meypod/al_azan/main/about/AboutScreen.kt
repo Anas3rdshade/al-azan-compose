@@ -11,10 +11,8 @@ import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material3.HorizontalDivider
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
-import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.remember
-import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.dimensionResource
@@ -23,17 +21,12 @@ import androidx.compose.ui.tooling.preview.Devices
 import androidx.compose.ui.tooling.preview.Preview
 import com.github.meypod.al_azan.BuildConfig
 import com.github.meypod.al_azan.R
-import com.github.meypod.al_azan.core.data.audio.AdhanPreviewPlaybackService
-import com.github.meypod.al_azan.core.data.audio.surahAudioUri
 import com.github.meypod.al_azan.core.presentation.AlAzanThemePreview
 import com.github.meypod.al_azan.core.presentation.components.ACard
 import com.github.meypod.al_azan.core.presentation.components.ScreenScaffold
 import com.github.meypod.al_azan.core.presentation.components.SettingHeader
 import com.github.meypod.al_azan.core.presentation.navigation.NavigationController
 import com.github.meypod.al_azan.core.presentation.util.annotatedStringResource
-import kotlinx.coroutines.Dispatchers
-import kotlinx.coroutines.launch
-import kotlinx.coroutines.withContext
 
 private const val DEV_UNLOCK_TAPS = 5
 
@@ -43,7 +36,6 @@ fun AboutScreen(onAction: (AboutUiAction) -> Unit = {}) {
     val context = LocalContext.current
     val interactionSource = remember { MutableInteractionSource() }
     val tapCount = remember { intArrayOf(0) }
-    val scope = rememberCoroutineScope()
 
     ScreenScaffold(
         title = stringResource(R.string.about),
@@ -87,13 +79,6 @@ fun AboutScreen(onAction: (AboutUiAction) -> Unit = {}) {
                     style = MaterialTheme.typography.bodyMedium,
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
                 )
-                // shortcut: test hook for bundled Quran audio, move to the Quran screen once it exists.
-                TextButton(onClick = {
-                    scope.launch {
-                        val uri = withContext(Dispatchers.IO) { surahAudioUri(context, 1) } ?: return@launch
-                        AdhanPreviewPlaybackService.play(context, uri, "quran_001", "Al-Fatiha")
-                    }
-                }) { Text("Play Al-Fatiha") }
             }
         }
     }

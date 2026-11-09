@@ -208,6 +208,11 @@ data class Settings(
     val skippedOccurrences: List<SkippedAlarm> = emptyList(),
     /** Prayers ticked as prayed on the Today screen, keyed by ISO local date (yyyy-MM-dd). */
     val prayedLog: Map<String, Set<Prayer>> = emptyMap(),
+    /** Quran "continue where you left off": surah and ayah last read; 0 = nothing read yet. */
+    val quranLastSurah: Int = 0,
+    val quranLastAyah: Int = 0,
+    /** Translation shown in the Quran reader and dua meanings ("hi" or "ur"); null follows the app language. */
+    val quranTranslation: String? = null,
     /** Epoch millis until which alarms (adhan and reminders) are suppressed ("Dismiss & silent"). Null = not silenced. */
     val silencedUntilMillis: Long? = null,
     /**

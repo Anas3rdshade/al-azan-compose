@@ -46,6 +46,7 @@ class AdhanPreviewPlaybackService :
     companion object {
         private const val ACTION_PLAY = "com.github.meypod.al_azan.action.PREVIEW_PLAY"
         private const val ACTION_STOP = "com.github.meypod.al_azan.action.PREVIEW_STOP"
+        private const val ACTION_TOGGLE_PAUSE = "com.github.meypod.al_azan.action.PREVIEW_TOGGLE_PAUSE"
         private const val ACTION_SET_VOLUME = "com.github.meypod.al_azan.action.PREVIEW_SET_VOLUME"
         private const val EXTRA_URI = "uri"
         private const val EXTRA_ID = "id"
@@ -60,6 +61,11 @@ class AdhanPreviewPlaybackService :
 
         /** Emits the id of the entry currently previewing, or null when idle. Process-global. */
         val playingId: StateFlow<String?> = _playingId.asStateFlow()
+
+        private val _paused = MutableStateFlow(false)
+
+        /** True while the active entry is paused (it still counts as [playingId]). */
+        val paused: StateFlow<Boolean> = _paused.asStateFlow()
 
         fun play(
             context: Context,
@@ -90,6 +96,10 @@ class AdhanPreviewPlaybackService :
                 putExtra(EXTRA_VOLUME_PERCENT, volumePercent)
             }
             context.startService(intent)
+        }
+
+        fun togglePause(context: Context) {
+            context.startService(Intent(context, AdhanPreviewPlaybackService::class.java).setAction(ACTION_TOGGLE_PAUSE))
         }
 
         fun stop(context: Context) {
@@ -144,6 +154,19 @@ class AdhanPreviewPlaybackService :
                 // A set-volume racing a finished preview starts the service with no player; stop again
                 // instead of lingering as a started-but-idle service.
                 if (player != null) applyStreamVolume() else cleanupAndStop()
+            }
+
+            ACTION_TOGGLE_PAUSE -> {
+                val mp = player
+                if (mp == null) {
+                    cleanupAndStop()
+                } else if (mp.isPlaying) {
+                    runCatching { mp.pause() }
+                    _paused.value = true
+                } else {
+                    runCatching { mp.start() }
+                    _paused.value = false
+                }
             }
 
             else -> cleanupAndStop()
@@ -214,6 +237,7 @@ class AdhanPreviewPlaybackService :
             }
         }
         _playingId.value = id
+        _paused.value = false
     }
 
     override fun onPrepared(mp: MediaPlayer) {
@@ -360,6 +384,7 @@ class AdhanPreviewPlaybackService :
         abandonAudioFocus()
         unregisterCallStateListener()
         _playingId.value = null
+        _paused.value = false
         stopForeground(STOP_FOREGROUND_REMOVE)
         stopSelf()
     }

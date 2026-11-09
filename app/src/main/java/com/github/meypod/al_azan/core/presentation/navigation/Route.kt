@@ -58,6 +58,12 @@ sealed interface Route : NavKey {
         data object Quran : Route
 
         @Serializable
+        data class QuranReader(
+            val surah: Int,
+            val ayah: Int = 1,
+        ) : Route
+
+        @Serializable
         data object Duas : Route
 
         @Serializable
