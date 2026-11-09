@@ -1,0 +1,1931 @@
+{
+ "surah": 56,
+ "name_arabic": "سُورَةُ الوَاقِعَةِ",
+ "name_en": "Al-Waaqia",
+ "translation_versions": {
+  "hindi_omari": "1.1.5",
+  "urdu_junagarhi": "1.1.3"
+ },
+ "ayahs": [
+  {
+   "id": "quran_056_001",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 1,
+   "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ إِذَا وَقَعَتِ ٱلْوَاقِعَةُ",
+   "transliteration": null,
+   "hindi": "जब घटित होने वाली घटित हो जाएगी।",
+   "hindi_footnotes": null,
+   "urdu": "جب قیامت قائم ہو جائے گی.[1]",
+   "urdu_footnotes": "[1] واقعہ بھی قیامت کے ناموں میں سے ہے، کیونکہ یہ لامحالہ واقع ہونے والی ہے،اس لیے اس کا یہ نام بھی ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "बिस्मिल्लाहिर्रह्मानिर्रहीम। इज़ा वक़अतिल् वाक़िअह।"
+  },
+  {
+   "id": "quran_056_002",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 2,
+   "arabic": "لَيْسَ لِوَقْعَتِهَا كَاذِبَةٌ",
+   "transliteration": null,
+   "hindi": "उसके घटित होने में कोई झूठ नहीं।",
+   "hindi_footnotes": null,
+   "urdu": "جس کے واقع ہونے میں کوئی جھوٹ نہیں.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "लैस लिवक़्अतिहा काज़िबह।"
+  },
+  {
+   "id": "quran_056_003",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 3,
+   "arabic": "خَافِضَةٌ رَّافِعَةٌ",
+   "transliteration": null,
+   "hindi": "नीचे करने वाली, ऊपर उठाने वाली।[1]",
+   "hindi_footnotes": "[1] इससे अभिप्राय प्रलय है। जो सत्य के विरोधियों को नीचा करके नरक तक पहुँचाएगी। तथा आज्ञाकारियों को स्वर्ग के ऊँचे स्थान तक पहुँचाएगी। आरंभिक आयतों में प्रलय के होने की चर्चा, फिर उस दिन लोगों के तीन भागों में विभाजित होने का वर्णन किया गया है।",
+   "urdu": "وه پست کرنے والی اور بلند کرنے والی ہوگی.[1]",
+   "urdu_footnotes": "[1] پستی اور بلندی سے مطلب ذلت اور عزت ہے۔ یعنی اللہ کے اطاعت گزار بندوں کو یہ بلند اور نافرمانوں کو پست کرے گی، چاہےدنیا میں معاملہ اس کے برعکس ہو۔ اہل ایمان وہاں معزز و مکرم ہوں گےاور اہل کفر و عصیان ذلیل و خوار۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "ख़ाफ़िज़तुर्राफ़िअह।"
+  },
+  {
+   "id": "quran_056_004",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 4,
+   "arabic": "إِذَا رُجَّتِ ٱلْأَرْضُ رَجًّا",
+   "transliteration": null,
+   "hindi": "जब धरती तेज़ी से हिलाई जाएगी।",
+   "hindi_footnotes": null,
+   "urdu": "جبکہ زمین زلزلہ کے ساتھ ہلا دی جائے گی.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "इज़ा रुज्जतिल् अर्ज़ु रज्जा।"
+  },
+  {
+   "id": "quran_056_005",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 5,
+   "arabic": "وَبُسَّتِ ٱلْجِبَالُ بَسًّا",
+   "transliteration": null,
+   "hindi": "और पर्वत ख़ूब चूर्ण-विचूर्ण कर दिए जाएँगे।",
+   "hindi_footnotes": null,
+   "urdu": "اور پہاڑ بالکل ریزه ریزه کر دیے جائیں گے.[1]",
+   "urdu_footnotes": "[1] رَجًّا کے معنی حرکت واضطراب (زلزلہ) اور بس کے معنی ریزہ ریزہ ہو جانے کے ہیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वबुस्सतिल् जिबालु बस्सा।"
+  },
+  {
+   "id": "quran_056_006",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 6,
+   "arabic": "فَكَانَتْ هَبَآءً مُّنۢبَثًّا",
+   "transliteration": null,
+   "hindi": "तो वे बिखरी हुई धूल हो जाएँगे।",
+   "hindi_footnotes": null,
+   "urdu": "پھر وه مثل پراگنده غبار کے ہو جائیں گے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़कानत हबाअम्मुम्बस्सा।"
+  },
+  {
+   "id": "quran_056_007",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 7,
+   "arabic": "وَكُنتُمْ أَزْوَٰجًا ثَلَـٰثَةً",
+   "transliteration": null,
+   "hindi": "और तुम तीन प्रकार के लोग हो जाओगे।",
+   "hindi_footnotes": null,
+   "urdu": "اور تم تین جماعتوں میں ہو جاؤ گے.[1]",
+   "urdu_footnotes": "[1] أَزْوَاجًا: أَصْنَافًا کے معنی میں ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वकुन्तुम अज़्वाजन सलासह।"
+  },
+  {
+   "id": "quran_056_008",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 8,
+   "arabic": "فَأَصْحَـٰبُ ٱلْمَيْمَنَةِ مَآ أَصْحَـٰبُ ٱلْمَيْمَنَةِ",
+   "transliteration": null,
+   "hindi": "तो दाहिने हाथ वाले, क्या ही अच्छे हैं दाहिने हाथ वाले![2]",
+   "hindi_footnotes": "[2] दाहिने हाथ वाले से अभिप्राय वे लोग हैं जिनका कर्मपत्र दाहिने हाथ में दिया जाएगा। तथा बाएँ हाथ वाले वे दुराचारी होंगे जिनका कर्मपत्र बाएँ हाथ में दिया जाएगा।",
+   "urdu": "پس داہنے ہاتھ والے کیسے اچھے ہیں داہنے ہاتھ والے.[1]",
+   "urdu_footnotes": "[1] اس سے عام مومنین مراد ہیں جن کو ان کے اعمال نامے دائیں ہاتھوں میں دیئے جائیں گے جو ان کی خوش بختی کی علامت ہوگی۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़अस्हाबुल् मैमनति मा अस्हाबुल् मैमनह।"
+  },
+  {
+   "id": "quran_056_009",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 9,
+   "arabic": "وَأَصْحَـٰبُ ٱلْمَشْـَٔمَةِ مَآ أَصْحَـٰبُ ٱلْمَشْـَٔمَةِ",
+   "transliteration": null,
+   "hindi": "और बाएँ हाथ वाले, क्या बुरे हैं बाएँ हाथ वाले!",
+   "hindi_footnotes": null,
+   "urdu": "اور بائیں ہاتھ والے کیا حال ہے بائیں ہاتھ والوں کا.[1]",
+   "urdu_footnotes": "[1] اس سے مراد کافر ہیں جن کو ان کے اعمال نامے بائیں ہاتھوں میں پکڑائے جائیں گے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वअस्हाबुल् मअमति मा अस्हाबुल् मअमह।"
+  },
+  {
+   "id": "quran_056_010",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 10,
+   "arabic": "وَٱلسَّـٰبِقُونَ ٱلسَّـٰبِقُونَ",
+   "transliteration": null,
+   "hindi": "और जो पहल करने वाले हैं, वही आगे बढ़ने वाले हैं।",
+   "hindi_footnotes": null,
+   "urdu": "اور جو آگے والے ہیں وه تو آگے والے ہی ہیں.[1]",
+   "urdu_footnotes": "[1] ان سےمراد خواص مومنین ہیں، یہ تیسری قسم ہے جوایمان قبول کرنے میں سبقت کرنے اور نیکی کے کاموں میں بڑھ چڑھ کرحصہ لینے والے ہیں، اللہ تعالیٰ ان کو قرب خاص سےنوازے گا، یہ ترکیب ایسے ہی ہے، جیسے کہتے ہیں، تو تو ہے اور زید زید، اس میں گویا زید کی اہمیت اور فضیلت کا بیان ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वस्साबिक़ूनस्साबिक़ून।"
+  },
+  {
+   "id": "quran_056_011",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 11,
+   "arabic": "أُو۟لَـٰٓئِكَ ٱلْمُقَرَّبُونَ",
+   "transliteration": null,
+   "hindi": "यही लोग निकट किए हुए हैं।[3]",
+   "hindi_footnotes": "[3] अर्थात अल्लाह के प्रियवर और उसके समीप होंगे।",
+   "urdu": "وه بالکل نزدیکی حاصل کیے ہوئے ہیں.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "उलाइकल् मुक़र्रबून।"
+  },
+  {
+   "id": "quran_056_012",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 12,
+   "arabic": "فِى جَنَّـٰتِ ٱلنَّعِيمِ",
+   "transliteration": null,
+   "hindi": "नेमत के बाग़ों में।",
+   "hindi_footnotes": null,
+   "urdu": "نعمتوں والی جنتوں میں ہیں.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़ी जन्नातिन्नईम।"
+  },
+  {
+   "id": "quran_056_013",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 13,
+   "arabic": "ثُلَّةٌ مِّنَ ٱلْأَوَّلِينَ",
+   "transliteration": null,
+   "hindi": "पहले लोगों में से एक बहुत बड़ा समूह।",
+   "hindi_footnotes": null,
+   "urdu": "(بہت بڑا) گروه تو اگلے لوگوں میں سے ہوگا.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "सुल्लतुम्मिनल् अव्वलीन।"
+  },
+  {
+   "id": "quran_056_014",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 14,
+   "arabic": "وَقَلِيلٌ مِّنَ ٱلْـَٔاخِرِينَ",
+   "transliteration": null,
+   "hindi": "तथा थोड़े-से पिछले लोगों में से होंगे।",
+   "hindi_footnotes": null,
+   "urdu": "اور تھوڑے سے پچھلے لوگوں میں سے.[1]",
+   "urdu_footnotes": "[1] ثُلَّةٌ، اس بڑے گروہ کو کہا جاتا ہے جس کا گننا ناممکن ہو۔ کہا جاتا ہے کہ اولین سےمراد حضرت آدم (عليه السلام) سے لے کر نبی ﹲ تک کی امت کےلوگ ہیں اور آخرین سے امت محمدیہ کے افراد۔ مطلب یہ ہے کہ پچھلی امتوں میں سابقین کا ایک بڑا گروہ ہے، کیونکہ ان کا زمانہ بہت لمبا ہے جس میں ہزاروں انبیا کے سابقین شامل ہیں ان کے مقابلے میں امت محمدیہ کا زمانہ (قیامت تک) تھوڑا ہے، اس لیے ان میں سابقین بھی بہ نسبت گزشتہ امتوں کے تھوڑے ہوں گے۔ اور ایک حدیث میں آتا ہے۔ جس میں نبی ﹲ نے فرمایا ہے کہ مجھے امید ہے کہ تم جنتیوں کا نصف ہو گے (صحیح مسلم، نمبر 200) تو یہ آیت کے مذکورہ مفہوم کےمخالف نہیں۔ کیونکہ امت محمدیہ کہ سابقین اور عام مومنین ملا کر باقی تمام امتوں سے جنت میں جانے والوں کا نصف ہو جائیں گے، اس لیے محض سابقین کی کثرت (سابقہ امتوں میں) سے حدیث میں بیان کردہ تعداد کی نفی نہیں ہو گی۔ مگریہ قول محل نظر ہے اور بعض نے اولین وآخرین سے اسی امت محمدیہ کے افراد مراد لیے ہیں۔ یعنی اس کے پہلے لوگوں میں سابقین کی تعداد زیادہ اور پچھلے لوگوں میں تھوڑی ہوگی۔ امام ابن کثیر نے اسی دوسرے قول کو ترجیح دی ہے۔ اوریہی زیادہ درست معلوم ہوتا ہے یہ جملہ معترضہ ہے، فِي جَنَّاتِ النَّعِيمِ اور عَلَى سُرُرٍ مَوْضُونَةٍ کے درمیان۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वक़लीलुम्मिनआख़िरीन।"
+  },
+  {
+   "id": "quran_056_015",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 15,
+   "arabic": "عَلَىٰ سُرُرٍ مَّوْضُونَةٍ",
+   "transliteration": null,
+   "hindi": "सोने के तारों से बुने हुए तख़्तों पर।",
+   "hindi_footnotes": null,
+   "urdu": "یہ لوگ سونے کے تاروں سے بنے ہوئے تختوں پر.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अला सुरुरिम्मौज़ूनह।"
+  },
+  {
+   "id": "quran_056_016",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 16,
+   "arabic": "مُّتَّكِـِٔينَ عَلَيْهَا مُتَقَـٰبِلِينَ",
+   "transliteration": null,
+   "hindi": "उनपर तकिया लगाए आमने-सामने बैठे होंगे।",
+   "hindi_footnotes": null,
+   "urdu": "ایک دوسرے کےسامنے تکیہ لگائے بیٹھے ہوں گے.[1]",
+   "urdu_footnotes": "[1] مَوْضُونَةٌ بنے ہوئے جڑےہوئے۔ یعنی مذکورہ جنتی سونے کے تاروں سے بنے اور سونے جواہر سے جڑے ہوئے تختوں پر ایک دوسرے کے سامنے تکیوں پر بیٹھے ہوں گے یعنی رو در رو ہوں گے نہ کہ پشت بہ پشت۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "म्मुत्तईन अलैहा मुतक़ाबिलीन।"
+  },
+  {
+   "id": "quran_056_017",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 17,
+   "arabic": "يَطُوفُ عَلَيْهِمْ وِلْدَٰنٌ مُّخَلَّدُونَ",
+   "transliteration": null,
+   "hindi": "उनके आस-पास (सेवा के लिए) ऐसे बालक फिर रहे होंगे, जो सदा (बालक) ही रहेंगे।",
+   "hindi_footnotes": null,
+   "urdu": "ان کے پاس ایسے لڑکے جو ہمیشہ (لڑکے ہی[1] ) رہیں گے آمدورفت کریں گے.",
+   "urdu_footnotes": "[1] یعنی وہ بڑے نہیں ہوں گے کہ بوڑھے ہو جائیں نہ ان کے خدوخال اور قدوقامت میں کوئی تغیر واقع ہوگا،بلکہ ایک ہی عمر اور ایک ہی حالت پر رہیں گے، جیسےنوعمر لڑکےہوتے ہیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "यतूफ़ु अलैहिम विल्दानुम्मुख़ल्लदून।"
+  },
+  {
+   "id": "quran_056_018",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 18,
+   "arabic": "بِأَكْوَابٍ وَأَبَارِيقَ وَكَأْسٍ مِّن مَّعِينٍ",
+   "transliteration": null,
+   "hindi": "ऐसे प्याले َऔर सुराहियाँ और छलकते जाम लेकर जो बहती शराब की होंगे।",
+   "hindi_footnotes": null,
+   "urdu": "آبخورے اور جگ لے کر اور ایسا جام لے کر جو بہتی ہوئی شراب سے پر ہو.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "बिअक्वाबिन वअबारीक़ वकअसिम्मिम्मईन।"
+  },
+  {
+   "id": "quran_056_019",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 19,
+   "arabic": "لَّا يُصَدَّعُونَ عَنْهَا وَلَا يُنزِفُونَ",
+   "transliteration": null,
+   "hindi": "वे न उससे सिरदर्द से पीड़ित होंगे और न ही उनकी बुद्धि प्रभावित होगी।",
+   "hindi_footnotes": null,
+   "urdu": "جس سے نہ سر میں درد ہو نہ عقل میں فتور آئے.[1]",
+   "urdu_footnotes": "[1] صُدَاعٌ، ایسے سر درد کو کہتے ہیں جو شراب کےنشے اور خمار کی وجہ سے ہو اور إِنْزَافٌ کے معنی، وہ فتور عقل جو مدہوشی کی بنیاد پر ہو۔ دنیا کی شراب کے نتیجے میں یہ دونوں چیزیں ہوتی ہیں، آخرت کی شراب میں سرور اور لذت تو یقیناً ہو گی لیکن یہ خرابیاں نہیں ہوں گی۔ معین، چشمہ جاری جو خشک نہ ہو۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "ल्ला युसद्दऊन अन्हा वला युन्ज़िफ़ून।"
+  },
+  {
+   "id": "quran_056_020",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 20,
+   "arabic": "وَفَـٰكِهَةٍ مِّمَّا يَتَخَيَّرُونَ",
+   "transliteration": null,
+   "hindi": "तथा ऐसे फल लेकर जिन्हें वे पसंद करते हैं।",
+   "hindi_footnotes": null,
+   "urdu": "اور ایسے میوے لیے ہوئے جو ان کی پسند کے ہوں.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वफ़ाकिहतिम्मिम्मा यतख़य्यरून।"
+  },
+  {
+   "id": "quran_056_021",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 21,
+   "arabic": "وَلَحْمِ طَيْرٍ مِّمَّا يَشْتَهُونَ",
+   "transliteration": null,
+   "hindi": "तथा पक्षियों का मांस लेकर जिसकी वे इच्छा रखते हैं।",
+   "hindi_footnotes": null,
+   "urdu": "اور پرندوں کے گوشت جو انہیں مرغوب ہوں.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वलह्मि तैरिम्मिम्मा यश्तहून।"
+  },
+  {
+   "id": "quran_056_022",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 22,
+   "arabic": "وَحُورٌ عِينٌ",
+   "transliteration": null,
+   "hindi": "और बड़ी-बड़ी नैनों वाली गोरियाँ होंगी।",
+   "hindi_footnotes": null,
+   "urdu": "اور بڑی بڑی آنکھوں والی حوریں.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वहूरुन ईन।"
+  },
+  {
+   "id": "quran_056_023",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 23,
+   "arabic": "كَأَمْثَـٰلِ ٱللُّؤْلُؤِ ٱلْمَكْنُونِ",
+   "transliteration": null,
+   "hindi": "छिपाकर रखे हुए मोतियों के समान।",
+   "hindi_footnotes": null,
+   "urdu": "جو چھپے ہوئے موتیوں کی طرح ہیں.[1]",
+   "urdu_footnotes": "[1] مَكْنُونٌ، جسے چھپا کر رکھا گیا، اس کو کسی کے ہاتھ لگے ہوں نہ گردوغبار اسے پہنچا ہو۔ ایسی چیز بالکل صاف ستھری اور اصلی حالت میں رہتی ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "कअम्सालिल्लुअलुइल् मक्नून।"
+  },
+  {
+   "id": "quran_056_024",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 24,
+   "arabic": "جَزَآءًۢ بِمَا كَانُوا۟ يَعْمَلُونَ",
+   "transliteration": null,
+   "hindi": "उसके बदले में जो वे (संसार में) किया करते थे।",
+   "hindi_footnotes": null,
+   "urdu": "یہ صلہ ہے ان کے اعمال کا.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "जज़ाअम बिमा कानू यअमलून।"
+  },
+  {
+   "id": "quran_056_025",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 25,
+   "arabic": "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا تَأْثِيمًا",
+   "transliteration": null,
+   "hindi": "वे उस में न कोई व्यर्थ बात सुनेंगे और न पाप की बात।",
+   "hindi_footnotes": null,
+   "urdu": "نہ وہاں بکواس سنیں گے اور نہ گناه کی بات.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "ला यस्मऊन फ़ीहा लग़्वन वला तअसीमा।"
+  },
+  {
+   "id": "quran_056_026",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 26,
+   "arabic": "إِلَّا قِيلًا سَلَـٰمًا سَلَـٰمًا",
+   "transliteration": null,
+   "hindi": "केवल सलाम ही सलाम की आवाज़ होगी।",
+   "hindi_footnotes": null,
+   "urdu": "صرف سلام ہی سلام کی آواز ہوگی.[1]",
+   "urdu_footnotes": "[1] یعنی دنیامیں تو باہم لڑائی جھگڑے ہی ہوتے ہیں، حتیٰ کہ بہن بھائی بھی اس سے محفوظ نہیں، اس اختلاف و نزاع سے دلوں میں کدورتیں اور بغض و عنادپیدا ہوتا ہے جو ایک دوسرےکے خلاف بدزبانی، سب وشتم، غیبت اور چغل خوری وغیرہ پر انسان کو آمادہ کرتا ہے۔ جنت ان تمام اخلاقی گندگیوں اور بےہودگیوں سے نہ صرف پاک ہوگی، بلکہ وہاں سلام ہی سلام کی آوازیں سننے میں آئیں گی، فرشتوں کی طرف سے بھی اور آپس میں اہل جنت کی طرف سے بھی۔ جس کا مطلب ہے کہ وہاں سلام و تحیہ توہو گا۔ لیکن دل اور زبان کی وہ خرابیاں نہیں ہوں گی جو دنیامیں عام ہیں حتیٰ کہ بڑے بڑے دین دار بھی ان سے محفوظ نہیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "इल्ला क़ीलन सलामन सलामा।"
+  },
+  {
+   "id": "quran_056_027",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 27,
+   "arabic": "وَأَصْحَـٰبُ ٱلْيَمِينِ مَآ أَصْحَـٰبُ ٱلْيَمِينِ",
+   "transliteration": null,
+   "hindi": "और दाहिने हाथ वाले, क्या ही अच्छे हैं दाहिने हाथ वाले!",
+   "hindi_footnotes": null,
+   "urdu": "اور داہنے ہاتھ والے کیا ہی اچھے ہیں داہنے ہاتھ والے.[1]",
+   "urdu_footnotes": "[1] اب تک سابقین (مُقَرَّبِينَ) کا ذکر تھا، أَصْحَابُ الْيَمِينِ سے اب عام مومنین کا ذکر ہورہا ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वअस्हाबुल् यमीनि मा अस्हाबुल् यमीन।"
+  },
+  {
+   "id": "quran_056_028",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 28,
+   "arabic": "فِى سِدْرٍ مَّخْضُودٍ",
+   "transliteration": null,
+   "hindi": "वे बिना कँटीले बेरियों में होंगे।",
+   "hindi_footnotes": null,
+   "urdu": "وه بغیرکانٹوں کی بیریوں.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़ी सिद्रिम्मख़्ज़ूद।"
+  },
+  {
+   "id": "quran_056_029",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 29,
+   "arabic": "وَطَلْحٍ مَّنضُودٍ",
+   "transliteration": null,
+   "hindi": "तथा परत-दर-परत लगे हुए केलों में।",
+   "hindi_footnotes": null,
+   "urdu": "اور تہ بہ تہ کیلوں.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वतल्हिम्मन्ज़ूद।"
+  },
+  {
+   "id": "quran_056_030",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 30,
+   "arabic": "وَظِلٍّ مَّمْدُودٍ",
+   "transliteration": null,
+   "hindi": "और ऐसी छाया में जो अच्छी तरह फैली हुई है।[4]",
+   "hindi_footnotes": "[4] ह़दीस में है कि स्वर्ग में एक वृक्ष है जिसकी छाया में सवार सौ वर्ष चलेगा फिर भी वह समाप्त नहीं होगी। (सह़ीह़ बुख़ारी : 4881)",
+   "urdu": "اور لمبے لمبے سایوں.[1]",
+   "urdu_footnotes": "[1] جیسے ایک حدیث میں ہے کہ (جنت کے ایک درخت کے سائے تلے ایک گھوڑ سوار سو سال تک چلتا رہے گا، تب بھی، وہ سایہ ختم نہیں ہوگا)۔ (صحيح بخاري، تفسير سورة الواقعة ، مسلم ، كتاب الجنة ، باب إن في الجنة شجرة....)۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वज़िल्लिम्मम्दूद।"
+  },
+  {
+   "id": "quran_056_031",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 31,
+   "arabic": "وَمَآءٍ مَّسْكُوبٍ",
+   "transliteration": null,
+   "hindi": "और प्रवाहित जल में।",
+   "hindi_footnotes": null,
+   "urdu": "اور بہتے ہوئے پانیوں.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वमाइम्मस्कूब।"
+  },
+  {
+   "id": "quran_056_032",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 32,
+   "arabic": "وَفَـٰكِهَةٍ كَثِيرَةٍ",
+   "transliteration": null,
+   "hindi": "तथा बहुत अधिक फलों में।",
+   "hindi_footnotes": null,
+   "urdu": "اور بکثرت پھلوں میں.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वफ़ाकिहतिन कसीरह।"
+  },
+  {
+   "id": "quran_056_033",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 33,
+   "arabic": "لَّا مَقْطُوعَةٍ وَلَا مَمْنُوعَةٍ",
+   "transliteration": null,
+   "hindi": "जो न कभी समाप्त होंगे और न उनसे कोई रोक-टोक होगी।",
+   "hindi_footnotes": null,
+   "urdu": "جو نہ ختم ہوں نہ روک لیے جائیں.[1]",
+   "urdu_footnotes": "[1] یعنی یہ پھل موسمی نہیں ہوں گے کہ موسم گزر گیا تو یہ پھل بھی آئندہ فصل تک ناپید ہو جائیں، یہ پھل اس طرح فصل گل ولالہ کے پابند نہیں ہوں گے، بلکہ بہار و خزاں اور گرمی و سردی ہر موسم میں دستیاب ہوں گے۔ اس طرح ان کے حصول میں کوئی رکاوٹ نہیں ہوگی۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "ल्ला मक़्तूअतिन वला मम्नूअह।"
+  },
+  {
+   "id": "quran_056_034",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 34,
+   "arabic": "وَفُرُشٍ مَّرْفُوعَةٍ",
+   "transliteration": null,
+   "hindi": "और ऊँचे बिस्तरों पर होंगे।",
+   "hindi_footnotes": null,
+   "urdu": "اور اونچے اونچے فرشوں میں ہوں گے.[1]",
+   "urdu_footnotes": "[1] بعض نے فرشوں سے بیویوں اور مرفوعہ سےبلند مرتبہ کا مفہوم مراد لیاہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वफ़ुरुशिम्मर्फ़ूअह।"
+  },
+  {
+   "id": "quran_056_035",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 35,
+   "arabic": "إِنَّآ أَنشَأْنَـٰهُنَّ إِنشَآءً",
+   "transliteration": null,
+   "hindi": "निःसंदेह हमने उनको एक विशेष रूप से पैदा किया है।",
+   "hindi_footnotes": null,
+   "urdu": "ہم نے ان کی (بیویوں کو) خاص طور پر بنایا ہے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "इन्ना अन्शअनाहुन्न इन्शाअ।"
+  },
+  {
+   "id": "quran_056_036",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 36,
+   "arabic": "فَجَعَلْنَـٰهُنَّ أَبْكَارًا",
+   "transliteration": null,
+   "hindi": "तो हमने उन्हें कुँवारियाँ बनाया है।",
+   "hindi_footnotes": null,
+   "urdu": "اور ہم نے انہیں کنواریاں بنا دیا ہے.[1]",
+   "urdu_footnotes": "[1] أَنْشَأْنَاهُنَّ کا مرجع اگرچہ قریب میں نہیں ہے لیکن سیاق کلام اس پر دلالت کرتا ہے کہ اس سے مراد اہل جنت کو ملنے والی بیویاں اور حور عین ہیں۔ حوریں، ولادت کے عام طریقے سے پیدا شدہ نہیں ہوں گی، بلکہ اللہ تعالیٰ خاص طور پر انہیں جنت میں اپنی قدرت خاص سے بنائے گا، اور جو دنیاوی عورتیں ہوں گی، تو و ہ بھی حوروں کے علاوہ اہل جنت کو بیویوں کے طور پر ملیں گی، ان میں بوڑھی، کالی، بدشکل، جس طرح کی بھی ہوں گی، سب کو اللہ تعالی ﺀ جنت میں جوانی اور حسن وجمال سے نواز دے گا، نہ کوئی بوڑھی،بوڑھی رہے گی، نہ کوئی بدشکل، بدشکل بلکہ سب باکرہ (کنواری) کی حیثیت میں ہوں گی۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़जअल्नाहुन्न अब्कारा।"
+  },
+  {
+   "id": "quran_056_037",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 37,
+   "arabic": "عُرُبًا أَتْرَابًا",
+   "transliteration": null,
+   "hindi": "जो पतियों को प्रिय और समान आयु वाली हैं।",
+   "hindi_footnotes": null,
+   "urdu": "محبت والیاں اور ہم عمر ہیں.[1]",
+   "urdu_footnotes": "[1] عُرُبٌ عَرُوبَةٌ کی جمع ہے۔ ایسی عورت جو اپنے حسن وجمال اور دیگر محاسن کی وجہ سے خاوند کو نہایت محبوب ہو۔ أَتْرَابٌ تِرْبٌ کی جمع ہے۔ ہم عمر، یعنی سب عورتیں جو اہل جنت کو ملیں گی، ایک ہی عمر کی ہوں گی، جیساکہ حدیث میں بیان کیا گیا ہے کہ سب جنتی 33 سال کی عمر کےہوں گے، (سنن ترمذي، باب ما جاء في سن أهل الجنة) یا مطلب ہےکہ خاوندوں کی ہم عمر ہوں گی۔ مطلب دونوں صورتوں میں ایک ہی ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "उरुबन अत्राबा।"
+  },
+  {
+   "id": "quran_056_038",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 38,
+   "arabic": "لِّأَصْحَـٰبِ ٱلْيَمِينِ",
+   "transliteration": null,
+   "hindi": "दाहिने हाथ वालों के लिए।",
+   "hindi_footnotes": null,
+   "urdu": "دائیں ہاتھ والوں کے لیے ہیں.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "ल्लिअस्हाबिल् यमीन।"
+  },
+  {
+   "id": "quran_056_039",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 39,
+   "arabic": "ثُلَّةٌ مِّنَ ٱلْأَوَّلِينَ",
+   "transliteration": null,
+   "hindi": "एक बड़ा समूह पहले लोगों में से हैं।",
+   "hindi_footnotes": null,
+   "urdu": "جم غفیر ہے اگلوں میں سے.[1]",
+   "urdu_footnotes": "[1] یعنی آدم (عليه السلام) سے لے کر نبی کریم ﹲ تک کےلوگوں میں سے یا خود امت محمدیہ کے اگلوں میں سے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "सुल्लतुम्मिनल् अव्वलीन।"
+  },
+  {
+   "id": "quran_056_040",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 40,
+   "arabic": "وَثُلَّةٌ مِّنَ ٱلْـَٔاخِرِينَ",
+   "transliteration": null,
+   "hindi": "तथा एक बड़ा समूह पिछले लोगों में से हैं।",
+   "hindi_footnotes": null,
+   "urdu": "اور بہت بڑی جماعت ہے پچھلوں میں سے.[1]",
+   "urdu_footnotes": "[1] یعنی نبی صلی اللہ علیہ وسلم کی امت میں سے یا آپ کی امت کے پچھلوں میں سے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वसुल्लतुम्मिनआख़िरीन।"
+  },
+  {
+   "id": "quran_056_041",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 41,
+   "arabic": "وَأَصْحَـٰبُ ٱلشِّمَالِ مَآ أَصْحَـٰبُ ٱلشِّمَالِ",
+   "transliteration": null,
+   "hindi": "और बाएँ हाथ वाले, क्या ही बुरे हैं बाएँ हाथ वाले!",
+   "hindi_footnotes": null,
+   "urdu": "اور بائیں ہاتھ والے کیا ہیں بائیں ہاتھ والے[1]",
+   "urdu_footnotes": "[1] اس سے مراد اہل جہنم ہیں، جن کو ان کے اعمال نامے بائیں ہاتھ میں پکڑائے جائیں گے، جو ان کی مقدر شدہ شقاوت کی علامت ہو گی۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वअस्हाबुश्शिमालि मा अस्हाबुश्शिमाल।"
+  },
+  {
+   "id": "quran_056_042",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 42,
+   "arabic": "فِى سَمُومٍ وَحَمِيمٍ",
+   "transliteration": null,
+   "hindi": "(वे) गर्म हवा तथा खौलते जल में होंगे।",
+   "hindi_footnotes": null,
+   "urdu": "گرم ہوا اور گرم پانی میں (ہوں گے).",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़ी समूमिन वहमीम।"
+  },
+  {
+   "id": "quran_056_043",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 43,
+   "arabic": "وَظِلٍّ مِّن يَحْمُومٍ",
+   "transliteration": null,
+   "hindi": "और काले धुएँ के साये में होंगे।",
+   "hindi_footnotes": null,
+   "urdu": "اورسیاه دھوئیں کے سائے میں.[1]",
+   "urdu_footnotes": "[1] سَمُومٍ، آگ کی حرارت یاگرم ہوا جو مسام بدن میں گھس جائے۔ حَمِيمٍ، کھولتا ہوا پانی، يَحْمُومٍ، حِمَمَةٌ سے ہے، بمعنی سیاہ، اور احم بہت زیادہ سیاہ چیز ہو تو کہا جاتا ہے، يَحْمُومٍ کے معنی سخت کالا دھواں مطلب یہ ہے کہ جہنم کے عذاب سے تنگ آ کر وہ ایک سائے کی طرف دوڑیں گے، لیکن جب وہاں پہنچیں گے تو معلوم ہوگا کہ یہ سایہ نہیں ہے، جہنم ہی کی آگ کا سخت سیاہ دھواں ہے۔ بعض کہتےہیں کہ یہ حَمٌّ سے ہے جو اس چربی کو کہتے ہیں جوآ گ میں جل جل کر سیاہ ہو گئی ہو۔ بعض کہتے ہیں، یہ حِمَمٌ سے ہے، جو کوئلے کےمعنی میں ہے۔ اسی لیے امام ضحاک فرماتے ہیں۔ آگ بھی سیاہ ہے، اہل نار بھی سیاہ رو ہوں گے۔ اور جہنم میں جو کچھ بھی ہوگا۔ ، سیاہ ہی ہو گا۔ اللَّهُمَّ أَجِرْنَا مِنَ النَّارِ۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वज़िल्लिम्मिन यह्मूम।"
+  },
+  {
+   "id": "quran_056_044",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 44,
+   "arabic": "لَّا بَارِدٍ وَلَا كَرِيمٍ",
+   "transliteration": null,
+   "hindi": "जो न शीतल होगा और न देखने में अच्छी ही लगेगा।",
+   "hindi_footnotes": null,
+   "urdu": "جو نہ ٹھنڈا ہے نہ فرحت بخش.[1]",
+   "urdu_footnotes": "[1] یعنی سایہ ٹھنڈا ہوتا ہے، لیکن یہ جس کو سایہ سمجھ رہےہوں گے، وہ سایہ ہی نہیں ہوگا، جوٹھنڈا ہو، وہ تو جہنم کا دھواں ہوگا، وَلا كَرِيمٍ ،جس میں کوئی حسن منظر یا خیر نہیں۔ یا حلاوت نہیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "ल्ला बारिदिन वला करीम।"
+  },
+  {
+   "id": "quran_056_045",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 45,
+   "arabic": "إِنَّهُمْ كَانُوا۟ قَبْلَ ذَٰلِكَ مُتْرَفِينَ",
+   "transliteration": null,
+   "hindi": "निश्चय वे इससे पहले (दुनिया की) सुख-सुविधाओं का आनंद ले रहे थे।",
+   "hindi_footnotes": null,
+   "urdu": "بیشک یہ لوگ اس سے پہلے بہت نازوں میں پلے ہوئے تھے.[1]",
+   "urdu_footnotes": "[1] یعنی دنیا میں آخرت سے غافل ہو کر عیش و عشرت کی زندگی میں ڈوبے ہوئے تھے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "इन्नहुम कानू क़ब्ल ज़ालिक मुत्रफ़ीन।"
+  },
+  {
+   "id": "quran_056_046",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 46,
+   "arabic": "وَكَانُوا۟ يُصِرُّونَ عَلَى ٱلْحِنثِ ٱلْعَظِيمِ",
+   "transliteration": null,
+   "hindi": "तथा वे बड़े गुनाह पर अड़े रहते थे।",
+   "hindi_footnotes": null,
+   "urdu": "اور بڑے بڑے گناہوں پر اصرار کرتے تھے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वकानू युसिर्रून अलल् हिन्सिल् अज़ीम।"
+  },
+  {
+   "id": "quran_056_047",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 47,
+   "arabic": "وَكَانُوا۟ يَقُولُونَ أَئِذَا مِتْنَا وَكُنَّا تُرَابًا وَعِظَـٰمًا أَءِنَّا لَمَبْعُوثُونَ",
+   "transliteration": null,
+   "hindi": "और वे कहा करते थे कि क्या जब हम मर जाएँगे और हम मिट्टी तथा हड्डियाँ हो जाएँगे, तो क्या सचमुच हम अवश्य उठाए जाने वाले हैं?",
+   "hindi_footnotes": null,
+   "urdu": "اور کہتے تھے کہ کیا جب ہم مر جائیں گے اور مٹی اور ہڈی ہو جائیں گے تو کیا ہم پھر دوباره اٹھا کھڑے کیے جائیں گے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वकानू यक़ूलून अइज़ा मित्ना वकुन्ना तुराबन वइज़ामन अइन्ना लमब्ऊसून।"
+  },
+  {
+   "id": "quran_056_048",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 48,
+   "arabic": "أَوَءَابَآؤُنَا ٱلْأَوَّلُونَ",
+   "transliteration": null,
+   "hindi": "और क्या हमारे पहले बाप-दादा भी?",
+   "hindi_footnotes": null,
+   "urdu": "اور کیا ہمارے اگلے باپ دادا بھی؟[1]",
+   "urdu_footnotes": "[1] اس سے معلوم ہوا کہ عقیدۂ آخرت کا انکار ہی کفر وشرک اور معاصی میں ڈوبے رہنےکا بنیادی سبب ہے . یہی وجہ ہے کہ جب آخرت کاتصور، اس کے ماننے والوں کے ذہنوں میں دھندلا جاتا ہے، تو ان میں بھی فسق و فجور عام ہو جاتا ہے۔ جیسے آج کل عام مسلمانوں کاحال ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अवआबाउनल् अव्वलून।"
+  },
+  {
+   "id": "quran_056_049",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 49,
+   "arabic": "قُلْ إِنَّ ٱلْأَوَّلِينَ وَٱلْـَٔاخِرِينَ",
+   "transliteration": null,
+   "hindi": "आप कह दें : निःसंदेह अगले तथा पिछले (सभी) लोग।",
+   "hindi_footnotes": null,
+   "urdu": "آپ کہہ دیجئے کہ یقیناً سب اگلے اور پچھلے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "क़ुल इन्नल् अव्वलीन वआख़िरीन।"
+  },
+  {
+   "id": "quran_056_050",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 50,
+   "arabic": "لَمَجْمُوعُونَ إِلَىٰ مِيقَـٰتِ يَوْمٍ مَّعْلُومٍ",
+   "transliteration": null,
+   "hindi": "एक ज्ञात दिन के निश्चित समय पर अवश्य एकत्र किए जाने वाले हैं।",
+   "hindi_footnotes": null,
+   "urdu": "ضرور جمع کئے جائیں گے ایک مقرر دن کے وقت.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "लमज्मूऊन इला मीक़ाति यौमिम्मअलूम।"
+  },
+  {
+   "id": "quran_056_051",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 51,
+   "arabic": "ثُمَّ إِنَّكُمْ أَيُّهَا ٱلضَّآلُّونَ ٱلْمُكَذِّبُونَ",
+   "transliteration": null,
+   "hindi": "फिर निःसंदेह तुम ऐ गुमराहो! झुठलाने वालो!",
+   "hindi_footnotes": null,
+   "urdu": "پھر تم اے گمراہو جھٹلانے والو!",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "सुम्म इन्नकुम अय्युहज़्ज़ाल्लूनल् मुकज़्ज़िबून।"
+  },
+  {
+   "id": "quran_056_052",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 52,
+   "arabic": "لَـَٔاكِلُونَ مِن شَجَرٍ مِّن زَقُّومٍ",
+   "transliteration": null,
+   "hindi": "निश्चय ही ज़क़्क़ूम (थूहड़) के वृक्ष में से खाने वाले हो।[5]",
+   "hindi_footnotes": "[5] (देखिए : सूरह साफ़्फ़ात, आयत : 62)",
+   "urdu": "البتہ کھانے والے ہو تھوہر کا درخت.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "आकिलून मिन शजरिम्मिन ज़क़्क़ूम।"
+  },
+  {
+   "id": "quran_056_053",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 53,
+   "arabic": "فَمَالِـُٔونَ مِنْهَا ٱلْبُطُونَ",
+   "transliteration": null,
+   "hindi": "फिर उससे अपने पेट भरने वाले हो।",
+   "hindi_footnotes": null,
+   "urdu": "اور اسی سے پیٹ بھرنے والے ہو.[1]",
+   "urdu_footnotes": "[1] یعنی اس کریہ المنظر اور نہایت بدذائقہ اور تلخ درخت کا کھانا تمہیں اگرچہ سخت ناگوار ہوگا، لیکن بھوک کی شدت سےتمہیں اسی سے اپنا پیٹ بھرنا ہوگا۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़माऊन मिन्हल् बुतून।"
+  },
+  {
+   "id": "quran_056_054",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 54,
+   "arabic": "فَشَـٰرِبُونَ عَلَيْهِ مِنَ ٱلْحَمِيمِ",
+   "transliteration": null,
+   "hindi": "फिर उसपर खौलते पानी से पीने वाले हो।",
+   "hindi_footnotes": null,
+   "urdu": "پھر اس پر گرم کھولتا پانی پینے والے ہو.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़शारिबून अलैहि मिनल् हमीम।"
+  },
+  {
+   "id": "quran_056_055",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 55,
+   "arabic": "فَشَـٰرِبُونَ شُرْبَ ٱلْهِيمِ",
+   "transliteration": null,
+   "hindi": "फिर पीने वाले हो प्यास की बीमारी वाले ऊँट[6] के समान।",
+   "hindi_footnotes": "[6] यह ऊँट में एक विशेष रोग होता है जिससे उसकी प्यास नहीं जाती।",
+   "urdu": "پھر پینے والے بھی پیاسے اونٹوں کی طرح.[1]",
+   "urdu_footnotes": "[1] هِيمٌ ، أَهْيَمُ کی جمع ہے، ان پیاسے اونٹوں کو کہا جاتا ہے جو ایک خاص بیماری کی وجہ سے پانی پر پانی پیئے جاتے ہیں لیکن ان کی پیاس نہیں بجھتی۔ مطلب یہ ہے کہ زقوم کھانے کے بعد بھی اس طرح نہیں پیو گے جس طرح عام معمول ہوتا ہے، بلکہ ایک تو بطور عذاب کے تمہیں پینے کےلیے کھولتاہوا پانی ملے گا۔ دوسرا تم اسے پیاسے اونٹوں کی طرح پیئے جاؤ گے لیکن تمہاری پیاس دور نہیں ہوگی۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़शारिबून शुर्बल् हीम।"
+  },
+  {
+   "id": "quran_056_056",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 56,
+   "arabic": "هَـٰذَا نُزُلُهُمْ يَوْمَ ٱلدِّينِ",
+   "transliteration": null,
+   "hindi": "यह बदले के दिन उनकी मेहमाननवाज़ी है।",
+   "hindi_footnotes": null,
+   "urdu": "قیامت کے دن ان کی مہمانی یہ ہے.[1]",
+   "urdu_footnotes": "[1] یہ بطور استہزا اور تہکم کے فرمایا، ورنہ مہمانی تو وہ ہوتی ہے جو مہمان کی عزت کے لیےتیار کی جاتی ہے۔ یہ ایسے ہی ہےجیسے بعض مقام پر فرمایا: «فَبَشِّرْهُمْ بِعَذَابٍ أَلِيمٍ» (آل عمران: 21) ”ان کو دردناک عذاب کی خوش خبری سنا دیجیئے“۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "हाज़ा नुज़ुलुहुम यौमद्दीन।"
+  },
+  {
+   "id": "quran_056_057",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 57,
+   "arabic": "نَحْنُ خَلَقْنَـٰكُمْ فَلَوْلَا تُصَدِّقُونَ",
+   "transliteration": null,
+   "hindi": "हमने ही तुम्हें पैदा किया, फिर तुम (पुनः जीवित किए जाने को) क्यों सच नहीं मानते?",
+   "hindi_footnotes": null,
+   "urdu": "ہم ہی نے تم سب کو پیدا کیا ہے پھر تم کیوں باور نہیں کرتے؟[1]",
+   "urdu_footnotes": "[1] یعنی تم جانتے ہو کہ تمہیں پیدا کرنے والا اللہ ہی ہے، پھر تم اس کو مانتے کیوں نہیں ہو؟ یا دوبارہ زندہ کرنے پر یقین کیوں نہیں کرتے؟",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "नह्नु ख़लक़्नाकुम फ़लौला तुसद्दिक़ून।"
+  },
+  {
+   "id": "quran_056_058",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 58,
+   "arabic": "أَفَرَءَيْتُم مَّا تُمْنُونَ",
+   "transliteration": null,
+   "hindi": "तो क्या तुमने उस वीर्य पर विचार किया, जो तुम टपकाते हो?",
+   "hindi_footnotes": null,
+   "urdu": "اچھا پھر یہ تو بتلاؤ کہ جو منی تم ٹپکاتے ہو.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अफ़रऐतुम्मा तुम्नून।"
+  },
+  {
+   "id": "quran_056_059",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 59,
+   "arabic": "ءَأَنتُمْ تَخْلُقُونَهُۥٓ أَمْ نَحْنُ ٱلْخَـٰلِقُونَ",
+   "transliteration": null,
+   "hindi": "क्या तुम उसे पैदा करते हो, या हम ही पैदा करने वाले हैं?",
+   "hindi_footnotes": null,
+   "urdu": "کیا اس کا (انسان) تم بناتے ہو یا پیدا کرنے والے ہم ہی ہیں؟[1]",
+   "urdu_footnotes": "[1] یعنی تمہارے بیویوں سےمباشرت کرنے کے نتیجے میں تمہارے جو قطرات منی عورتوں کے رحموں میں جاتے ہیں، ان سے انسانی شکل وصورت بنانے والے ہم ہیں یا تم؟",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अअन्तुम तख़्लुक़ूनहू अम नह्नुल् ख़ालिक़ून।"
+  },
+  {
+   "id": "quran_056_060",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 60,
+   "arabic": "نَحْنُ قَدَّرْنَا بَيْنَكُمُ ٱلْمَوْتَ وَمَا نَحْنُ بِمَسْبُوقِينَ",
+   "transliteration": null,
+   "hindi": "हम ही ने तुम्हारे बीच मृत्यु का समय निश्चित किया है और हम कदापि विवश नहीं हैं।",
+   "hindi_footnotes": null,
+   "urdu": "ہم ہی نے تم میں موت کو متعین کر دیا[1] ہے اور ہم اس سے ہارے ہوئے نہیں ہیں.[2]",
+   "urdu_footnotes": "[1] یعنی ہر شخص کی موت کا وقت مقرر کر دیا ہے، جس سے کوئی تجاوز نہیں کر سکتا۔ چنانچہ کوئی بچپن میں، کوئی جوانی میں اور کوئی بڑھاپے میں فوت ہوتا ہے۔\n[2] یا مغلوب اور عاجز نہیں ہیں، بلکہ قادر ہیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "नह्नु क़द्दर्ना बैनकुमुल् मौत वमा नह्नु बिमस्बूक़ीन।"
+  },
+  {
+   "id": "quran_056_061",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 61,
+   "arabic": "عَلَىٰٓ أَن نُّبَدِّلَ أَمْثَـٰلَكُمْ وَنُنشِئَكُمْ فِى مَا لَا تَعْلَمُونَ",
+   "transliteration": null,
+   "hindi": "कि हम तुम्हारे रूप को परिवर्तित कर दें और तुम्हें ऐसी शक्ल-सूरत में पैदा कर दें, जिसे तुम नहीं जानते।",
+   "hindi_footnotes": null,
+   "urdu": "کہ تمہاری جگہ تم جیسے اور پیدا کر دیں اور تمہیں نئے سرے سے اس عالم میں پیدا کریں جس سے تم (بالکل) بےخبر ہو.[1]",
+   "urdu_footnotes": "[1] یعنی تمہاری صورتیں مسخ کر کے تمہیں بندر اور خنزیر بنادیں اور تمہاری جگہ تمہاری شکل و صورت کی کوئی اور مخلوق پیداکردیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अला अन्नुबद्दिल अम्सालकुम वनुन्शिअकुम फ़ी मा ला तअलमून।"
+  },
+  {
+   "id": "quran_056_062",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 62,
+   "arabic": "وَلَقَدْ عَلِمْتُمُ ٱلنَّشْأَةَ ٱلْأُولَىٰ فَلَوْلَا تَذَكَّرُونَ",
+   "transliteration": null,
+   "hindi": "तथा निश्चय ही तुम पहली पैदाइश को जान चुके हो, फिर तुम नसीहत ग्रहण क्यों नहीं करते?",
+   "hindi_footnotes": null,
+   "urdu": "تمہیں یقینی طور پر پہلی دفعہ کی پیدائش معلوم ہی ہے پھر کیوں عبرت حاصل نہیں کرتے؟[1]",
+   "urdu_footnotes": "[1] یعنی کیوں یہ نہیں سمجھتے کہ جس طرح اس نے تمہیں پہلی مرتبہ پیدا کیا (جس کا تمہیں علم ہے) وہ دوبارہ بھی پیدا کر سکتا ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वलक़द अलिम्तुमुन्नश्अतल् ऊला फ़लौला तज़क्करून।"
+  },
+  {
+   "id": "quran_056_063",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 63,
+   "arabic": "أَفَرَءَيْتُم مَّا تَحْرُثُونَ",
+   "transliteration": null,
+   "hindi": "फिर क्या तुमने उसपर विचार किया जो कुछ तुम बोते हो?",
+   "hindi_footnotes": null,
+   "urdu": "اچھا پھر یہ بھی بتلاؤ کہ تم جو کچھ بوتے ہو.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अफ़रऐतुम्मा तह्रुसून।"
+  },
+  {
+   "id": "quran_056_064",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 64,
+   "arabic": "ءَأَنتُمْ تَزْرَعُونَهُۥٓ أَمْ نَحْنُ ٱلزَّٰرِعُونَ",
+   "transliteration": null,
+   "hindi": "क्या तुम उसे उगाते हो, या हम ही उगाने वाले हैं?",
+   "hindi_footnotes": null,
+   "urdu": "اسے تم ہی اگاتے ہو یا ہم اگانے والے ہیں.[1]",
+   "urdu_footnotes": "[1] یعنی زمین میں تم جو بیج بوتے ہو، اس سے ایک درخت زمین کے اوپر نمودار ہو جاتا ہے۔ غلے کے ایک بےجان دانے کوپھاڑ کر اور زمین کے سینے کو چیر کو اس طرح درخت اگانے والا کون ہے؟ یہ بھی منی کے قطرے سے انسان بنا دینے کی طرح ہماری ہی قدرت کا شاہکار ہے۔ یا تمہارے کسی ہنر یا چھو منتر کانتیجہ ہے؟",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अअन्तुम तज़्रऊनहू अम नह्नुज़्ज़ारिऊन।"
+  },
+  {
+   "id": "quran_056_065",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 65,
+   "arabic": "لَوْ نَشَآءُ لَجَعَلْنَـٰهُ حُطَـٰمًا فَظَلْتُمْ تَفَكَّهُونَ",
+   "transliteration": null,
+   "hindi": "यदि हम चाहें, तो अवश्य उसे चूर-चूर कर दें, फिर तुम आश्चर्य करते रह जाओ।",
+   "hindi_footnotes": null,
+   "urdu": "اگر ہم چاہیں تواسے ریزه ریزه کر ڈالیں اور تم حیرت کے ساتھ باتیں بناتے ہی ره جاؤ.[1]",
+   "urdu_footnotes": "[1] یعنی کھیتی کو سرسبز وشاداب کرنےکے بعد، جب وہ پکنے کے قریب ہو جائے توہم اگر چاہیں تو اسے خشک کر کے ریزہ ریزہ کردیں اور تم حیرت سے منہ ہی تکتے رہ جاؤ۔ تَفَكُّهٌ اضداد میں سے ہے اس کے معنی نعمت وخوش حالی بھی ہیں اور حزن ویاس بھی۔ یہاں دوسرے معنی مراد ہیں، اس کے مختلف معانی کیے گئے ہیں، تُنَوِّعُونَ كَلامَكُمْ ، تَنْدَمُونَ ، تَحْزَنُونَ ، تَعْجَبُونَ ، تَلاوَمُونَ، اور تَفْجَعُونَ وغیرہ۔ ظَلْتُمْ، اصل میں ظَلَلْتُم بمعنی صِرْتُمْ اور تَفَكَّهُونَ، تَتَفَكَّهُونَ ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "लौ नशाउ लजअल्नाहु हुतामन फ़ज़ल्तुम तफ़क्कहून।"
+  },
+  {
+   "id": "quran_056_066",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 66,
+   "arabic": "إِنَّا لَمُغْرَمُونَ",
+   "transliteration": null,
+   "hindi": "कि निःसंदेह हमपर दाँड डाल दिया गया।",
+   "hindi_footnotes": null,
+   "urdu": "کہ ہم پر تو تاوان ہی پڑ گیا.[1]",
+   "urdu_footnotes": "[1] یعنی ہم نے پہلے زمین پر ہل چلا کر اسے ٹھیک کیا پھر بیج ڈالا، پھر اسے پانی دیتے رہے، لیکن جب فصل کے پکنے کا وقت آیا تو وہ خشک ہو گئی، اور ہمیں کچھ بھی نہ ملا یعنی یہ سارا خرچ اور محنت، ایک تاوان ہی ہوا جو ہمیں برداشت کرنا پڑا۔ تاوان کا مطلب یہی ہوتا ہے کہ انسان کو اس کے مال یا محنت کامعاوضہ نہ ملے، بلکہ وہ یوں ہی ضائع ہو جائے یا زبردستی اس سے کچھ موصول کر لیا جائے۔ اور اس کےبدلے میں اسے کچھ نہ دیا جائے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "इन्ना लमुग़्रमून।"
+  },
+  {
+   "id": "quran_056_067",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 67,
+   "arabic": "بَلْ نَحْنُ مَحْرُومُونَ",
+   "transliteration": null,
+   "hindi": "बल्कि हम वंचित हो गए हैं।",
+   "hindi_footnotes": null,
+   "urdu": "بلکہ ہم بالکل محروم ہی ره گئے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "बल नह्नु मह्रूमून।"
+  },
+  {
+   "id": "quran_056_068",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 68,
+   "arabic": "أَفَرَءَيْتُمُ ٱلْمَآءَ ٱلَّذِى تَشْرَبُونَ",
+   "transliteration": null,
+   "hindi": "फिर क्या तुमने उस पानी पर विचार किया, जो तुम पीते हो?",
+   "hindi_footnotes": null,
+   "urdu": "اچھا یہ بتاؤ کہ جس پانی کو تم پیتے ہو.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अफ़रऐतुमुल् माअल्लज़ी तश्रबून।"
+  },
+  {
+   "id": "quran_056_069",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 69,
+   "arabic": "ءَأَنتُمْ أَنزَلْتُمُوهُ مِنَ ٱلْمُزْنِ أَمْ نَحْنُ ٱلْمُنزِلُونَ",
+   "transliteration": null,
+   "hindi": "क्या तुमने उसे बादल से उतारा है, या हम ही उतारने वाले हैं?",
+   "hindi_footnotes": null,
+   "urdu": "اسے بادلوں سے بھی تم ہی اتارتے ہو یا ہم برساتے ہیں؟",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अअन्तुम अन्ज़ल्तुमूहु मिनल् मुज़्नि अम नह्नुल् मुन्ज़िलून।"
+  },
+  {
+   "id": "quran_056_070",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 70,
+   "arabic": "لَوْ نَشَآءُ جَعَلْنَـٰهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ",
+   "transliteration": null,
+   "hindi": "यदि हम चाहें, तो उसे अत्यंत खारा बना दें, फिर तुम शुक्र अदा क्यों नहीं करते?",
+   "hindi_footnotes": null,
+   "urdu": "اگر ہماری منشا ہو تو ہم اسے کڑوا زہر کردیں پھر تم ہماری شکرگزاری کیوں نہیں کرتے؟[1]",
+   "urdu_footnotes": "[1] یعنی اس احسان پر ہماری اطاعت کر کے ہمارا عملی شکر اداکیوں نہیں کرتے؟",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "लौ नशाउ जअल्नाहु उजाजन फ़लौला तश्कुरून।"
+  },
+  {
+   "id": "quran_056_071",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 71,
+   "arabic": "أَفَرَءَيْتُمُ ٱلنَّارَ ٱلَّتِى تُورُونَ",
+   "transliteration": null,
+   "hindi": "फिर क्या तुमने उस आग पर विचार किया, जो तुम सुलगाते हो?",
+   "hindi_footnotes": null,
+   "urdu": "اچھا ذرا یہ بھی بتاؤ کہ جو آگ تم سلگاتے ہو.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अफ़रऐतुमुन्नारल्लती तूरून।"
+  },
+  {
+   "id": "quran_056_072",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 72,
+   "arabic": "ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ",
+   "transliteration": null,
+   "hindi": "क्या तुमने उसके वृक्ष को पैदा किया है, या हम ही पैदा करने वाले हैं?",
+   "hindi_footnotes": null,
+   "urdu": "اس کے درخت کو تم نے پیدا کیا ہے یا ہم اس کے پیدا کرنے والے ہیں؟[1]",
+   "urdu_footnotes": "[1] کہتے ہیں عرب میں دو درخت ہیں، مرخ اور عفار، ان دونوں سے ٹہنیاں لے کر، ان کو آپس میں رگڑا جائے تو اس سےآگ کے شرارے نکلتے ہیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अअन्तुम अन्शअतुम शजरतहा अम नह्नुल् मुन्ऊन।"
+  },
+  {
+   "id": "quran_056_073",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 73,
+   "arabic": "نَحْنُ جَعَلْنَـٰهَا تَذْكِرَةً وَمَتَـٰعًا لِّلْمُقْوِينَ",
+   "transliteration": null,
+   "hindi": "हमने ही उसे यात्रियों के लिए एक नसीहत तथा लाभ का सामान बनाया है।",
+   "hindi_footnotes": null,
+   "urdu": "ہم نے اسے سبب نصیحت[1] اور مسافروں کے فائدے کی چیز بنایا ہے.[2]",
+   "urdu_footnotes": "[1] کہ اس کے اثرات اور فوائد حیرت انگیز ہیں اور دنیاکی بےشمار چیزوں کی تیاری کے لیے اسے ریڑھ کی ہڈی کی حیثیت حاصل ہے۔ جو ہماری قدرت عظیمہ کی نشانی ہے، پھر ہم نے جس طرح دنیامیں یہ آگ پیدا کی ہے، ہم آخرت میں بھی پیدا کرنے پر قادر ہیں۔ جو اس سے 69 درجہ حرارت میں زیادہ ہو گی۔ (كَمَا فِي الْحَدِيثِ)۔\n[2] مُقْوِينَ، مُقْوٍ کی جمع ہے، قَوَاءٌ یعنی خالی صحرا میں داخل ہونے والا، مراد مسافر ہے۔ یعنی مسافر صحراؤں اور جنگلوں میں ان درختوں سے فائدہ اٹھاتے ہیں، اس سے روشنی، گرمی اور ایندھن حاصل کرتے ہیں۔ بعض نے مُقْوٍ سے وہ فقرا مراد لیےہیں جو بھوک کی وجہ سے خالی پیٹ ہوں۔ بعض نے اس کی معنی مُسْتَمْتِعِينَ (فائدہ اٹھانے والے) کیے ہیں۔ اس میں امیر ، غریب، مقیم اور مسافر سب آ جاتے ہیں اور سب ہی آگ سے فائدہ اٹھاتے ہیں، اسی لیے حدیث میں جن تین چیزوں کو عام رکھنے کا اوران سے کسی کو نہ روکنے کا حکم دیا گیا ہے، ان میں پانی اورگھاس کے علاوہ آگ بھی ہے، (أبو داود، كتاب البيوع، باب في منع الماء ، وسنن ابن ماجه، كتاب الرهون، باب المسلمون شركاء في ثلاث) امام ابن کثیر نے اس مفہوم کو زیادہ پسندکیا ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "नह्नु जअल्नाहा तज़्किरतन वमताअल्लिल्मुक़्वीन।"
+  },
+  {
+   "id": "quran_056_074",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 74,
+   "arabic": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+   "transliteration": null,
+   "hindi": "अतः (ऐ नबी!) आप अपने महान पालनहार के नाम की तसबीह करें।",
+   "hindi_footnotes": null,
+   "urdu": "پس اپنے بہت بڑے رب کے نام کی تسبیح کیا کرو.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़सब्बिह बिस्मि रब्बिकल् अज़ीम।"
+  },
+  {
+   "id": "quran_056_075",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 75,
+   "arabic": "۞ فَلَآ أُقْسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ",
+   "transliteration": null,
+   "hindi": "अतः नहीं! मैं सितारों के गिरने की जगहों की क़सम खाता हूँ!",
+   "hindi_footnotes": null,
+   "urdu": "پس میں قسم کھاتا ہوں ستاروں کے گرنے کی.[1]",
+   "urdu_footnotes": "[1] فَلا أُقْسِمُ میں ”لا“ زائد ہے جو تاکید کے لیے ہے۔ یا یہ زائد نہیں ہے۔ بلکہ ماقبل کی کسی چیز کی نفی کےلیے ہے۔ یعنی یہ قرآن کہانت یا شاعری نہیں ہے بلکہ میں ستاروں کے گرنے کی قسم کھا کر کہتا ہوں کہ یہ قرآن عزت والا ہے . . . مَوَاقِعُ النُّجُومِ سے مراد ستاروں کے طلوع و غروب کی جگہیں اور ان کی منزلیں اور مدارہیں، بعض نے ترجمہ کیا ہے ”قسم کھاتا ہوں آیتوں کے اترنے کی پیغمبروں کے دلوں میں“ (موضح القرآن) یعنی نجوم، قرآن کی آیات اور مواقع، قلوب انبیا۔ بعض نے اس کا مطلب قرآن کا آہستہ آہستہ بتدریج اترنا اور بعض نے قیامت والے ستاروں کا جھڑنا مراد لیا ہے۔ (ابن کثیر)۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़ला उक़्सिमु बिमवाक़िइन्नुजूम।"
+  },
+  {
+   "id": "quran_056_076",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 76,
+   "arabic": "وَإِنَّهُۥ لَقَسَمٌ لَّوْ تَعْلَمُونَ عَظِيمٌ",
+   "transliteration": null,
+   "hindi": "और निःसंदेह यह निश्चय ऐसी क़सम है कि यदि तुम जानो तो बहुत बड़ी है।",
+   "hindi_footnotes": null,
+   "urdu": "اور اگرتمہیں علم ہو تو یہ بہت بڑی قسم ہے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वइन्नहू लक़समुल्लौ तअलमून अज़ीम।"
+  },
+  {
+   "id": "quran_056_077",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 77,
+   "arabic": "إِنَّهُۥ لَقُرْءَانٌ كَرِيمٌ",
+   "transliteration": null,
+   "hindi": "निःसंदेह, यह निश्चित रूप से एक प्रतिष्ठित क़ुरआन है।",
+   "hindi_footnotes": null,
+   "urdu": "کہ بیشک یہ قرآن بہت بڑی عزت واﻻ ہے.[1]",
+   "urdu_footnotes": "[1] یہ جواب قسم ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "इन्नहू लक़ुर्आनुन करीम।"
+  },
+  {
+   "id": "quran_056_078",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 78,
+   "arabic": "فِى كِتَـٰبٍ مَّكْنُونٍ",
+   "transliteration": null,
+   "hindi": "एक छिपाकर रखी हुई[7] किताब में (अंकित) है।",
+   "hindi_footnotes": "[7] इससे अभिप्राय 'लौह़े मह़फ़ूज़' है।",
+   "urdu": "جو ایک محفوظ کتاب میں درج ہے[1]",
+   "urdu_footnotes": "[1] یعنی لوح محفوظ ہیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़ी किताबिम्मक्नून।"
+  },
+  {
+   "id": "quran_056_079",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 79,
+   "arabic": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلْمُطَهَّرُونَ",
+   "transliteration": null,
+   "hindi": "इसे कोई नहीं छूता सिवाय उनके जो बहुत पवित्र किए गए हैं।[8]",
+   "hindi_footnotes": "[8] इससे अभिप्राय फ़रिश्तें हैं। (देखिए : सूरत अबस, आयत : 15-16)",
+   "urdu": "جسے صرف پاک لوگ ہی چھو سکتے ہیں.[1]",
+   "urdu_footnotes": "[1] لا يَمَسُّهُ، میں ضمیر کا مرجع لوح محفوط ہے اور پاک لوگوں سے مراد فرشتے، بعض نے اس کا مرجع، قرآن کریم کو بنایا ہے یعنی اس قرآن کو فرشتے ہی چھوتےہیں، یعنی آسمانوں پر فرشتوں کے علاوہ کسی کی بھی رسائی اس قرآن تک نہیں ہوتی۔ مطلب مشرکین کی تردید ہے جو کہتے تھے کہ قرآن شیاطین لے کر اترتے ہیں۔ اللہ نے فرمایا یہ کیونکر ممکن ہے یہ قرآن تو شیطانی اثرات سے بالکل محفوظ ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "ल्ला यमस्सुहू इल्लल् मुतह्हरून।"
+  },
+  {
+   "id": "quran_056_080",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 80,
+   "arabic": "تَنزِيلٌ مِّن رَّبِّ ٱلْعَـٰلَمِينَ",
+   "transliteration": null,
+   "hindi": "यह सारे संसार के पालनहार की ओर से उतारा गया है।",
+   "hindi_footnotes": null,
+   "urdu": "یہ رب العالمین کی طرف سےاترا ہوا ہے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "तन्ज़ीलुम्मिर्रब्बिल् आलमीन।"
+  },
+  {
+   "id": "quran_056_081",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 81,
+   "arabic": "أَفَبِهَـٰذَا ٱلْحَدِيثِ أَنتُم مُّدْهِنُونَ",
+   "transliteration": null,
+   "hindi": "फिर क्या तुम इस वाणी की उपेक्षा करने वाले हो?",
+   "hindi_footnotes": null,
+   "urdu": "پس کیا تم ایسی بات کو سرسری (اور معمولی) سمجھ رہے ہو؟[1]",
+   "urdu_footnotes": "[1] حدیث سے مراد قرآن کریم ہے مُدَاهَنَةٌ، وہ نرمی جو کفر ونفاق کے مقابلے میں اختیار کی جائے۔ دراں حالیکہ ان کے مقابلے میں سخت تر رویے کی ضرورت ہے۔ یعنی اس قرآن کو اپنانے کے معاملےمیں تمام کافروں کو خوش کرنے کے لیے نرمی اور اعراض کا راستہ اختیار کر رہے ہو۔ حالانکہ یہ قرآن جو مذکورہ صفات کا حامل ہے، اس لائق ہے کہ اسے نہایت خوشی سے اپنایا جائے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अफ़बिहाज़ल् हदीसि अन्तुम्मुद्हिनून।"
+  },
+  {
+   "id": "quran_056_082",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 82,
+   "arabic": "وَتَجْعَلُونَ رِزْقَكُمْ أَنَّكُمْ تُكَذِّبُونَ",
+   "transliteration": null,
+   "hindi": "तथा तुम (क़ुरआन से) अपना हिस्सा यह बनाते हो कि तुम (इसे) झुठलाते हो?",
+   "hindi_footnotes": null,
+   "urdu": "اور اپنے حصے میں یہی لیتے ہو کہ جھٹلاتے پھرو.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वतज्अलून रिज़्क़कुम अन्नकुम तुकज़्ज़िबून।"
+  },
+  {
+   "id": "quran_056_083",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 83,
+   "arabic": "فَلَوْلَآ إِذَا بَلَغَتِ ٱلْحُلْقُومَ",
+   "transliteration": null,
+   "hindi": "फिर क्यों नहीं जब वह (प्राण) गले को पहुँच जाता है।",
+   "hindi_footnotes": null,
+   "urdu": "پس جبکہ روح نرخرے تک پہنچ جائے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़लौला इज़ा बलग़तिल् हुल्क़ूम।"
+  },
+  {
+   "id": "quran_056_084",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 84,
+   "arabic": "وَأَنتُمْ حِينَئِذٍ تَنظُرُونَ",
+   "transliteration": null,
+   "hindi": "और तुम उस समय देख रहे होते हो।",
+   "hindi_footnotes": null,
+   "urdu": "اور تم اس وقت آنکھوں سے دیکھتے رہو.[1]",
+   "urdu_footnotes": "[1] یعنی روح نکلتے ہوئے دیکھتے ہو لیکن اسے ٹال سکنے کی یا اسے کوئی فائدہ پہنچانےکی قدرت نہیں رکھتے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वअन्तुम हीनइज़िन तन्ज़ुरून।"
+  },
+  {
+   "id": "quran_056_085",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 85,
+   "arabic": "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنكُمْ وَلَـٰكِن لَّا تُبْصِرُونَ",
+   "transliteration": null,
+   "hindi": "तथा हम तुमसे अधिक उसके निकट होते हैं, परंतु तुम नहीं देखते।",
+   "hindi_footnotes": null,
+   "urdu": "ہم اس شخص سے بہ نسبت تمہارے بہت زیاده قریب ہوتے ہیں[1] لیکن تم نہیں دیکھ سکتے.[2]",
+   "urdu_footnotes": "[1] یعنی مرنے والے کے ہم، تم سے بھی زیادہ قریب ہوتےہیں۔ اپنے علم، قدرت اور رؤیت کے اعتبار سے۔ یا ہم سے مراد اللہ کے کارندے یعنی موت کے فرشتے ہیں جو اس کی روح قبض کرتےہیں۔\n[2] یعنی اپنی جہالت کی وجہ سے تمہیں اس بات کا ادراک نہیں کہ اللہ تو تمہاری شہ رگ سے بھی زیادہ قریب ہے یا روح قبض کرنے والے فرشتوں کو تم دیکھ نہیں سکتے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वनह्नु अक़्रबु इलैहि मिन्कुम वलाकिल्ला तुब्सिरून।"
+  },
+  {
+   "id": "quran_056_086",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 86,
+   "arabic": "فَلَوْلَآ إِن كُنتُمْ غَيْرَ مَدِينِينَ",
+   "transliteration": null,
+   "hindi": "तो अगर तुम (किसी के) अधीन नहीं हैं तो क्यों नहीं।",
+   "hindi_footnotes": null,
+   "urdu": "پس اگر تم کسی کے زیرفرمان نہیں.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़लौला इन कुन्तुम ग़ैर मदीनीन।"
+  },
+  {
+   "id": "quran_056_087",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 87,
+   "arabic": "تَرْجِعُونَهَآ إِن كُنتُمْ صَـٰدِقِينَ",
+   "transliteration": null,
+   "hindi": "तुम उसे वापस ले आते, यदि तुम सच्चे हो?",
+   "hindi_footnotes": null,
+   "urdu": "اور اس قول میں سچے ہو تو (ذرا) اس روح کو تو لوٹاؤ.[1]",
+   "urdu_footnotes": "[1] دَانَ يَدِينُ کے معنی ہیں، ماتحت ہونا، دوسرے معنی ہیں بدلہ دینا۔ یعنی اگر تم اس بات میں سچے ہو کہ کوئی تمہارا آقا اور مالک نہیں جس کے تم زیرفرمان اور ماتحت ہو یاکوئی جزا سزا کا دن نہیں آئے گا، تو اس قبض کی ہوئی روح کو اپنی جگہ پر واپس لوٹا کر دکھاو اور اگرتم ایسا نہیں کر سکتے تو اس کا صاف مطلب یہ ہے کہ تمہارا گمان باطل ہے۔ یقیناً تمہارا ایک آقا ہے اور یقیناً ایک دن آئے گا جس میں وہ آقا ہر ایک کو اس کے عمل کی جزادے گا۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "तर्जिऊनहा इन कुन्तुम सादिक़ीन।"
+  },
+  {
+   "id": "quran_056_088",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 88,
+   "arabic": "فَأَمَّآ إِن كَانَ مِنَ ٱلْمُقَرَّبِينَ",
+   "transliteration": null,
+   "hindi": "फिर यदि वह निकटवर्तियों में से है।",
+   "hindi_footnotes": null,
+   "urdu": "پس جو کوئی بارگاه الٰہی سے قریب کیا ہوا ہوگا.[1]",
+   "urdu_footnotes": "[1] سورت کے آغاز میں اعمال کےلحاظ سے انسانوں کی جو تین قسمیں بیان کی گئیں تھیں، ان کا پھر ذکر کیا جا رہا ہے۔ یہ ان کی پہلی قسم ہے جنہیں مقربین کے علاوہ سابقین بھی کہا جاتا ہے۔ کیونکہ وہ نیکی کے ہرکام میں آگے آگے ہوتے ہیں اور قبول ایمان میں بھی دوسروں سے سبقت کرتے ہیں اور اپنی اسی خوبی کی وجہ سے وہ مقربین بارگاہ الٰہی قرار پاتے ہیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़अम्मा इन कान मिनल् मुक़र्रबीन।"
+  },
+  {
+   "id": "quran_056_089",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 89,
+   "arabic": "فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ نَعِيمٍ",
+   "transliteration": null,
+   "hindi": "तो उसके लिए आराम और अच्छी जीविका और नेमतों से भरी जन्नत है।",
+   "hindi_footnotes": null,
+   "urdu": "اسے تو راحت ہے اور غذائیں ہیں اور آرام والی جنت ہے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़रौहुन वरैहानुन वजन्नतु नईम।"
+  },
+  {
+   "id": "quran_056_090",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 90,
+   "arabic": "وَأَمَّآ إِن كَانَ مِنْ أَصْحَـٰبِ ٱلْيَمِينِ",
+   "transliteration": null,
+   "hindi": "और यदि वह दाहिने हाथ वालों में से है।",
+   "hindi_footnotes": null,
+   "urdu": "اور جو شحص داہنے (ہاتھ) والوں میں سے ہے.[1]",
+   "urdu_footnotes": "[1] یہ دوسری قسم ہے، عام مومنین۔ یہ بھی جہنم سے بچ کر جنت میں جائیں گے، تاہم درجات میں سابقین سے کم تر ہوں گے۔ موت کے وقت فرشتے ان کو بھی سلامتی کی خوش خبری دیتے ہیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वअम्मा इन कान मिन अस्हाबिल् यमीन।"
+  },
+  {
+   "id": "quran_056_091",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 91,
+   "arabic": "فَسَلَـٰمٌ لَّكَ مِنْ أَصْحَـٰبِ ٱلْيَمِينِ",
+   "transliteration": null,
+   "hindi": "तो (कहा जाएगा) तेरे लिए सलामती है (कि तू) दाहिने हाथ वालों में से है।",
+   "hindi_footnotes": null,
+   "urdu": "تو بھی سلامتی ہے تیرے لیے کہ تو داہنے والوں میں سے ہے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़सलामुल्लक मिन अस्हाबिल् यमीन।"
+  },
+  {
+   "id": "quran_056_092",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 92,
+   "arabic": "وَأَمَّآ إِن كَانَ مِنَ ٱلْمُكَذِّبِينَ ٱلضَّآلِّينَ",
+   "transliteration": null,
+   "hindi": "और यदि वह व्यक्ति झुठलाने वाले गुमराहों में से है,",
+   "hindi_footnotes": null,
+   "urdu": "لیکن اگر کوئی جھٹلانے والوں گمراہوں میں سے ہے.[1]",
+   "urdu_footnotes": "[1] یہ تیسری قسم ہے جنہیں آغازسورت میں أَصْحَابُ الْمَشْئَمَة ِکہا گیا تھا، بائیں ہاتھ والے یا حاملین نحوست۔ یہ اپنے کفر ونفاق کی سزا یا اس کی نحوست عذاب جہنم کی صورت میں بھگتیں گے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वअम्मा इन कान मिनल् मुकज़्ज़िबीनज़्ज़ाल्लीन।"
+  },
+  {
+   "id": "quran_056_093",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 93,
+   "arabic": "فَنُزُلٌ مِّنْ حَمِيمٍ",
+   "transliteration": null,
+   "hindi": "तो उसके लिए खौलते हुए पानी का अतिथि सत्कार है।",
+   "hindi_footnotes": null,
+   "urdu": "تو کھولتے ہوئے گرم پانی کی مہمانی ہے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़नुज़ुलुम्मिन हमीम।"
+  },
+  {
+   "id": "quran_056_094",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 94,
+   "arabic": "وَتَصْلِيَةُ جَحِيمٍ",
+   "transliteration": null,
+   "hindi": "तथा जहन्नम की आग में जलना है।",
+   "hindi_footnotes": null,
+   "urdu": "اور دوزخ میں جانا ہے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वतस्लियतु जहीम।"
+  },
+  {
+   "id": "quran_056_095",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 95,
+   "arabic": "إِنَّ هَـٰذَا لَهُوَ حَقُّ ٱلْيَقِينِ",
+   "transliteration": null,
+   "hindi": "निःसंदेह यक़ीनन यही है वह सत्य जो निश्चित है।",
+   "hindi_footnotes": null,
+   "urdu": "یہ خبر سراسر حق اور قطعاً یقینی ہے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "इन्न हाज़ा लहुव हक़्क़ुल् यक़ीन।"
+  },
+  {
+   "id": "quran_056_096",
+   "category": "quran",
+   "surah": 56,
+   "ayah": 96,
+   "arabic": "فَسَبِّحْ بِٱسْمِ رَبِّكَ ٱلْعَظِيمِ",
+   "transliteration": null,
+   "hindi": "अतः आप अपने महान पालनहार के नाम की महिमा करें।",
+   "hindi_footnotes": null,
+   "urdu": "پس تواپنے عظیم الشان پروردگار کی تسبیح کر.[1]",
+   "urdu_footnotes": "[1] حدیث میں آتا ہے کہ دو کلمے اللہ کو بہت محبوب ہیں، زباں پر ہلکے اور وزن میں بھاری۔ سُبْحَانَ اللهِ وَبِحَمْدِه سَبْحَانَ اللهِ الْعَظِيمِ (صحيح بخاري آخری حدیث وصحيح مسلم كتاب الذكر ، باب فضل التهليل والتسبيح والدعاء)۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़सब्बिह बिस्मि रब्बिकल् अज़ीम।"
+  }
+ ]
+}

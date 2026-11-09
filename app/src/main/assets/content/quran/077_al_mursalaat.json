@@ -1,0 +1,1011 @@
+{
+ "surah": 77,
+ "name_arabic": "سُورَةُ المُرۡسَلَاتِ",
+ "name_en": "Al-Mursalaat",
+ "translation_versions": {
+  "hindi_omari": "1.1.5",
+  "urdu_junagarhi": "1.1.3"
+ },
+ "ayahs": [
+  {
+   "id": "quran_077_001",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 1,
+   "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلْمُرْسَلَـٰتِ عُرْفًا",
+   "transliteration": null,
+   "hindi": "क़सम है उन हवाओं की जो निरंतर भेजी जाती हैं!",
+   "hindi_footnotes": null,
+   "urdu": "دل خوش کن چلتی ہواؤں کی قسم.[1]",
+   "urdu_footnotes": "[1] اس مفہوم کے اعتبار سے عرفاً کے معنی پے درپے ہوں گے۔ بعض نے مرسلات سے فرشتے یا انبیا مراد لیے ہیں۔ اس صورت میں عرفاً کے معنی وحی الہی‘ یا احکام شریعت ہوں گے۔ یہ مفعول لہ ہوگا لأجل العرف یا منصوب بنزع الخافض- بالعُرفِ",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "बिस्मिल्लाहिर्रह्मानिर्रहीम। वल्मुर्सलाति उर्फ़ा।"
+  },
+  {
+   "id": "quran_077_002",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 2,
+   "arabic": "فَٱلْعَـٰصِفَـٰتِ عَصْفًا",
+   "transliteration": null,
+   "hindi": "फिर बहुत तेज़ चलने वाली हवाओं की क़सम!",
+   "hindi_footnotes": null,
+   "urdu": "پھر زور سے جھونکا دینے والیوں کی قسم.[1]",
+   "urdu_footnotes": "[1] یا فرشتے مراد ہیں، جو بعض دفعہ ہواؤں کے عذاب کے ساتھ بھیجے جاتے ہیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़ल्आसिफ़ाति अस्फ़ा।"
+  },
+  {
+   "id": "quran_077_003",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 3,
+   "arabic": "وَٱلنَّـٰشِرَٰتِ نَشْرًا",
+   "transliteration": null,
+   "hindi": "और बादलों को फैलाने वाली हवाओं[1] की क़सम!",
+   "hindi_footnotes": "[1] अर्थात जो हवाएँ अल्लाह के आदेशानुसार बादलों को फैलाती हैं।",
+   "urdu": "پھر (ابر کو) ابھار کر پراگنده کرنے والیوں[1] کی قسم.[2]",
+   "urdu_footnotes": "[1] یا فرشتے مراد ہیں، جو بعض دفعہ ہواؤں کے عذاب کے ساتھ بھیجے جاتے ہیں۔\n[2] یا ان فرشتوں کی قسم، جو بادلوں کو منتشر کرتے ہیں یا فضائے آسمانی میں اپنے پر پھیلاتے ہیں۔ تاہم امام ابن کثیر اور امام طبری نے ان تینوں ہوائیں مراد لینے کو راجح قرار دیا ہے، جیسے کہ ترجمے میں بھی اسی کو اختیار کیا ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वन्नाशिराति नश्रा।"
+  },
+  {
+   "id": "quran_077_004",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 4,
+   "arabic": "فَٱلْفَـٰرِقَـٰتِ فَرْقًا",
+   "transliteration": null,
+   "hindi": "फिर सत्य और असत्य के बीच अंतर करने वाली चीज़[2] के साथ उतरने वाले फ़रिश्तों की क़सम!",
+   "hindi_footnotes": "[2] अर्थात सत्यासत्य तथा वैध और अवैध के बीच अंतर करने के लिए आदेश लाते हैं।",
+   "urdu": "پھر حق وباطل کو جدا جدا کر دینے والے.[1]",
+   "urdu_footnotes": "[1] یعنی ان فرشتوں کی قسم جو حق و باطل کے درمیان فرق کرنے والے احکام لے کر اترتے ہیں۔ یا مراد آیات قرآنیہ ہیں، جن سے حق و باطل اور حلال و حرام کی تمیز ہوتی ہے یا رسول مراد ہیں جو وحی الٰہی کے ذریعے سے حق و باطل کے درمیان فرق واضح کرتے ہیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़ल्फ़ारिक़ाति फ़र्क़ा।"
+  },
+  {
+   "id": "quran_077_005",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 5,
+   "arabic": "فَٱلْمُلْقِيَـٰتِ ذِكْرًا",
+   "transliteration": null,
+   "hindi": "फिर वह़्य[3] लेकर उतरने वाले फ़रिश्तों की क़सम!",
+   "hindi_footnotes": "[3] अर्थात जो वह़्य (प्रकाशना) ग्रहण करके उसे रसूलों तक पहुँचाते हैं।",
+   "urdu": "اور وحی ﻻنے والے فرشتوں کی قسم.[1]",
+   "urdu_footnotes": "[1] جو اللہ کا کلام پیغمبروں تک پہنچاتے ہیں یا رسول مراد ہیں جو اللہ کی طرف سے نازل کردہ وحی، اپنی امتوں کو پہنچاتے ہیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़ल्मुल्क़ियाति ज़िक्रा।"
+  },
+  {
+   "id": "quran_077_006",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 6,
+   "arabic": "عُذْرًا أَوْ نُذْرًا",
+   "transliteration": null,
+   "hindi": "उज़्र (बहाना) समाप्त करने या डराने[4] के लिए।",
+   "hindi_footnotes": "[4] अर्थात ईमान लाने वालों के लिये क्षमा का वचन तथा काफ़िरों के लिये यातना की सूचना लाते हैं।",
+   "urdu": "جو (وحی) الزام اتارنے یا آگاه کردینے کے لیے ہوتی ہے.[1]",
+   "urdu_footnotes": "[1] دونوں مفعول لہ ہیں، لأجل العذار والإنذار یعنی فرشتے وحی لے کر آتے ہیں تاکہ لوگوں پر دلیل قائم ہو جائے اور یہ عذر باقی نہ رہے کہ ہمارے پاس تو کوئی اللہ کا پیغام ہی لے کر نہیں آیا یا مقصد ڈرانا ہے ان کو جو انکار یا کفر کرنے والے ہوں گے۔ یا معنی ہیں مومنوں کے لئے خوشخبری، اور کافروں کے لئے ڈراوا۔ امام شوکانی فرماتے ہیں کہ مرسلات، عاصفات، اور ناشرات سے مراد ہوائیں اور فارقات، اور ملقیات سے فرشتے ہیں۔ یہی بات راجح ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "उज़्रन औ नुज़्रा।"
+  },
+  {
+   "id": "quran_077_007",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 7,
+   "arabic": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٌ",
+   "transliteration": null,
+   "hindi": "निःसंदेह तुमसे जिस चीज़ का वादा किया जाता है, निश्चय वह होकर रहने वाली है।",
+   "hindi_footnotes": null,
+   "urdu": "جس چیز کا تم سے وعده کیا جاتا ہے وہ یقیناً ہونے والی ہے.[1]",
+   "urdu_footnotes": "[1] قسموں سے مراد، مقسم علیہ کی اہمیت سامعین پر واضح کرنا اور اس کی صداقت کو ظاہر کرنا ہوتا ہے۔ مقسم علیہ (یا جواب قسم) یہ ہے کہ تم سے قیامت کا جو وعدہ کیا جاتا ہے، وہ یقینا واضح ہونے والی ہے، یعنی اس میں شک کرنے کی نہیں بلکہ اس کے لئے تیاری کرنے کی ضرورت ہے۔ یہ قیامت کب واقع ہوگی؟ اگلی سورت میں اس کو واضح کیا جا رہا ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "इन्नमा तूअदून लवाक़िअ।"
+  },
+  {
+   "id": "quran_077_008",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 8,
+   "arabic": "فَإِذَا ٱلنُّجُومُ طُمِسَتْ",
+   "transliteration": null,
+   "hindi": "फिर जब तारे मिटा दिए जाएँगे।",
+   "hindi_footnotes": null,
+   "urdu": "پس جب ستارے بے نور کردئے جائیں گے.[1]",
+   "urdu_footnotes": "[1] طَمْس کے معنی مٹ جانے اور بےنشان ہونے کے ہیں، یعنی جب ستاروں کی روشنی ختم بلکہ ان کا نشان تک مٹ جائے گا۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़इज़न्नुजूमु तुमिसत।"
+  },
+  {
+   "id": "quran_077_009",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 9,
+   "arabic": "وَإِذَا ٱلسَّمَآءُ فُرِجَتْ",
+   "transliteration": null,
+   "hindi": "और जब आकाश फाड़ दिया जाएगा।",
+   "hindi_footnotes": null,
+   "urdu": "اور جب آسمان توڑ پھوڑ دیا جائے گا.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वइज़स्समाउ फ़ुरिजत।"
+  },
+  {
+   "id": "quran_077_010",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 10,
+   "arabic": "وَإِذَا ٱلْجِبَالُ نُسِفَتْ",
+   "transliteration": null,
+   "hindi": "और जब पर्वत उड़ा दिए जाएँगे।",
+   "hindi_footnotes": null,
+   "urdu": "اور جب پہاڑ ٹکڑے ٹکڑے کر کے اڑا دیئے جائیں گے.[1]",
+   "urdu_footnotes": "[1] یعنی انہیں زمین سے اکھیڑ کر ریزہ ریزہ کر دیا جائے گا اور زمین بالکل صاف اور ہموار کر دی جائے گی۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वइज़ल् जिबालु नुसिफ़त।"
+  },
+  {
+   "id": "quran_077_011",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 11,
+   "arabic": "وَإِذَا ٱلرُّسُلُ أُقِّتَتْ",
+   "transliteration": null,
+   "hindi": "और जब रसूलों को निर्धारित समय पर एकत्र किया जाएगा।[5]",
+   "hindi_footnotes": "[5] उनके तथा उनके समुदायों के बीच निर्णय करने के लिए, और रसूल गवाही देंगे।",
+   "urdu": "اور جب رسولوں کو وقت مقرره پر ﻻیا جائے گا.[1]",
+   "urdu_footnotes": "[1] یعنی فصل وقضا کے لیے ان کے بیانات سن کر ان کی قوموں کے بارے میں فیصلہ کیا جائے گا۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वइज़र्रुसुलु उक़्क़ितत।"
+  },
+  {
+   "id": "quran_077_012",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 12,
+   "arabic": "لِأَىِّ يَوْمٍ أُجِّلَتْ",
+   "transliteration": null,
+   "hindi": "किस दिन के लिए वे विलंबित किए गए हैं?",
+   "hindi_footnotes": null,
+   "urdu": "کس دن کے لیے (ان سب کو) مؤخر کیا گیا ہے؟[1]",
+   "urdu_footnotes": "[1] یہ استفہام تعظیم اور تعجب کے لئے ہےیعنی کیسے عظیم دن کے لئے، جس کی شدت اور ہولناکی، لوگوں کے لئے سخت تعجب انگیز ہوگی، ان پیغمبروں کے جمع ہونے کا وقت دیا گیا ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "लिअय्यि यौमिन उज्जिलत।"
+  },
+  {
+   "id": "quran_077_013",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 13,
+   "arabic": "لِيَوْمِ ٱلْفَصْلِ",
+   "transliteration": null,
+   "hindi": "निर्णय के दिन के लिए।",
+   "hindi_footnotes": null,
+   "urdu": "فیصلے کے دن کے لیے.[1]",
+   "urdu_footnotes": "[1] یعنی جس دن لوگوں کے درمیان فیصلہ کیا جائے گا کوئی جنت میں اور کوئی دوزخ میں جائے گا۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "लियौमिल् फ़स्ल।"
+  },
+  {
+   "id": "quran_077_014",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 14,
+   "arabic": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلْفَصْلِ",
+   "transliteration": null,
+   "hindi": "और आपको किस चीज़ ने अवगत कराया कि निर्णय का दिन क्या है?",
+   "hindi_footnotes": null,
+   "urdu": "اور تجھے کیا معلوم کہ فیصلے کا دن کیا ہے؟",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वमा अद्राक मा यौमुल् फ़स्ल।"
+  },
+  {
+   "id": "quran_077_015",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 15,
+   "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+   "transliteration": null,
+   "hindi": "उस दिन झुठलाने वालों के लिए बड़ा विनाश है।",
+   "hindi_footnotes": null,
+   "urdu": "اس دن جھٹلانے والوں کی خرابی ہے.[1]",
+   "urdu_footnotes": "[1] یعنی ہلاکت ہے بعض کہتے ہیں \"ویل\"جہنم کی ایک وادی کا نام ہے، یہ آیت اس سورت میں بار بار دہرائی گئی ہے۔ اس لیے کہ ہر مکذب کا جرم ایک دوسرے سے مختلف نوعیت کا ہوگا اور اسی حساب سے عذاب کی نوعیتیں بھی مختلف ہوں گی، بنابریں اسی ویل کی مختلف قسمیں ہیں جسے مختلف مکذبین کے لیے الگ الگ بیان کیا گیا ہے۔ (فتح القدیر)",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वैलुन यौमइज़िल्लिल्मुकज़्ज़िबीन।"
+  },
+  {
+   "id": "quran_077_016",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 16,
+   "arabic": "أَلَمْ نُهْلِكِ ٱلْأَوَّلِينَ",
+   "transliteration": null,
+   "hindi": "क्या हमने पहलों को विनष्ट नहीं किया?",
+   "hindi_footnotes": null,
+   "urdu": "کیا ہم نے اگلوں کو ہلاک نہیں کیا؟",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अलम नुह्लिकिल् अव्वलीन।"
+  },
+  {
+   "id": "quran_077_017",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 17,
+   "arabic": "ثُمَّ نُتْبِعُهُمُ ٱلْـَٔاخِرِينَ",
+   "transliteration": null,
+   "hindi": "फिर हम उनके पीछे बाद वालों को भेजेंगे।[6]",
+   "hindi_footnotes": "[6] अर्थात उन्हीं के समान यातना ग्रस्त कर देंगे।",
+   "urdu": "پھر ہم ان کے بعد پچھلوں کو ﻻئے.[1]",
+   "urdu_footnotes": "[1] یعنی کفار مکہ اور ان کے ہم مشرب، جنہوں نے رسول اللہ (صلى الله عليه وسلم) کی تکذیب کی۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "सुम्म नुत्बिउहुमुआख़िरीन।"
+  },
+  {
+   "id": "quran_077_018",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 18,
+   "arabic": "كَذَٰلِكَ نَفْعَلُ بِٱلْمُجْرِمِينَ",
+   "transliteration": null,
+   "hindi": "हम अपराधियों के साथ ऐसा ही करते हैं।",
+   "hindi_footnotes": null,
+   "urdu": "ہم گنہگاروں کے ساتھ اسی طرح کرتے ہیں.[1]",
+   "urdu_footnotes": "[1] یعنی سزا دیتے ہیں دنیا میں اور آخرت میں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "कज़ालिक नफ़्अलु बिल्मुज्रिमीन।"
+  },
+  {
+   "id": "quran_077_019",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 19,
+   "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+   "transliteration": null,
+   "hindi": "उस दिन झुठलाने वालों के लिए बड़ा विनाश है।",
+   "hindi_footnotes": null,
+   "urdu": "اس دن جھٹلانے والوں کے لیے ویل (افسوس) ہے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वैलुन यौमइज़िल्लिल्मुकज़्ज़िबीन।"
+  },
+  {
+   "id": "quran_077_020",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 20,
+   "arabic": "أَلَمْ نَخْلُقكُّم مِّن مَّآءٍ مَّهِينٍ",
+   "transliteration": null,
+   "hindi": "क्या हमने तुम्हें एक तुच्छ पानी से पैदा नहीं किया?",
+   "hindi_footnotes": null,
+   "urdu": "کیا ہم نے تمہیں حقیر پانی سے (منی سے) پیدا نہیں کیا.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अलम नख़्लुक्कुम्मिम्माइम्महीन।"
+  },
+  {
+   "id": "quran_077_021",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 21,
+   "arabic": "فَجَعَلْنَـٰهُ فِى قَرَارٍ مَّكِينٍ",
+   "transliteration": null,
+   "hindi": "फिर हमने उसे एक सुरक्षित ठिकाने में रखा।",
+   "hindi_footnotes": null,
+   "urdu": "پھر ہم نے اسے مضبوط ومحفوظ جگہ میں رکھا.[1]",
+   "urdu_footnotes": "[1] یعنی رحم مادر میں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़जअल्नाहु फ़ी क़रारिम्मकीन।"
+  },
+  {
+   "id": "quran_077_022",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 22,
+   "arabic": "إِلَىٰ قَدَرٍ مَّعْلُومٍ",
+   "transliteration": null,
+   "hindi": "एक ज्ञात अवधि तक।[7]",
+   "hindi_footnotes": "[7] अर्थात गर्भ की अवधि तक।",
+   "urdu": "ایک مقرره وقت تک.[1]",
+   "urdu_footnotes": "[1] یعنی مدت حمل تک نو یا چھ مہینے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "इला क़दरिम्मअलूम।"
+  },
+  {
+   "id": "quran_077_023",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 23,
+   "arabic": "فَقَدَرْنَا فَنِعْمَ ٱلْقَـٰدِرُونَ",
+   "transliteration": null,
+   "hindi": "फिर हमने अनुमान[8] लगाया, तो हम क्या ही अच्छा अनुमान लगाने वाले हैं।",
+   "hindi_footnotes": "[8] अर्थात मानव शरीर की संरचना और उसके अंगों का।",
+   "urdu": "پھر ہم نے اندازه کیا[1] اور ہم کیا خوب اندازه کرنے والے ہیں.",
+   "urdu_footnotes": "[1] یعنی رحم مادر میں جسمانی ساخت و ترکیب و صحیح اندازہ کیا کہ دونوں آنکھوں، دونوں ہاتھوں اور دونوں پیروں اور دونوں کانوں کے درمیان اور دیگر اعضا کا ایک دوسرے کے درمیان کتنا فاصلہ رہنا چاہیئے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़क़दर्ना फ़निअमल् क़ादिरून।"
+  },
+  {
+   "id": "quran_077_024",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 24,
+   "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+   "transliteration": null,
+   "hindi": "उस दिन झुठलाने वालों के लिए बड़ा विनाश है।",
+   "hindi_footnotes": null,
+   "urdu": "اس دن تکذیب کرنے والوں کی خرابی ہے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वैलुन यौमइज़िल्लिल्मुकज़्ज़िबीन।"
+  },
+  {
+   "id": "quran_077_025",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 25,
+   "arabic": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ كِفَاتًا",
+   "transliteration": null,
+   "hindi": "क्या हमने धरती को समेटने[9] वाली नहीं बनाया?",
+   "hindi_footnotes": "[9] अर्थात जब तक लोग जीवित रहते हैं, तो उसके ऊपर रहते तथा बसते हैं और मरण के पश्चात उसी में चले जाते हैं।",
+   "urdu": "کیا ہم نے زمین کو سمیٹنے والی نہیں بنایا؟",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अलम नज्अलिल् अर्ज़ किफ़ाता।"
+  },
+  {
+   "id": "quran_077_026",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 26,
+   "arabic": "أَحْيَآءً وَأَمْوَٰتًا",
+   "transliteration": null,
+   "hindi": "जीवित और मृत लोगों को।",
+   "hindi_footnotes": null,
+   "urdu": "زندوں کو بھی اور مردوں کو بھی.[1]",
+   "urdu_footnotes": "[1] یعنی زمین زندوں کو اپنی پشت پر اور مردوں کو اپنے اندر سمیٹ لیتی ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "अह्याअन वअम्वाता।"
+  },
+  {
+   "id": "quran_077_027",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 27,
+   "arabic": "وَجَعَلْنَا فِيهَا رَوَٰسِىَ شَـٰمِخَـٰتٍ وَأَسْقَيْنَـٰكُم مَّآءً فُرَاتًا",
+   "transliteration": null,
+   "hindi": "तथा हमने उसमें ऊँचे पर्वत बनाए और हमने तुम्हें मीठा पानी पिलाया।",
+   "hindi_footnotes": null,
+   "urdu": "اور ہم نے اس میں بلند وبھاری پہاڑ بنادیے[1] اور تمہیں سیراب کرنے واﻻ میٹھا پانی پلایا.",
+   "urdu_footnotes": "[1] رواسي راسية کی جمع۔ ثاوبت، جمے ہوئے پہاڑ، شامخات، بلند۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वजअल्ना फ़ीहा रवासिय शामिख़ातिन वअस्क़ैनाकुम्माअन फ़ुराता।"
+  },
+  {
+   "id": "quran_077_028",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 28,
+   "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+   "transliteration": null,
+   "hindi": "उस दिन झुठलाने वालों के लिए बड़ा विनाश है।",
+   "hindi_footnotes": null,
+   "urdu": "اس دن جھٹلانے والوں کے لیے وائے اور افسوس ہے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वैलुन यौमइज़िल्लिल्मुकज़्ज़िबीन।"
+  },
+  {
+   "id": "quran_077_029",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 29,
+   "arabic": "ٱنطَلِقُوٓا۟ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+   "transliteration": null,
+   "hindi": "(कहा जाएगा :) उस चीज़ की ओर चलो, जिसे तुम झुठलाते थे।",
+   "hindi_footnotes": null,
+   "urdu": "اس دوزخ کی طرف جاؤ جسے تم جھٹلاتے رہے تھے.[1]",
+   "urdu_footnotes": "[1] یہ فرشتے جہنمیوں کو کہیں گے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "इन्तलिक़ू इला मा कुन्तुम बिही तुकज़्ज़िबून।"
+  },
+  {
+   "id": "quran_077_030",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 30,
+   "arabic": "ٱنطَلِقُوٓا۟ إِلَىٰ ظِلٍّ ذِى ثَلَـٰثِ شُعَبٍ",
+   "transliteration": null,
+   "hindi": "एक छाया[10] की ओर चलो, जो तीन शाखाओं वाली है।",
+   "hindi_footnotes": "[10] छाया से अभिप्राय नरक के धुँवे की छाया है, जो तीन दिशाओं में फैली होगी।",
+   "urdu": "چلو تین شاخوں والے سائے کی طرف.[1]",
+   "urdu_footnotes": "[1] جہنم سے جو دھواں آئے گا وہ بلند ہو کر تین طرفوں میں پھیل جائے گا، یعنی جس طرح دیوار یا درخت کا سایہ ہوتا ہے، یہ دھواں حقیقت میں اس طرح کا سایہ نہیں ہوگا جس میں جہنمی کچھ سکون حاصل کرلیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "इन्तलिक़ू इला ज़िल्लिन ज़ी सलासि शुअब।"
+  },
+  {
+   "id": "quran_077_031",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 31,
+   "arabic": "لَّا ظَلِيلٍ وَلَا يُغْنِى مِنَ ٱللَّهَبِ",
+   "transliteration": null,
+   "hindi": "जो न छाया देगी और न ज्वाला से बचाएगी।",
+   "hindi_footnotes": null,
+   "urdu": "جو در اصل نہ سایہ دینے واﻻ ہے اور نہ شعلے سے بچاسکتا ہے.[1]",
+   "urdu_footnotes": "[1] یعنی جہنم کی حرارت سے بچنا بھی ممکن نہیں ہوگا۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "ल्ला ज़लीलिन वला युग़्नी मिनल्लाहब।"
+  },
+  {
+   "id": "quran_077_032",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 32,
+   "arabic": "إِنَّهَا تَرْمِى بِشَرَرٍ كَٱلْقَصْرِ",
+   "transliteration": null,
+   "hindi": "निःसंदेह वह (आग) भवन के समान चिंगारियाँ फेंकेगी।",
+   "hindi_footnotes": null,
+   "urdu": "یقیناً دوزخ چنگاریاں پھینکتی ہے جو مثل محل کے ہیں.[1]",
+   "urdu_footnotes": "[1] اس کا ایک ترجمہ ہے جو لکڑی کے بوٹے یعنی بھاری ٹکڑے کے مثل ہیں۔ (بوٹے بمعنی شہتیر کے ٹکڑے، جسے گیلی بھی کہتے ہیں)۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "इन्नहा तर्मी बिशररिन कल्क़स्र।"
+  },
+  {
+   "id": "quran_077_033",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 33,
+   "arabic": "كَأَنَّهُۥ جِمَـٰلَتٌ صُفْرٌ",
+   "transliteration": null,
+   "hindi": "जैसे वे पीले ऊँट हों।",
+   "hindi_footnotes": null,
+   "urdu": "گویا کہ وه زرد اونٹ ہیں.[1]",
+   "urdu_footnotes": "[1] صفر، أصفر (زرد) کی جمع ہے، لیکن عرب میں اس کا استعمال اسود کے معنی میں بھی ہے۔ اس معنی کی بناء پر مطلب یہ ہے کہ اس کی ایک ایک چنگاڑی اتنی اتنی بڑی ہوگی جیسے محل یا قلعہ۔ پھر ہر چنگاڑی کے مذید اتنے بڑے بڑے ٹکڑے ہو جائیں گے جیسے اونٹ ہوتے ہیں۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "कअन्नहू जिमालतुन सुफ़्र।"
+  },
+  {
+   "id": "quran_077_034",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 34,
+   "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+   "transliteration": null,
+   "hindi": "उस दिन झुठलाने वालों के लिए बड़ा विनाश है।",
+   "hindi_footnotes": null,
+   "urdu": "آج ان جھٹلانے والوں کی درگت ہے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वैलुन यौमइज़िल्लिल्मुकज़्ज़िबीन।"
+  },
+  {
+   "id": "quran_077_035",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 35,
+   "arabic": "هَـٰذَا يَوْمُ لَا يَنطِقُونَ",
+   "transliteration": null,
+   "hindi": "यह वह दिन है कि वे बोल[11] नहीं सकेंगे।",
+   "hindi_footnotes": "[11] अर्थात उनके विरुद्ध ऐसे तर्क प्रस्तुत कर दिए जाएँगे कि वे अवाक रह जाएँगे।",
+   "urdu": "آج (کا دن) وه دن ہے کہ یہ بول بھی نہ سکیں گے.[1]",
+   "urdu_footnotes": "[1] محشر میں کافروں کی مختلف حالتیں ہوں گی۔ ایک وقت وہ ہوگا کہ وہ وہاں بھی جھوٹ بولیں گے پھر اللہ ان کے مونہوں پر مہر لگا دے گا اور ان کے ہاتھ پاؤں گواہی دیں گے پھر جس وقت ان کو جہنم میں لے جایا جارہا ہوگا اس وقت عالم اضطراب وپریشانی میں ان کی زبانیں بھی گنگ ہو جائیں گی۔ بعض کہتے ہیں کہ بولیں گے تو سہی لیکن ان کے پاس حجت کوئی نہیں ہوگی۔ گویا ان کو بات کرنی ہی نہیں آئے گی۔ جیسے ہم دنیا میں ایسے شخص کی بابت کہتے ہیں جس کے پاس کوئی تسلی بخش دلیل نہیں ہوتی، وہ تو ہمارے سامنے بول ہی نہیں سکا۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "हाज़ा यौमु ला यन्तिक़ून।"
+  },
+  {
+   "id": "quran_077_036",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 36,
+   "arabic": "وَلَا يُؤْذَنُ لَهُمْ فَيَعْتَذِرُونَ",
+   "transliteration": null,
+   "hindi": "और न उन्हें अनुमति दी जाएगी कि वे उज़्र (कारण) पेश करें।",
+   "hindi_footnotes": null,
+   "urdu": "نہ انہیں معذرت کی اجازت دی جائے گی.[1]",
+   "urdu_footnotes": "[1] مطلب یہ ہے کہ ان کے پاس پیش کرنے کے لیے معقول عذر ہی نہیں ہوگا جسے وہ پیش کرسکیں گے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वला युअज़नु लहुम फ़यअतज़िरून।"
+  },
+  {
+   "id": "quran_077_037",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 37,
+   "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+   "transliteration": null,
+   "hindi": "उस दिन झुठलाने वालों के लिए बड़ा विनाश है।",
+   "hindi_footnotes": null,
+   "urdu": "اس دن جھٹلانے والوں کی خرابی ہے۔",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वैलुन यौमइज़िल्लिल्मुकज़्ज़िबीन।"
+  },
+  {
+   "id": "quran_077_038",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 38,
+   "arabic": "هَـٰذَا يَوْمُ ٱلْفَصْلِ ۖ جَمَعْنَـٰكُمْ وَٱلْأَوَّلِينَ",
+   "transliteration": null,
+   "hindi": "यह निर्णय का दिन है। हमने तुम्हें और पहलों को एकत्र कर दिया है।",
+   "hindi_footnotes": null,
+   "urdu": "یہ ہے فیصلے کا دن ہم نے تمہیں اور اگلوں کو سب کو جمع کرلیا ہے.[1]",
+   "urdu_footnotes": "[1] یہ اللہ کے بندوں سے خطاب فرمائے گا کہ ہم نے تمہیں اپنی قدرت کاملہ سے فیصلہ کرنے کے لئے ایک ہی میدان میں جمع کر لیا۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "हाज़ा यौमुल् फ़स्लि जमअनाकुम वल्अव्वलीन।"
+  },
+  {
+   "id": "quran_077_039",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 39,
+   "arabic": "فَإِن كَانَ لَكُمْ كَيْدٌ فَكِيدُونِ",
+   "transliteration": null,
+   "hindi": "तो यदि तुम्हारे पास कोई चाल[12] हो, तो मेरे विरुद्ध चलो।",
+   "hindi_footnotes": "[12] अर्थात मेरी पकड़ से बचने की।",
+   "urdu": "پس اگر تم مجھ سے کوئی چال چل سکتے ہو تو چل لو.[1]",
+   "urdu_footnotes": "[1] یہ سخت وعید اور تہدید ہے کہ اگر تم میری گرفت سے بچ سکتے ہو اور میرے حکم سے نکل سکتے ہو تو بچ اور نکل کے دکھاؤ۔ لیکن وہاں کس میں یہ طاقت ہوگی؟ یہ آیت بھی ایسے ہی ہے، جیسے یہ آیت ہے «يَا مَعْشَرَ الْجِنِّ وَالْإِنْسِ إِنِ اسْتَطَعْتُمْ...» (الرحمٰن: 33)",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़इन कान लकुम कैदुन फ़कीदून।"
+  },
+  {
+   "id": "quran_077_040",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 40,
+   "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+   "transliteration": null,
+   "hindi": "उस दिन झुठलाने वालों के लिए बड़ा विनाश है।",
+   "hindi_footnotes": null,
+   "urdu": "وائے ہے اس دن جھٹلانے والوں کے لیے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वैलुन यौमइज़िल्लिल्मुकज़्ज़िबीन।"
+  },
+  {
+   "id": "quran_077_041",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 41,
+   "arabic": "إِنَّ ٱلْمُتَّقِينَ فِى ظِلَـٰلٍ وَعُيُونٍ",
+   "transliteration": null,
+   "hindi": "निश्चय डरने वाले लोग छाँवों तथा स्रोतों में होंगे।",
+   "hindi_footnotes": null,
+   "urdu": "بیشک پرہیزگار لوگ سایوں میں ہیں[1] اور بہتے چشموں میں.",
+   "urdu_footnotes": "[1] یعنی درختوں اور محلات کے سائے، آگ کے دھوئیں کا سایہ نہیں ہوگا جیسے مشرکین کے لئے ہوگا۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "इन्नल् मुत्तक़ीन फ़ी ज़िलालिन वउयून।"
+  },
+  {
+   "id": "quran_077_042",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 42,
+   "arabic": "وَفَوَٰكِهَ مِمَّا يَشْتَهُونَ",
+   "transliteration": null,
+   "hindi": "तथा फलों में, जिसमें से वे चाहेंगे।",
+   "hindi_footnotes": null,
+   "urdu": "اور ان میووں میں جن کی وه خواہش کریں.[1]",
+   "urdu_footnotes": "[1] ہر قسم کے پھل، جب بھی خواہش کریں گے، آ موجود ہونگے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वफ़वाकिह मिम्मा यश्तहून।"
+  },
+  {
+   "id": "quran_077_043",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 43,
+   "arabic": "كُلُوا۟ وَٱشْرَبُوا۟ هَنِيٓـًٔۢا بِمَا كُنتُمْ تَعْمَلُونَ",
+   "transliteration": null,
+   "hindi": "(तथा उनसे कहा जाएगा :) मज़े से खाओ और पियो, उसके बदले जो तुम किया करते थे।",
+   "hindi_footnotes": null,
+   "urdu": "(اے جنتیو!) کھاؤ پیو مزے سےاپنے کیے ہوئے اعمال کے بدلے.[1]",
+   "urdu_footnotes": "[1] یہ بطور احسان انہیں کہا جائے گا۔ بما کنتم میں با سبب کے لئے ہے یعنی جنت کی یہ نعمتیں ان اعمال صالحہ کی وجہ سے تمہیں ملی ہیں جو تم دنیا میں کرتے تھے اس کا مطلب یہ ہے کہ اللہ کی رحمت کے حصول کا ذریعہ جس کی وجہ سے انسان جنت میں داخل ہوگا اعمال صالحہ ہیں۔ جو لوگ عمل صالح کے بغیر اللہ کی رحمت کی امید رکھتے ہیں ان کی مثال ایسے ہے جیسے کوئی زمین میں ہل چلائے اور بیج بوئے بغیر فصل کا امیدوار ہو یا تخم حنظل بوکر خوش ذائقہ پھلوں کی امید رکھے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "कुलू वश्रबू हनिअम बिमा कुन्तुम तअमलून।"
+  },
+  {
+   "id": "quran_077_044",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 44,
+   "arabic": "إِنَّا كَذَٰلِكَ نَجْزِى ٱلْمُحْسِنِينَ",
+   "transliteration": null,
+   "hindi": "हम सदाचारियों को इसी तरह बदला प्रदान करते हैं।",
+   "hindi_footnotes": null,
+   "urdu": "یقیناً ہم نیکی کرنے والوں کو اسی طرح جزا دیتے ہیں.[1]",
+   "urdu_footnotes": "[1] اس میں بھی اس امر کی ترغیب و تلقین ہے کہ اگر آخرت میں حسن انجام کے طالب ہو تو دنیا میں نیکی اور بھلائی کا راستہ اپناؤ۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "इन्ना कज़ालिक नज्ज़िल् मुह्सिनीन।"
+  },
+  {
+   "id": "quran_077_045",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 45,
+   "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+   "transliteration": null,
+   "hindi": "उस दिन झुठलाने वालों के लिए बड़ा विनाश है।",
+   "hindi_footnotes": null,
+   "urdu": "اس دن سچا نہ جاننے والوں کے لیے ویل (افسوس) ہے.[1]",
+   "urdu_footnotes": "[1] کہ اہل تقویٰ کے حصے میں جنت کی نعمتیں آئیں اور ان کے حصے میں بڑی بد بختی۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वैलुन यौमइज़िल्लिल्मुकज़्ज़िबीन।"
+  },
+  {
+   "id": "quran_077_046",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 46,
+   "arabic": "كُلُوا۟ وَتَمَتَّعُوا۟ قَلِيلًا إِنَّكُم مُّجْرِمُونَ",
+   "transliteration": null,
+   "hindi": "(ऐ झुठलाने वालो!) तुम खा लो तथा थोड़ा-सा[13] आनंद ले लो। निश्चय तुम अपराधी हो।",
+   "hindi_footnotes": "[13] अर्थात सांसारिक जीवन में।",
+   "urdu": "(اے جھٹلانے والو) تم دنیا میں تھوڑا سا کھا لو اور فائده اٹھا لو بیشک تم گنہگار ہو.[1]",
+   "urdu_footnotes": "[1] یہ مکذبین قیامت کو خطاب ہے اور یہ امر، تہدید و وعید کے لئے ہے، یعنی اچھا چند روز خوب عیش کر لو، تم جیسے مجرمین کے لئے شکنجہ عذاب تیار ہے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "कुलू वतमत्तऊ क़लीलन इन्नकुम्मुज्रिमून।"
+  },
+  {
+   "id": "quran_077_047",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 47,
+   "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+   "transliteration": null,
+   "hindi": "उस दिन झुठलाने वालों के लिए बड़ा विनाश है।",
+   "hindi_footnotes": null,
+   "urdu": "اس دن جھٹلانے والوں کے لیے سخت ہلاکت ہے.",
+   "urdu_footnotes": null,
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वैलुन यौमइज़िल्लिल्मुकज़्ज़िबीन।"
+  },
+  {
+   "id": "quran_077_048",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 48,
+   "arabic": "وَإِذَا قِيلَ لَهُمُ ٱرْكَعُوا۟ لَا يَرْكَعُونَ",
+   "transliteration": null,
+   "hindi": "तथा जब उनसे कहा जाता है कि (अल्लाह के आगे) झुको, तो वे नहीं झुकते।",
+   "hindi_footnotes": null,
+   "urdu": "ان سے جب کہا جاتا ہے کہ رکوع کر لو تو نہیں کرتے.[1]",
+   "urdu_footnotes": "[1] یعنی جب ان کو نماز پڑھنے کا حکم دیا جاتا ہے، تو نماز نہیں پڑھتے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वइज़ा क़ील लहुमुर्कऊ ला यर्कऊन।"
+  },
+  {
+   "id": "quran_077_049",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 49,
+   "arabic": "وَيْلٌ يَوْمَئِذٍ لِّلْمُكَذِّبِينَ",
+   "transliteration": null,
+   "hindi": "उस दिन झुठलाने वालों के लिए बड़ा विनाश है।",
+   "hindi_footnotes": null,
+   "urdu": "اس دن جھٹلانے والوں کی تباہی ہے.[1]",
+   "urdu_footnotes": "[1] یعنی ان کے لیے جو اللہ کے اوامر ونواہی کو نہیں مانتے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "वैलुन यौमइज़िल्लिल्मुकज़्ज़िबीन।"
+  },
+  {
+   "id": "quran_077_050",
+   "category": "quran",
+   "surah": 77,
+   "ayah": 50,
+   "arabic": "فَبِأَىِّ حَدِيثٍۭ بَعْدَهُۥ يُؤْمِنُونَ",
+   "transliteration": null,
+   "hindi": "फिर इस (क़ुरआन) के बाद वे किस बात पर ईमान[14] लाएँगे?",
+   "hindi_footnotes": "[14] अर्थात जब अल्लाह की अंतिम पुस्तक पर ईमान नहीं लाते, तो फिर कोई दूसरी पुस्तक नहीं हो सकती, जिस पर वे ईमान लाएँ। इसलिए कि अब और कोई पुस्तक आसमान से आने वाली नहीं है।",
+   "urdu": "اب اس قرآن کے بعد کس بات پر ایمان ﻻئیں گے؟[1]",
+   "urdu_footnotes": "[1] یعنی جب قرآن پر ایمان نہیں لائیں گے تو اس کے بعد اور کون سا کلام ہے جس پر ایمان لائیں گے؟ یہاں بھی حدیث کا اطلاق قرآن پر ہوا ہے، جیسا کہ اور بھی بعض مقامات پر کیا گیا ہے۔ ایک ضعیف روایت میں ہے کہ جو سورۂ تین کی آخری آیت أَلَيْسَ الله... الآية پڑھے تو وہ جواب میں کہے بَلَى ٰ وَأَنَا عَلَى ذَلِكَ مِنَ الشَّاهِدِينَ، اور سورۂ قیامت کے آخر کے جواب میں بَلَى اور فَبِأَيِّ حَدِيثٍ بَعْدَهُ يُؤْمِنُونَ کے جواب میں آمَنَّا بِالله، کہے۔ (أبوداؤد، باب مقدار الرکوع والسجود، وضعیف أبی داود، ألبانی) بعض علماء کے نزدیک سامع کو بھی جواب دینا چاہیے۔",
+   "audio_file": null,
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   },
+   "transliteration_hi": "फ़बिअय्यि हदीसिम बअदहू युअमिनून।"
+  }
+ ]
+}
