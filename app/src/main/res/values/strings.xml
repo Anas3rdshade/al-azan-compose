@@ -770,6 +770,7 @@
     <string name="home_url" translatable="false"><a href="%1$s">%1$s</a></string>
     <string name="license">License</string>
     <string name="about_credits">All copyright for Adhan voices belongs to their respective owners.</string>
+    <string name="about_content_credits" translatable="false">Quran text: Tanzil Project (tanzil.net), CC BY 3.0, verbatim. Hindi translation: Azizul Haq Al-Omari, QuranEnc.com v1.1.5. Urdu translation: Muhammad Ibrahim Junagarhi, QuranEnc.com v1.1.3. Recitation: Mishary Rashid Alafasy via Islamic Network (alquran.cloud). Dua Arabic and transliteration: House of Islam for Developers. Dua Hindi/Urdu meanings: written for this app.</string>
     
     <!-- ============================================================
          Upcoming alarms  (main/upcoming_alarms)

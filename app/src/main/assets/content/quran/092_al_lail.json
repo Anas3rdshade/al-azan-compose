@@ -1,0 +1,410 @@
+{
+ "surah": 92,
+ "name_arabic": "سُورَةُ اللَّيۡلِ",
+ "name_en": "Al-Lail",
+ "translation_versions": {
+  "hindi_omari": "1.1.5",
+  "urdu_junagarhi": "1.1.3"
+ },
+ "ayahs": [
+  {
+   "id": "quran_092_001",
+   "category": "quran",
+   "surah": 92,
+   "ayah": 1,
+   "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلَّيْلِ إِذَا يَغْشَىٰ",
+   "transliteration": null,
+   "hindi": "रात की क़सम, जब वह छा जाए।",
+   "hindi_footnotes": null,
+   "urdu": "قسم ہے رات کی جب چھا جائے.[1]",
+   "urdu_footnotes": "[1] یعنی افق پر چھا جائے جس سے دن کی روشنی ختم اور اندھیرا ہو جائے۔",
+   "audio_file": "audio/quran/ar.alafasy/092_001.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_092_002",
+   "category": "quran",
+   "surah": 92,
+   "ayah": 2,
+   "arabic": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ",
+   "transliteration": null,
+   "hindi": "और दिन की क़सम, जब वह रौशन हो जाए!",
+   "hindi_footnotes": null,
+   "urdu": "اور قسم ہے دن کی جب روشن ہو.[1]",
+   "urdu_footnotes": "[1] یعنی رات کا اندھیرا ختم اور دن کا اجالا پھیل جائے۔",
+   "audio_file": "audio/quran/ar.alafasy/092_002.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_092_003",
+   "category": "quran",
+   "surah": 92,
+   "ayah": 3,
+   "arabic": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+   "transliteration": null,
+   "hindi": "तथा नर और मादा को पैदा करने की क़सम।",
+   "hindi_footnotes": null,
+   "urdu": "اور قسم ہے اس ذات کی جس نے نر وماده کو پیدا کیا.[1]",
+   "urdu_footnotes": "[1] یہ اللہ نے اپنی قسم کھائی، کیونکہ مرد وعورت دونوں کا خالق اللہ ہی ہے ماموصولہ ہے۔ - یعنی کوئی اچھے عمل کرتا ہے، جس کا صلہ جنت ہے اور کوئی برے عمل کرتا ہے جس کا بدلہ جہنم ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/092_003.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_092_004",
+   "category": "quran",
+   "surah": 92,
+   "ayah": 4,
+   "arabic": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ",
+   "transliteration": null,
+   "hindi": "निःसंदेह तुम्हारे प्रयास विविध हैं।[1]",
+   "hindi_footnotes": "[1] (1-4) इन आयतों का भावार्थ यह है कि जिस प्रकार रात-दिन तथा नर-मादा (स्त्री-पुरुष) भिन्न हैं, और उनके लक्षण और प्रभाव भी भिन्न हैं, इसी प्रकार मानवजाति (इनसान) के विश्वास, कर्म भी दो भिन्न प्रकार के हैं। और दोनों के प्रभाव और परिणाम भी विभिन्न हैं।",
+   "urdu": "یقیناً تمہاری کوشش مختلف قسم کی ہے.[1]",
+   "urdu_footnotes": "[1] یعنی کوئی اچھے عمل کرتا ہے، جس کا صلہ جنت ہے اور کوئی برے عمل کرتا ہے جس کا بدلہ جہنم ہے۔ یہ جواب قسم ہے شَتَّى، شَتِيتٌ کی جمع ہے، جیسے مَرِيضٌ کی جمع مَرْضَى۔",
+   "audio_file": "audio/quran/ar.alafasy/092_004.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_092_005",
+   "category": "quran",
+   "surah": 92,
+   "ayah": 5,
+   "arabic": "فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ",
+   "transliteration": null,
+   "hindi": "फिर जिसने (दान) दिया और (अवज्ञा से) बचा।",
+   "hindi_footnotes": null,
+   "urdu": "جس نے دیا (اللہ کی راه میں) اور ڈرا (اپنے رب سے).[1]",
+   "urdu_footnotes": "[1] یعنی خیر کے کاموں میں خرچ کرے گا اور محارم سے بچے گا۔",
+   "audio_file": "audio/quran/ar.alafasy/092_005.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_092_006",
+   "category": "quran",
+   "surah": 92,
+   "ayah": 6,
+   "arabic": "وَصَدَّقَ بِٱلْحُسْنَىٰ",
+   "transliteration": null,
+   "hindi": "और सबसे अच्छी बात को सत्य माना।",
+   "hindi_footnotes": null,
+   "urdu": "اور نیک بات کی تصدیق کرتا رہے گا.[1]",
+   "urdu_footnotes": "[1] یا اچھے صلے کی تصدیق کرے گا، یعنی اس بات پر یقین رکھے گا کہ انفاق اور تقویٰ کا اللہ کی طرف سے عمدہ صلہ ملے گا۔",
+   "audio_file": "audio/quran/ar.alafasy/092_006.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_092_007",
+   "category": "quran",
+   "surah": 92,
+   "ayah": 7,
+   "arabic": "فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ",
+   "transliteration": null,
+   "hindi": "तो निश्चय हम उसके लिए भलाई को आसान कर देंगे।",
+   "hindi_footnotes": null,
+   "urdu": "تو ہم بھی اس کو آسان راستے کی سہولت دیں گے.[1]",
+   "urdu_footnotes": "[1] يُسْرَى کا مطلب نیکی اور الْخَصْلَةُ الْحُسْنَى ہے۔ یعنی ہم اس کو نیکی واطاعت کی توفیق دیتے اور ان کو اس کے لئے آسان کر دیتے ہیں۔ مفسرین کہتے ہیں کہ یہ آیت حضرت ابوبکر صدیق (رضي الله عنه) کے بارے میں نازل ہوئی ہے، جنہوں نے چھ غلام آزاد کیے، جنہیں اہل مکہ مسلمان ہونے کی وجہ سے سخت اذیت دیتے تھے۔ ( فتح القدیر ) ۔",
+   "audio_file": "audio/quran/ar.alafasy/092_007.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_092_008",
+   "category": "quran",
+   "surah": 92,
+   "ayah": 8,
+   "arabic": "وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ",
+   "transliteration": null,
+   "hindi": "लेकिन वह (व्यक्ति) जिसने कंजूसी की और बेपरवाही बरती।",
+   "hindi_footnotes": null,
+   "urdu": "لیکن جس نے بخیلی کی اور بے پرواہی برتی.[1]",
+   "urdu_footnotes": "[1] یعنی اللہ کی راہ میں خرچ نہیں کرے گا اور اللہ کے حکم سے بے پرواہی، کرے گا۔ - یا آخرت کی جزا اور حساب کتاب کا انکار کرے گا۔",
+   "audio_file": "audio/quran/ar.alafasy/092_008.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_092_009",
+   "category": "quran",
+   "surah": 92,
+   "ayah": 9,
+   "arabic": "وَكَذَّبَ بِٱلْحُسْنَىٰ",
+   "transliteration": null,
+   "hindi": "और सबसे अच्छी बात को झुठलाया।",
+   "hindi_footnotes": null,
+   "urdu": "اور نیک بات کی تکذیب کی.[1]",
+   "urdu_footnotes": "[1] یا آخرت کی جزا اور حساب کتاب کا انکار کرے گا۔-",
+   "audio_file": "audio/quran/ar.alafasy/092_009.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_092_010",
+   "category": "quran",
+   "surah": 92,
+   "ayah": 10,
+   "arabic": "فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ",
+   "transliteration": null,
+   "hindi": "तो हम उसके लिए कठिनाई (बुराई का मार्ग) आसान कर देंगे।[2]",
+   "hindi_footnotes": "[2] (5-10) इन आयतों में दोनों भिन्न कर्मों के प्रभाव का वर्णन है कि कोई अपना धन भलाई में लगाता है तथा अल्लाह से डरता है और भलाई को मानता है। सत्य आस्था, स्वभाव और सत्कर्म का पालन करता है। जिसका प्रभाव यह होता है कि अल्लाह उसके लिए सत्कर्मों का मार्ग सरल कर देता है। और उसमें पाप करने तथा स्वार्थ के लिए अवैध धन अर्जन की भावना नहीं रह जाती। ऐसे व्यक्ति के लिए दोनों लोक में सुख है। दूसरा वह होता है जो धन का लोभी, तथा अल्लाह से निश्न्तचिंत होता है और भलाई को नहीं मानता। जिसका प्रभाव यह होता है कि उसका स्वभाव ऐसा बन जाता है कि उसे बुराई का मार्ग सरल लगने लगता है। तथा अपने स्वार्थ और मनोकामना की पूर्ति के लिए प्रयास करता है। फिर इस बात को इस वाक्य पर समाप्त कर दिया गया है कि धन के लिए वह जान देता है, परंतु वह उसे अपने साथ लेकर नहीं जाएगा। फिर वह उसके किस काम आएगा?",
+   "urdu": "تو ہم بھی اس کی تنگی ومشکل کے سامان میسر کر دیں گے.[1]",
+   "urdu_footnotes": "[1] عُسْرَى( تنگی ) سےمراد کفر ومعصیت اور طریق شر ہے۔ یعنی ہم اس کے لئے نافرمانی کا راستہ آسان کر دیں گے، جس سے اس کے لئے خیر وسعادت کے راستے مشکل ہو جائیں گے۔ قرآن مجید میں یہ مضمون کئی جگہ بیان کیا گیا ہے کہ جو خیر ورشد کا راستہ اپناتا ہے، اس کے صلے میں اللہ اسے خیر کی توفیق سے نوازتا ہے اور جو شر ومعصیت کو اختیار کرتا ہے، اللہ اس کو اس کے حال پر چھوڑدیتا ہے اور یہ اس تقدیر کے مطابق ہی ہوتا ہے جو اللہ نے اپنے علم سے لکھ رکھی ہے۔ ( ابن کثیر ) یہ مضمون حدیث میں بھی بیان کیا گیا ہے۔ نبی (صلى الله عليه وسلم) نے فرمایا تم عمل کرو، ہر شخص جس کام کے لئے پیدا کیا گیا ہے، وہ اس کے لئے آسان کر دیا جاتا ہے، جو اہل سعادت سے ہوتا ہے، اسے اہل سعادت والے عمل کی توفیق دے دی جاتی ہے اور جو اہل شقاوت سے ہوتا ہے، اس کے لئے اہل شقاوت والے عمل آسان کر دیئے جاتے ہیں۔ ( صحيح البخاري، تفسير سورة الليل )",
+   "audio_file": "audio/quran/ar.alafasy/092_010.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_092_011",
+   "category": "quran",
+   "surah": 92,
+   "ayah": 11,
+   "arabic": "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
+   "transliteration": null,
+   "hindi": "और जब वह (जहन्नम के गड्ढे में) गिरेगा, तो उसका धन उसके किसी काम नहीं आएगा।",
+   "hindi_footnotes": null,
+   "urdu": "اس کا مال اسے (اوندھا) گرنے کے وقت کچھ کام نہ آئے گا.[1]",
+   "urdu_footnotes": "[1] یعنی جب جہنم میں گرے گا تو یہ مال، جسے وہ خرچ نہیں کرتا تھا، کچھ کام نہ آئے گا۔",
+   "audio_file": "audio/quran/ar.alafasy/092_011.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_092_012",
+   "category": "quran",
+   "surah": 92,
+   "ayah": 12,
+   "arabic": "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
+   "transliteration": null,
+   "hindi": "निःसंदेह हमारा ही ज़िम्मे मार्ग दिखाना है।",
+   "hindi_footnotes": null,
+   "urdu": "بیشک راه دکھا دینا ہمارے ذمہ ہے.[1]",
+   "urdu_footnotes": "[1] یعنی حلال اور حرام، خیر اور شر، ہدایت اور ضلالت کو واضح اور بیان کرنا ہمارے ذمے ہے۔ ( جو کہ ہم نے کر دیا ہے)",
+   "audio_file": "audio/quran/ar.alafasy/092_012.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_092_013",
+   "category": "quran",
+   "surah": 92,
+   "ayah": 13,
+   "arabic": "وَإِنَّ لَنَا لَلْـَٔاخِرَةَ وَٱلْأُولَىٰ",
+   "transliteration": null,
+   "hindi": "निःसंदेह हमारे ही अधिकार में आख़िरत और दुनिया है।",
+   "hindi_footnotes": null,
+   "urdu": "اور ہمارے ہی ہاتھ آخرت اور دنیا ہے.[1]",
+   "urdu_footnotes": "[1] یعنی دونوں کے مالک ہم ہی ہیں، ان میں جس طرح چاہیں تصرف کریں اس لئے ان دونوں کے یا ان میں سے کسی ایک کے طالب ہم سے ہی مانگیں کیوں کہ ہر طالب کو ہم ہی اپنی مشیت کے مطابق دیتے ہیں۔",
+   "audio_file": "audio/quran/ar.alafasy/092_013.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_092_014",
+   "category": "quran",
+   "surah": 92,
+   "ayah": 14,
+   "arabic": "فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ",
+   "transliteration": null,
+   "hindi": "अतः मैंने तुम्हें भड़कती आग से सावधान कर दिया है।[3]",
+   "hindi_footnotes": "[3] (11-14) इन आयतों में मानवजाति (इनसान) को सावधान किया गया है कि अल्लाह का, दया और न्याय के कारण मात्र यह दायित्व था कि सत्य मार्ग दिखा दे। और क़ुरआन द्वारा उसने अपना यह दायित्व पूरा कर दिया। किसी को सत्य मार्ग पर लगा देना उसका दायित्व नहीं है। अब इस सीधी राह को अपनाओगे तो तुम्हारा ही भला होगा। अन्यथा याद रखो कि संसार और परलोक दोनों ही अल्लाह के अधिकार में हैं। न यहाँ कोई तुम्हें बचा सकता है, और न वहाँ कोई तुम्हारा सहायक होगा।",
+   "urdu": "میں نے تو تمہیں شعلے مارتی ہوئی آگ سے ڈرا دیا ہے.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/092_014.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_092_015",
+   "category": "quran",
+   "surah": 92,
+   "ayah": 15,
+   "arabic": "لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى",
+   "transliteration": null,
+   "hindi": "जिसमें केवल सबसे बड़ा अभागा ही प्रवेश करेगा।",
+   "hindi_footnotes": null,
+   "urdu": "جس میں صرف وہی بدبخت داخل ہوگا.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/092_015.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_092_016",
+   "category": "quran",
+   "surah": 92,
+   "ayah": 16,
+   "arabic": "ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ",
+   "transliteration": null,
+   "hindi": "जिसने झुठलाया तथा मुँह फेरा।",
+   "hindi_footnotes": null,
+   "urdu": "جس نے جھٹلایا اور (اس کی پیروی سے) منھ پھیر لیا.[1]",
+   "urdu_footnotes": "[1] اس آیت سے مرجئہ فرقے نے (جو ایک باطل فرقہ گزرا ہے) استدلال کیا ہے کہ جہنم میں صرف کافر ہی جائیں گے۔ کوئی مسلمان چاہے کتنا ہی گناہ گار ہو، وہ جہنم میں نہیں جائے گا۔ لیکن یہ عقیدہ ان نصوص صریحہ کے خلاف ہے جن سے معلوم ہوتا ہے کہ بہت سے مسلمان بھی، جن کو اللہ تعالیٰ کچھ سزا دینا چاہے گا، کچھ عرصے کے لئے جہنم میں جائیں گے، پھر وہ نبی (صلى الله عليه وسلم) ، ملائکہ اور دیگر صالحین کی شفاعت سے نکال لئے جائیں گے، یہاں حصر کے انداز میں جو کہا گیا ہے، اس کا مطلب ہے کہ جو لوگ پکے کافر اور نہایت بدبخت ہیں، جہنم دراصل ان ہی کے لئے بنائی گئی ہے، جس میں وہ لازمی اور حتمی طور پر اور ہمیشہ کے لئے داخل ہوں گے۔ اگر کچھ نافرمان قسم کے مسلمان جہنم میں جائیں گے تو وہ لازمی اور حتمی طور پر اور ہمیشہ کے لئے نہیں جائیں گے، بلکہ بطور سزا ان کا یہ دخول عارضی ہوگا۔ ( فتح القدیر )۔",
+   "audio_file": "audio/quran/ar.alafasy/092_016.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_092_017",
+   "category": "quran",
+   "surah": 92,
+   "ayah": 17,
+   "arabic": "وَسَيُجَنَّبُهَا ٱلْأَتْقَى",
+   "transliteration": null,
+   "hindi": "और उससे उस व्यक्ति को बचा लिया जाएगा, जो सबसे ज़्यादा परहेज़गार है।",
+   "hindi_footnotes": null,
+   "urdu": "اور اس سے ایسا شخص دور رکھا جائے گا جو بڑا پرہیزگار ہو گا.[1]",
+   "urdu_footnotes": "[1] یعنی جہنم سے دور رہے گا اور جنت میں داخل ہوگا۔",
+   "audio_file": "audio/quran/ar.alafasy/092_017.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_092_018",
+   "category": "quran",
+   "surah": 92,
+   "ayah": 18,
+   "arabic": "ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ",
+   "transliteration": null,
+   "hindi": "जो अपना धन देता है, ताकि वह पवित्र हो जाए।",
+   "hindi_footnotes": null,
+   "urdu": "جو پاکی حاصل کرنے کے لئے اپنا مال دیتا ہے.[1]",
+   "urdu_footnotes": "[1] یعنی جو اپنا مال اللہ کے حکم کے مطابق خرچ کرتا ہے تاکہ اس کا نفس بھی اور اس کا مال بھی پاک ہو جائے۔",
+   "audio_file": "audio/quran/ar.alafasy/092_018.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_092_019",
+   "category": "quran",
+   "surah": 92,
+   "ayah": 19,
+   "arabic": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ",
+   "transliteration": null,
+   "hindi": "और उसपर किसी का कोई उपकार नहीं है, जिसका बदला चुकाया जाए।",
+   "hindi_footnotes": null,
+   "urdu": "کسی کا اس پر کوئی احسان نہیں کہ جس کا بدلہ دیا جا رہا ہو.[1]",
+   "urdu_footnotes": "[1] یعنی بدلہ اتارنے کے لیے خرچ نہ کرتا ہو۔",
+   "audio_file": "audio/quran/ar.alafasy/092_019.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_092_020",
+   "category": "quran",
+   "surah": 92,
+   "ayah": 20,
+   "arabic": "إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ",
+   "transliteration": null,
+   "hindi": "वह तो केवल अपने सर्वोच्च रब का चेहरा चाहता है।",
+   "hindi_footnotes": null,
+   "urdu": "بلکہ صرف اپنے پروردگار بزرگ وبلند کی رضا چاہنے کے لئے.[1]",
+   "urdu_footnotes": "[1] بلکہ اخلاص سے اللہ کی رضا اور جنت میں اس کے دیدار کے لئے خرچ کرتا ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/092_020.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_092_021",
+   "category": "quran",
+   "surah": 92,
+   "ayah": 21,
+   "arabic": "وَلَسَوْفَ يَرْضَىٰ",
+   "transliteration": null,
+   "hindi": "और निश्चय वह (बंदा) प्रसन्न हो जाएगा।[4]",
+   "hindi_footnotes": "[4] (15-21) इन आयतों में यह वर्णन किया गया है कि कौन से कुकर्मी नरक में पड़ेंगे और कौन सुकर्मी उससे सुरक्षित रखे जाएँगे। और उन्हें क्या फल मिलेगा। आयत संख्या 10 के बारे में यह बात याद रखने की है कि अल्लाह ने सभी वस्तुओं और कर्मों का अपने नियमानुसार स्वभाविक प्रभाव रखा है। और क़ुरआन इसीलिए सभी कर्मों के स्वभाविक प्रभाव और फल को अल्लाह से जोड़ता है। और यूँ कहता है कि अल्लाह ने उसके लिए बुराई की राह सरल कर दी। कभी कहता है कि उनके दिलों पर मुहर लगा दी, जिसका अर्थ यह होता है कि यह अल्लाह के बनाए हुए नियमों के विरोध का स्वभाविक फल है। (देखिए : उम्मुल किताब, मौलाना आज़ाद)",
+   "urdu": "یقیناً وه (اللہ بھی) عنقریب رضامند ہو جائے گا.[1]",
+   "urdu_footnotes": "[1] یا وہ راضی ہو جائے گا، یعنی جو شخص ان صفات کا حامل ہوگا، اللہ تعالیٰ اسے جنت کی نعمتیں اور عزت وشرف عطا فرمائے گا، جس سے وہ راضی ہو جائے گا۔ اکثر مفسرین نے کہا ہے بلکہ بعض نے اجماع تک نقل کیا ہے کہ یہ آیات حضرت ابوبکر صدیق (رضي الله عنه) کی شان میں نازل ہوئی ہیں۔ تاہم معنی ومفہوم کے اعتبار سے یہ عام ہیں۔ جو بھی ان صفات عالیہ سے متصف ہوگا، وہ بارگاہ الٰہی میں ان کا مصداق قرار پائے گا۔",
+   "audio_file": "audio/quran/ar.alafasy/092_021.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  }
+ ]
+}

@@ -1,0 +1,771 @@
+{
+ "surah": 78,
+ "name_arabic": "سُورَةُ النَّبَإِ",
+ "name_en": "An-Naba",
+ "translation_versions": {
+  "hindi_omari": "1.1.5",
+  "urdu_junagarhi": "1.1.3"
+ },
+ "ayahs": [
+  {
+   "id": "quran_078_001",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 1,
+   "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ عَمَّ يَتَسَآءَلُونَ",
+   "transliteration": null,
+   "hindi": "वे आपस में किस चीज़ के विषय में प्रश्न कर रहे हैं?",
+   "hindi_footnotes": null,
+   "urdu": "یہ لوگ کس چیز کے بارے میں پوچھ گچھ کر رہے ہیں.[1]",
+   "urdu_footnotes": "[1] جب رسول اللہ (صلى الله عليه وسلم) کو خلعت نبوت سے نوازا گیا اور آپ نےتوحید، قیامت وغیرہ کا بیان فرمایا اور قرآن کی تلاوت فرمائی تو کفار ومشرکین باہم ایک دوسرے سے پوچھتے کہ یہ قیامت کیا واقعی ممکن ہے؟ جیسا کہ یہ شخص دعویٰ کر رہا ہے یا یہ قرآن واقعی اللہ کی طرف سے نازل کردہ ہے جیسا کہ محمد (صلى الله عليه وسلم) کہتا ہے۔ استفہام کے ذریعے سے اللہ نے پہلے ان چیزوں کی وہ حیثیت نمایاں کی جو ان کی ہے۔ پھر خود ہی جواب دیا کہ۔۔۔",
+   "audio_file": "audio/quran/ar.alafasy/078_001.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_002",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 2,
+   "arabic": "عَنِ ٱلنَّبَإِ ٱلْعَظِيمِ",
+   "transliteration": null,
+   "hindi": "बहुत बड़ी सूचना के विषय में।",
+   "hindi_footnotes": null,
+   "urdu": "اس بڑی خبر کے متعلق.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/078_002.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_003",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 3,
+   "arabic": "ٱلَّذِى هُمْ فِيهِ مُخْتَلِفُونَ",
+   "transliteration": null,
+   "hindi": "जिसमें वे मतभेद करने वाले हैं।",
+   "hindi_footnotes": null,
+   "urdu": "جس کے بارے میں یہ اختلاف کر رہے ہیں.[1]",
+   "urdu_footnotes": "[1] یعنی جس بڑی خبر کی بابت ان کے درمیان اختلاف ہے، اس کے متعلق استفسار ہے۔ اس بڑی خبر سے بعض نے قرآن مجید مراد لیا ہے کافر اس کے بارے میں مختلف باتیں کرتے تھے، کوئی اسے جادو، کوئی کہانت، کوئی شعر اور کوئی پہلوں کی کہانیاں بتلاتا تھا۔ بعض کے نزدیک اس سے مراد قیامت کا برپا ہونا اور دوبارہ زندہ ہونا ہے۔ اس میں بھی ان کے درمیان کچھ اختلاف تھا۔ کوئی بالکل انکار کرتا تھا کوئی صرف شک کا اظہار۔ بعض کہتے ہیں کہ سوال کرنے والےمومن وکافر دونوں ہی تھے، مومنین کا سوال تو اضافہ یقین اور ازدیاد بصیرت کے لئے تھا اور کافروں کا استہزا اور تمسخر کے طور پر۔",
+   "audio_file": "audio/quran/ar.alafasy/078_003.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_004",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 4,
+   "arabic": "كَلَّا سَيَعْلَمُونَ",
+   "transliteration": null,
+   "hindi": "हरगिज़ नहीं, शीघ्र ही वे जान लेंगे।",
+   "hindi_footnotes": null,
+   "urdu": "یقیناً یہ عنقریب جان لیں گے۔",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/078_004.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_005",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 5,
+   "arabic": "ثُمَّ كَلَّا سَيَعْلَمُونَ",
+   "transliteration": null,
+   "hindi": "फिर हरगिज़ नहीं, शीघ्र ही वे जान लेंगे।[1]",
+   "hindi_footnotes": "[1] (1-5) इन आयतों में उनको धिक्कारा गया है, जो प्रलय की हँसी उड़ाते हैं। जैसे उनके लिए प्रलय की सूचना किसी गंभीर चिंता के योग्य नहीं। परंतु वह दिन दूर नहीं जब प्रलय उनके आगे आ जाएगी और वे विश्व विधाता के सामने उत्तरदायित्व के लिए उपस्थित होंगे।",
+   "urdu": "پھر بالیقین انہیں بہت جلد معلوم ہو جائے گا.[1]",
+   "urdu_footnotes": "[1] یہ ڈانٹ اور زجر ہےکہ عنقریب سب کچھ معلوم ہو جائے گا۔ آگے اللہ تعالیٰ اپنی کاریگری اور عظیم قدرت کا تذکرہ فرما رہا ہے تاکہ توحید کی حقیقت ان کے سامنے واضح ہو اور اللہ کا رسول انہیں جس چیز کی دعوت دے رہا تھا، اس پر ایمان لانا ان کے لئے آسان ہو جائے۔",
+   "audio_file": "audio/quran/ar.alafasy/078_005.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_006",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 6,
+   "arabic": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ مِهَـٰدًا",
+   "transliteration": null,
+   "hindi": "क्या हमने धरती को बिछौना नहीं बनाया?",
+   "hindi_footnotes": null,
+   "urdu": "کیا ہم نے زمین کو فرش نہیں بنایا؟[1]",
+   "urdu_footnotes": "[1] یعنی فرش کی طرح تم زمین پر چلتے پھرتے، اٹھتے، بیٹھتے، سوتے اور سارے کام کاج کرتے ہو۔ زمین کوڈولتا ہوا نہیں رہنے دیا۔",
+   "audio_file": "audio/quran/ar.alafasy/078_006.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_007",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 7,
+   "arabic": "وَٱلْجِبَالَ أَوْتَادًا",
+   "transliteration": null,
+   "hindi": "और पर्वतों को मेखें?",
+   "hindi_footnotes": null,
+   "urdu": "اور پہاڑوں کو میخیں (نہیں بنایا؟)[1]",
+   "urdu_footnotes": "[1] أَوْتَادٌ، وَتَدٌ کی جمع ہے میخیں۔ یعنی پہاڑوں کو زمین کے لئے میخیں بنایا تاکہ زمین ساکن رہے،حرکت نہ کرے، کیوں کہ حرکت واضطراب کی صورت میں زمین رہائش کے قابل ہی نہ ہوتی۔",
+   "audio_file": "audio/quran/ar.alafasy/078_007.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_008",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 8,
+   "arabic": "وَخَلَقْنَـٰكُمْ أَزْوَٰجًا",
+   "transliteration": null,
+   "hindi": "तथा हमने तुम्हें जोड़े-जोड़े पैदा किया।",
+   "hindi_footnotes": null,
+   "urdu": "اور ہم نے تمہیں جوڑا جوڑا پیدا کیا.[1]",
+   "urdu_footnotes": "[1] یعنی مذکر اور مونث۔ نراور مادہ یا ازواج بمعنی اصناف والوان ہے۔ یعنی مختلف شکلوں اور رنگوں میں پیدا کیا، خوب صورت، بدصورت، دراز قد، کوتاہ قد، سفید اور سیاہ وغیرہ۔",
+   "audio_file": "audio/quran/ar.alafasy/078_008.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_009",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 9,
+   "arabic": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا",
+   "transliteration": null,
+   "hindi": "तथा हमने तुम्हारी नींद को आराम (का साधन) बनाया।",
+   "hindi_footnotes": null,
+   "urdu": "اور ہم نے تمہاری نیند کو آرام کا سبب بنایا.[1]",
+   "urdu_footnotes": "[1] سُبَاتٌ کے معنی قطع کرنے کے ہیں۔ رات بھی انسان وحیوان کی ساری حرکتیں منقطع کر دیتی ہے تاکہ سکون ہو جائے اور لوگ آرام کی نیند سو لیں۔ یا مطلب ہے کہ رات تمہارے اعمال کاٹ دیتی ہے یعنی عمل کے سلسلے کو ختم کر دیتی ہے۔ عمل ختم ہونے کا مطلب آرام ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/078_009.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_010",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 10,
+   "arabic": "وَجَعَلْنَا ٱلَّيْلَ لِبَاسًا",
+   "transliteration": null,
+   "hindi": "और हमने रात को आवरण बनाया।",
+   "hindi_footnotes": null,
+   "urdu": "اور رات کو ہم نے پرده بنایا.[1]",
+   "urdu_footnotes": "[1] یعنی رات کا اندھیرا اور سیاہی ہر چیز کو اپنے دامن میں چھپا لیتی ہے، جس طرح لباس انسان کے جسم کو چھپا لیتا ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/078_010.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_011",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 11,
+   "arabic": "وَجَعَلْنَا ٱلنَّهَارَ مَعَاشًا",
+   "transliteration": null,
+   "hindi": "और हमने दिन को कमाने के लिए बनाया।",
+   "hindi_footnotes": null,
+   "urdu": "اور دن کو ہم نے وقت روزگار بنایا.[1]",
+   "urdu_footnotes": "[1] مطلب ہے کہ دن کو روشن بنایا تاکہ لوگ کسب معاش کے لئے جد وجہد کر سکیں۔",
+   "audio_file": "audio/quran/ar.alafasy/078_011.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_012",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 12,
+   "arabic": "وَبَنَيْنَا فَوْقَكُمْ سَبْعًا شِدَادًا",
+   "transliteration": null,
+   "hindi": "तथा हमने तुम्हारे ऊपर सात मज़बूत (आकाश) बनाए।",
+   "hindi_footnotes": null,
+   "urdu": "اور تمہارے اوپر ہم نے سات مضبوط آسمان بنائے.[1]",
+   "urdu_footnotes": "[1] ان میں سے ہر ایک کا فاصلہ پانچ سو سال کی مسافت جتنا ہے، جو اس کے استحکام اور مضبوطی کی دلیل ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/078_012.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_013",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 13,
+   "arabic": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا",
+   "transliteration": null,
+   "hindi": "और हमने एक प्रकाशमान् तप्त दीप (सूर्य) बनाया।",
+   "hindi_footnotes": null,
+   "urdu": "اور ایک روشن چراغ (سورج) بنایا.[1]",
+   "urdu_footnotes": "[1] اس سے مراد سورج ہے اور جَعَلَ بمعنی خَلَقَ ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/078_013.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_014",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 14,
+   "arabic": "وَأَنزَلْنَا مِنَ ٱلْمُعْصِرَٰتِ مَآءً ثَجَّاجًا",
+   "transliteration": null,
+   "hindi": "और हमने बदलियों से मूसलाधार पानी उतारा।",
+   "hindi_footnotes": null,
+   "urdu": "اور بدلیوں سے ہم نے بکثرت بہتا ہوا پانی برسایا.[1]",
+   "urdu_footnotes": "[1] مُعْصِرَاتٌ وہ بدلیاں جو پانی سے بھری ہوئی ہے لیکن ابھی برسی نہ ہوں۔ جیسے الْمَرْأَةُ الْمُعْتَصِرَةُ، اس عورت کو کہتے ہیں جس کی ماہواری قریب ہو، ثَجَّاجًا کثرت سے بہنے والا پانی۔",
+   "audio_file": "audio/quran/ar.alafasy/078_014.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_015",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 15,
+   "arabic": "لِّنُخْرِجَ بِهِۦ حَبًّا وَنَبَاتًا",
+   "transliteration": null,
+   "hindi": "ताकि हम उसके द्वारा अन्न और वनस्पति उगाएँ।",
+   "hindi_footnotes": null,
+   "urdu": "تاکہ اس سے اناج اور سبزه اگائیں.[1]",
+   "urdu_footnotes": "[1] حَبٌّ ( دانا ) وہ اناج جسے خوراک کے لئے ذخیرہ کر لیا جاتا ہے، جیسے گندم، چاول، جو، مکئی وغیرہ اور نبات، سبزیاں اور چارہ وغیرہ جو جانور کھاتے ہیں۔",
+   "audio_file": "audio/quran/ar.alafasy/078_015.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_016",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 16,
+   "arabic": "وَجَنَّـٰتٍ أَلْفَافًا",
+   "transliteration": null,
+   "hindi": "और घने-घने बाग़।[2]",
+   "hindi_footnotes": "[2] (6-16) इन आयतों में अल्लाह की शक्ति और प्रतिपालन (रूबूबिय्यत) के लक्षण दर्शाए गए हैं, जो यह साक्ष्य देते हैं कि प्रतिकार (बदले) का दिन आवश्यक है, क्योंकि जिसके लिए इतनी बड़ी व्यवस्था की गई हो और उसे कर्मों के अधिकार भी दिए गए हों, तो उसके कर्मों का पुरस्कार या दंड तो मिलना ही चाहिए।",
+   "urdu": "اور گھنے باغ (بھی اگائیں).[1]",
+   "urdu_footnotes": "[1] أَلْفَافًا شاخوں کی کثرت کی وجہ سے ایک دوسرے سے ملے ہوئے درخت یعنی گھنے باغ۔",
+   "audio_file": "audio/quran/ar.alafasy/078_016.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_017",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 17,
+   "arabic": "إِنَّ يَوْمَ ٱلْفَصْلِ كَانَ مِيقَـٰتًا",
+   "transliteration": null,
+   "hindi": "निःसंदेह निर्णय (फ़ैसले) का दिन एक नियत समय है।",
+   "hindi_footnotes": null,
+   "urdu": "بیشک فیصلہ کے دن کا وقت مقرر ہے.[1]",
+   "urdu_footnotes": "[1] یعنی اولین اور آخرین سب کے جمع ہونے اور وعدے کا دن۔ اسے فیصلے کا دن اس لئے کہا کہ اس دن جمع ہونے کا مقصد ہی تمام انسانوں کا ان کے اعمال کی روشنی میں فیصلہ کرنا ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/078_017.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_018",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 18,
+   "arabic": "يَوْمَ يُنفَخُ فِى ٱلصُّورِ فَتَأْتُونَ أَفْوَاجًا",
+   "transliteration": null,
+   "hindi": "जिस दिन सूर में फूँक मारी जाएगी, तो तुम दल के दल चले आओगे।",
+   "hindi_footnotes": null,
+   "urdu": "جس دن کہ صور میں پھونکا جائے گا۔ پھر تم فوج در فوج چلے آؤ گے.[1]",
+   "urdu_footnotes": "[1] بعض نے اس کا مفہوم یہ بھی بیان کیا ہے کہ ہر امت اپنے رسول کے ساتھ میدان محشر میں آئے گی۔ یہ دوسرا نفخہ ہوگا، جس میں سب لوگ قبروں سے زندہ اٹھ کر نکل آئیں گے۔ اللہ تعالیٰ آسمان سےپانی نازل فرمائے گا، جس سے انسان کھیتی کی طرح اگ آئے گا۔ انسان کی ہر چیز بوسیدہ ہو جائے گی، سوائے ریڑھ کی ہڈی کے آخری سرے کے۔ اسی سے قیامت والے دن تمام مخلوقات کی دوبارہ ترکیب ہوگی۔ ( صحیح بخاری، تفسیر سورۂ عم ) ۔",
+   "audio_file": "audio/quran/ar.alafasy/078_018.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_019",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 19,
+   "arabic": "وَفُتِحَتِ ٱلسَّمَآءُ فَكَانَتْ أَبْوَٰبًا",
+   "transliteration": null,
+   "hindi": "और आकाश खोल दिया जाएगा, तो उसमें द्वार ही द्वार हो जाएँगे।",
+   "hindi_footnotes": null,
+   "urdu": "اور آسمان کھول دیا جائے گا تو اس میں دروازے ہی دروازے ہو جائیں گے.[1]",
+   "urdu_footnotes": "[1] یعنی فرشتوں کے نزول کے لئے راستے بن جائیں گے اور وہ زمین پر اتر آئیں گے۔",
+   "audio_file": "audio/quran/ar.alafasy/078_019.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_020",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 20,
+   "arabic": "وَسُيِّرَتِ ٱلْجِبَالُ فَكَانَتْ سَرَابًا",
+   "transliteration": null,
+   "hindi": "और पर्वत चलाए जाएँगे, तो वे मरीचिका बन जाएँगे।[3]",
+   "hindi_footnotes": "[3] (17-20) इन आयतों में बताया जा रहा है कि निर्णय का दिन अपने निश्चित समय पर आकर रहेगा, उस दिन आकाश तथा धरती में एक बड़ी उथल-पुथल होगी। इसके लिए सूर में एक फूँक मारने की देर है। फिर जिसकी सूचना दी जा रही है तुम्हारे सामने आ जाएगी। तुम्हारे मानने या न मानने का कोई प्रभाव नहीं पड़ेगा। और सब अपना ह़िसाब देने के लिए अल्लाह के न्यायालय की ओर चल पड़ेंगे।",
+   "urdu": "اور پہاڑ چلائے جائیں گے پس وه سراب ہو جائیں گے.[1]",
+   "urdu_footnotes": "[1] سَرَابٌ، وہ ریت جو دور سے پانی محسوس ہوتی ہو۔ پہاڑ بھی سراب کی طرح صرف دور سے نظر آنے والی چیز بن کر رہ جائیں گے۔ اور اس کے بعد بالکل ہی معدوم ہو جائیں گے، ان کا کوئی نشان باقی نہیں رہے گا۔ بعض کہتے ہیں کہ قرآن میں پہاڑوں کی مختلف حالتیں بیان کی گئی ہیں، جن میں جمع وتطبیق کی صورت یہ ہے کہ پہلے انہیں ریزہ ریزہ کر دیا جائے گا فَدُكَّتَا دَكَّةً وَاحِدَةً ( الحاقة: 14 ) 2- وہ دھنی ہوئی روئی کی طرح ہو جائیں گے۔ كَالْعِهْنِ الْمَنْفُوشِ ( القارعة: 5) 3- وہ گرد وغبار ہو جائیں گے۔ فَكَانَتْ هَبَاءً مُنْبَثًّا ( الواقعة :6)۔ 4- ان کو اڑا دیا جائے گا يَنْسِفُهَا رَبِّي نَسْفًا (طه:105) اور پانچویں حالت یہ ہے کہ وہ سراب ہو جائیں گے۔ یعنی لا شَيْءَ جیسا کہ اس مقام پر ہے۔ ( فتح القدیر ) ۔",
+   "audio_file": "audio/quran/ar.alafasy/078_020.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_021",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 21,
+   "arabic": "إِنَّ جَهَنَّمَ كَانَتْ مِرْصَادًا",
+   "transliteration": null,
+   "hindi": "निःसंदेह जहन्नम घात में है।",
+   "hindi_footnotes": null,
+   "urdu": "بیشک دوزخ گھات میں ہے.[1]",
+   "urdu_footnotes": "[1] گھات ایسی جگہ کو کہتے ہیں، جہاں چھپ کر دشمن کا انتظار کیا جاتا ہے تاکہ وہاں سے گزرے تو فوراً اس پر حملہ کر دیا جائے۔ جہنم کے داروغے بھی جہنمیوں کے انتظار میں اسی طرح بیٹھے ہیں یا خود جہنم اللہ کے حکم سے کفار کے لئے گھات لگائے بیٹھی ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/078_021.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_022",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 22,
+   "arabic": "لِّلطَّـٰغِينَ مَـَٔابًا",
+   "transliteration": null,
+   "hindi": "सरकशों का ठिकाना है।",
+   "hindi_footnotes": null,
+   "urdu": "سرکشوں کا ٹھکانہ وہی ہے.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/078_022.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_023",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 23,
+   "arabic": "لَّـٰبِثِينَ فِيهَآ أَحْقَابًا",
+   "transliteration": null,
+   "hindi": "जिसमें वे अनगिनत वर्षों तक रहेंगे।",
+   "hindi_footnotes": null,
+   "urdu": "اس میں وه مدتوں تک پڑے رہیں گے.[1]",
+   "urdu_footnotes": "[1] أَحْقَابٌ ، حُقُبٌ کی جمع ہے، بمعنی زمانہ۔ مراد ابد اور ہمیشگی ہے۔ ابد الاباد تک وہ جہنم میں ہی رہیں گے۔ یہ سزا کافروں اور مشرکوں کے لئے ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/078_023.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_024",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 24,
+   "arabic": "لَّا يَذُوقُونَ فِيهَا بَرْدًا وَلَا شَرَابًا",
+   "transliteration": null,
+   "hindi": "वे उसमें न कोई ठंड चखेंगे और न पीने की चीज़।",
+   "hindi_footnotes": null,
+   "urdu": "نہ کبھی اس میں خنکی کا مزه چکھیں گے، نہ پانی کا.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/078_024.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_025",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 25,
+   "arabic": "إِلَّا حَمِيمًا وَغَسَّاقًا",
+   "transliteration": null,
+   "hindi": "सिवाय अत्यंत गर्म पानी और बहती पीप के।",
+   "hindi_footnotes": null,
+   "urdu": "سوائے گرم پانی اور (بہتی) پیپ کے.[1]",
+   "urdu_footnotes": "[1] جو جہنمیوں کے جسموں سے نکلے گی۔",
+   "audio_file": "audio/quran/ar.alafasy/078_025.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_026",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 26,
+   "arabic": "جَزَآءً وِفَاقًا",
+   "transliteration": null,
+   "hindi": "यह पूरा-पूरा बदला है।",
+   "hindi_footnotes": null,
+   "urdu": "(ان کو) پورا پورا بدلہ ملے گا.[1]",
+   "urdu_footnotes": "[1] یعنی یہ سزا ان کے ان اعمال کےمطابق ہے جو وہ دنیا میں کرتے رہے ہیں۔",
+   "audio_file": "audio/quran/ar.alafasy/078_026.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_027",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 27,
+   "arabic": "إِنَّهُمْ كَانُوا۟ لَا يَرْجُونَ حِسَابًا",
+   "transliteration": null,
+   "hindi": "निःसंदेह वे हिसाब से नहीं डरते थे।",
+   "hindi_footnotes": null,
+   "urdu": "انہیں تو حساب کی توقع ہی نہ تھی.[1]",
+   "urdu_footnotes": "[1] یہ پہلے جملے کی تعلیل ہے۔ یعنی وہ مذکورہ سزا کے اس لئے مستحق قرار پائے کہ عقیدۂ بعث بعدالموت کے وہ قائل ہی نہیں تھے کہ حساب کتاب کی وہ امید رکھتے۔",
+   "audio_file": "audio/quran/ar.alafasy/078_027.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_028",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 28,
+   "arabic": "وَكَذَّبُوا۟ بِـَٔايَـٰتِنَا كِذَّابًا",
+   "transliteration": null,
+   "hindi": "तथा उन्होंने हमारी आयतों को बुरी तरह झुठलाया।",
+   "hindi_footnotes": null,
+   "urdu": "اور بے باکی سے ہماری آیتوں کی تکذیب کرتے تھے.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/078_028.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_029",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 29,
+   "arabic": "وَكُلَّ شَىْءٍ أَحْصَيْنَـٰهُ كِتَـٰبًا",
+   "transliteration": null,
+   "hindi": "और हमने हर चीज़ को लिखकर संरक्षित कर रखा है।",
+   "hindi_footnotes": null,
+   "urdu": "ہم نے ہر ایک چیز کو لکھ کر شمار کر رکھا ہے.[1]",
+   "urdu_footnotes": "[1] یعنی لوح محفوظ میں۔ یا وہ ریکارڈ مراد ہے جو فرشتے لکھتے رہے۔ پہلا مفہوم زیادہ صحیح ہے، جیسا کہ دوسرے مقام پر فرمایا وَكُلَّ شَيْءٍ أحْصَيْنَاهُ فِي إِمَامٍ مُبِينٍ ( يس:12) ۔",
+   "audio_file": "audio/quran/ar.alafasy/078_029.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_030",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 30,
+   "arabic": "فَذُوقُوا۟ فَلَن نَّزِيدَكُمْ إِلَّا عَذَابًا",
+   "transliteration": null,
+   "hindi": "तो चखो, हम तुम्हारे लिए यातना ही अधिक करते रहेंगे।[4]",
+   "hindi_footnotes": "[4] (21-30) इन आयतों में बताया गया है कि जो ह़िसाब की आशा नहीं रखते और हमारी आयतों को नहीं मानते हमने उनकी एक-एक करतूत को गिनकर अपने यहाँ लिख रखा है। और उनकी ख़बर लेने के लिए नरक घात लगाए तैयार है, जहाँ उनके कुकर्मों का भरपूर बदला दिया जाएगा।",
+   "urdu": "اب تم (اپنے کیے کا) مزه چکھو ہم تمہارا عذاب ہی بڑھاتے رہیں گے.[1]",
+   "urdu_footnotes": "[1] عذاب بڑھانے کا مطلب ہے کہ اب یہ عذاب دائمی ہے۔ جب ان کے چمڑے گل جائیں گے تو دوسرے بدل دیئے جائیں گے۔ ( النساء:56 ) جب آگ بجھنے لگے گی، تو پھر بھڑ کا دی جائے گی۔ بنی اسرائیل:97)۔",
+   "audio_file": "audio/quran/ar.alafasy/078_030.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_031",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 31,
+   "arabic": "إِنَّ لِلْمُتَّقِينَ مَفَازًا",
+   "transliteration": null,
+   "hindi": "निःसंदेह (अल्लाह से) डरने वालों के लिए सफलता है।",
+   "hindi_footnotes": null,
+   "urdu": "یقیناً پرہیزگار لوگوں کے لئے کامیابی ہے.[1]",
+   "urdu_footnotes": "[1] اہل شقاوت کےتذکرے کے بعد، یہ اہل سعادت کا تذکرہ اور ان نعمتوں کا بیان ہے جن سے حیات اخروی میں وہ بہرہ ور ہوں گے۔ یہ کامیابی اور نعمتیں انہیں تقویٰ کی بدولت حاصل ہوں گی۔ تقویٰ ، ایمان واطاعت کے تقاضوں کی تکمیل کا نام ہے، خوش قسمت ہیں وہ لوگ، جو ایمان لانے کے بعد تقویٰ اور عمل صالح کا اہتمام کرتے ہیں۔ جَعَلَنَا اللهُ مِنْهُمْ ۔",
+   "audio_file": "audio/quran/ar.alafasy/078_031.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_032",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 32,
+   "arabic": "حَدَآئِقَ وَأَعْنَـٰبًا",
+   "transliteration": null,
+   "hindi": "बाग़ तथा अंगूर।",
+   "hindi_footnotes": null,
+   "urdu": "باغات ہیں اور انگور ہیں.[1]",
+   "urdu_footnotes": "[1] یہ مفازاً سے بدل ہے ۔",
+   "audio_file": "audio/quran/ar.alafasy/078_032.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_033",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 33,
+   "arabic": "وَكَوَاعِبَ أَتْرَابًا",
+   "transliteration": null,
+   "hindi": "और समान उम्र वाली नवयुवतियाँ।",
+   "hindi_footnotes": null,
+   "urdu": "اور نوجوان کنواری ہم عمر عورتیں ہیں.[1]",
+   "urdu_footnotes": "[1] كَوَاعِبَ كَاعِبةٌ کی جمع ہے، یہ كَعْبٌ ( ٹخنہ ) سے ہے، جس طرح ٹخنہ ابھرا ہوا ہوتا ہے، ان کی چھاتیوں میں بھی ایسا ہی ابھار ہوگا، جو ان کے حسن وجمال کا ایک مظہر ہے۔ أَتْرَابٌ ہم عمر۔",
+   "audio_file": "audio/quran/ar.alafasy/078_033.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_034",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 34,
+   "arabic": "وَكَأْسًا دِهَاقًا",
+   "transliteration": null,
+   "hindi": "और छलकते हुए प्याले।",
+   "hindi_footnotes": null,
+   "urdu": "اور چھلکتے ہوئے جام ہیں.[1]",
+   "urdu_footnotes": "[1] دِهَاقًا، بھرے ہوئے، یا لگاتار، ایک کے بعد ایک۔ یا صاف شفاف۔ كَأْسٌ، ایسے جام کو کہتے ہیں جو لبالب بھرا ہوا ہو۔",
+   "audio_file": "audio/quran/ar.alafasy/078_034.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_035",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 35,
+   "arabic": "لَّا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا كِذَّٰبًا",
+   "transliteration": null,
+   "hindi": "वे उसमें न तो कोई व्यर्थ बात सुनेंगे और न (एक दूसरे को) झुठलाना।",
+   "hindi_footnotes": null,
+   "urdu": "وہاں نہ تو وه بیہوده باتیں سنیں گے اور نہ جھوٹی باتیں سنیں گے.[1]",
+   "urdu_footnotes": "[1] یعنی کوئی بے فائدہ اور بے ہودہ بات وہاں نہیں ہوگی، نہ ایک دوسرے سے جھوٹ بولیں گے۔",
+   "audio_file": "audio/quran/ar.alafasy/078_035.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_036",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 36,
+   "arabic": "جَزَآءً مِّن رَّبِّكَ عَطَآءً حِسَابًا",
+   "transliteration": null,
+   "hindi": "यह तुम्हारे पालनहार की ओर से बदले में ऐसा प्रदान है जो पर्याप्त होगा।",
+   "hindi_footnotes": null,
+   "urdu": "(ان کو) تیرے رب کی طرف سے (ان کے نیک اعمال کا)یہ بدلہ ملے گا جو کافی انعام ہوگا.[1]",
+   "urdu_footnotes": "[1] عَطَاءً کے ساتھ حِسَابٌ مبالغے کے لئے آتا ہے، یعنی اللہ کی داد ودہش کی وہاں فراوانی ہوگی۔",
+   "audio_file": "audio/quran/ar.alafasy/078_036.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_037",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 37,
+   "arabic": "رَّبِّ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَمَا بَيْنَهُمَا ٱلرَّحْمَـٰنِ ۖ لَا يَمْلِكُونَ مِنْهُ خِطَابًا",
+   "transliteration": null,
+   "hindi": "जो आकाशों और धरती तथा उनके बीच की हर चीज़ का पालनहार है, अत्यंत दयावान् है। उससे बात करने का उन्हें अधिकार नहीं होगा।",
+   "hindi_footnotes": null,
+   "urdu": "(اس رب کی طرف سے ملے گا جو کہ) آسمانوں کا اور زمین کا اور جو کچھ ان کے درمیان ہے ان کا پروردگار ہے اور بڑی بخشش کرنے واﻻ ہے۔ کسی کو اس سے بات چیت کرنے کا اختیار نہیں ہوگا.[1]",
+   "urdu_footnotes": "[1] یعنی اس کی عظمت، ہیبت اور جلالت اتنی ہوگی کہ ابتداءً اس سےکسی کو بات کرنے کی ہمت نہ ہوگی، اسی لئے اس کی اجازت کے بغیر کوئی شفاعت کے لئے بھی لب کشائی نہیں کر سکے گا۔",
+   "audio_file": "audio/quran/ar.alafasy/078_037.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_038",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 38,
+   "arabic": "يَوْمَ يَقُومُ ٱلرُّوحُ وَٱلْمَلَـٰٓئِكَةُ صَفًّا ۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنْ أَذِنَ لَهُ ٱلرَّحْمَـٰنُ وَقَالَ صَوَابًا",
+   "transliteration": null,
+   "hindi": "जिस दिन रूह़ (जिबरील) तथा फ़रिश्ते पंक्तियों में खड़े होंगे, उससे केवल वही बात कर सकेगा जिसे रहमान (अल्लाह) आज्ञा देगा और वह ठीक बात कहेगा।",
+   "hindi_footnotes": null,
+   "urdu": "جس دن روح اور فرشتے صفیں باندھ کر کھڑے ہوں گے[1] تو کوئی کلام نہ کر سکے گا مگر جسے رحمٰن اجازت دے دے اور وه ٹھیک بات زبان سے نکالے.[2]",
+   "urdu_footnotes": "[1] یہاں جبرائیل (عليه السلام) سمیت رُوحٌ کے کئی مفہوم بیان کئے گئے ہیں، امام ابن کثیر نے بنو آدم ( انسان ) کو اشبہ ( قرین قیاس ) قرار دیا ہے۔\n[2] یہ اجازت اللہ تعالیٰ ان فرشتوں کو اور اپنے پیغمبروں کو عطا فرمائے گا اور وہ جو بات کریں گی حق وصواب ہی ہوگی، یا یہ مفہوم ہے کہ، اجازت صرف اسی کےبارے میں دی جائے گی جس نے درست بات کہی ہو۔ یعنی کلمہ توحید کا اقراری رہا ہو۔",
+   "audio_file": "audio/quran/ar.alafasy/078_038.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_039",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 39,
+   "arabic": "ذَٰلِكَ ٱلْيَوْمُ ٱلْحَقُّ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ مَـَٔابًا",
+   "transliteration": null,
+   "hindi": "यही (वह) दिन है जो सत्य है। अतः जो चाहे अपने पालनहार की ओर लौटने की जगह (ठिकाना) बना ले।[5]",
+   "hindi_footnotes": "[5] (37-39) इन आयतों में अल्लाह के न्यायालय में उपस्थिति (ह़ाज़िरी) का चित्र दिखाया गया है। और जो इस भ्रम में पड़े हैं कि उनके देवी-देवता आदि अभिस्ताव करेंगे उनको सावधान किया गया है कि उस दिन कोई बिना उस की आज्ञा के मुँह नहीं खोलेगा और अल्लाह की आज्ञा से अभिस्ताव भी करेगा तो उसी के लिए जो संसार में सत्य वचन \"ला इलाहा इल्लल्लाह\" को मानता हो। अल्लाह के द्रोही और सत्य के विरोधी किसी अभिस्ताव के योग्य नगीं होंगे।",
+   "urdu": "یہ دن حق ہے[1] اب جو چاہے اپنے رب کے پاس (نیک اعمال کر کے) ٹھکانا بنالے.[2]",
+   "urdu_footnotes": "[1] یعنی لا محالہ آنے والا ہے۔\n[2] یعنی اس آنے والے دن کو سامنےرکھتے ہوئے ایمان وتقویٰ کی زندگی اختیار کرے تاکہ اس روز وہاں اس کو اچھا ٹھکانہ مل جائے۔",
+   "audio_file": "audio/quran/ar.alafasy/078_039.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_078_040",
+   "category": "quran",
+   "surah": 78,
+   "ayah": 40,
+   "arabic": "إِنَّآ أَنذَرْنَـٰكُمْ عَذَابًا قَرِيبًا يَوْمَ يَنظُرُ ٱلْمَرْءُ مَا قَدَّمَتْ يَدَاهُ وَيَقُولُ ٱلْكَافِرُ يَـٰلَيْتَنِى كُنتُ تُرَٰبًۢا",
+   "transliteration": null,
+   "hindi": "निःसंदेह हमने तुम्हें एक निकट ही आने वाली यातना से डरा दिया है, जिस दिन मनुष्य देख लेगा, जो कुछ उसके दोनों हाथों ने आगे भेजा है, और काफिर कहेगा : ऐ काश कि मैं मिट्टी होता![6]",
+   "hindi_footnotes": "[6] (40) बात को इस चेतावनी पर समाप्त किया गया है कि जिस दिन के आने की सूचना दी जा रही है, उस का आना सत्य है, उसे दूर न समझो। अब जिसका दिल चाहे इसे मानकर अपने पालनहार की ओर मार्ग बना ले। परंतु इस चेतावनी के होते जो इनकार करेगा, उसका किया-धरा सामने आएगा, तो पछता-पछता कर यह कामना करेगा कि मैं संसार में पैदा ही न होता। उस समय इस संसार के बारे में उसका यह विचार होगा जिसके प्रेम में आज वह परलोक से अंधा बना हुआ है।",
+   "urdu": "ہم نے تمہیں عنقریب آنے والے عذاب سے ڈرا دیا (اور چوکنا کر دیا) ہے[1] ۔ جس دن انسان اپنے ہاتھوں کی کمائی کو دیکھ لے گا[2] اور کافر کہے گا کہ کاش! میں مٹی ہو جاتا.[3]",
+   "urdu_footnotes": "[1] یعنی قیامت والے دن کے عذاب سے جو قریب ہی ہے۔ کیوں کہ اس کا آنا یقینی ہے اور ہر آنے والے چیز قریب ہی ہے، کیونکہ بہر صورت اسے آکر ہی رہنا ہے۔\n[2] یعنی اچھا یا برا، جو عمل بھی اس نے دنیا میں کیا وہ اللہ کے ہاں پہنچ گیا ہے، قیامت والے دن وہ اس کے سامنے آجائے گا اور اس کا مشاہدہ کر لے گا وَوَجَدُوا مَا عَمِلُوا حَاضِرًا (الكهف ،49) يُنَبَّأُ الإِنْسَانُ يَوْمَئِذٍ بِمَا قَدَّمَ وَأَخَّرَ ( القيامة ،13) ۔\n[3] یعنی جب وہ اپنے لئے ہولناک عذاب دیکھے گا تو یہ آرزو کرے گا۔ بعض کہتے ہیں۔ کہ اللہ تعالیٰ حیوانات کے درمیان بھی عدل وانصاف کے مطابق فیصلہ فرمائے گا، حتیٰ کہ ایک سینگ والی بکری نے بے سینگ کے جانور پر کوئی زیادتی کی ہوگی، تو اس کا بھی بدلہ دلائے گا اس سے فراغت کے بعد اللہ تعالیٰ جانوروں کو حکم دے گا کہ مٹی ہو جاو۔ چنانچہ وہ مٹی ہو جائیں گے۔ اس وقت کافر بھی آرزو کریں گے کہ کاش وہ بھی حیوان ہوتے اور آج مٹی بن جاتے۔ ( تفسیر ابن کثیر ) ۔",
+   "audio_file": "audio/quran/ar.alafasy/078_040.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  }
+ ]
+}

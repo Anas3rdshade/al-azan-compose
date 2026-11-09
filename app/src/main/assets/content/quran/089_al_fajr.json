@@ -1,0 +1,581 @@
+{
+ "surah": 89,
+ "name_arabic": "سُورَةُ الفَجۡرِ",
+ "name_en": "Al-Fajr",
+ "translation_versions": {
+  "hindi_omari": "1.1.5",
+  "urdu_junagarhi": "1.1.3"
+ },
+ "ayahs": [
+  {
+   "id": "quran_089_001",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 1,
+   "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلْفَجْرِ",
+   "transliteration": null,
+   "hindi": "क़सम है फ़ज्र (उषाकाल) की!",
+   "hindi_footnotes": null,
+   "urdu": "قسم ہے فجر کی![1]",
+   "urdu_footnotes": "[1] اس سے مراد مطلق فجر ہے، کسی خاص دن کی فجر نہیں۔",
+   "audio_file": "audio/quran/ar.alafasy/089_001.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_002",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 2,
+   "arabic": "وَلَيَالٍ عَشْرٍ",
+   "transliteration": null,
+   "hindi": "तथा दस रातों की!",
+   "hindi_footnotes": null,
+   "urdu": "اور دس راتوں کی![1]",
+   "urdu_footnotes": "[1] اس سے اکثر مفسرین کے نزدیک ذوالحجہ کی ابتدائی دس راتیں ہیں۔ جن کی فضیلت احادیث سے ثابت ہے۔ نبی (صلى الله عليه وسلم) نے فرمایا ”عشرہ ذوالحجہ میں کیے گئے عمل صالح اللہ کو سب سے زیادہ محبوب ہیں۔ حتیٰ کہ جہاد فی سبیل اللہ بھی اتنا پسندیدہ نہیں، سوائے اس جہاد کے جس میں انسان شہید ہی ہو جائے“۔ (البخاري، كتاب العيدين، باب فضل العمل في أيام التشريق)۔",
+   "audio_file": "audio/quran/ar.alafasy/089_002.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_003",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 3,
+   "arabic": "وَٱلشَّفْعِ وَٱلْوَتْرِ",
+   "transliteration": null,
+   "hindi": "और सम (जोड़े) और विषम (अकेले) की!",
+   "hindi_footnotes": null,
+   "urdu": "اور جفت اور طاق کی![1]",
+   "urdu_footnotes": "[1] اس سے مراد جفت اور طاق عدد ہیں یا وہ معدودات جو جفت اور طاق ہوتے ہیں۔ بعض کہتے ہیں، کہ یہ دراصل مخلوق کی قسم ہے، اس لئے کہ مخلوق جفت (جوڑا) یا طاق (فرد) ہے۔ اس کے علاوہ نہیں۔ (ایسر التفاسیر)۔",
+   "audio_file": "audio/quran/ar.alafasy/089_003.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_004",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 4,
+   "arabic": "وَٱلَّيْلِ إِذَا يَسْرِ",
+   "transliteration": null,
+   "hindi": "और रात की, जब वह चलती है!",
+   "hindi_footnotes": null,
+   "urdu": "اور رات کی جب وه چلنے لگے.[1]",
+   "urdu_footnotes": "[1] یعنی جب آئے اور جب جائے، کیوں کہ سَيْرٌ (چلنا) آتے، جاتے دونوں صورتوں میں ہوتا ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/089_004.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_005",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 5,
+   "arabic": "هَلْ فِى ذَٰلِكَ قَسَمٌ لِّذِى حِجْرٍ",
+   "transliteration": null,
+   "hindi": "निश्चय इसमें बुद्धिमान के लिए बड़ी क़सम है?[1]",
+   "hindi_footnotes": "[1] (1-5) इन आयतों में सबसे पहले चार चीजों की क़सम खाई गई है, जिन्हें परलोक में कर्मों के फल के सबूत के रूप में प्रस्तुत किया गया है। जिस का अर्थ यह है कि कर्मों का फल सत्य है। जिस व्यवस्था से यह दिन-रात चल रहा है उससे सिद्ध होता है कि अल्लाह ही इसे चला रहा है। \"दस रात्रियों\" से अभिप्राय \"ज़ुल ह़िज्जा\" मास की प्रारंभिक दस रातें हैं। सह़ीह़ ह़दीसों में इनकी बड़ी प्रधानता बताई गई है।",
+   "urdu": "کیا ان میں عقلمند کے واسطے کافی قسم ہے.[1]",
+   "urdu_footnotes": "[1] ذَلِكَ سے مذکور مقسم بہ اشیا کی طرف اشارہ ہے یعنی کیا ان کی قسم اہل عقل ودانش کے واسطے کافی نہیں ہے ؟ حِجْرٌ کے معنی ہوتے ہیں، روکنا، منع کرنا۔ انسانی عقل بھی انسان کو غلط کاموں سے روکتی ہے، اس لئے عقل کو بھی حجر کہا جاتا ہے، جس طرح اسی مفہوم کے اعتبار سے اسے نھیہ بھی کہتے ہیں۔ جواب قسم یا مقسم علیہ لَتُبْعَثُنَّ ہے کیوں کہ مکی سورتوں میں عقیدے کی اصلاح پر زور دیا گیا ہے۔ بعض کے نزدیک جواب قسم آگے آنے والے الفاظ ”إِنَّ رَبَّكَ لَبِالْمِرْصَادِ“ ہے۔ آگے بہ طریق استشہاد اللہ تعالیٰ بعض ان قوموں کا ذکر فرما رہاہے جو تکذیب وعناد کی بنا پر ہلاک کی گئی تھیں۔ مقصد اہل مکہ کو تنبیہ ہے کہ اگر تم ہمارے رسول (صلى الله عليه وسلم) کی تکذیب سے باز نہ آئے تو تمہارا بھی اسی طرح مواخذہ ہو سکتا ہے، جیسے گزشتہ قوموں کا اللہ نے کیا۔",
+   "audio_file": "audio/quran/ar.alafasy/089_005.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_006",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 6,
+   "arabic": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِعَادٍ",
+   "transliteration": null,
+   "hindi": "क्या तुमने नहीं देखा कि तुम्हारे पालनहार ने \"आद\" के साथ किस तरह किया?",
+   "hindi_footnotes": null,
+   "urdu": "کیا آپ نے نہیں دیکھا کہ آپ کے رب نے عادیوں کے ساتھ کیا کیا.[1]",
+   "urdu_footnotes": "[1] ان کی طرف حضرت ہود (عليه السلام) نبی بنا کر بھیجے گئے تھے انہوں نے تکذیب کی، بالآخر اللہ تعالیٰ نے سخت ہوا کا عذاب ان پر نازل کیا جو متواتر سات راتیں اور آٹھ دن چلتی رہی ( الحاقہ: 7 - 10 ) اور انہیں تہس نہس کرکے رکھ دیا۔",
+   "audio_file": "audio/quran/ar.alafasy/089_006.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_007",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 7,
+   "arabic": "إِرَمَ ذَاتِ ٱلْعِمَادِ",
+   "transliteration": null,
+   "hindi": "(वे आद) जो स्तंभों वाले 'इरम' (गोत्र के लोग) थे।",
+   "hindi_footnotes": null,
+   "urdu": "ستونوں والے ارم کے ساتھ.[1]",
+   "urdu_footnotes": "[1] إِرَمَ، عَادٍ سے عطف بیان یا بدل ہے۔ یہ قوم عاد کے دادا کا نام ہے۔ ان کا سلسلہ نسب ہے، عاد بن عوص بن ارم بن سام بن نوح۔ ( فتح القدیر ) اس کا مقصد یہ وضاحت ہے کہ یہ عاد اولیٰ ہے۔ ذات العماد ( ستونوں والے ) سے اشارہ ہے ان کی قوت وطاقت اور دراز قامتی کی طرف۔ علاوہ ازیں وہ فن تعمیر میں بھی بڑی مہارت رکھتے تھے اور نہایت مضبوط بنیادوں پر عظم الشان عمارتیں تعمیر کرتے تھے۔ ذات العماد میں دونوں مفہوم شامل ہیں۔",
+   "audio_file": "audio/quran/ar.alafasy/089_007.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_008",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 8,
+   "arabic": "ٱلَّتِى لَمْ يُخْلَقْ مِثْلُهَا فِى ٱلْبِلَـٰدِ",
+   "transliteration": null,
+   "hindi": "जिनके समान (दुनिया के) शहरों में कोई पैदा नहीं किया गया।",
+   "hindi_footnotes": null,
+   "urdu": "جس کی مانند (کوئی قوم) ملکوں میں پیدا نہیں کی گئی.[1]",
+   "urdu_footnotes": "[1] یعنی ان جیسی دراز قامت اور قوت وطاقت والی قوم کوئی اور پیدا نہیں ہوئی۔ یہ قوم کہا کرتی تھی مَنْ أَشَدُّ مِنَّا قُوَّةً ( حم السجدة،: 15 ) (ہم سے زیادہ کوئی طاقت ور ہے) ؟۔",
+   "audio_file": "audio/quran/ar.alafasy/089_008.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_009",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 9,
+   "arabic": "وَثَمُودَ ٱلَّذِينَ جَابُوا۟ ٱلصَّخْرَ بِٱلْوَادِ",
+   "transliteration": null,
+   "hindi": "तथा 'समूद' के साथ (किस तरह किया) जिन्होंने वादी में चट्टानों को तराशा।",
+   "hindi_footnotes": null,
+   "urdu": "اور ثمودیوں کے ساتھ جنہوں نے وادی میں بڑے بڑے پتھر تراشے تھے.[1]",
+   "urdu_footnotes": "[1] یہ حضرت صالح (عليه السلام) کی قوم تھی، اللہ نے اسے پتھر تراشنے کی خاص صلاحیت وقوت عطا کی تھی، حتیٰ کہ یہ لوگ پہاڑوں کو تراش کر ان میں اپنی رہائش گاہیں تعمیر کر لیتے تھے، جیسا کہ قرآن نے کہا ہے وَتَنْحِتُونَ مِنَ الْجِبَالِ بُيُوتًا فَارِهِينَ ( الشعراء: 149 ) ۔",
+   "audio_file": "audio/quran/ar.alafasy/089_009.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_010",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 10,
+   "arabic": "وَفِرْعَوْنَ ذِى ٱلْأَوْتَادِ",
+   "transliteration": null,
+   "hindi": "और मेखों वाले फ़िरऔन के साथ (किस तरह किया)।",
+   "hindi_footnotes": null,
+   "urdu": "اور فرعون کے ساتھ جو میخوں واﻻ تھا.[1]",
+   "urdu_footnotes": "[1] اس کا مطلب یہ ہے کہ بڑے لشکروں والا تھا جس کے پاس میخوں کی کثرت تھی جنہیں میخیں گاڑ کر کھڑا کیا جاتا تھا۔ یا اس سے اس کے ظلم وستم کی طرف اشارہ ہے کہ میخوں کے ذریعے وہ لوگوں کو سزائیں دیتا تھا۔ (فتح القدیر) ۔",
+   "audio_file": "audio/quran/ar.alafasy/089_010.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_011",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 11,
+   "arabic": "ٱلَّذِينَ طَغَوْا۟ فِى ٱلْبِلَـٰدِ",
+   "transliteration": null,
+   "hindi": "वे लोग, जो नगरों में हद से बढ़ गए।",
+   "hindi_footnotes": null,
+   "urdu": "ان سبھوں نے شہروں میں سر اٹھا رکھا تھا.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/089_011.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_012",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 12,
+   "arabic": "فَأَكْثَرُوا۟ فِيهَا ٱلْفَسَادَ",
+   "transliteration": null,
+   "hindi": "और उनमें बहुत अधिक उपद्रव फैलाया।",
+   "hindi_footnotes": null,
+   "urdu": "اور بہت فساد مچا رکھا تھا.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/089_012.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_013",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 13,
+   "arabic": "فَصَبَّ عَلَيْهِمْ رَبُّكَ سَوْطَ عَذَابٍ",
+   "transliteration": null,
+   "hindi": "तो तेरे पालनहार ने उनपर यातना का कोड़ा बरसाया।",
+   "hindi_footnotes": null,
+   "urdu": "آخر تیرے رب نے ان سب پر عذاب کا کوڑا برسایا.[1]",
+   "urdu_footnotes": "[1] یعنی ان پر آسمان سے اپنا عذاب نازل فرما کر ان کو تباہ وبرباد یا انہیں عبرت ناک انجام سےدوچار کر دیا۔",
+   "audio_file": "audio/quran/ar.alafasy/089_013.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_014",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 14,
+   "arabic": "إِنَّ رَبَّكَ لَبِٱلْمِرْصَادِ",
+   "transliteration": null,
+   "hindi": "निःसंदेह तेरा पालनहार निश्चय घात में है।[2]",
+   "hindi_footnotes": "[2] (6-14) इन आयतों में उन जातियों की चर्चा की गई है, जिन्होंने माया मोह में पड़कर परलोक और प्रतिफल का इनकार किया, और अपने नैतिक पतन के कारण धरती में उग्रवाद किया। \"आद, इरम\" से अभिप्रेत वह पुरानी जाति है जिसे क़ुरआन तथा अरब में \"आदे ऊला\" (प्रथम आद) कहा गया है। यह वह प्राचीन जाति है जिसके पास हूद (अलैहिस्सलाम) को भेजा गया। और इनको \"आदे इरम\" इस लिए कहा गया है कि यह शामी वंशक्रम की उस शाखा से संबंधित थे जो इरम बिन शाम बिन नूह़ से चली आती थी। आयत संख्या 11 में इसका संकेत है कि उग्रवाद का उद्गम भौतिकवाद एवं सत्य विश्वास का इनकार है, जिसे वर्तमान युग में भी प्रत्यक्ष रूप में देखा जा सकता है।",
+   "urdu": "یقیناً تیرا رب گھات میں ہے.[1]",
+   "urdu_footnotes": "[1] یعنی تمام مخلوقات کے اعمال دیکھ رہا ہے اور اس کے مطابق وہ دنیا اور آخرت میں جزا دیتا ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/089_014.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_015",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 15,
+   "arabic": "فَأَمَّا ٱلْإِنسَـٰنُ إِذَا مَا ٱبْتَلَىٰهُ رَبُّهُۥ فَأَكْرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّىٓ أَكْرَمَنِ",
+   "transliteration": null,
+   "hindi": "लेकिन मनुष्य (का हाल यह है कि) जब उसका पालनहार उसका परीक्षण करे, फिर उसे सम्मानित करे और नेमत प्रदान करे, तो कहता है कि मेरे पालनहार ने मुझे सम्मानित किया।",
+   "hindi_footnotes": null,
+   "urdu": "انسان (کا یہ حال ہے کہ) جب اسے اس کا رب آزماتا ہے اور عزت ونعمت دیتا ہے تو وه کہنے لگتا ہے کہ میرے رب نے مجھے عزت دار بنایا.[1]",
+   "urdu_footnotes": "[1] یعنی جب اللہ کسی کو رزق ودولت کی فراوانی عطا فرماتا ہے تو وہ اپنی بابت اس غلط فہمی کا شکار ہو جاتا ہے کہ اللہ اس پر بہت مہربان ہے، حالانکہ یہ فراوانی امتحان اور آزمائش کے طور پر ہوتی ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/089_015.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_016",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 16,
+   "arabic": "وَأَمَّآ إِذَا مَا ٱبْتَلَىٰهُ فَقَدَرَ عَلَيْهِ رِزْقَهُۥ فَيَقُولُ رَبِّىٓ أَهَـٰنَنِ",
+   "transliteration": null,
+   "hindi": "लेकिन जब वह उसका परीक्षण करे, फिर उसपर उसकी रोज़ी तंग कर दे, तो कहता कि मेरे पालनहार ने मुझे अपमानित किया।",
+   "hindi_footnotes": null,
+   "urdu": "اور جب وه اس کو آزماتا ہے اس کی روزی تنگ کر دیتا ہے تو وه کہنے لگتا ہے کہ میرے رب نے میری اہانت کی (اور ذلیل کیا).[1]",
+   "urdu_footnotes": "[1] یعنی وہ تنگی میں مبتلا کرکے آزماتا ہے تو اللہ کے بارے میں بدگمانی کا اظہار کرتا ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/089_016.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_017",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 17,
+   "arabic": "كَلَّا ۖ بَل لَّا تُكْرِمُونَ ٱلْيَتِيمَ",
+   "transliteration": null,
+   "hindi": "हरगिज़ ऐसा नहीं, बल्कि तुम अनाथ का सम्मान नहीं करते।",
+   "hindi_footnotes": null,
+   "urdu": "ایسا ہرگز نہیں[1] بلکہ (بات یہ ہے) کہ تم (ہی) لوگ یتیموں کی عزت نہیں کرتے.[2]",
+   "urdu_footnotes": "[1] یعنی بات اس طرح نہیں ہے جیسے لوگ سمجھتے ہیں۔ اللہ تعالیٰ مال اپنے محبوب بندوں کو بھی دیتا ہے اور ناپسندیدہ افراد کو بھی، تنگی میں بھی وہ اپنوں اور بیگانوں دونوں کو مبتلا کرتا ہے۔ اصل مدار دونوں حالتوں میں اللہ کی اطاعت پر ہے۔ جب اللہ مال دے تو اللہ کا شکر کرے، تنگی آئے تو صبر کرے۔\n[2] یعنی ان کے ساتھ وہ حسن سلوک نہیں کرتے جس کے وہ مستحق ہیں، نبی (صلى الله عليه وسلم) کا فرمان ہے ”وہ گھر سب سے بہتر ہے جس میں یتیم کے ساتھ اچھا برتاؤ کیا جائے اور وہ گھر بدترین ہے جس میں اس کے ساتھ بدسلوکی کی جائے۔ پھر انگلی کے ساتھ اشارہ کرکے فرمایا، میں اور یتیم کی کفالت کرنے والا جنت میں اس طرح ساتھ ساتھ ہوں گے جیسے یہ دونگلیاں ساتھ ملی ہوئی ہیں“۔ ( أبو داود، كتاب الأدب، باب في ضم اليتيم)",
+   "audio_file": "audio/quran/ar.alafasy/089_017.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_018",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 18,
+   "arabic": "وَلَا تَحَـٰٓضُّونَ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+   "transliteration": null,
+   "hindi": "तथा तुम एक-दूसरे को ग़रीब को खाना खिलाने के लिए प्रोत्साहित नहीं करते हो।",
+   "hindi_footnotes": null,
+   "urdu": "اور مسکینوں کے کھلانے کی ایک دوسرے کو ترغیب نہیں دیتے.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/089_018.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_019",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 19,
+   "arabic": "وَتَأْكُلُونَ ٱلتُّرَاثَ أَكْلًا لَّمًّا",
+   "transliteration": null,
+   "hindi": "और तुम मीरास का सारा धन समेटकर खा जाते हो।",
+   "hindi_footnotes": null,
+   "urdu": "اور (مردوں کی) میراث سمیٹ سمیٹ کر کھاتے ہو.[1]",
+   "urdu_footnotes": "[1] یعنی جس طریقے سے بھی حاصل ہو، حلال طریقے سے یا حرام طریقے سے لَمَّا بمعنی جَمْعًا",
+   "audio_file": "audio/quran/ar.alafasy/089_019.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_020",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 20,
+   "arabic": "وَتُحِبُّونَ ٱلْمَالَ حُبًّا جَمًّا",
+   "transliteration": null,
+   "hindi": "और तुम धन से बहुत अधिक प्रेम करते हो।[3]",
+   "hindi_footnotes": "[3] (15-20) इन आयतों में समाज की साधारण नैतिक स्थिति का सर्वेक्षण किया गया है, और भौतिकवादी विचार की आलोचना की गई है, जो मात्र सांसारिक धन और मान मर्यादा को सम्मान तथा अपमान का पैमाना समझता है और यह भूल गया है कि न धनी होना कोई पुरस्कार है और न निर्धन होना कोई दंड है। अल्लाह दोनों स्थितियों में मानवजाति की परीक्षा ले रहा है। फिर यह बात किसी के बस में हो तो दूसरे का धन भी हड़प कर जाए, क्या ऐसा करना कुकर्म नहीं जिसका ह़िसाब लिया जाना चाहिए?",
+   "urdu": "اور مال کو جی بھر کر عزیز رکھتے ہو.[1]",
+   "urdu_footnotes": "[1] جَمًّا بمعنی كَثِيرًا ۔",
+   "audio_file": "audio/quran/ar.alafasy/089_020.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_021",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 21,
+   "arabic": "كَلَّآ إِذَا دُكَّتِ ٱلْأَرْضُ دَكًّا دَكًّا",
+   "transliteration": null,
+   "hindi": "हरगिज़ नहीं! जब धरती कूट-कूटकर चूर्ण-विचूर्ण कर दी जाएगी।",
+   "hindi_footnotes": null,
+   "urdu": "یقیناً[1] جس وقت زمین کوٹ کوٹ کر برابر کر دی جائے گی.",
+   "urdu_footnotes": "[1] یا تمہارا عمل ایسا نہیں ہونا چاہئے جو مذکور ہوا، کیوں کہ ایک وقت آنے والا ہے جب ۔۔۔",
+   "audio_file": "audio/quran/ar.alafasy/089_021.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_022",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 22,
+   "arabic": "وَجَآءَ رَبُّكَ وَٱلْمَلَكُ صَفًّا صَفًّا",
+   "transliteration": null,
+   "hindi": "और तेरा पालनहार आएगा और फ़रिश्ते जो पंक्तियों में होंगे।",
+   "hindi_footnotes": null,
+   "urdu": "اور تیرا رب (خود) آجائے گا اور فرشتے صفیں باندھ کر (آ جائیں گے).[1]",
+   "urdu_footnotes": "[1] کہا جاتا ہے کہ جب فرشتے، قیامت والے دن آسمان سے نیچے اتریں گے تو ہر آسمان کے فرشتوں کی الگ صف ہو گی، اس طرح سات صفیں ہوں گی جو زمین کو گھیر لیں گی ۔",
+   "audio_file": "audio/quran/ar.alafasy/089_022.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_023",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 23,
+   "arabic": "وَجِا۟ىٓءَ يَوْمَئِذٍۭ بِجَهَنَّمَ ۚ يَوْمَئِذٍ يَتَذَكَّرُ ٱلْإِنسَـٰنُ وَأَنَّىٰ لَهُ ٱلذِّكْرَىٰ",
+   "transliteration": null,
+   "hindi": "और उस दिन नरक लाई जाएगी। उस दिन इनसान याद करेगा। लेकिन उस दिन याद करना उसे कहाँ से लाभ देगा।",
+   "hindi_footnotes": null,
+   "urdu": "اور جس دن جہنم بھی ﻻئی جائے گی[1] اس دن انسان کو سمجھ آئے گی مگر آج اس کے سمجھنے کا فائده کہاں؟[2]",
+   "urdu_footnotes": "[1] ستر ہزار لگاموں کے ساتھ جہنم جکڑی ہوئی ہوگی اور ہر لگام کے ساتھ ستر ہزار فرشتے ہوں گے جو اسے کھینچ رہے ہوں گے۔ (صحيح مسلم، كتاب الجنة، باب في شدة حر نار جهنم وبعد قعرها ترمذي، أبواب صفة جهنم، باب ما جاء في صفة النار) اسے عرش کے بائیں جانب کھڑا کر دیا جائے گا، پس اسے دیکھ کر تمام مقرب اور انبیا علیہم السلام گھٹنوں کے بل گر پڑیں گے اور ”يَا رَبِّ! نَفْسِي نَفْسِي“ پکاریں گے۔ (فتح القدیر) ۔\n[2] یعنی یہ ہولناک منظر دیکھ کر انسان کی آنکھیں کھلیں گی اور اپنے کفر ومعاصی پر نادم ہوگا، لیکن اس روز اس ندامت اور نصیحت کا کوئی فائدہ نہیں ہوگا۔",
+   "audio_file": "audio/quran/ar.alafasy/089_023.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_024",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 24,
+   "arabic": "يَقُولُ يَـٰلَيْتَنِى قَدَّمْتُ لِحَيَاتِى",
+   "transliteration": null,
+   "hindi": "वह कहेगा : ऐ काश! मैंने अपने (इस) जीवन के लिए कुछ आगे भेजा होता।",
+   "hindi_footnotes": null,
+   "urdu": "وه کہے گا کہ کاش کہ میں نے اپنی اس زندگی کے لئے کچھ پیشگی سامان کیا ہوتا.[1]",
+   "urdu_footnotes": "[1] یہ افسوس اور حسرت کا اظہار، اسی ندامت کا حصہ ہے جو اس روز فائدہ مند نہیں ہوگی۔",
+   "audio_file": "audio/quran/ar.alafasy/089_024.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_025",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 25,
+   "arabic": "فَيَوْمَئِذٍ لَّا يُعَذِّبُ عَذَابَهُۥٓ أَحَدٌ",
+   "transliteration": null,
+   "hindi": "चुनाँचे उस दिन उस (अल्लाह) के दंड जैसा दंड कोई नहीं देगा।",
+   "hindi_footnotes": null,
+   "urdu": "پس آج اللہ کے عذاب جیسا عذاب کسی کا نہ ہوگا.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/089_025.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_026",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 26,
+   "arabic": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٌ",
+   "transliteration": null,
+   "hindi": "और न उसके बाँधने जैसा कोई बाँधेगा।[4]",
+   "hindi_footnotes": "[4] (21-26) इन आयतों मे बताया गया है कि धन पूजने और उससे परलोक न बनाने का दुष्परिणाम नरक की घोर यातना के रूप में सामने आएगा, तब भौतिकवादी कुकर्मियों की समझ में आएगा कि क़ुरआन को न मानकर बड़ी भूल हुई और हाथ मलेंगे।",
+   "urdu": "نہ اسکی قید وبند جیسی کسی کی قید وبند ہوگی.[1]",
+   "urdu_footnotes": "[1] اس لئے کہ اس روز تمام اختیارات صرف ایک اللہ کےپاس ہوں گے۔ دوسرے، کسی کو اس کے سامنے رائے یا دم زنی نہیں ہوگا حتیٰ کہ اس کی اجازت کے بغیر کوئی کسی کی سفارش تک نہیں کر سکے گا۔ ایسے حالات میں کافروں کو جو عذاب ہوگا اور جس طرح وہ اللہ کی قید وبند میں جکڑے ہوں گے، اس کا یہاں تصور بھی نہیں کیا جا سکتا چہ جائکہ اس کا کچھ اندازہ ممکن ہو۔ یہ تو مجرموں اور ظالموں کا حال ہوگا لیکن اہل ایمان وطاعت کا حال اس سے بالکل مختلف ہوگا، جیسا کہ اگلی آیات میں ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/089_026.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_027",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 27,
+   "arabic": "يَـٰٓأَيَّتُهَا ٱلنَّفْسُ ٱلْمُطْمَئِنَّةُ",
+   "transliteration": null,
+   "hindi": "ऐ संतुष्ट आत्मा!",
+   "hindi_footnotes": null,
+   "urdu": "اے اطمینان والی روح.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/089_027.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_028",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 28,
+   "arabic": "ٱرْجِعِىٓ إِلَىٰ رَبِّكِ رَاضِيَةً مَّرْضِيَّةً",
+   "transliteration": null,
+   "hindi": "अपने पालनहार की ओर लौट चल, इस हाल में कि तू उससे प्रसन्न है, उसके निकट पसंदीदा है।",
+   "hindi_footnotes": null,
+   "urdu": "تو اپنے رب کی طرف[1] لوٹ چل اس طرح کہ تو اس سے راضی وه تجھ سے خوش.",
+   "urdu_footnotes": "[1] یعنی اس کے اجر وثواب اور ان نعمتوں کی طرف جو اس نے اپنے بندوں کے لئے جنت میں تیار کی ہے۔ بعض کہتے ہیں قیامت والے دن کہا جائے گا بعض کہتے ہیں کہ موت کے وقت بھی فرشتے خوشخبری دیتے ہیں، اسی طرح قیامت والے دن بھی اسے یہ کہا جائے گا جو یہاں مذکور ہے۔ حافظ ابن کثیر نے ابن عسا کرکے حوالے سے نقل کیا ہے کہ نبی کریم (صلى الله عليه وسلم) نے ایک آدمی کو یہ دعا پڑھنے کا حکم دیا ”اللَّهُمَّ إِنِّي أَسْأَلُكَ نَفْسًا، بِكَ مُطْمَئِنَّةً، تُؤْمِنُ بِلِقَائِكَ، وَتَرْضَى بِقَضَائِكَ وَتَقْنَعُ بِعَطَائِكَ“۔ (ابن كثير)۔",
+   "audio_file": "audio/quran/ar.alafasy/089_028.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_029",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 29,
+   "arabic": "فَٱدْخُلِى فِى عِبَـٰدِى",
+   "transliteration": null,
+   "hindi": "अतः तू मेरे बंदों में प्रवेश कर जा।",
+   "hindi_footnotes": null,
+   "urdu": "پس میرے خاص بندوں میں داخل ہو جا.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/089_029.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_089_030",
+   "category": "quran",
+   "surah": 89,
+   "ayah": 30,
+   "arabic": "وَٱدْخُلِى جَنَّتِى",
+   "transliteration": null,
+   "hindi": "और मेरी जन्नत में प्रवेश कर जा।[5]",
+   "hindi_footnotes": "[5] (27-30) इन आयतों में उनके सुख और सफलता का वर्णन किया गया है, जो क़ुरआन की शिक्षा का अनुपालन करते हुए आत्मा की शांति के साथ जीवन व्यतीत कर रहे हैं।",
+   "urdu": "اور میری جنت میں چلی جا.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/089_030.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  }
+ ]
+}

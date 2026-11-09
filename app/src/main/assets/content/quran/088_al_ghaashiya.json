@@ -1,0 +1,505 @@
+{
+ "surah": 88,
+ "name_arabic": "سُورَةُ الغَاشِيَةِ",
+ "name_en": "Al-Ghaashiya",
+ "translation_versions": {
+  "hindi_omari": "1.1.5",
+  "urdu_junagarhi": "1.1.3"
+ },
+ "ayahs": [
+  {
+   "id": "quran_088_001",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 1,
+   "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ هَلْ أَتَىٰكَ حَدِيثُ ٱلْغَـٰشِيَةِ",
+   "transliteration": null,
+   "hindi": "क्या तेरे पास ढाँपने लेने वाली (क़ियामत) की ख़बर पहुँची?",
+   "hindi_footnotes": null,
+   "urdu": "کیا تجھے بھی چھپا لینے والی (قیامت) کی خبر پہنچی ہے.[1]",
+   "urdu_footnotes": "[1] هَلْ بمعنی قَدْ ہے۔ غَاشِيَةٌ سے مراد قیامت ہے۔ اس لئے کہ اس کی ہولناکیاں تمام مخلوق کو ڈھانک لیں گی۔",
+   "audio_file": "audio/quran/ar.alafasy/088_001.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_002",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 2,
+   "arabic": "وُجُوهٌ يَوْمَئِذٍ خَـٰشِعَةٌ",
+   "transliteration": null,
+   "hindi": "उस दिन कई चेहरे अपमानित होंगे।",
+   "hindi_footnotes": null,
+   "urdu": "اس دن بہت سے چہرے ذلیل ہوں گے.[1]",
+   "urdu_footnotes": "[1] یعنی کافروں کے چہرے۔ خَاشِعَةٌ جھکے ہوئے، پست اور ذلیل۔ جیسے، نمازی، نماز کی حالت میں اللہ کے سامنے عاجزی اور تذلل سےجھکا ہوتا ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/088_002.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_003",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 3,
+   "arabic": "عَامِلَةٌ نَّاصِبَةٌ",
+   "transliteration": null,
+   "hindi": "कठिन परिश्रम करने वाले, थक जाने वाले।",
+   "hindi_footnotes": null,
+   "urdu": "(اور) محنت کرنے والے تھکے ہوئے ہوں گے.[1]",
+   "urdu_footnotes": "[1] نَاصِبَةٌ کے معنی ہیں، تھک کر چور ہو جانا۔ یعنی انہیں اتنا پر مشقت عذاب ہوگا کہ اس سے ان کا سخت برا حال ہو گا۔ اس کا ایک دوسرا مفہوم یہ ہے کہ دنیا میں عمل کرکرے تھکے ہوئے ہوں گے یعنی بہت عمل کرتے رہے ہوں گے۔ لیکن وہ عمل باطل مذہب کے مطابق یا بدعات پر مبنی ہوں گے، اس لئے عبادات اور اعمال شاقہ کے باوجود جہنم میں جائیں گے۔ چنانچہ اسی مفہوم کی رو سے حضرت ابن عباس (رضي الله عنه) ما نے ”عَامِلَةٌ نَاصِبَةٌ“ سے نصاریٰ مراد لئے ہیں (صحيح البخاري تفسير سورة غاشية)۔",
+   "audio_file": "audio/quran/ar.alafasy/088_003.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_004",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 4,
+   "arabic": "تَصْلَىٰ نَارًا حَامِيَةً",
+   "transliteration": null,
+   "hindi": "वे गर्म धधकती आग में प्रवेश करेंगे।",
+   "hindi_footnotes": null,
+   "urdu": "وه دہکتی ہوئی آگ میں جائیں گے.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/088_004.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_005",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 5,
+   "arabic": "تُسْقَىٰ مِنْ عَيْنٍ ءَانِيَةٍ",
+   "transliteration": null,
+   "hindi": "उन्हें खौलते सोते का जल पिलाया जाएगा।",
+   "hindi_footnotes": null,
+   "urdu": "اور نہایت گرم چشمے کا پانی ان کو پلایا جائے گا.[1]",
+   "urdu_footnotes": "[1] یہاں وہ سخت کھولتا ہوا پانی مراد ہے جس کی گرمی انتہا کو پہنچی ہوئی ہو۔ ( فتح القدیر ) ۔",
+   "audio_file": "audio/quran/ar.alafasy/088_005.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_006",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 6,
+   "arabic": "لَّيْسَ لَهُمْ طَعَامٌ إِلَّا مِن ضَرِيعٍ",
+   "transliteration": null,
+   "hindi": "उनके लिए कांटेदार झाड़ के सिवा कोई खाना नहीं होगा।",
+   "hindi_footnotes": null,
+   "urdu": "ان کے لئے سوائے کانٹے دار درختوں کے اور کچھ کھانے کو نہ ہوگا.[1]",
+   "urdu_footnotes": "[1] یہ ایک کانٹے دار درخت ہوتا ہے جسے خشک ہونے پر جانور بھی کھانا پسند نہیں کرتے۔ بہرحال یہ بھی زقوم کی طرح ایک نہایت تلخ، بدمزہ اور ناپاک ترین کھانا ہوگا، جو جز وبدن بنے گا، نہ اس سے بھوک ہی مٹے گی۔",
+   "audio_file": "audio/quran/ar.alafasy/088_006.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_007",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 7,
+   "arabic": "لَّا يُسْمِنُ وَلَا يُغْنِى مِن جُوعٍ",
+   "transliteration": null,
+   "hindi": "जो न मोटा करेगा और न भूख मिटाएगा।[1]",
+   "hindi_footnotes": "[1] (1-7) इन आयतों में सबसे पहले सांसारिक स्वार्थ में मग्न इनसानों को एक प्रश्न द्वारा सावधान किया गया है कि उसे उस समय की सूचना है जब एक आपदा समस्त संसार पर छा जाएगी? फिर इसी के साथ यह विवरण भी दिया गया है कि उस समय इनसानों के दो भेद हो जाएँगे, और दोनों के प्रतिफल भी भिन्न होंगे : एक नरक में तथा दूसरा स्वर्ग में जाएगा। तीसरी आयत में \"नासिबह\" का शब्द आया है जिसका अर्थ है, थक कर चूर हो जाना, अर्थात काफ़िरों को क़ियामत के दिन इतनी कड़ी यातना दी जाएगी कि उनकी दशा बहुत ख़राब हो जाएगी। और वे थके-थके से दिखाई देंगे। इसका दूसरा अर्थ यह भी है कि उन्होंने संसार में बहुत-से कर्म किए होंगे, परंतु वे सत्य धर्म के अनुसार नहीं होंगे, इसलिए वे उपासना और कड़ी तपस्या करके भी नरक में जाएँगे। क्योंकि सत्य आस्था के बिना कोई कर्म मान्य नहीं होगा।",
+   "urdu": "جو نہ موٹا کرے گا نہ بھوک مٹائے گا.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/088_007.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_008",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 8,
+   "arabic": "وُجُوهٌ يَوْمَئِذٍ نَّاعِمَةٌ",
+   "transliteration": null,
+   "hindi": "उस दिन कई चेहरे प्रफुल्लित होंगे।",
+   "hindi_footnotes": null,
+   "urdu": "بہت سے چہرے اس دن تروتازه اور (آسوده حال) ہوں گے.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/088_008.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_009",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 9,
+   "arabic": "لِّسَعْيِهَا رَاضِيَةٌ",
+   "transliteration": null,
+   "hindi": "अपने प्रयास पर प्रसन्न होंगे।",
+   "hindi_footnotes": null,
+   "urdu": "اپنی کوشش پر خوش ہوں گے.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/088_009.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_010",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 10,
+   "arabic": "فِى جَنَّةٍ عَالِيَةٍ",
+   "transliteration": null,
+   "hindi": "ऊँची जन्नत में होंगे।",
+   "hindi_footnotes": null,
+   "urdu": "بلند وباﻻ جنتوں میں ہوں گے.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/088_010.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_011",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 11,
+   "arabic": "لَّا تَسْمَعُ فِيهَا لَـٰغِيَةً",
+   "transliteration": null,
+   "hindi": "उसमें कोई बेकार (अशिष्ट) बात नहीं सुनेंगे।",
+   "hindi_footnotes": null,
+   "urdu": "جہاں کوئی بیہوده بات نہیں سنیں گے.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/088_011.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_012",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 12,
+   "arabic": "فِيهَا عَيْنٌ جَارِيَةٌ",
+   "transliteration": null,
+   "hindi": "उसमें बहने वाले स्रोत (चश्मे) हैं।",
+   "hindi_footnotes": null,
+   "urdu": "جہاں بہتا ہوا چشمہ ہوگا.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/088_012.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_013",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 13,
+   "arabic": "فِيهَا سُرُرٌ مَّرْفُوعَةٌ",
+   "transliteration": null,
+   "hindi": "उसमें ऊँचे-ऊँचे तख्त हैं।",
+   "hindi_footnotes": null,
+   "urdu": "(اور) اس میں اونچے اونچے تخت ہوں گے.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/088_013.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_014",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 14,
+   "arabic": "وَأَكْوَابٌ مَّوْضُوعَةٌ",
+   "transliteration": null,
+   "hindi": "और (पीने वालों के लिए तैयार) रखे हुए प्याले हैं।",
+   "hindi_footnotes": null,
+   "urdu": "اور آبخورے رکھے ہوئے (ہوں گے).",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/088_014.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_015",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 15,
+   "arabic": "وَنَمَارِقُ مَصْفُوفَةٌ",
+   "transliteration": null,
+   "hindi": "और क्रम में लगे हुए गाव-तकिए हैं।",
+   "hindi_footnotes": null,
+   "urdu": "اور ایک قطار میں لگے ہوئے تکیے ہوں گے.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/088_015.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_016",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 16,
+   "arabic": "وَزَرَابِىُّ مَبْثُوثَةٌ",
+   "transliteration": null,
+   "hindi": "और बिछाए हुए क़ालीन हैं।[2]",
+   "hindi_footnotes": "[2] (8-16) इन आयतों में जो इस संसार में सत्य आस्था के साथ क़ुरआन आदेशानुसार जीवन व्यतीत कर रहे हैं परलोक में उनके सदा के सुख का दृश्य दिखाया गया है।",
+   "urdu": "اور مخملی مسندیں پھیلی پڑی ہوں گی.[1]",
+   "urdu_footnotes": "[1] یہ اہل جنت کا تذکرہ ہے، جو جہنمیوں کے برعکس نہایت آسودہ حال اور ہر قسم کی آسائشوں سے بہرہ ور ہوں گے۔ عَيْنٌ بطور جنس کے ہے یعنی متعدد چشمے ہوں گے۔ نَمَارِقُ بمعنی وَسَائِدَ ( تکیے ) ہے زَرَابِيُّ مسندیں، قالین اور گدے بستر مَبْثُوثَةٌ پھیلی ہوئی۔ یعنی یہ مسندیں جگہ جگہ بچھی ہوئی ہوں گی۔ اہل جنت جہاں آرام کرنا چاہیں گے، کر سکیں گے۔",
+   "audio_file": "audio/quran/ar.alafasy/088_016.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_017",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 17,
+   "arabic": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
+   "transliteration": null,
+   "hindi": "क्या वे ऊँटों को नहीं देखते कि वे कैसे पैदा किए गए हैं?",
+   "hindi_footnotes": null,
+   "urdu": "کیا یہ اونٹوں کو نہیں دیکھتے کہ وه کس طرح پیدا کیے گئے ہیں.[1]",
+   "urdu_footnotes": "[1] اونٹ عرب میں عام تھے اور ان عربوں کی غالب سواری یہی تھی، اس لئے اللہ نے اسی کا ذکر کر کے فرمایا کہ اس کی خلقت پر غور کرو، اللہ نے اسے کتنا بڑا وجود عطا کیا ہے اور کتنی قوت وطاقت اس کے اندر رکھی ہے۔ اس کے باوجود وہ تمہارے لئے نرم اور تابع ہے، تم اس پر جتنا چاہو بوجھ لاد دو، وہ انکار نہیں کرے گا، تمہارا ماتحت ہو کر رہے گا۔ علاوہ ازیں اس کا گوشت تمہارے کھانے کے، اس کا دودھ تمہارے پینے کے اور اس کی اون، گرمی حاصل کرنے کے کام آتی ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/088_017.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_018",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 18,
+   "arabic": "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ",
+   "transliteration": null,
+   "hindi": "और आकाश को (नहीं देखते) कि उसे कैसे ऊँचा किया गया?",
+   "hindi_footnotes": null,
+   "urdu": "اور آسمان کو کہ کس طرح اونچا کیا گیا ہے.[1]",
+   "urdu_footnotes": "[1] یعنی آسمان کتنی بلندی پر ہے، پانچ سو سال کی مسافت پر، پھر بھی بغیر ستون کے وہ کھڑا ہے۔ اس میں کوئی شگاف اور کجی بھی نہیں ہے۔ نیز ہم نے اسے ستاروں سے مزین کیا ہوا ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/088_018.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_019",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 19,
+   "arabic": "وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ",
+   "transliteration": null,
+   "hindi": "और पर्वतों को (नहीं देखते) कि कैसे गाड़े गए हैं?",
+   "hindi_footnotes": null,
+   "urdu": "اور پہاڑوں کی طرف کہ کس طرح گاڑ دیئے گئے ہیں.[1]",
+   "urdu_footnotes": "[1] یعنی کس طرح انہیں زمین پر میخوں کی طرح گاڑ دیا گیا ہے تاکہ زمین حرکت نہ کرے۔ نیز ان میں جو معدنیات اور دیگر منافع ہیں، وہ اس کے علاوہ ہیں۔",
+   "audio_file": "audio/quran/ar.alafasy/088_019.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_020",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 20,
+   "arabic": "وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ",
+   "transliteration": null,
+   "hindi": "तथा धरती को (नहीं देखते) कि कैसे बिछाई गई है?[3]",
+   "hindi_footnotes": "[3] (17-20) इन आयतों में फिर विषय बदल कर एक प्रश्न किया जा रहा है कि जो क़ुरआन की शिक्षा तथा परलोक की सूचना को नहीं मानते, अपने सामने उन चीज़ों को नहीं देखते जो रात दिन उनके सामने आती रहती हैं, ऊँटों तथा पर्वतों और आकाश एवं धरती पर विचार क्यों नहीं करते कि क्या ये सब अपने आप पैदा हो गए हैं या इनका कोई रचयिता है? यह तो असंभव है कि रचना हो और रचयिता न हो। यदि मानते हैं कि किसी शक्ति ने इनको बनाया है जिसका कोई साझी नहीं तो उसके अकेले पूज्य होने और उसके फिर से पैदा करने की शक्ति और सामर्थ्य का क्यों इनकार करते हैं? (तर्जुमानुल क़ुरआन)",
+   "urdu": "اور زمین کی طرف کہ کس طرح بچھائی گئی ہے.[1]",
+   "urdu_footnotes": "[1] یعنی کس طرح اسے ہموار کرکے انسان کے رہنے کے قابل بنایا ہے، وہ اس پر چلتا پھرتا، کاروبار کرتا اور فلک بوس عمارتیں تعمیر کرتا ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/088_020.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_021",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 21,
+   "arabic": "فَذَكِّرْ إِنَّمَآ أَنتَ مُذَكِّرٌ",
+   "transliteration": null,
+   "hindi": "अतः आप नसीहत करें, आप केवल नसीहत करने वाले हैं।",
+   "hindi_footnotes": null,
+   "urdu": "پس آپ نصیحت کر دیا کریں (کیونکہ) آپ صرف نصیحت کرنے والے ہیں.[1]",
+   "urdu_footnotes": "[1] یعنی آپ کا کام صرف تذکیر اور تبلیغ ودعوت ہے، اس کے علاوہ یا اس سے بڑھ کر نہیں۔",
+   "audio_file": "audio/quran/ar.alafasy/088_021.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_022",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 22,
+   "arabic": "لَّسْتَ عَلَيْهِم بِمُصَيْطِرٍ",
+   "transliteration": null,
+   "hindi": "आप उनपर कोई दरोग़ा (नियंत्रक) नहीं हैं।",
+   "hindi_footnotes": null,
+   "urdu": "آپ کچھ ان پر داروغہ نہیں ہیں.[1]",
+   "urdu_footnotes": "[1] کہ انہیں ایمان لانے پر مجبور کریں۔ بعض کہتے ہیں کہ یہ ہجرت سے قبل کا حکم ہے جو آیت سیف سے منسوخ ہو گیا، کیوں کہ اس کے بعد نبی (صلى الله عليه وسلم) نے فرمایا۔ ”أُمِرْتُ أَنْ أُقَاتِلَ النَّاسَ حَتَّى يَقُولُوا : لا إِلَهَ إِلا اللهُ فَإِذَا قَالُوهَا، عَصَمُوا مِنِّي دِمَاءَهُمْ وَأَمْوَالَهُمْ إِلا بِحَقِّهَا؛ وَحِسَابُهُمْ عَلَى اللهِ“۔ (صحيح بخاري، باب وجوب الزكاة مسلم كتاب الإيمان، باب الأمر بقتال الناس حتى يقولوا...) ”مجھے حکم دیا گیا ہے کہ میں لوگوں سے قتال کروں یہاں تک کہ وہ لا الہ الا اللہ کا اقرار کر لیں۔ جب وہ یہ اقرار کر لیں گے تو انہوں نے مجھ سے اپنے خونوں اور مالوں کو بچا لیا۔ سوائے حق اسلام کے، ( جو اگر ہمارے علم میں نہ آیا تو ) ان کا حساب اللہ کے ذمے ہے“۔",
+   "audio_file": "audio/quran/ar.alafasy/088_022.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_023",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 23,
+   "arabic": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ",
+   "transliteration": null,
+   "hindi": "परंतु जिसने मुँह फेरा और कुफ़्र किया।",
+   "hindi_footnotes": null,
+   "urdu": "ہاں! جو شخص روگردانی کرے اور کفر کرے.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/088_023.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_024",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 24,
+   "arabic": "فَيُعَذِّبُهُ ٱللَّهُ ٱلْعَذَابَ ٱلْأَكْبَرَ",
+   "transliteration": null,
+   "hindi": "तो अल्लाह उसे सबसे बड़ी यातना देगा।",
+   "hindi_footnotes": null,
+   "urdu": "اسے اللہ تعالیٰ بہت بڑا عذاب دے گا.[1]",
+   "urdu_footnotes": "[1] یعنی جہنم کا دائمی عذاب۔",
+   "audio_file": "audio/quran/ar.alafasy/088_024.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_025",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 25,
+   "arabic": "إِنَّ إِلَيْنَآ إِيَابَهُمْ",
+   "transliteration": null,
+   "hindi": "निःसंदेह हमारी ही ओर उनका लौटकर आना है।",
+   "hindi_footnotes": null,
+   "urdu": "بیشک ہماری طرف ان کا لوٹنا ہے.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/088_025.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_088_026",
+   "category": "quran",
+   "surah": 88,
+   "ayah": 26,
+   "arabic": "ثُمَّ إِنَّ عَلَيْنَا حِسَابَهُم",
+   "transliteration": null,
+   "hindi": "फिर बेशक हमारे ही ज़िम्मे उनका ह़िसाब लेना है।[4]",
+   "hindi_footnotes": "[4] (21-26) इन आयतों का भावार्थ यह है कि क़ुरआन किसी को बलपूर्वक मनवाने के लिए नहीं है, और न नबी सल्लल्लाहु अलैहि व सल्लम का यह कर्तव्य है कि किसी को बलपूर्वक मनवाएँ। आप जिससे डरा रहे हैं, ये मानें या न मानें, वह खुली बात है। फिर भी जो नहीं सुनते उनको अल्लाह ही समझेगा। ये और इस जैसी क़ुरआन की अनेक आयतें इस आरोप का खंडन करती हैं कि इस्लाम ने अपने मनवाने के लिए अस्त्र शस्त्र का प्रयोग किया है।",
+   "urdu": "پھر بیشک ہمارے ذمہ ہے ان سے حساب لینا.[1]",
+   "urdu_footnotes": "[1] مشہور ہے کہ اس کے جواب میں اللَّهُمَّ! حَاسِبْنَا حِسَابًا يَسِيرًا ۔ پڑھا جائے۔ یہ دعا تو نبی (صلى الله عليه وسلم) سے ثابت ہے جو آپ (صلى الله عليه وسلم) اپنی بعض نمازوں میں پڑھتے تھے، جیسا کہ سورۂ انشقاق میں گزرا۔ لیکن اس کے جواب میں پڑھنا، یہ آپ (صلى الله عليه وسلم) سے ثابت نہیں ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/088_026.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  }
+ ]
+}

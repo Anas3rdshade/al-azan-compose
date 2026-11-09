@@ -1,0 +1,220 @@
+{
+ "surah": 100,
+ "name_arabic": "سُورَةُ العَادِيَاتِ",
+ "name_en": "Al-Aadiyaat",
+ "translation_versions": {
+  "hindi_omari": "1.1.5",
+  "urdu_junagarhi": "1.1.3"
+ },
+ "ayahs": [
+  {
+   "id": "quran_100_001",
+   "category": "quran",
+   "surah": 100,
+   "ayah": 1,
+   "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلْعَـٰدِيَـٰتِ ضَبْحًا",
+   "transliteration": null,
+   "hindi": "क़सम है उन घोड़ों की, जो पेट से साँस की आवाज़ निकालते हुए डौड़ने वाले हैं!",
+   "hindi_footnotes": null,
+   "urdu": "ہانپتے ہوئے دوڑنے والے گھوڑوں کی قسم![1]",
+   "urdu_footnotes": "[1] عَادِيَاتٌ، عَادِيَةٌ کی جمع ہے۔ یہ عَدُوٌّ سے ہے جیسے غَزْوٌ ہے۔ غَازِيَاتٌ کی طرح اس کے واو کو بھی یا سے بدل دیاگیا ہے۔ تیز رو گھوڑے۔ ضَبْحٌ کے معنی بعض کے نزدیک ہانپنا اور بعض کے نزدیک ہنہنانا ہے۔ مراد وہ گھوڑے ہیں جو ہانپتے یا ہنہناتے ہوئےجہاد میں تیزی سے دشمن کی طرف دوڑتے ہیں",
+   "audio_file": "audio/quran/ar.alafasy/100_001.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_100_002",
+   "category": "quran",
+   "surah": 100,
+   "ayah": 2,
+   "arabic": "فَٱلْمُورِيَـٰتِ قَدْحًا",
+   "transliteration": null,
+   "hindi": "फिर टाप मारकर चिंगारियाँ निकालने वाले घोड़ों की क़सम!",
+   "hindi_footnotes": null,
+   "urdu": "پھر ٹاپ مار کر آگ جھاڑنے والوں کی قسم![1]",
+   "urdu_footnotes": "[1] مُورِيَاتٌ، إِيرَاءُ سے ہے۔ آگ نکالنے والے۔ قَدْحٌ کے معنی ہیں۔ صَكٌّ چلنے میں گھٹنوں یا ایڑیوں کا ٹکرانا، یا ٹاپ مارنا۔ اسی سے قَدْحٌ بِالزِّنَادِ ہے۔ چقماق سے آگ نکالنا۔ یعنی ان گھوڑوں کی قسم جن کی رگڑ سے پتھروں سے آگ نکلتی ہے، جیسے چقماق سے نکلتی ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/100_002.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_100_003",
+   "category": "quran",
+   "surah": 100,
+   "ayah": 3,
+   "arabic": "فَٱلْمُغِيرَٰتِ صُبْحًا",
+   "transliteration": null,
+   "hindi": "फिर सुबह के समय हमला करने वाले (घोड़ों) की क़सम!",
+   "hindi_footnotes": null,
+   "urdu": "پھر صبح کے وقت دھاوا بولنے والوں کی قسم.[1]",
+   "urdu_footnotes": "[1] مُغِيرَاتٌ، أَغَارَ يُغِيرُ سے ہے، شب خون مارنے یا دھاوا بولنے والے۔ صُبْحًا صبح کے وقت، عرب میں عام طور پر حملہ اسی وقت کیا جاتا تھا، شب خون تو وہ مارتے ہیں جو فوجی گھوڑوں پر سوار ہوتے ہیں، لیکن اس کی نسبت گھوڑوں کی طرف اس لئے کی ہے کہ دھاوا بولنے میں فوجیوں کے یہ بہت زیادہ کام آتے ہیں۔",
+   "audio_file": "audio/quran/ar.alafasy/100_003.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_100_004",
+   "category": "quran",
+   "surah": 100,
+   "ayah": 4,
+   "arabic": "فَأَثَرْنَ بِهِۦ نَقْعًا",
+   "transliteration": null,
+   "hindi": "फिर उससे धूल उड़ाते हैं।",
+   "hindi_footnotes": null,
+   "urdu": "پس اس وقت گرد وغبار اڑاتے ہیں[1]",
+   "urdu_footnotes": "[1] أَثَارَ، اڑانا۔ نَقْعٌ، گردوغبار۔ یعنی یہ گھوڑے جس وقت تیزی سے دوڑتے یا دھاوا بولتے ہیں تو اس جگہ پر گرد وغبار چھا جاتا ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/100_004.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_100_005",
+   "category": "quran",
+   "surah": 100,
+   "ayah": 5,
+   "arabic": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+   "transliteration": null,
+   "hindi": "फिर वे उसके साथ (दुश्मन की) सेना के बीच घुस जाते हैं।",
+   "hindi_footnotes": null,
+   "urdu": "پھر اسی کے ساتھ فوجیوں کے درمیان گھس جاتے ہیں.[1]",
+   "urdu_footnotes": "[1] فَوَسَطْنَ، درمیان میں گھس جاتے ہیں۔ اس وقت، یا حالت گرد وغبار میں۔ جَمْعًا دشمن کے لشکر۔ مطلب ہے کہ اس وقت، یا جب کہ فضا گرد وغبار سے اٹی ہوئی ہے، یہ گھوڑے دشمن کے لشکروں میں گھس جاتے ہیں اور گھمسان کی جنگ کرتے ہیں۔",
+   "audio_file": "audio/quran/ar.alafasy/100_005.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_100_006",
+   "category": "quran",
+   "surah": 100,
+   "ayah": 6,
+   "arabic": "إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ",
+   "transliteration": null,
+   "hindi": "निःसंदेह इनसान अपने पालनहार का बड़ा कृतघ्न (नाशुक्रा) है।",
+   "hindi_footnotes": null,
+   "urdu": "یقیناً انسان اپنے رب کا بڑا ناشکرا ہے.[1]",
+   "urdu_footnotes": "[1] یہ جواب قسم ہے۔ انسان سے مراد کافر، یعنی بعض افراد ہیں۔ كَنُودٌ بمعنی كَفُورٍ، ناشکرا۔",
+   "audio_file": "audio/quran/ar.alafasy/100_006.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_100_007",
+   "category": "quran",
+   "surah": 100,
+   "ayah": 7,
+   "arabic": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+   "transliteration": null,
+   "hindi": "और निःसंदेह वह इसपर स्वयं गवाह है।[1]",
+   "hindi_footnotes": "[1] (1-7) इन आरंभिक आयतों में मानवजाति (इनसान) की कृतघ्नता का वर्णन किया गया है। जिसकी भूमिका के रूप में एक पशु की कृतज्ञता को शपथ स्वरूप उदाहरण के लिए प्रस्तुत किया गया है। जिसे इनसान पोसता है, और वह अपने स्वामी का इतना भक्त होता है कि उसे अपने ऊपर सवार करके नीचे ऊँचे मार्गों पर रात-दिन की परवाह किए बिना दौड़ता और अपनी जान जोखिम में डाल देता है। परंतु इनसान जिसे अल्लाह ने पैदा किया, समझबूझ दी और उसके जीवन यापन के सभी साधन बनाए, वह उसका उपकार नहीं मानता और जानबूझ कर उसकी अवज्ञा करता है, उसे इस पशु से सीख लेनी चाहिए।",
+   "urdu": "اور یقیناً وه خود بھی اس پر گواه ہے.[1]",
+   "urdu_footnotes": "[1] یعنی انسان خود بھی اپنی ناشکری کی گواہی دیتا ہے۔ بعض لَشَهِيدٌ کافاعل اللہ کو قرار دیتے ہیں۔ لیکن امام شوکانی نے پہلے مفہوم کو راجح قرار دیا ہے، کیوں کہ مابعد کی آیات میں ضمیر کا مرجع انسان ہی ہے۔ اس لئے یہاں بھی انسان ہی ہونا زیادہ صحیح ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/100_007.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_100_008",
+   "category": "quran",
+   "surah": 100,
+   "ayah": 8,
+   "arabic": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+   "transliteration": null,
+   "hindi": "और निःसंदेह वह धन के मोह में बड़ा सख़्त है।[2]",
+   "hindi_footnotes": "[2] इस आयत में उसकी कृतघ्नता का कारण बताया गया है कि जिस इनसान को सर्वाधिक प्रेम अल्लाह से होना चाहिए, वही अत्याधिक प्रेम धन से करता है।",
+   "urdu": "یہ مال کی محنت میں بھی بڑا سخت ہے.[1]",
+   "urdu_footnotes": "[1] خَيْرٌ سے مراد مال ہے، جیسے «إِنْ تَرَكَ خَيْرًا الْوَصِيَّةُ» (البقرة :180 ) میں ہے معنی واضح ہیں۔ ایک دوسرا مفہوم یہ ہے کہ نہایت حریص اور بخیل ہے جو مال کی شدید محبت کا لازمی نتیجہ ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/100_008.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_100_009",
+   "category": "quran",
+   "surah": 100,
+   "ayah": 9,
+   "arabic": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+   "transliteration": null,
+   "hindi": "तो क्या वह नहीं जानता, जब क़ब्रों में जो कुछ है, निकाल बाहर किया जाएगा?",
+   "hindi_footnotes": null,
+   "urdu": "کیا اسے وه وقت معلوم نہیں جب قبروں میں جو (کچھ) ہے نکال لیا جائے گا.[1]",
+   "urdu_footnotes": "[1] بُعْثِرَ، نُثِرَ وَبُعِثَ یعنی قبروں کے مردوں کو زندہ کرکے اٹھا کھڑا کردیا جائے گا۔",
+   "audio_file": "audio/quran/ar.alafasy/100_009.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_100_010",
+   "category": "quran",
+   "surah": 100,
+   "ayah": 10,
+   "arabic": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+   "transliteration": null,
+   "hindi": "और जो कुछ सीनों में है, वह प्रकट कर दिया जाएगा।[3]",
+   "hindi_footnotes": "[3] (9-10) इन आयतों में सावधान किया गया है कि सांसारिक जीवन के पश्चात एक दूसरा जीवन भी है तथा उसमें अल्लाह के सामने अपने कर्मों का उत्तर देना है, जो प्रत्येक के कर्मों का ही नहीं, उनके सीनों के भेदों को भी प्रकाश में ला कर दिखा देगा कि किसने अपने धन तथा बल का कुप्रयोग कर कृतघ्नता की है, और किसने कृतज्ञता की है। और प्रत्येक को उसका प्रतिकार भी देगा। अतः इनसान को धन के मोह में अंधा तथा अल्लाह का कृतघ्न नहीं होना चाहिए, और उसके सत्धर्म का पालन करना चाहिए।",
+   "urdu": "اور سینوں کی پوشیده باتیں ظاہر کر دی جائیں گی.[1]",
+   "urdu_footnotes": "[1] حُصِّلَ، مُيِّزَ وَبُيِّنَ یعنی سینوں کی باتوں کو ظاہر اور کھول دیا جائے گا۔",
+   "audio_file": "audio/quran/ar.alafasy/100_010.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_100_011",
+   "category": "quran",
+   "surah": 100,
+   "ayah": 11,
+   "arabic": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ",
+   "transliteration": null,
+   "hindi": "निःसंदेह उनका पालनहार उस दिन उनके बारे में पूरी ख़बर रखने वाला है।[4]",
+   "hindi_footnotes": "[4] अर्थात वह सूचित होगा कि कौन क्या है, और किस प्रतिकार का भागी है?",
+   "urdu": "بیشک ان کا رب اس دن ان کے حال سے پورا باخبر ہوگا.[1]",
+   "urdu_footnotes": "[1] یعنی جو رب ان کو قبروں سے نکال لے گا، ان کے سینوں کے رازوں کو ظاہرکردے گا، اس کے متعلق ہر شخص جان سکتا ہے کہ وہ کتنا باخبر ہے؟ اور اس سے کوئی چیز مخفی نہیں رہ سکتی۔ چنانچہ پھر وہ ہر ایک کو اس کے عملوں کے مطابق اچھی یا بری جزا دے گا۔ یہ گویا ان اشخاص کو تنبیہ ہےجو رب کی نعمتیں تو استعمال کرتے ہیں، لیکن اس کا شکر ادا کرنےکے بجائے، اس کی ناشکری کرتے ہیں۔ اسی طرح مال کی محبت میں گرفتار ہو کر مال کے وہ حقوق ادا نہیں کرتے جو اللہ نے اس میں دوسرے لوگوں کے رکھے ہیں۔",
+   "audio_file": "audio/quran/ar.alafasy/100_011.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  }
+ ]
+}

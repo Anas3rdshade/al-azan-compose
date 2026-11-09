@@ -1,0 +1,163 @@
+{
+ "surah": 102,
+ "name_arabic": "سُورَةُ التَّكَاثُرِ",
+ "name_en": "At-Takaathur",
+ "translation_versions": {
+  "hindi_omari": "1.1.5",
+  "urdu_junagarhi": "1.1.3"
+ },
+ "ayahs": [
+  {
+   "id": "quran_102_001",
+   "category": "quran",
+   "surah": 102,
+   "ayah": 1,
+   "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+   "transliteration": null,
+   "hindi": "तुम्हें (धन, संतान की) बहुतायत पर गर्व ने ग़ाफ़िल कर दिया।",
+   "hindi_footnotes": null,
+   "urdu": "زیادتی کی چاہت نے تمہیں غافل کردیا.[1]",
+   "urdu_footnotes": "[1] أَلْهَى يُلْهِي، کے معنی ہیں، غافل کر دینا۔ تَكَاثُرٌ، زیادتی کی خواہش۔ یہ عام ہے۔ مال، اولاد، اعوان وانصار اور خاندان وقبیلہ وغیرہ، سب کو شامل ہے۔ ہر وہ چیز، جس کی کثرت انسان کو محبوب ہو اور کثرت کے حصول کی کوشش وخواہش اسے اللہ کے احکام اور آخرت سے غافل کر دے۔ یہاں اللہ تعالیٰ انسان کی اسی کمزوری کو بیان کر رہا ہے، جس میں انسانوں کی اکثریت ہر دور میں مبتلا رہی ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/102_001.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_102_002",
+   "category": "quran",
+   "surah": 102,
+   "ayah": 2,
+   "arabic": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+   "transliteration": null,
+   "hindi": "यहाँ तक कि तुम क़ब्रिस्तान जा पहुँचे।[1]",
+   "hindi_footnotes": "[1] (1-2) इन दोनों आयतों में उनको सावधान किया गया है, जो सांसारिक धन ही को सब कुछ समझते हैं और उसे अधिकाधिक प्राप्त करने की धुन उनपर ऐसी सवार है कि मौत के पार क्या होगा, इसे सोचते ही नहीं। कुछ तो धन की देवी बनाकर उसे पूजते हैं।",
+   "urdu": "یہاں تک کہ تم قبرستان جا پہنچے.[1]",
+   "urdu_footnotes": "[1] اس کا مطلب ہے کہ حصول کثرت کے لئے محنت کرتے کرتے، تمہیں موت آگئی، اور تم قبروں میں جا پہنچے۔",
+   "audio_file": "audio/quran/ar.alafasy/102_002.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_102_003",
+   "category": "quran",
+   "surah": 102,
+   "ayah": 3,
+   "arabic": "كَلَّا سَوْفَ تَعْلَمُونَ",
+   "transliteration": null,
+   "hindi": "कदापि नहीं, तुम शीघ्र ही जान लोगे।",
+   "hindi_footnotes": null,
+   "urdu": "ہرگز نہیں[1] تم عنقریب معلوم کر لو گے.",
+   "urdu_footnotes": "[1] یعنی تم جس تکاثر وتفاخر میں ہو، یہ صحیح نہیں۔",
+   "audio_file": "audio/quran/ar.alafasy/102_003.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_102_004",
+   "category": "quran",
+   "surah": 102,
+   "ayah": 4,
+   "arabic": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+   "transliteration": null,
+   "hindi": "फिर कदापि नहीं, तुम शीघ्र ही जान लोगे।",
+   "hindi_footnotes": null,
+   "urdu": "ہرگز نہیں پھر تمہیں جلد علم ہو جائے گا.[1]",
+   "urdu_footnotes": "[1] اس کا انجام عنقریب تم جان لو گے، یہ بطور تاکید دو مرتبہ فرمایا۔",
+   "audio_file": "audio/quran/ar.alafasy/102_004.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_102_005",
+   "category": "quran",
+   "surah": 102,
+   "ayah": 5,
+   "arabic": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+   "transliteration": null,
+   "hindi": "कदापि नहीं, यदि तुम निश्चित ज्ञान के साथ जान लेते (तो ऐसा न करते)।[2]",
+   "hindi_footnotes": "[2] (3-5) इन आयतों में सावधान किया गया है कि मौत के पार क्या है? उन्हें आँख बंद करते ही इसका ज्ञान हो जाएगा। यदि आज तुम्हें इस का विश्वास होता, तो अपने भविष्य की ओर से निश्चिन्त न होते। और तुम पर धन प्राप्ति की धुन इतनी सवार न होती।",
+   "urdu": "ہرگز نہیں اگر تم یقینی طور پر جان لو.[1]",
+   "urdu_footnotes": "[1] اس کا جواب محذوف ہے۔ مطلب ہے کہ اگر تم اس سے غفلت کا انجام اس طرح یقینی طور پر جان لو، جس طرح دنیا کی کسی دیکھی بھالی چیز کا تمہیں یقین ہوتا ہے تو تم یقیناً اس تکاثر وتفاخر میں مبتلا نہ ہو۔",
+   "audio_file": "audio/quran/ar.alafasy/102_005.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_102_006",
+   "category": "quran",
+   "surah": 102,
+   "ayah": 6,
+   "arabic": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+   "transliteration": null,
+   "hindi": "निश्चय तुम अवश्य जहन्नम को देखोगे।",
+   "hindi_footnotes": null,
+   "urdu": "تو بیشک تم جہنم دیکھ لو گے.[1]",
+   "urdu_footnotes": "[1] یہ قسم محذوف کا جواب ہے یعنی اللہ کی قسم تم جہنم ضرور دیکھو گے یعنی اس کی سزا بھگتو گے۔",
+   "audio_file": "audio/quran/ar.alafasy/102_006.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_102_007",
+   "category": "quran",
+   "surah": 102,
+   "ayah": 7,
+   "arabic": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+   "transliteration": null,
+   "hindi": "फिर निश्चय तुम उसे अवश्य विश्वास की आँख से देखोगे।",
+   "hindi_footnotes": null,
+   "urdu": "اور تم اسے یقین کی آنکھ سے دیکھ لو گے.[1]",
+   "urdu_footnotes": "[1] پہلا دیکھنا دور سے ہوگا، یہ دیکھنا قریب سے ہوگا، اسی لئے اسے عَيْنُ الْيَقِينِ (جس کا یقین مشاہدۂ عینی سے حاصل ہو) کہا گیا۔",
+   "audio_file": "audio/quran/ar.alafasy/102_007.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_102_008",
+   "category": "quran",
+   "surah": 102,
+   "ayah": 8,
+   "arabic": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+   "transliteration": null,
+   "hindi": "फिर निश्चय तुम उस दिन नेमतों के बारे में अवश्य पूछे जाओगे।[3]",
+   "hindi_footnotes": "[3] (6-8) इन आयतों में सूचित किया गया है कि तुम नरक के होने का विश्वास करो या न करो, वह दिन आकर रहेगा जब तुम उसको अपनी आँखों से देख लोगे। उस समय तुम्हें इसका पूरा विश्वास हो जाएगा। परंतु वह दिन कर्म का नहीं ह़िसाब देने का दिन होगा। और तुम्हें प्रत्येक अनुकंपा (नेमत) के बारे में अल्लाह के सामने जवाबदेही करनी होगी। (अह़्सनुल बयान)",
+   "urdu": "پھر اس دن تم سے ضرور بالضرور نعمتوں کا سوال ہوگا.[1]",
+   "urdu_footnotes": "[1] یہ سوال ان نعمتوں کے بارے میں ہوگا، جو اللہ نے دنیا میں عطا کی ہوں گی۔ جیسے آنکھ، کان، دل، دماغ، امن وصحت، مال ودولت اور اولاد وغیرہ۔ بعض کہتے ہیں، یہ سوال صرف کافروں سے ہوگا۔ بعض کہتے ہیں، ہر ایک سے ہی ہوگا کیوں کہ محض سوال مستلزم عذاب نہیں۔ جنہوں نے ان نعمتوں کا استعمال اللہ کی ہدایت کے مطابق کیا ہوگا، وہ سوال کے باوجود عذاب سے محفوظ رہیں گے ، اور جنہوں نے کفران نعمت کا ارتکاب کیا ہوگا، وہ دھر لیے جائیں گے۔",
+   "audio_file": "audio/quran/ar.alafasy/102_008.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  }
+ ]
+}

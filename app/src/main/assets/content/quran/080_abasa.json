@@ -1,0 +1,809 @@
+{
+ "surah": 80,
+ "name_arabic": "سُورَةُ عَبَسَ",
+ "name_en": "Abasa",
+ "translation_versions": {
+  "hindi_omari": "1.1.5",
+  "urdu_junagarhi": "1.1.3"
+ },
+ "ayahs": [
+  {
+   "id": "quran_080_001",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 1,
+   "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ عَبَسَ وَتَوَلَّىٰٓ",
+   "transliteration": null,
+   "hindi": "उस (नबी) ने त्योरी चढ़ाई और मुँह फेर लिया।",
+   "hindi_footnotes": null,
+   "urdu": "وه ترش رو ہوا اور منھ موڑ لیا.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/080_001.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_002",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 2,
+   "arabic": "أَن جَآءَهُ ٱلْأَعْمَىٰ",
+   "transliteration": null,
+   "hindi": "इस कारण कि उनके पास अंधा आया।",
+   "hindi_footnotes": null,
+   "urdu": "(صرف اس لئے) کہ اس کے پاس ایک نابینا آیا.[1]",
+   "urdu_footnotes": "[1] ابن ام مکتوم سےنبی (صلى الله عليه وسلم) کے چہرے پر جو ناگواری کے اثرات ظاہر ہوئے، اسے عَبَسَ سے اور توجہی کو تَوَلَّى ٰ سے تعبیر فرمایا۔",
+   "audio_file": "audio/quran/ar.alafasy/080_002.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_003",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 3,
+   "arabic": "وَمَا يُدْرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ",
+   "transliteration": null,
+   "hindi": "और आपको क्या मालूम शायद वह पवित्रता प्राप्त कर ले।",
+   "hindi_footnotes": null,
+   "urdu": "تجھے کیا خبر شاید وه سنور جاتا.[1]",
+   "urdu_footnotes": "[1] یعنی وہ نابینا تجھ سے دینی رہنمائی حاصل کرکے عمل صالح کرتا جس سے اس کا اخلا ق وکردار سنور جاتا، اس کے باطن کی اصلاح ہو جاتی اور تیری نصیحت سننے سے اس کو فائدہ ہوتا۔",
+   "audio_file": "audio/quran/ar.alafasy/080_003.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_004",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 4,
+   "arabic": "أَوْ يَذَّكَّرُ فَتَنفَعَهُ ٱلذِّكْرَىٰٓ",
+   "transliteration": null,
+   "hindi": "या नसीहत ग्रहण करे, तो वह नसीहत उसे लाभ दे।",
+   "hindi_footnotes": null,
+   "urdu": "یا نصیحت سنتا اور اسے نصیحت فائده پہنچاتی.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/080_004.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_005",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 5,
+   "arabic": "أَمَّا مَنِ ٱسْتَغْنَىٰ",
+   "transliteration": null,
+   "hindi": "लेकिन जो बेपरवाह हो गया।",
+   "hindi_footnotes": null,
+   "urdu": "جو بے پرواہی کرتا ہے.[1]",
+   "urdu_footnotes": "[1] ایمان سے اور اس علم سے جو تیرے پاس اللہ کی طرف سے آیا ہے۔ یا دوسرا ترجمہ ہے جو صاحب ثروت وغنا ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/080_005.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_006",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 6,
+   "arabic": "فَأَنتَ لَهُۥ تَصَدَّىٰ",
+   "transliteration": null,
+   "hindi": "तो आप उसके पीछे पड़ रहे हैं।",
+   "hindi_footnotes": null,
+   "urdu": "اس کی طرف تو تو پوری توجہ کرتا ہے.[1]",
+   "urdu_footnotes": "[1] اس میں آپ (صلى الله عليه وسلم) کو مزید توجہ دلائی گئی ہے کہ مخلصین کو چھوڑ کر معرضین کی طرف توجہ مبذول رکھنا صحیح بات نہیں ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/080_006.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_007",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 7,
+   "arabic": "وَمَا عَلَيْكَ أَلَّا يَزَّكَّىٰ",
+   "transliteration": null,
+   "hindi": "हालाँकि आपपर कोई दोष नहीं कि वह पवित्रता ग्रहण नहीं करता।",
+   "hindi_footnotes": null,
+   "urdu": "حاﻻنکہ اس کے نہ سنورنے سے تجھ پر کوئی الزام نہیں.[1]",
+   "urdu_footnotes": "[1] کیوں کہ تیرا کام تو صرف تبلیغ ہے۔ اس لئے اس قسم کے کفار کے پیچھے پڑنے کی ضرورت نہیں ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/080_007.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_008",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 8,
+   "arabic": "وَأَمَّا مَن جَآءَكَ يَسْعَىٰ",
+   "transliteration": null,
+   "hindi": "लेकिन जो व्यक्ति आपके पास दौड़ता हुआ आया।",
+   "hindi_footnotes": null,
+   "urdu": "اور جو شخص تیرے پاس دوڑتا ہوا آتا ہے.[1]",
+   "urdu_footnotes": "[1] اس بات کا طالب بن کر کہ تو خیر کی طرف اس کی رہنمائی کرے اور اسے وعظ ونصیحت سے نوازے۔",
+   "audio_file": "audio/quran/ar.alafasy/080_008.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_009",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 9,
+   "arabic": "وَهُوَ يَخْشَىٰ",
+   "transliteration": null,
+   "hindi": "और वह डर (भी) रहा है।",
+   "hindi_footnotes": null,
+   "urdu": "اور وه ڈر (بھی) رہا ہے.[1]",
+   "urdu_footnotes": "[1] یعنی اللہ کا خوف بھی اس کے دل میں ہے، جس کی وجہ سے یہ امید ہے کہ تیری باتیں اس کےلئے مفید ہوں گی اور وہ ان کو اپنائے گا اور ان پر عمل کرے گا۔",
+   "audio_file": "audio/quran/ar.alafasy/080_009.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_010",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 10,
+   "arabic": "فَأَنتَ عَنْهُ تَلَهَّىٰ",
+   "transliteration": null,
+   "hindi": "तो आप उसकी ओर ध्यान नहीं देते।[1]",
+   "hindi_footnotes": "[1] (1-10) भावार्थ यह है कि सत्य के प्रचारक का यह कर्तव्य है कि जो सत्य की खोज में हो, भले ही वह दरिद्र हो, उसी के सुधार पर ध्यान दे। और जो अभिमान के कारण सत्य की परवाह नहीं करते उनके पीछे समय न गवाँए। आपका यह दायित्व भी नहीं है कि उन्हें अपनी बात मनवा दें।",
+   "urdu": "تو اس سے بےرخی برتتا ہے.[1]",
+   "urdu_footnotes": "[1] یعنی ایسے لوگوں کی تو قدر افزائی کی ضرورت ہے نہ کہ ان سے بےرخی برتنے کی۔ ان آیات سے یہ بات معلوم ہوئی کہ دعوت وتبلیغ میں کسی کو خاص نہیں کرنا چاہئے بلکہ اصحاب حیثیت اور بےحیثیت، امیر اور غریب، آقا وغلام، مرد اور عورت، چھوٹے اور بڑے سب کو یکساں حیثیت دی جائے اور سب کو مشترکہ خطاب کیا جائے۔ اللہ تعالیٰ جس کو چاہے گا اپنی حکمت بالغہ کے تحت، ہدایت سے نواز دے گا۔ ( ابن کثیر ) ۔",
+   "audio_file": "audio/quran/ar.alafasy/080_010.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_011",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 11,
+   "arabic": "كَلَّآ إِنَّهَا تَذْكِرَةٌ",
+   "transliteration": null,
+   "hindi": "ऐसा हरगिज़ नहीं चाहिए, यह (क़ुरआन) तो एक उपदेश है।",
+   "hindi_footnotes": null,
+   "urdu": "یہ ٹھیک نہیں[1] قرآن تو نصیحت (کی چیز) ہے.",
+   "urdu_footnotes": "[1] یعنی غریب سے یہ اعراض اور اصحاب حیثیت کی طرف خصوصی توجہ، یہ ٹھیک نہیں۔ مطلب ہے کہ آئندہ اس کا اعادہ نہ ہو۔",
+   "audio_file": "audio/quran/ar.alafasy/080_011.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_012",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 12,
+   "arabic": "فَمَن شَآءَ ذَكَرَهُۥ",
+   "transliteration": null,
+   "hindi": "अतः जो चाहे, उसे याद करे।",
+   "hindi_footnotes": null,
+   "urdu": "جو چاہے اس سے نصیحت لے.[1]",
+   "urdu_footnotes": "[1] یعنی جو اس میں رغبت کرے، وہ اس سے نصیحت حاصل کرے، اسے یاد کرے اور اس کے موجبات پر عمل کرے۔ اور جو اس اعراض سے کرے اور بے رخی برتے، جیسے اشراف قریش نے کیا، تو ان کی فکر کرنے کی ضرورت نہیں ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/080_012.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_013",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 13,
+   "arabic": "فِى صُحُفٍ مُّكَرَّمَةٍ",
+   "transliteration": null,
+   "hindi": "(यह क़ुरआन) सम्मानित सहीफ़ों (ग्रंथों) में है।",
+   "hindi_footnotes": null,
+   "urdu": "(یہ تو) پر عظمت صحیفوں میں (ہے).[1]",
+   "urdu_footnotes": "[1] یعنی لوح محفوظ میں، کیوں کہ وہیں سے یہ قرآن اترتا ہے۔ یا مطلب ہے کہ یہ صحیفے اللہ کے ہاں بڑےمحترم ہیں کیوں کہ وہ علم وحکمت سے پر ہیں۔",
+   "audio_file": "audio/quran/ar.alafasy/080_013.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_014",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 14,
+   "arabic": "مَّرْفُوعَةٍ مُّطَهَّرَةٍۭ",
+   "transliteration": null,
+   "hindi": "जो उच्च स्थान वाले तथा पवित्र हैं।",
+   "hindi_footnotes": null,
+   "urdu": "جو بلند وباﻻ اور پاک صاف ہے.[1]",
+   "urdu_footnotes": "[1] مَرْفُوعَةٍ اللہ کے ہاں رفیع القدر ہیں، یا شبہات اور تناقض سے بلند ہیں۔ مُطَهَّرَةٍ، وہ بالکل پاک ہیں کیوں کہ انہیں پاک لوگوں ( فرشتوں ) کے سوا کوئی چھوتا ہی نہیں، یا کمی بیشی سے پاک ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/080_014.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_015",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 15,
+   "arabic": "بِأَيْدِى سَفَرَةٍ",
+   "transliteration": null,
+   "hindi": "ऐसे लिखने वालों (फ़रिश्तों) के हाथों में हैं।",
+   "hindi_footnotes": null,
+   "urdu": "ایسے لکھنے والوں کے ہاتھوں میں ہے.[1]",
+   "urdu_footnotes": "[1] سَفَرَةٍ، سَافِرٌ کی جمع ہے، یہ سفارت سے ہے۔ مراد یہاں وہ فرشتے ہیں جو اللہ کی وحی اس کےرسولوں تک پہنچاتے ہیں۔ یعنی اللہ اور اس کےرسول کے درمیان سفارت کا کام کرتے ہیں۔ یہ قرآن ایسے سفیروں کے ہاتھوں میں ہےجو اسے لوح محفوظ سے نقل کرتے ہیں۔",
+   "audio_file": "audio/quran/ar.alafasy/080_015.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_016",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 16,
+   "arabic": "كِرَامٍۭ بَرَرَةٍ",
+   "transliteration": null,
+   "hindi": "जो माननीय और नेक हैं।[2]",
+   "hindi_footnotes": "[2] (11-16) इनमें क़ुरआन की महानता को बताया गया है कि यह एक स्मृति (याद दहानी) है। किसी पर थोपने के लिए नहीं आया है। बल्कि वह तो फ़रिश्तों के हाथों में स्वर्ग में एक पवित्र शास्त्र के अंदर सुरक्षित है। और वहीं से वह (क़ुरआन) इस संसार में नबी (सल्लल्लाहु अलैहि व सल्लम) पर उतारा जा रहा है।",
+   "urdu": "جو بزرگ اور پاکباز ہیں.[1]",
+   "urdu_footnotes": "[1] یعنی خلق کے اعتبار سے وہ کریم یعنی شریف اور بزرگ ہیں اور افعال کے اعتبار سے وہ نیکو کار اور پاکباز ہیں۔ یہاں سے یہ بات معلوم ہوئی کہ حامل قرآن ( حافظ اور عالم ) کو بھی اخلاق وکردار اور افعال واطوار میں كِرَامٍ بَرَرَةٍ کا مصداق ہونا چاہئے۔ (ابن کثیر) حدیث میں بھی سَفَرَةٍ کا لفظ فرشتوں کے لئے استعمال ہوا ہے۔ نبی (صلى الله عليه وسلم) نے فرمایا جو قرآن پڑھتا ہے اور وہ اس کا ماہر ہے، وہ السَّفَرَةُ الكِرَامُ الْبَرَرَةُ ( فرشتوں ) کے ساتھ ہوگا اور جو قرآن پڑھتا ہے، لیکن مشقت کےساتھ۔ ( یعنی ماہرین کی طرح سہولت اور روانی سےنہیں پڑھتا ) اس کے لئے دوگنا اجر ہے۔ (صحيح بخاري، تفسير سورة عبس مسلم، كتاب الصلاة، باب فضل الماهر بالقرآن....)۔",
+   "audio_file": "audio/quran/ar.alafasy/080_016.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_017",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 17,
+   "arabic": "قُتِلَ ٱلْإِنسَـٰنُ مَآ أَكْفَرَهُۥ",
+   "transliteration": null,
+   "hindi": "सर्वनाश हो मनुष्य का, वह कितना कृतघ्न (नाशुक्रा) है।",
+   "hindi_footnotes": null,
+   "urdu": "اللہ کی مار انسان پر کیسا ناشکرا ہے.[1]",
+   "urdu_footnotes": "[1] اس سے وہ انسان مراد ہے جو بغیر کسی سند اور دلیل کے قیامت کی تکذیب کرتا ہے۔ قُتِلَ بمعنی لُعِنَ اور مَا أَكْفَرَهُ ! فعل تعجب ہے، کس قدر ناشکرا ہے۔ آگے اس انسان کفور کو غور وفکر کی دعوت دی جا رہی ہے کہ شاید وہ اپنے کفر سے باز آجائے۔",
+   "audio_file": "audio/quran/ar.alafasy/080_017.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_018",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 18,
+   "arabic": "مِنْ أَىِّ شَىْءٍ خَلَقَهُۥ",
+   "transliteration": null,
+   "hindi": "(अल्लाह ने) उसे किस चीज़ से पैदा किया?",
+   "hindi_footnotes": null,
+   "urdu": "اسے اللہ نے کس چیز سے پیدا کیا.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/080_018.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_019",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 19,
+   "arabic": "مِن نُّطْفَةٍ خَلَقَهُۥ فَقَدَّرَهُۥ",
+   "transliteration": null,
+   "hindi": "एक नुत्फ़े (वीर्य) से उसे पैदा किया, फिर विभिन्न चरणों में उसकी रचना की।",
+   "hindi_footnotes": null,
+   "urdu": "اسے) ایک نطفہ[1] سے پیدا کیا،پھراس کا اندازہ مقررکیا .[2]",
+   "urdu_footnotes": "[1] یعنی جس کی پیدائش ایسے حقیر قطرۂ آب سے ہوئی ہے، کیا اسے تکبر زیب دیتا ہے؟\n[2] اس کا مطلب ہے کہ اس کے مصالح نفس اسے مہیا کیے، اس کو دو ہاتھ دو پیر اوردو آنکھیں اور دیگر آلات وخواص عطا کیے۔",
+   "audio_file": "audio/quran/ar.alafasy/080_019.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_020",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 20,
+   "arabic": "ثُمَّ ٱلسَّبِيلَ يَسَّرَهُۥ",
+   "transliteration": null,
+   "hindi": "फिर उसके लिए रास्ता आसान कर दिया।",
+   "hindi_footnotes": null,
+   "urdu": "پھر اس کے لئے راستہ آسان کیا.[1]",
+   "urdu_footnotes": "[1] یعنی خیر اور شر کے راستے اس کے لئے واضح کر دیئے۔ بعض کہتے ہیں اس سے مراد ماں کے پیٹ سے نکلنے کا راستہ ہے۔ لیکن پہلا مفہوم زیادہ صحیح ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/080_020.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_021",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 21,
+   "arabic": "ثُمَّ أَمَاتَهُۥ فَأَقْبَرَهُۥ",
+   "transliteration": null,
+   "hindi": "फिर उसे मृत्यु दी, फिर उसे क़ब्र में रखवाया।",
+   "hindi_footnotes": null,
+   "urdu": "پھر اسے موت دی اور پھر قبر میں دفن کیا.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/080_021.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_022",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 22,
+   "arabic": "ثُمَّ إِذَا شَآءَ أَنشَرَهُۥ",
+   "transliteration": null,
+   "hindi": "फिर जब वह चाहेगा, उसे उठाएगा।",
+   "hindi_footnotes": null,
+   "urdu": "پھر جب چاہے گا اسے زنده کر دے گا۔",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/080_022.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_023",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 23,
+   "arabic": "كَلَّا لَمَّا يَقْضِ مَآ أَمَرَهُۥ",
+   "transliteration": null,
+   "hindi": "हरगिज़ नहीं, अभी तक उसने उसे पूरा नहीं किया, जिसका अल्लाह ने उसे आदेश दिया था।[3]",
+   "hindi_footnotes": "[3] (17-23) तक विश्वासहीनों पर धिक्कार है कि यदि वे अपने अस्तित्व पर विचार करें कि हमने कितनी तुच्छ वीर्य की बूँद से उसकी रचना की तथा अपनी दया से उसे चेतना और समझ दी। परंतु इन सब उपकारों को भूलकर कृतघ्न बना हुआ है, और उपासना अन्य की करता है।",
+   "urdu": "ہرگز نہیں[1] ۔ اس نے اب تک اللہ کے حکم کی بجا آوری نہیں کی.",
+   "urdu_footnotes": "[1] یعنی معاملہ اس طرح نہیں ہے‘ جس طرح یہ کافر کہتا ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/080_023.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_024",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 24,
+   "arabic": "فَلْيَنظُرِ ٱلْإِنسَـٰنُ إِلَىٰ طَعَامِهِۦٓ",
+   "transliteration": null,
+   "hindi": "अतः इनसान को चाहिए कि अपने भोजन को देखे।",
+   "hindi_footnotes": null,
+   "urdu": "انسان کو چاہئے کہ اپنے کھانے کو دیکھے.[1]",
+   "urdu_footnotes": "[1] کہ اسے اللہ نے کس طرح پیدا کیا، جو اس کی زندگی کا سبب ہے اور کس طرح اس کے لئے اسباب معاش مہیا کئے تاکہ وہ ان کے ذریعے سے سعادت اخروی حاصل کر سکے۔",
+   "audio_file": "audio/quran/ar.alafasy/080_024.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_025",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 25,
+   "arabic": "أَنَّا صَبَبْنَا ٱلْمَآءَ صَبًّا",
+   "transliteration": null,
+   "hindi": "कि हमने ख़ूब पानी बरसाया।",
+   "hindi_footnotes": null,
+   "urdu": "کہ ہم نے خوب پانی برسایا.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/080_025.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_026",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 26,
+   "arabic": "ثُمَّ شَقَقْنَا ٱلْأَرْضَ شَقًّا",
+   "transliteration": null,
+   "hindi": "फिर हमने धरती को विशेष रूप से फाड़ा।",
+   "hindi_footnotes": null,
+   "urdu": "پھر پھاڑا زمین کو اچھی طرح.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/080_026.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_027",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 27,
+   "arabic": "فَأَنۢبَتْنَا فِيهَا حَبًّا",
+   "transliteration": null,
+   "hindi": "फिर हमने उसमें अनाज उगाया।",
+   "hindi_footnotes": null,
+   "urdu": "پھر اس میں سے اناج اگائے.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/080_027.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_028",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 28,
+   "arabic": "وَعِنَبًا وَقَضْبًا",
+   "transliteration": null,
+   "hindi": "तथा अंगूर और (मवेशियों का) चारा।",
+   "hindi_footnotes": null,
+   "urdu": "اور انگور اور ترکاری.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/080_028.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_029",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 29,
+   "arabic": "وَزَيْتُونًا وَنَخْلًا",
+   "transliteration": null,
+   "hindi": "तथा ज़ैतून और खजूर के पेड़।",
+   "hindi_footnotes": null,
+   "urdu": "اور زیتون اور کھجور.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/080_029.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_030",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 30,
+   "arabic": "وَحَدَآئِقَ غُلْبًا",
+   "transliteration": null,
+   "hindi": "तथा घने बाग़।",
+   "hindi_footnotes": null,
+   "urdu": "اور گنجان باغات.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/080_030.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_031",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 31,
+   "arabic": "وَفَـٰكِهَةً وَأَبًّا",
+   "transliteration": null,
+   "hindi": "तथा फल और चारा।",
+   "hindi_footnotes": null,
+   "urdu": "اور میوه اور (گھاس) چاره (بھی اگایا).[1]",
+   "urdu_footnotes": "[1] أباً، وہ گھاس چارہ جو خود رو ہو اور جسے جانور کھاتے ہیں۔",
+   "audio_file": "audio/quran/ar.alafasy/080_031.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_032",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 32,
+   "arabic": "مَّتَـٰعًا لَّكُمْ وَلِأَنْعَـٰمِكُمْ",
+   "transliteration": null,
+   "hindi": "तुम्हारे लिए तथा तुम्हारे पशुओं के लिए जीवन-सामग्री के रूप में।[4]",
+   "hindi_footnotes": "[4] (24-32) इन आयतों में इनसान के जीवन साधनों को साक्ष्य के रूप में प्रस्तुत किया गया है जो अल्लाह की अपार दया की परिचायक हैं। अतः जब सारी व्यवस्था वही करता है, तो फिर उसके इन उपकारों पर इनसान के लिए उचित था कि उसी की बात माने और उसी के आदेशों का पालन करे जो क़ुरआन के माध्यम से अंतिम नबी मुह़म्मद (सल्लल्लाहु अलैहि व सल्म) द्वारा प्रस्तुत किया जा रहा है। (दावतुल क़ुरआन)",
+   "urdu": "تمہارے استعمال وفائدے کے لئے اور تمہارے چوپایوں کے لئے.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/080_032.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_033",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 33,
+   "arabic": "فَإِذَا جَآءَتِ ٱلصَّآخَّةُ",
+   "transliteration": null,
+   "hindi": "तो जब कानों को बहरा कर देने वाली प्रचंड आवाज़ (क़ियामत) आ जाएगी।",
+   "hindi_footnotes": null,
+   "urdu": "پس جب کہ کان بہرے کر دینے والی (قیامت) آجائے گی.[1]",
+   "urdu_footnotes": "[1] قیامت کو صَاخَّةٌ (بہرا کر دینے والی) اس لئے کہا کہ وہ ایک نہایت سخت چیخ کے ساتھ واقع ہوگی جو کانوں کو بہرہ کر دے گی۔",
+   "audio_file": "audio/quran/ar.alafasy/080_033.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_034",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 34,
+   "arabic": "يَوْمَ يَفِرُّ ٱلْمَرْءُ مِنْ أَخِيهِ",
+   "transliteration": null,
+   "hindi": "जिस दिन इनसान अपने भाई से भागेगा।",
+   "hindi_footnotes": null,
+   "urdu": "اس دن آدمی اپنے بھائی سے.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/080_034.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_035",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 35,
+   "arabic": "وَأُمِّهِۦ وَأَبِيهِ",
+   "transliteration": null,
+   "hindi": "तथा अपनी माता और अपने पिता (से)।",
+   "hindi_footnotes": null,
+   "urdu": "اور اپنی ماں اور اپنے باپ سے.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/080_035.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_036",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 36,
+   "arabic": "وَصَـٰحِبَتِهِۦ وَبَنِيهِ",
+   "transliteration": null,
+   "hindi": "तथा अपनी पत्नी और अपने बेटों से।",
+   "hindi_footnotes": null,
+   "urdu": "اور اپنی بیوی اور اپنی اوﻻد سے بھاگے گا.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/080_036.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_037",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 37,
+   "arabic": "لِكُلِّ ٱمْرِئٍ مِّنْهُمْ يَوْمَئِذٍ شَأْنٌ يُغْنِيهِ",
+   "transliteration": null,
+   "hindi": "उस दिन उनमें से प्रत्येक व्यक्ति की ऐसी स्थिति होगी, जो उसे (दूसरों से) बेपरवाह कर देगी।",
+   "hindi_footnotes": null,
+   "urdu": "ان میں سے ہر ایک کو اس دن ایسی فکر (دامن گیر) ہوگی جو اس کے لئے کافی ہوگی.[1]",
+   "urdu_footnotes": "[1] یا اپنے اقربا اور احباب سے بے نیاز اور بے پروا کر دے گا۔ حدیث میں آتا ہے ۔ نبی (صلى الله عليه وسلم) نے فرمایا کہ سب لوگ میدان محشر میں ننگے بدن، ننگے پیر، پیدل اور غیر مختون ہوں گے۔ حضرت عائشہ (رضی الله عنها) نے پوچھا، اس طرح شرم گاہوں پر نظر نہیں پڑے گی ؟ آپ (صلى الله عليه وسلم) نے اس کے جواب میں یہی آیت تلاوت فرمائی۔ یعنی لِكُلِّ امْرِئٍ مِنْهُمْ ( الترمذي تفسير سورة عبس، النسائي، كتاب الجنائز، باب البعث) اس کی وجہ بعض کے نزدیک یہ ہے کہ انسان اپنے گھر والوں سے اس لئےبھاگے گا تاکہ وہ اس کی وہ تکلیف اور شدت نہ دیکھیں جس میں وہ مبتلا ہوگا۔ بعض کہتے ہیں، اس لئے کہ انہیں علم ہوگا کہ وہ کسی کو فائدہ نہیں پہنچا سکتے اور ان کے کچھ کام نہیں آسکتے۔ (فتح القدیر ) ۔",
+   "audio_file": "audio/quran/ar.alafasy/080_037.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_038",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 38,
+   "arabic": "وُجُوهٌ يَوْمَئِذٍ مُّسْفِرَةٌ",
+   "transliteration": null,
+   "hindi": "उस दिन कुछ चेहरे रौशन होंगे।",
+   "hindi_footnotes": null,
+   "urdu": "اس دن بہت سے چہرے روشن ہوں گے.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/080_038.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_039",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 39,
+   "arabic": "ضَاحِكَةٌ مُّسْتَبْشِرَةٌ",
+   "transliteration": null,
+   "hindi": "हँसते हुए, प्रसन्न होंगे।",
+   "hindi_footnotes": null,
+   "urdu": "(جو) ہنستے ہوئے اور ہشاش بشاش ہوں گے.[1]",
+   "urdu_footnotes": "[1] یہ اہل ایمان کے چہرےہوں گے،جنہیں ان کے اعمال نامے ان کو دائیں ہاتھ میں ملیں گے جس سے انہیں اپنی اخروی سعادت وکامیابی کا یقین ہو جائے گا، جس سے ان کے چہرے خوشی سے تمتما رہے ہوں گے۔",
+   "audio_file": "audio/quran/ar.alafasy/080_039.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_040",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 40,
+   "arabic": "وَوُجُوهٌ يَوْمَئِذٍ عَلَيْهَا غَبَرَةٌ",
+   "transliteration": null,
+   "hindi": "तथा कुछ चेहरों उस दिन धूल से ग्रस्त होंगे।",
+   "hindi_footnotes": null,
+   "urdu": "اور بہت سے چہرے اس دن غبار آلود ہوں گے.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/080_040.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_041",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 41,
+   "arabic": "تَرْهَقُهَا قَتَرَةٌ",
+   "transliteration": null,
+   "hindi": "उनपर कालिमा छाई होगी।",
+   "hindi_footnotes": null,
+   "urdu": "جن پر سیاہی چڑھی ہوئی ہوگی.[1]",
+   "urdu_footnotes": "[1] یعنی ذلت اور معائینہ عذاب سے ان کے چہرے غبار آلود، کدورت زدہ اور سیاہ ہوں گے، جیسے محزون اور نہایت غمگین آدمی کا چہرہ ہوتا ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/080_041.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_080_042",
+   "category": "quran",
+   "surah": 80,
+   "ayah": 42,
+   "arabic": "أُو۟لَـٰٓئِكَ هُمُ ٱلْكَفَرَةُ ٱلْفَجَرَةُ",
+   "transliteration": null,
+   "hindi": "वही काफ़िर और कुकर्मी लोग हैं।[5]",
+   "hindi_footnotes": "[5] (33-42) इन आयतों का भावार्थ यह है कि संसार में किसी पर कोई आपदा आती है, तो उसके अपने लोग उसकी सहायता और रक्षा करते हैं। परंतु प्रलय के दिन सबको अपनी-अपनी पड़ी होगी और उसके कर्म ही उसकी रक्षा करेंगे।",
+   "urdu": "وه یہی کافر بدکردار لوگ ہوں گے.[1]",
+   "urdu_footnotes": "[1] یعنی اللہ کا، رسولوں کا اور قیامت کا انکار کرنے والے بھی تھے اور بدکردار اور بداطوار بھی۔ اللَّهُمَّ! لا تَجْعَلْنَا مِنْهُمْ ۔",
+   "audio_file": "audio/quran/ar.alafasy/080_042.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  }
+ ]
+}

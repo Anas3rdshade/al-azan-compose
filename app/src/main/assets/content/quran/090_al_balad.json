@@ -1,0 +1,391 @@
+{
+ "surah": 90,
+ "name_arabic": "سُورَةُ البَلَدِ",
+ "name_en": "Al-Balad",
+ "translation_versions": {
+  "hindi_omari": "1.1.5",
+  "urdu_junagarhi": "1.1.3"
+ },
+ "ayahs": [
+  {
+   "id": "quran_090_001",
+   "category": "quran",
+   "surah": 90,
+   "ayah": 1,
+   "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ",
+   "transliteration": null,
+   "hindi": "मैं इस नगर (मक्का) की क़सम खाता हूँ!",
+   "hindi_footnotes": null,
+   "urdu": "میں اس شہر کی قسم کھاتا ہوں.[1]",
+   "urdu_footnotes": "[1] اس سے مراد مکہ مکرمہ ہے جس میں اس وقت، جب اس سورت کا نزول ہوا، نبی کریم (صلى الله عليه وسلم) کا قیام تھا، آپ (صلى الله عليه وسلم) کا مولد بھی یہی شہر تھا۔ یعنی اللہ نے آپ (صلى الله عليه وسلم) کو مولد ومسکن کی قسم کھائی، جس سے اس کی عظمت کی مزید وضاحت ہوتی ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/090_001.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_090_002",
+   "category": "quran",
+   "surah": 90,
+   "ayah": 2,
+   "arabic": "وَأَنتَ حِلٌّۢ بِهَـٰذَا ٱلْبَلَدِ",
+   "transliteration": null,
+   "hindi": "तथा तुम्हारे लिए इस नगर में लड़ाई हलाल होने वाली है।",
+   "hindi_footnotes": null,
+   "urdu": "اور آپ اس شہر میں مقیم ہیں.[1]",
+   "urdu_footnotes": "[1] یہ اشارہ ہے اس وقت کی طرف جب مکہ فتح ہوا، اس وقت اللہ نے نبی (صلى الله عليه وسلم) کے لئے اس بلد حرام میں قتال کو حلال فرما دیا تھا جب کہ اس میں لڑائی کی اجازت نہیں ہے چنانچہ حدیث میں ہے، نبی (صلى الله عليه وسلم) نے فرمایا (اس شہر کو اللہ نے اس وقت سے حرمت والا بنایا ہے، جب سے اس نے آسمان وزمین پیدا کیے۔ پس یہ اللہ کی ٹھہرائی ہوئی حرمت سے قیامت تک حرام ہے، نہ اس کا درخت کاٹا جائے نہ اس کے کانٹے اکھیڑے جائیں، میرے لئے اسے صرف دن کی ایک ساعت کے لئے حلال کیا گیا تھا اور آج اس کی حرمت پھر اسی طرح لوٹ آئی ہے، جیسے کل تھی ۔۔۔ اگر کوئی یہاں قتال کے لئے دلیل میں میری لڑائی کو پیش کرے تو اس سےکہو کہ اللہ کے رسول کو تو اس کی اجازت اللہ نے دی تھی جب کہ تمہیں یہ اجازت اس نے نہیں دی)۔ ( صحيح بخاري، كتاب العلم ، باب ليبلغ الشاهد منكم الغائب- مسلم، كتاب الحج، باب تحريم مكة ...) اس اعتبار سے معنی ہوں گے وَأَنْتَ حِلٌّ بِهَذَا الْبَلَدِ فِي الْمُسْتَقْبَلِ یہ جملہ معترضہ ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/090_002.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_090_003",
+   "category": "quran",
+   "surah": 90,
+   "ayah": 3,
+   "arabic": "وَوَالِدٍ وَمَا وَلَدَ",
+   "transliteration": null,
+   "hindi": "तथा क़सम है पिता तथा उसकी संतान की!",
+   "hindi_footnotes": null,
+   "urdu": "اور (قسم ہے) انسانی باپ اور اوﻻد کی.[1]",
+   "urdu_footnotes": "[1] بعض نے اس سے مراد حضرت آدم (عليه السلام) اور ان کی اولاد لی ہے، اور بعض کے نزدیک یہ عام ہے، ہر باپ اور اس کی اولاد اس میں شامل ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/090_003.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_090_004",
+   "category": "quran",
+   "surah": 90,
+   "ayah": 4,
+   "arabic": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ",
+   "transliteration": null,
+   "hindi": "निःसंदेह हमने मनुष्य को बड़ी कठिनाई में पैदा किया है।",
+   "hindi_footnotes": null,
+   "urdu": "یقیناً ہم نے انسان کو (بڑی) مشقت میں پیدا کیا ہے.[1]",
+   "urdu_footnotes": "[1] یعنی اس کی زندگی محنت ومشقت اور شدائد سے معمور ہے۔ امام طبری نے اسی مفہوم کو اختیار کیا ہے، جب جواب قسم ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/090_004.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_090_005",
+   "category": "quran",
+   "surah": 90,
+   "ayah": 5,
+   "arabic": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+   "transliteration": null,
+   "hindi": "क्या वह समझता है कि उसपर कभी किसी का वश नहीं चलेगा?[1]",
+   "hindi_footnotes": "[1] (1-5) इन आयतों में सर्व प्रथम मक्का नगर में नबी सल्लल्लाहु अलैहि व सल्लम पर जो घटनाएँ घट रही थीं, और आप तथा आपके अनुयायियों को सताया जा रहा था, उसको साक्षी के रूप में प्रस्तुत किया गया है कि इनसान की पैदाइश (रचना) संसार का स्वाद लेने के लिए नहीं हुई है। संसार परिश्रम तथा पीड़ाएँ झेलने का स्थान है। कोई इनसान इस स्थिति से गुज़रे बिना नहीं रह सकता। \"पिता\" से अभिप्राय आदम अलैहिस्सलमा और \"संतान\" से अभिप्राय समस्त मानवजाति (इनसान) हैं। फिर इनसान के इस भ्रम को दूर किया है कि उसके ऊपर कोई शक्ति नहीं है, जो उसके कर्मों को देख रही है, और समय आने पर उसकी पकड़ करेगी।",
+   "urdu": "کیا یہ گمان کرتا ہے کہ یہ کسی کے بس میں ہی نہیں؟[1]",
+   "urdu_footnotes": "[1] یعنی کوئی اس کی گرفت کرنے پر قادر نہیں؟",
+   "audio_file": "audio/quran/ar.alafasy/090_005.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_090_006",
+   "category": "quran",
+   "surah": 90,
+   "ayah": 6,
+   "arabic": "يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا",
+   "transliteration": null,
+   "hindi": "वह कहता है कि मैंने ढेर सारा धन ख़र्च कर दिया।",
+   "hindi_footnotes": null,
+   "urdu": "کہتا (پھرتا) ہے کہ میں نے تو بہت کچھ مال خرچ کر ڈاﻻ.[1]",
+   "urdu_footnotes": "[1] لُبَدًا ۔ کثیر، ڈھیر۔ یعنی دنیا کے معاملات اور فضولیات میں خوب پیسہ اڑاتا ہے، پھر فخر کے طور پر لوگوں کے سامنے بیان کرتا پھرتا ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/090_006.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_090_007",
+   "category": "quran",
+   "surah": 90,
+   "ayah": 7,
+   "arabic": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+   "transliteration": null,
+   "hindi": "क्या वह समझता है कि उसे किसी ने नहीं देखा?[2]",
+   "hindi_footnotes": "[2] (1-5) इनमें यह बताया गया है कि संसार में बड़ाई तथा प्रधानता के ग़लत पैमाने बना लिए गए हैं, और जो दिखावे के लिए धन व्यय (ख़र्च) करता है उसकी प्रशंसा की जाती है, जबकि उसके ऊपर एक शक्ति है जो यह देख रही है कि उसने किन राहों में और किस लिए धन ख़र्च किया है।",
+   "urdu": "کیا (یوں) سمجھتا ہے کہ کسی نے اسے دیکھا (ہی) نہیں؟[1]",
+   "urdu_footnotes": "[1] اس طرح اللہ کی نافرمانی میں مال خرچ کرتا ہے اور سمجھتا ہے کہ کوئی اسے دیکھنے والا نہیں ہے؟ حالانکہ اللہ سب کچھ دیکھ رہا ہے۔ جس پر وہ اسے جزا دے گا۔ آگے اللہ تعالی اپنے بعض انعامات کا تذکرہ فرما رہا ہے تاکہ ایسے لوگ عبرت پکڑیں۔",
+   "audio_file": "audio/quran/ar.alafasy/090_007.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_090_008",
+   "category": "quran",
+   "surah": 90,
+   "ayah": 8,
+   "arabic": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+   "transliteration": null,
+   "hindi": "क्या हमने उसके लिए दो आँखें नहीं बनाईं?",
+   "hindi_footnotes": null,
+   "urdu": "کیا ہم نے اس کی دو آنکھیں نہیں بنائیں.[1]",
+   "urdu_footnotes": "[1] جن سے یہ دیکھتا ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/090_008.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_090_009",
+   "category": "quran",
+   "surah": 90,
+   "ayah": 9,
+   "arabic": "وَلِسَانًا وَشَفَتَيْنِ",
+   "transliteration": null,
+   "hindi": "तथा एक ज़बान और दो होंठ (नहीं बनाए)?",
+   "hindi_footnotes": null,
+   "urdu": "اور زبان اور دو ہونٹ (نہیں بنائے).[1]",
+   "urdu_footnotes": "[1] زبان سے وہ بولتا اور اپنے مافی الضمیر کا اظہار کرتا ہے۔ ہونٹوں سے وہ بولنے اور کھانے کے لئے مدد حاصل کرتا ہے۔ علاوہ ازیں وہ اس کے چہرے اور منہ کے لئے خوبصورتی کا بھی باعث ہیں۔",
+   "audio_file": "audio/quran/ar.alafasy/090_009.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_090_010",
+   "category": "quran",
+   "surah": 90,
+   "ayah": 10,
+   "arabic": "وَهَدَيْنَـٰهُ ٱلنَّجْدَيْنِ",
+   "transliteration": null,
+   "hindi": "और हमने उसे दोनों मार्ग दिखा दिए?!",
+   "hindi_footnotes": null,
+   "urdu": "ہم نے دکھا دیئے اس کو دونوں راستے.[1]",
+   "urdu_footnotes": "[1] یعنی خیر کی بھی اور شر کی بھی اور ایمان کی بھی، سعادت کی بھی اور شقاوت کی بھی۔ جیسے فرمایا، إِنَّا هَدَيْنَاهُ السَّبِيلَ إِمَّا شَاكِرًا وَإِمَّا كَفُورًا (الدهر: 3 ) نَجْدٌ کے معنی ہیں، اونچی جگہ۔ اس لئے بعض نے یہ ترجمہ کیا ہے ”ہم نے انسان کی ( ماں کے ) دو پستانوں کی طرف رہنمائی کر دی“ یعنی وہ عالم شیر خوارگی میں ان سے اپنی خوراک حاصل کرے۔ لیکن پہلا مفہوم زیادہ صحیح ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/090_010.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_090_011",
+   "category": "quran",
+   "surah": 90,
+   "ayah": 11,
+   "arabic": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
+   "transliteration": null,
+   "hindi": "परंतु उसने दुर्लभ घाटी में प्रवेश ही नहीं किया।",
+   "hindi_footnotes": null,
+   "urdu": "سو اس سے نہ ہو سکا کہ گھاٹی میں داخل ہوتا.[1]",
+   "urdu_footnotes": "[1] عَقَبَةٌ گھاٹی کو کہتے ہیں یعنی وہ راستہ جو پہاڑ میں ہو۔ یہ عام طور پر نہایت دشوار گزار ہوتا ہے۔ یہ جملہ یہاں استفہام بمعنی انکار کے مفہوم میں ہے۔ یعنی أَفَلا اقْتَحَمَ الْعَقَبَةَ کیا وہ گھاٹی میں داخل نہیں ہوا؟ مطلب ہے نہیں ہوا۔ یہ ایک مثال ہے اس محنت ومشقت کی وضاحت کے لئے جو نیکی کے کاموں کے لئے ایک انسان کو شیطان کے وسوسوں اور نفس کے شہوانی تقاضوں کے خلاف کرنی پڑتی ہے، جیسے گھاٹی پر چڑھنے کے لئے سخت جد وجہد کی ضرورت ہوتی ہے۔ (فتح القدیر) ۔",
+   "audio_file": "audio/quran/ar.alafasy/090_011.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_090_012",
+   "category": "quran",
+   "surah": 90,
+   "ayah": 12,
+   "arabic": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+   "transliteration": null,
+   "hindi": "और तुम्हें किस चीज़ ने ज्ञात कराया कि वह दुर्लभ 'घाटी' क्या है?",
+   "hindi_footnotes": null,
+   "urdu": "اور کیا سمجھا کہ گھاٹی ہے کیا؟.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/090_012.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_090_013",
+   "category": "quran",
+   "surah": 90,
+   "ayah": 13,
+   "arabic": "فَكُّ رَقَبَةٍ",
+   "transliteration": null,
+   "hindi": "(वह) गर्दन छुड़ाना है।",
+   "hindi_footnotes": null,
+   "urdu": "کسی گردن (غلام ،لونڈی) کو آزاد کرنا.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/090_013.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_090_014",
+   "category": "quran",
+   "surah": 90,
+   "ayah": 14,
+   "arabic": "أَوْ إِطْعَـٰمٌ فِى يَوْمٍ ذِى مَسْغَبَةٍ",
+   "transliteration": null,
+   "hindi": "या किसी भूख वाले दिन में खाना खिलाना है।",
+   "hindi_footnotes": null,
+   "urdu": "یا بھوک والے دن کھانا کھلانا.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/090_014.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_090_015",
+   "category": "quran",
+   "surah": 90,
+   "ayah": 15,
+   "arabic": "يَتِيمًا ذَا مَقْرَبَةٍ",
+   "transliteration": null,
+   "hindi": "किसी रिश्तेदार अनाथ को।",
+   "hindi_footnotes": null,
+   "urdu": "کسی رشتہ دار یتیم کو.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/090_015.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_090_016",
+   "category": "quran",
+   "surah": 90,
+   "ayah": 16,
+   "arabic": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+   "transliteration": null,
+   "hindi": "या मिट्टी में लथड़े हुए निर्धन को।[3]",
+   "hindi_footnotes": "[3] (8-16) इन आयतों में फरमाया गया है कि इनसान को ज्ञान और चिंतन के साधन और योग्यताएँ देकर हमने उसके सामने भलाई तथा बुराई के दोनों मार्ग खोल दिए हैं, एक नैतिक पतन की ओर ले जाता है और उसमें मन को अति स्वाद मिलता है। दूसरा नैतिक ऊँचाईयों की राह जिस में कठिनाईयाँ हैं। और उसी को घाटी कहा गया है। जिसमें प्रवेश करने वालों के कर्तव्य में है कि दासों को मुक्त करें, निर्धनों को भोजन कराएँ इत्यादि, वही लोग स्वर्गवासी हैं। और वे जिन्होंने अल्लाह की आयतों का इनकार किया, वे नरकवासी हैं। आयत संख्या 17 का अर्थ यह है कि सत्य विश्वास (ईमान) के बिना कोई सत्कर्म मान्य नहीं है। इसमें सुखी समाज की विशेषता भी बताई गई है कि दूसरे को सहनशीलता तथा दया का उपदेश दिया जाए और अल्लाह पर सत्य विश्वास रखा जाए।",
+   "urdu": "یا خاکسار مسکین کو.[1]",
+   "urdu_footnotes": "[1] مَسْغَبَةٍ، مَجَاعَةٍ (بھوک) يَوْمٍ ذِي مَسْغَبَةٍ، بھوک والے دن۔ ذَا مَتْرَبَةٍ (مٹی والا) یعنی جو فقر وغربت کی وجہ سے مٹی زمین پر پڑا ہو۔ اس کا گھر بار بھی نہ ہو۔ مطلب یہ ہے کہ کسی گردن کو آزاد کر دینا، کسی بھوکے کو، رشتے دار یتیم کو یا مسکین کو کھانا کھلا دینا، یہ دشوار گزار گھاٹی میں داخل ہونا ہے جس کے ذریعے سے انسان جہنم سے بچ کر جنت میں جا پہنچے گا۔ یتیم کی کفالت ویسے ہی بڑے اجر کا کام ہے، لیکن اگر وہ رشتے دار بھی ہوں تو اس کی کفالت کا اجر بھی دگنا ہے۔ ایک صدقے کا، دوسرا صلہ رحمی کا۔ اسی طرح غلام آزاد کرانے کی بھی بڑی فضیلت احادیث میں آئی ہے۔ آج کل اس کی ایک صورت کسی مقروض کو قرض کے بوجھ سے نجات دلا دینا ہو سکتی ہے، یہ بھی ایک گونہ فَكُّ رَقَبَةٍ ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/090_016.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_090_017",
+   "category": "quran",
+   "surah": 90,
+   "ayah": 17,
+   "arabic": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+   "transliteration": null,
+   "hindi": "फिर वह उन लोगों में से हो, जो ईमान लाए और एक-दूसरे को धैर्य रखने की सलाह दी और एक-दूसरे को दया करने की सलाह दी।",
+   "hindi_footnotes": null,
+   "urdu": "پھر ان لوگوں میں سے ہو جاتا جو ایمان ﻻتے[1] اور ایک دوسرے کو صبر کی اور رحم کرنے کی وصیت کرتے ہیں.[2]",
+   "urdu_footnotes": "[1] اس سے معلوم ہوا کہ مذکورہ اعمال خیر، اسی وقت نافع اور اخروی سعادت کا باعث ہوں گے جب ان کا کرنے والا صاحب ایمان ہوگا۔\n[2] اہل ایمان کی صفت ہے کہ وہ ایک دوسرے کو صبر کی اور رحم کی تلقین کرتے ہیں۔",
+   "audio_file": "audio/quran/ar.alafasy/090_017.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_090_018",
+   "category": "quran",
+   "surah": 90,
+   "ayah": 18,
+   "arabic": "أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْمَيْمَنَةِ",
+   "transliteration": null,
+   "hindi": "यही लोग दाहिने हाथ वाले (सौभाग्यशाली) हैं।",
+   "hindi_footnotes": null,
+   "urdu": "یہی لوگ ہیں دائیں بازو والے (خوش بختی والے).",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/090_018.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_090_019",
+   "category": "quran",
+   "surah": 90,
+   "ayah": 19,
+   "arabic": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِنَا هُمْ أَصْحَـٰبُ ٱلْمَشْـَٔمَةِ",
+   "transliteration": null,
+   "hindi": "और जिन लोगों ने हमारी आयतों का इनकार किया, वही लोग बाएँ हाथ वाले (दुर्भाग्यशाली) हैं।",
+   "hindi_footnotes": null,
+   "urdu": "اور جن لوگوں نے ہماری آیتوں کے ساتھ کفر کیا یہ کم بختی والے ہیں.",
+   "urdu_footnotes": null,
+   "audio_file": "audio/quran/ar.alafasy/090_019.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_090_020",
+   "category": "quran",
+   "surah": 90,
+   "ayah": 20,
+   "arabic": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌۢ",
+   "transliteration": null,
+   "hindi": "उनपर (हर ओर से) बंद की हुई आग होगी।",
+   "hindi_footnotes": null,
+   "urdu": "انہی پر آگ ہوگی جو چاروں طرف سے گھیری[1] ہوئی ہوگی.",
+   "urdu_footnotes": "[1] مُؤْصَدَةٌ کے معنی مُغْلَقَةٌ ( بند ) یعنی ان کو آگ میں ڈال کر چاروں طرف سے بند کر دیا جائے گا، تاکہ ایک تو آگ کی پوری شدت وحرارت ان کو پہنچے۔ دوسرے، وہ بھاگ کر کہیں نہ جا سکیں۔",
+   "audio_file": "audio/quran/ar.alafasy/090_020.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  }
+ ]
+}

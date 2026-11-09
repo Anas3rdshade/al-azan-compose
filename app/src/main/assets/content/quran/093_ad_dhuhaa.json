@@ -1,0 +1,220 @@
+{
+ "surah": 93,
+ "name_arabic": "سُورَةُ الضُّحَىٰ",
+ "name_en": "Ad-Dhuhaa",
+ "translation_versions": {
+  "hindi_omari": "1.1.5",
+  "urdu_junagarhi": "1.1.3"
+ },
+ "ayahs": [
+  {
+   "id": "quran_093_001",
+   "category": "quran",
+   "surah": 93,
+   "ayah": 1,
+   "arabic": "بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ وَٱلضُّحَىٰ",
+   "transliteration": null,
+   "hindi": "कस़म है धूप चढ़ने के समय की!",
+   "hindi_footnotes": null,
+   "urdu": "قسم ہے چاشت کے وقت کی.[1]",
+   "urdu_footnotes": "[1] چاشت ( ضُحًى) اس وقت کو کہتے ہیں، جب سورج بلند ہوتا ہے۔ یہاں مراد پورا دن ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/093_001.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_093_002",
+   "category": "quran",
+   "surah": 93,
+   "ayah": 2,
+   "arabic": "وَٱلَّيْلِ إِذَا سَجَىٰ",
+   "transliteration": null,
+   "hindi": "और क़सम है रात की, जब वह छा जाए।",
+   "hindi_footnotes": null,
+   "urdu": "اور قسم ہے رات کی جب چھا جائے.[1]",
+   "urdu_footnotes": "[1] سَجَى کے معنی ہیں سکن، جب ساکن ہو جائے۔ یعنی جب اندھیرا مکمل چھا جائے، کیونکہ اس وقت ہر چیز ساکن ہو جاتی ہے۔",
+   "audio_file": "audio/quran/ar.alafasy/093_002.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_093_003",
+   "category": "quran",
+   "surah": 93,
+   "ayah": 3,
+   "arabic": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+   "transliteration": null,
+   "hindi": "(ऐ नबी!) तेरे पालनहार ने तुझे न तो छोड़ा और न नाराज़ हुआ।",
+   "hindi_footnotes": null,
+   "urdu": "نہ تو تیرے رب نے تجھے چھوڑا ہے اور نہ وه بیزار ہو گیا ہے.[1]",
+   "urdu_footnotes": "[1] جیسا کہ کافر سمجھ رہے ہیں۔",
+   "audio_file": "audio/quran/ar.alafasy/093_003.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_093_004",
+   "category": "quran",
+   "surah": 93,
+   "ayah": 4,
+   "arabic": "وَلَلْـَٔاخِرَةُ خَيْرٌ لَّكَ مِنَ ٱلْأُولَىٰ",
+   "transliteration": null,
+   "hindi": "और निश्चित रूप से आख़िरत आपके लिए दुनिया से बेहतर है।",
+   "hindi_footnotes": null,
+   "urdu": "یقیناً تیرے لئے انجام آغاز سے بہتر ہوگا.[1]",
+   "urdu_footnotes": "[1] یا آخرت دنیا سے بہتر ہے۔ دونوں مفہوم معانی کے اعتبار سے صحیح ہیں۔",
+   "audio_file": "audio/quran/ar.alafasy/093_004.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_093_005",
+   "category": "quran",
+   "surah": 93,
+   "ayah": 5,
+   "arabic": "وَلَسَوْفَ يُعْطِيكَ رَبُّكَ فَتَرْضَىٰٓ",
+   "transliteration": null,
+   "hindi": "और निश्चय तेरा पालनहार तुझे प्रदान करेगा, तो तू प्रसन्न हो जाएगा।",
+   "hindi_footnotes": null,
+   "urdu": "تجھے تیرا رب بہت جلد (انعام) دے گا اور تو راضی (وخوش) ہو جائے گا.[1]",
+   "urdu_footnotes": "[1] اس سے دنیا کی فتوحات اور آخرت کا اجر وثواب مراد ہے۔ اس میں وہ حق شفاعت بھی داخل ہے جو آپ (صلى الله عليه وسلم) کو اپنی امت کے گناہ گاروں کے لئے ملے گا۔",
+   "audio_file": "audio/quran/ar.alafasy/093_005.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_093_006",
+   "category": "quran",
+   "surah": 93,
+   "ayah": 6,
+   "arabic": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+   "transliteration": null,
+   "hindi": "क्या उसने आपको अनाथ पाकर शरण नहीं दी?",
+   "hindi_footnotes": null,
+   "urdu": "کیا اس نے تجھے یتیم پا کر جگہ نہیں دی.[1]",
+   "urdu_footnotes": "[1] یعنی باپ کے سہارے سے بھی تو محروم تھا، ہم نے تیری دست گیری اور چارہ سازی کی۔",
+   "audio_file": "audio/quran/ar.alafasy/093_006.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_093_007",
+   "category": "quran",
+   "surah": 93,
+   "ayah": 7,
+   "arabic": "وَوَجَدَكَ ضَآلًّا فَهَدَىٰ",
+   "transliteration": null,
+   "hindi": "और आपको मार्ग से अनभिज्ञ पाया, तो सीधा मार्ग दिखाया।",
+   "hindi_footnotes": null,
+   "urdu": "اور تجھے راه بھوﻻ پا کر ہدایت نہیں دی.[1]",
+   "urdu_footnotes": "[1] یعنی تجھے دین شریعت اور ایمان کا پتہ نہیں تھا، ہم نے تجھے راہ یاب کیا، نبوت سے نوازا اور کتاب نازل کی، ورنہ اس سے قبل تو ہدایت کے لئے سرگرداں تھا۔",
+   "audio_file": "audio/quran/ar.alafasy/093_007.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_093_008",
+   "category": "quran",
+   "surah": 93,
+   "ayah": 8,
+   "arabic": "وَوَجَدَكَ عَآئِلًا فَأَغْنَىٰ",
+   "transliteration": null,
+   "hindi": "और उसने आपको निर्धन पाया, तो संपन्न कर दिया।",
+   "hindi_footnotes": null,
+   "urdu": "اور تجھے نادار پاکر تونگر نہیں بنا دیا؟[1]",
+   "urdu_footnotes": "[1] تونگر کا مطلب ہے، اپنے سوا تجھ کو ہر ایک سے بےنیاز کر دیا، پس تو فقر میں صابر اور غنا میں شاکر رہا۔ جیسے خود نبی (صلى الله عليه وسلم) کا بھی فرمان ہے کہ تونگری، ساز وسامان کی کثرت کا نام نہیں ہے، اصل تونگری دل کی تونگری ہے۔ ( صحيح مسلم، كتاب الزكاة، باب ليس الغنى عن كثرة العرض ) ۔",
+   "audio_file": "audio/quran/ar.alafasy/093_008.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_093_009",
+   "category": "quran",
+   "surah": 93,
+   "ayah": 9,
+   "arabic": "فَأَمَّا ٱلْيَتِيمَ فَلَا تَقْهَرْ",
+   "transliteration": null,
+   "hindi": "अतः आप अनाथ पर कठोरता न दिखाएँ।[1]",
+   "hindi_footnotes": "[1] (1-9) इन आयतों में अल्लाह ने नबी सल्लल्लाहु अलैहि व सल्लम से फरमाया है कि तुम्हें यह चिंता कैसे हो गई है कि हम अप्रसन्न हो गए? हमने तो तुम्हारे जन्म के दिन से निरंतर तुमपर उपकार किए हैं। तुम अनाथ थे, तो तुम्हारे पालन और रक्षा की व्यवस्था की। राह से अंजान थे, तो राह दिखाई। निर्धन थे, तो धनी बना दिया। ये बातें बता रही हैं कि तुम आरंभ ही से हमारे प्रियवर हो और तुमपर हमारा उपकार निरंतर रहा है।",
+   "urdu": "پس یتیم پر تو بھی سختی نہ کیا کر.[1]",
+   "urdu_footnotes": "[1] بلکہ اس کے ساتھ نرمی واحسان کا معاملہ کر۔",
+   "audio_file": "audio/quran/ar.alafasy/093_009.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_093_010",
+   "category": "quran",
+   "surah": 93,
+   "ayah": 10,
+   "arabic": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنْهَرْ",
+   "transliteration": null,
+   "hindi": "और माँगने वाले को न झिड़कें।",
+   "hindi_footnotes": null,
+   "urdu": "اور نہ سوال کرنے والے کو ڈانٹ ڈپٹ.[1]",
+   "urdu_footnotes": "[1] یعنی اس سے سختی اور تکبر نہ کر، اور نہ درشت اور تلخ لہجہ اختیار کر۔ بلکہ جواب بھی دینا ہو تو پیار اور محبت سے دو۔",
+   "audio_file": "audio/quran/ar.alafasy/093_010.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  },
+  {
+   "id": "quran_093_011",
+   "category": "quran",
+   "surah": 93,
+   "ayah": 11,
+   "arabic": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ",
+   "transliteration": null,
+   "hindi": "और अपने रब के उपकार का वर्णन करते रहें।[2]",
+   "hindi_footnotes": "[2] (10-11) इन अंतिम आयतों में नबी सल्लल्लाहु अलैहि व सल्लम को बताया गया है कि हमने तुमपर जो उपकार किए हैं, उनके बदले में तुम अल्लाह की उत्पत्ति के साथ दया और उपकार करो यही हमारे उपकारों की कृतज्ञता होगी।",
+   "urdu": "اور اپنے رب کی نعمتوں کو بیان کرتا ره.[1]",
+   "urdu_footnotes": "[1] یعنی اللہ نے تجھ پر جو احسانات کئے ہیں، مثلاً ہدایت اور رسالت ونبوت سے نوازا، یتیمی کے باوجود تیری کفالت وسرپرستی کا انتظام کیا۔ تجھے قناعت وتونگری عطا کی وغیرہ۔ انہیں جذبات تشکر وممنونیت کے ساتھ بیان کرتا رہ۔ اس سے معلوم ہوا کہ اللہ کے انعامات کا تذکرہ اور ان کا اظہار اللہ کو پسند ہے لیکن تکبر اور فخر کے طور پر نہیں بلکہ اللہ کے فضل وکرم اور اس کے احسان سے زیر بار ہوتے ہوئے اور اس کی قدرت وطاقت سے ڈرتے ہوئے کہ کہیں وہ ہمیں ان نعمتوں سے محروم نہ کر دے۔",
+   "audio_file": "audio/quran/ar.alafasy/093_011.mp3",
+   "source_id": {
+    "arabic": "tanzil_uthmani",
+    "hindi": "quranenc_hindi_omari",
+    "urdu": "quranenc_urdu_junagarhi",
+    "audio": "islamicnetwork_alafasy"
+   }
+  }
+ ]
+}
