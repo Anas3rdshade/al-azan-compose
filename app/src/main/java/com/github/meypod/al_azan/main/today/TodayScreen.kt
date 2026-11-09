@@ -30,6 +30,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.alpha
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.graphics.luminance
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
@@ -111,6 +112,14 @@ fun TodayScreen(
                     formatInstant(uiState.viewingInstant, uiState.locale, "gregorian", "EEEdMMM", uiState.numberingSystem),
                     fontSize = 13.sp,
                     color = MaterialTheme.colorScheme.onSurfaceVariant,
+                )
+            }
+            val dark = MaterialTheme.colorScheme.background.luminance() < 0.5f
+            IconButton(onClick = { onAction(HomeUiAction.OnSetDarkTheme(!dark)) }) {
+                Icon(
+                    painterResource(if (dark) R.drawable.outline_light_mode_24 else R.drawable.outline_dark_mode_24),
+                    contentDescription = stringResource(R.string.today_toggle_theme),
+                    tint = shade.accent,
                 )
             }
         }

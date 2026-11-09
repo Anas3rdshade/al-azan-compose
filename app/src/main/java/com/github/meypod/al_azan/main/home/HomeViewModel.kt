@@ -11,6 +11,7 @@ import com.github.meypod.al_azan.core.domain.model.adhan.timesOrNull
 import com.github.meypod.al_azan.core.domain.model.alarm.AlarmSettings
 import com.github.meypod.al_azan.core.domain.model.alarm.SkippedAlarm
 import com.github.meypod.al_azan.core.domain.model.settings.Settings
+import com.github.meypod.al_azan.core.domain.model.settings.ThemeColor
 import com.github.meypod.al_azan.core.domain.repository.AlarmRepository
 import com.github.meypod.al_azan.core.domain.repository.AlarmSettingsRepository
 import com.github.meypod.al_azan.core.domain.repository.CalculationSettingsRepository
@@ -175,6 +176,9 @@ class HomeViewModel
             HomeUiAction.OnDeveloperLinkClick -> onDeveloperLinkClick()
             is HomeUiAction.OnTogglePrayed -> onTogglePrayed(action.prayer)
             is HomeUiAction.OnToggleAdhan -> onToggleAdhan(action.prayer)
+            is HomeUiAction.OnSetDarkTheme -> viewModelScope.launch {
+                settingsRepository.update { it.copy(themeColor = if (action.dark) ThemeColor.Dark else ThemeColor.Light) }
+            }
         }
     }
 

@@ -830,4 +830,9 @@
     <string name="dua_cat_lavatory">बैतुलख़ला</string>
     <string name="dua_cat_sleep">सोने से पहले</string>
     <string name="dua_cat_waking_up">जागने पर</string>
+    <string name="today_toggle_theme">दिन / रात बदलें</string>
+    <string name="dua_search">दुआ खोजें</string>
+    <string name="dua_search_clear">खोज साफ़ करें</string>
+    <string name="dua_all">सभी</string>
+    <string name="dua_no_match">कोई दुआ नहीं मिली</string>
 </resources>

@@ -10,9 +10,14 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.LazyRow
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.FilledTonalButton
+import androidx.compose.material3.FilterChip
+import androidx.compose.material3.Icon
+import androidx.compose.material3.IconButton
+import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Surface
 import androidx.compose.material3.Text
@@ -27,6 +32,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalConfiguration
 import androidx.compose.ui.res.dimensionResource
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
@@ -70,7 +76,17 @@ fun DuasScreen(vm: ContentViewModel) {
     val lang = translationLang(vm)
     // English UI shows the English title; in Hindi/Urdu the localized category header gives the context.
     val showTitle = LocalConfiguration.current.locales[0].language == "en"
-    val groups = duas.groupBy { it.category }
+    var query by rememberSaveable { mutableStateOf("") }
+    var picked by rememberSaveable { mutableStateOf<String?>(null) }
+    val names = duas.map { it.category }.distinct().associateWith { stringResource(categoryName(it)) }
+    val q = query.trim()
+    val groups = duas
+        .filter { picked == null || it.category == picked }
+        .filter { d ->
+            q.isEmpty() || listOfNotNull(d.titleEn, d.transliteration, d.meaning(lang), names[d.category])
+                .any { it.contains(q, ignoreCase = true) }
+        }
+        .groupBy { it.category }
     ScreenScaffold(
         title = stringResource(R.string.tab_duas),
         onBackClick = {},
@@ -84,6 +100,36 @@ fun DuasScreen(vm: ContentViewModel) {
             verticalArrangement = Arrangement.spacedBy(10.dp),
             modifier = Modifier.fillMaxSize(),
         ) {
+            item(key = "search") {
+                OutlinedTextField(
+                    value = query,
+                    onValueChange = { query = it },
+                    placeholder = { Text(stringResource(R.string.dua_search)) },
+                    singleLine = true,
+                    trailingIcon = {
+                        if (query.isNotEmpty()) {
+                            IconButton(onClick = { query = "" }) {
+                                Icon(painterResource(R.drawable.baseline_close_24), stringResource(R.string.dua_search_clear))
+                            }
+                        }
+                    },
+                    shape = RoundedCornerShape(50),
+                    modifier = Modifier.fillMaxWidth(),
+                )
+            }
+            item(key = "chips") {
+                LazyRow(horizontalArrangement = Arrangement.spacedBy(8.dp)) {
+                    item { FilterChip(selected = picked == null, onClick = { picked = null }, label = { Text(stringResource(R.string.dua_all)) }) }
+                    items(names.keys.toList()) { c ->
+                        FilterChip(selected = picked == c, onClick = { picked = if (picked == c) null else c }, label = { Text(names.getValue(c)) })
+                    }
+                }
+            }
+            if (groups.isEmpty()) {
+                item(key = "none") {
+                    Text(stringResource(R.string.dua_no_match), color = MaterialTheme.colorScheme.onSurfaceVariant, modifier = Modifier.padding(top = 16.dp))
+                }
+            }
             groups.forEach { (category, list) ->
                 item(key = "h_$category") {
                     Text(

@@ -846,4 +846,9 @@
     <string name="dua_cat_lavatory">Lavatory</string>
     <string name="dua_cat_sleep">Before sleep</string>
     <string name="dua_cat_waking_up">Waking up</string>
+    <string name="today_toggle_theme">Switch day / night</string>
+    <string name="dua_search">Search duas</string>
+    <string name="dua_search_clear">Clear search</string>
+    <string name="dua_all">All</string>
+    <string name="dua_no_match">No dua matches</string>
 </resources>

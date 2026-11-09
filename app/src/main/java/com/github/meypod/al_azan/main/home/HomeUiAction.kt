@@ -27,4 +27,5 @@ sealed interface HomeUiAction {
     object OnDeveloperLinkClick : HomeUiAction
     data class OnTogglePrayed(val prayer: Prayer) : HomeUiAction
     data class OnToggleAdhan(val prayer: Prayer) : HomeUiAction
+    data class OnSetDarkTheme(val dark: Boolean) : HomeUiAction
 }

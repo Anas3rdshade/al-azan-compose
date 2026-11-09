@@ -830,4 +830,9 @@
     <string name="dua_cat_lavatory">بیت الخلا</string>
     <string name="dua_cat_sleep">سونے سے پہلے</string>
     <string name="dua_cat_waking_up">جاگنے پر</string>
+    <string name="today_toggle_theme">دن / رات بدلیں</string>
+    <string name="dua_search">دعا تلاش کریں</string>
+    <string name="dua_search_clear">تلاش صاف کریں</string>
+    <string name="dua_all">سب</string>
+    <string name="dua_no_match">کوئی دعا نہیں ملی</string>
 </resources>
