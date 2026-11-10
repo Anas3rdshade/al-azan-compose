@@ -9,7 +9,7 @@
     <string name="faraiz_namaz">नमाज़</string>
     <string name="faraiz_farz_tag">फ़र्ज़</string>
     <string name="faraiz_steps">क़दम ब क़दम</string>
-    <string name="faraiz_legend">सुनहरा = फ़र्ज़। सुनहरी डैश वाली लकीर वह हद है जहाँ तक धोना ज़रूरी है।</string>
+    <string name="faraiz_legend">सुनहरा = फ़र्ज़। तस्वीर में सुनहरी लकीर वह हद है जहाँ तक धोना ज़रूरी है।</string>
     <string name="faraiz_callout_title">कुल्ली और नाक में पानी</string>
     <string name="faraiz_callout">वुज़ू में कुल्ली और नाक में पानी डालना सुन्नत है। ग़ुस्ल में ये फ़र्ज़ हैं, इसलिए इन्हें न छोड़ें।</string>
 

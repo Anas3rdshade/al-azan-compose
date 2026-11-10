@@ -2,7 +2,7 @@ package com.github.meypod.al_azan.main.namaz
 
 import androidx.annotation.ArrayRes
 import androidx.annotation.StringRes
-import androidx.compose.foundation.Canvas
+import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
 import androidx.compose.foundation.layout.Arrangement
@@ -27,7 +27,8 @@ import androidx.compose.ui.draw.clip
 import androidx.compose.ui.res.stringArrayResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
-import androidx.compose.ui.text.rememberTextMeasurer
+import androidx.compose.ui.layout.ContentScale
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import com.github.meypod.al_azan.R
 import com.github.meypod.al_azan.core.presentation.LocalShadeColors
@@ -113,18 +114,8 @@ private fun KulliCallout() {
 }
 
 @Composable
-private fun Picture(pic: Pic, farz: Boolean, modifier: Modifier) {
-    val shade = LocalShadeColors.current
-    val ink = MaterialTheme.colorScheme.onSurface
-    val water = MaterialTheme.colorScheme.onSurfaceVariant
-    val measurer = rememberTextMeasurer()
-    Canvas(
-        modifier
-            .clip(RoundedCornerShape(12.dp))
-            .background(shade.pill)
-            .padding(6.dp),
-    ) { drawPic(pic, ink, if (farz) shade.gold else ink, shade.gold, water, measurer) }
-}
+private fun Picture(pic: Pic, modifier: Modifier) =
+    Image(painterResource(pic.res), null, modifier.clip(RoundedCornerShape(12.dp)), contentScale = ContentScale.Crop)
 
 @Composable
 private fun FarzTag() {
@@ -147,7 +138,7 @@ private fun Steps(@StringRes title: Int, @ArrayRes captions: Int, steps: List<St
         Text(stringResource(R.string.faraiz_legend), style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
         steps.forEachIndexed { i, s ->
             Row(horizontalArrangement = Arrangement.spacedBy(12.dp), verticalAlignment = Alignment.CenterVertically) {
-                if (s.pic != Pic.None) Picture(s.pic, s.farz, Modifier.size(92.dp))
+                if (s.pic != Pic.None) Picture(s.pic, Modifier.size(92.dp))
                 Column(Modifier.weight(1f), verticalArrangement = Arrangement.spacedBy(4.dp)) {
                     Text("${i + 1}. ${text[i]}", style = MaterialTheme.typography.bodyMedium)
                     if (s.farz) FarzTag()
@@ -176,7 +167,7 @@ private fun Items(@StringRes title: Int, @ArrayRes items: Int, farz: Boolean = f
 private fun DontMiss() {
     var ticked by rememberSaveable { mutableIntStateOf(0) } // bit i = item i checked
     Section(R.string.faraiz_ghusl_dont_miss) {
-        Picture(Pic.DontMiss, false, Modifier.size(150.dp).align(Alignment.CenterHorizontally))
+        Picture(Pic.DontMiss, Modifier.size(150.dp).align(Alignment.CenterHorizontally))
         stringArrayResource(R.array.faraiz_ghusl_dont_miss_items).forEachIndexed { i, item ->
             val bit = 1 shl i
             Row(verticalAlignment = Alignment.CenterVertically) {
@@ -196,7 +187,7 @@ private fun Positions() {
             Row(horizontalArrangement = Arrangement.spacedBy(10.dp)) {
                 pair.forEach { (i, s) ->
                     Column(Modifier.weight(1f), horizontalAlignment = Alignment.CenterHorizontally, verticalArrangement = Arrangement.spacedBy(4.dp)) {
-                        Picture(s.pic, s.farz, Modifier.fillMaxWidth().aspectRatio(1f))
+                        Picture(s.pic, Modifier.fillMaxWidth().aspectRatio(1f))
                         Text("${i + 1}. ${text[i]}", style = MaterialTheme.typography.bodySmall)
                         if (s.farz) FarzTag()
                     }

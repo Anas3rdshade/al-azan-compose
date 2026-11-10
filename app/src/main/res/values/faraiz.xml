@@ -9,7 +9,7 @@
     <string name="faraiz_namaz">Namaz</string>
     <string name="faraiz_farz_tag">Farz</string>
     <string name="faraiz_steps">Step by step</string>
-    <string name="faraiz_legend">Gold = farz. The dashed gold line is the limit that must be covered.</string>
+    <string name="faraiz_legend">Gold = farz. The gold line in a picture is the limit that must be covered.</string>
     <string name="faraiz_callout_title">Kulli and water in the nose</string>
     <string name="faraiz_callout">In wuzu, kulli and water in the nose are sunnat. In ghusl they are farz, so do not leave them out.</string>
 
