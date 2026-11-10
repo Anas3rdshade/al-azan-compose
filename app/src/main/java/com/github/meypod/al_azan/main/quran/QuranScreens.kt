@@ -50,6 +50,7 @@ import com.github.meypod.al_azan.core.data.audio.AdhanPreviewPlaybackService
 import com.github.meypod.al_azan.core.data.content.Ayah
 import com.github.meypod.al_azan.core.data.content.Surah
 import com.github.meypod.al_azan.core.presentation.Amiri
+import com.github.meypod.al_azan.core.presentation.NotoNaskhArabic
 import com.github.meypod.al_azan.core.presentation.LocalShadeColors
 import com.github.meypod.al_azan.core.presentation.components.ScreenScaffold
 import com.github.meypod.al_azan.core.presentation.navigation.NavigationController
@@ -57,7 +58,7 @@ import com.github.meypod.al_azan.core.presentation.navigation.Route
 import kotlinx.coroutines.FlowPreview
 import kotlinx.coroutines.flow.debounce
 
-val ArabicStyle = TextStyle(fontFamily = Amiri, fontSize = 26.sp, lineHeight = 50.sp, textDirection = TextDirection.Rtl)
+val ArabicStyle = TextStyle(fontFamily = NotoNaskhArabic, fontWeight = FontWeight.Bold, fontSize = 26.sp, lineHeight = 50.sp, textDirection = TextDirection.Rtl)
 
 /** Translation in use: the saved choice, else the app language's default ("ur" for Urdu, otherwise "hi"). */
 @Composable
@@ -135,7 +136,7 @@ private fun SurahRow(s: Surah) {
                 Text(s.nameEn, style = MaterialTheme.typography.titleSmall)
                 Text(stringResource(R.string.quran_ayahs_n, s.ayahs.size), style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
             }
-            Text(s.nameArabic, fontFamily = Amiri, fontSize = 22.sp, color = shade.accent)
+            Text(s.nameArabic, fontFamily = NotoNaskhArabic, fontSize = 22.sp, color = shade.accent)
         }
     }
 }
@@ -200,7 +201,7 @@ private fun ReaderHeader(s: Surah, onPlay: () -> Unit) {
             .padding(18.dp),
         horizontalAlignment = Alignment.CenterHorizontally,
     ) {
-        Text(s.nameArabic, fontFamily = Amiri, fontSize = 34.sp, color = shade.heroFg)
+        Text(s.nameArabic, fontFamily = NotoNaskhArabic, fontSize = 34.sp, color = shade.heroFg)
         Text(stringResource(R.string.quran_ayahs_n, s.ayahs.size), color = shade.heroFg, style = MaterialTheme.typography.bodyMedium)
         FilledTonalButton(onClick = onPlay, modifier = Modifier.padding(top = 10.dp)) {
             Icon(painterResource(R.drawable.outline_play_arrow_24), contentDescription = null)

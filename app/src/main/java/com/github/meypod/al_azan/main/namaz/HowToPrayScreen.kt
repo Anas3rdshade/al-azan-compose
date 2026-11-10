@@ -43,6 +43,7 @@ import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import com.github.meypod.al_azan.R
 import com.github.meypod.al_azan.core.data.content.Dua
 import com.github.meypod.al_azan.core.data.content.Surah
+import com.github.meypod.al_azan.core.presentation.Amiri
 import com.github.meypod.al_azan.core.presentation.LocalShadeColors
 import com.github.meypod.al_azan.core.presentation.components.BottomSelect
 import com.github.meypod.al_azan.core.presentation.components.ScreenScaffold
@@ -330,7 +331,7 @@ private fun StepCard(step: PrayStep, prayer: Prayer, women: Boolean, mode: Mode,
                 Surface(color = shade.pill, shape = RoundedCornerShape(12.dp), modifier = Modifier.fillMaxWidth()) {
                     Column(Modifier.padding(10.dp), verticalArrangement = Arrangement.spacedBy(4.dp)) {
                         if (times > 1) Text("×$times", style = MaterialTheme.typography.labelLarge, fontWeight = FontWeight.Bold, color = shade.gold)
-                        Text(r.arabic, style = ArabicStyle, modifier = Modifier.fillMaxWidth())
+                        Text(r.arabic, style = ArabicStyle.copy(fontFamily = Amiri, fontWeight = null), modifier = Modifier.fillMaxWidth())
                         r.translit(lang)?.let { Text(it, style = MaterialTheme.typography.bodyMedium, fontWeight = FontWeight.Medium) }
                         Text(
                             r.meaning(lang),

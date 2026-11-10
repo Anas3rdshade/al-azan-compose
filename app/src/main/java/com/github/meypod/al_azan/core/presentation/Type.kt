@@ -93,6 +93,9 @@ val Amiri = FontFamily(
     Font(R.font.amiri_bold, FontWeight.Bold),
 )
 
+/** Bundled Arabic text font (OFL) for Quran ayahs and duas; static Bold instance of Noto Naskh Arabic. */
+val NotoNaskhArabic = FontFamily(Font(R.font.noto_naskh_arabic_bold, FontWeight.Bold))
+
 /** Default typography: Manrope for every style. */
 val ManropeTypography = Typography.withFontFamily(Manrope)
 
