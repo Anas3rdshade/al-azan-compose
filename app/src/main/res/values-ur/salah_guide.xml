@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- How to pray pager (P3 of 07_Salah_Guide_Plan.md, Hanafi). Keep keys in sync across values, values-hi, values-ur. -->
+<resources>
+    <string name="sg_title">نماز کیسے پڑھیں</string>
+    <string name="sg_intro">ہر قدم تصویر کے ساتھ، کیا پڑھنا ہے اور کتنی بار۔</string>
+    <string name="sg_open">شروع کریں</string>
+    <string name="sg_prayer">نماز</string>
+    <string name="sg_men">مرد</string>
+    <string name="sg_women">عورتیں</string>
+    <string name="sg_standing">کھڑے ہو کر</string>
+    <string name="sg_ground">زمین پر بیٹھ کر</string>
+    <string name="sg_chair">کرسی پر</string>
+    <string name="sg_seated_draft">یہاں عورتوں، بیٹھ کر اور کرسی والے طریقے مسودہ ہیں، امام صاحب کی جانچ باقی ہے۔</string>
+    <string name="sg_rakat">رکعت %1$d / %2$d</string>
+    <string name="sg_step">%1$d / %2$d</string>
+    <string name="sg_prev">پیچھے</string>
+    <string name="sg_next">آگے</string>
+    <string name="sg_aloud">امام اور اکیلا مرد اسے آواز سے پڑھیں۔</string>
+    <string name="sg_silent">اسے آہستہ، ہونٹ ہلا کر پڑھیں۔</string>
+    <string name="sg_witr">وتر</string>
+    <string name="sg_eid">عید</string>
+    <string name="sg_janazah">جنازہ</string>
+    <string name="sg_special_title">دوسری نمازیں</string>
+    <string name="sg_special_method">انہیں نفل کی طرح دو دو رکعت پڑھیں، ہر رکعت میں فاتحہ کے بعد سورت ملائیں۔ ہر دو رکعت کے لیے فجر والے قدم دیکھیں۔</string>
+    <string name="sg_niyyah_t">نیت</string>
+    <string name="sg_niyyah">قبلہ رخ ہوں۔ دل میں نیت کریں کہ کون سی نماز اور کتنی رکعت پڑھ رہے ہیں۔ زبان سے کہنا ضروری نہیں۔</string>
+    <string name="sg_takbir_t">تکبیر تحریمہ</string>
+    <string name="sg_takbir_m">دونوں ہاتھ کانوں تک اٹھائیں، انگوٹھے کان کی لو سے لگیں اور ہتھیلیاں قبلہ رخ ہوں، پھر تکبیر کہیں۔</string>
+    <string name="sg_takbir_w">دونوں ہاتھ کندھوں تک اٹھائیں، دوپٹے کے اندر ہی رکھیں، پھر تکبیر کہیں۔</string>
+    <string name="sg_thana_t">ہاتھ باندھیں، ثنا پڑھیں</string>
+    <string name="sg_thana_m">ہاتھ ناف کے نیچے باندھیں، دایاں ہاتھ بائیں پر، بائیں کلائی پکڑ کر۔ سجدے کی جگہ دیکھیں اور ثنا پڑھیں۔</string>
+    <string name="sg_thana_w">ہاتھ سینے پر رکھیں، دائیں ہتھیلی بائیں ہاتھ کی پشت پر۔ سجدے کی جگہ دیکھیں اور ثنا پڑھیں۔</string>
+    <string name="sg_eid_t">زائد تکبیریں</string>
+    <string name="sg_eid1">تین بار تکبیر کہیں، ہر بار ہاتھ کانوں تک اٹھا کر چھوڑ دیں۔ تیسری کے بعد ہاتھ باندھ لیں۔</string>
+    <string name="sg_eid2">سورت کے بعد تین بار ہاتھ اٹھا کر چھوڑتے ہوئے تکبیر کہیں۔ چوتھی تکبیر ہاتھ اٹھائے بغیر کہتے ہوئے رکوع میں جائیں۔</string>
+    <string name="sg_taawwudh_t">تعوذ</string>
+    <string name="sg_taawwudh">قرآن پڑھنے سے پہلے آہستہ اللہ کی پناہ مانگیں۔</string>
+    <string name="sg_fatiha_t">سورۂ فاتحہ</string>
+    <string name="sg_fatiha">آہستہ بسم اللہ پڑھیں، سورۂ فاتحہ پڑھیں، پھر آہستہ آمین کہیں۔</string>
+    <string name="sg_fatiha_next">اس رکعت کے لیے سیدھے کھڑے ہوں۔ آہستہ بسم اللہ پڑھیں، فاتحہ پڑھیں، پھر آہستہ آمین کہیں۔</string>
+    <string name="sg_fatiha_only_seated">اس رکعت میں صرف فاتحہ پڑھیں۔ فرض کی اس رکعت میں سورت نہیں ملائی جاتی۔</string>
+    <string name="sg_fatiha_only">اس رکعت کے لیے کھڑے ہوں اور صرف فاتحہ پڑھیں۔ فرض کی اس رکعت میں سورت نہیں ملائی جاتی۔</string>
+    <string name="sg_surah_t">سورت ملائیں</string>
+    <string name="sg_surah">کوئی بھی سورت یا کم از کم تین چھوٹی آیتیں پڑھیں۔ مثال کے طور پر سورۂ اخلاص دی گئی ہے۔</string>
+    <string name="sg_qunoot_t">دعائے قنوت</string>
+    <string name="sg_qunoot_m">تیسری رکعت میں سورت کے بعد کانوں تک ہاتھ اٹھا کر تکبیر کہیں، پھر ناف کے نیچے ہاتھ باندھ کر دعائے قنوت پڑھیں۔</string>
+    <string name="sg_qunoot_w">تیسری رکعت میں سورت کے بعد کندھوں تک ہاتھ اٹھا کر تکبیر کہیں، پھر سینے پر ہاتھ رکھ کر دعائے قنوت پڑھیں۔</string>
+    <string name="sg_ruku_t">رکوع</string>
+    <string name="sg_ruku_m">تکبیر کہہ کر جھکیں۔ انگلیاں کھول کر گھٹنے پکڑیں، کمر اور سر سیدھ میں رکھیں اور بازو پہلو سے الگ رکھیں۔</string>
+    <string name="sg_ruku_w">تکبیر کہہ کر تھوڑا جھکیں، بس اتنا کہ ہاتھ گھٹنوں تک پہنچیں۔ انگلیاں ملا کر گھٹنوں پر رکھیں اور بازو جسم سے ملے رہیں۔</string>
+    <string name="sg_ruku_ground">تکبیر کہہ کر بیٹھے بیٹھے آگے جھکیں، ہاتھ گھٹنوں پر رکھیں۔</string>
+    <string name="sg_ruku_chair">تکبیر کہہ کر کرسی پر بیٹھے بیٹھے تھوڑا آگے جھکیں، ہاتھ گھٹنوں پر رکھیں۔</string>
+    <string name="sg_qawmah_t">قومہ</string>
+    <string name="sg_qawmah">پہلا کلمہ کہتے ہوئے سیدھے کھڑے ہوں، کھڑے ہو کر دوسرا کہیں۔ ایک لمحہ ٹھہریں۔</string>
+    <string name="sg_qawmah_seated">پہلا کلمہ کہتے ہوئے سیدھے بیٹھیں، پھر دوسرا کہیں۔ ایک لمحہ ٹھہریں۔</string>
+    <string name="sg_sajdah_t">سجدہ</string>
+    <string name="sg_sajdah_m">تکبیر کہہ کر سجدے میں جائیں: پہلے گھٹنے، پھر ہاتھ، پھر دونوں ہاتھوں کے بیچ ناک اور پیشانی۔ بازو پہلو سے الگ، کہنیاں زمین سے اٹھی ہوئی، پاؤں کی انگلیاں قبلہ کی طرف مڑی ہوں۔</string>
+    <string name="sg_sajdah_w">تکبیر کہہ کر سمٹ کر سجدہ کریں: پیٹ رانوں سے ملا ہو، بازو جسم سے ملے اور کلائیاں زمین پر ہوں۔</string>
+    <string name="sg_sajdah_ground">تکبیر کہہ کر سجدے کے لیے جھکیں۔ ہو سکے تو پیشانی زمین پر رکھیں، نہ ہو سکے تو سر رکوع سے زیادہ نیچے جھکائیں۔</string>
+    <string name="sg_sajdah_chair">تکبیر کہہ کر رکوع سے زیادہ نیچے جھکیں۔ پیشانی سے لگانے کے لیے کوئی چیز اوپر نہ اٹھائیں۔</string>
+    <string name="sg_jalsa_t">جلسہ</string>
+    <string name="sg_jalsa_m">تکبیر کہہ کر بائیں پاؤں پر بیٹھیں، دایاں پاؤں کھڑا رکھیں، انگلیاں قبلہ کی طرف، ہاتھ رانوں پر۔ ایک لمحہ ٹھہریں۔</string>
+    <string name="sg_jalsa_w">تکبیر کہہ کر بائیں کولہے پر بیٹھیں، دونوں پاؤں دائیں طرف نکال دیں، ہاتھ رانوں پر۔ ایک لمحہ ٹھہریں۔</string>
+    <string name="sg_jalsa_chair">تکبیر کہہ کر کرسی پر سیدھے بیٹھیں، ہاتھ رانوں پر۔ ایک لمحہ ٹھہریں۔</string>
+    <string name="sg_sajdah2_t">دوسرا سجدہ</string>
+    <string name="sg_sajdah2">تکبیر کہہ کر پہلے کی طرح دوسرا سجدہ کریں۔</string>
+    <string name="sg_qadah1_t">قعدۂ اولیٰ</string>
+    <string name="sg_qadah1">دوسری رکعت کے بعد جلسے کی طرح بیٹھیں اور صرف التحیات پڑھیں۔ “لا الٰہ” پر دائیں ہاتھ کی شہادت کی انگلی اٹھائیں اور “الا اللہ” پر رکھ دیں۔ پھر تکبیر کہہ کر کھڑے ہوں۔</string>
+    <string name="sg_qadah2_t">قعدۂ اخیرہ</string>
+    <string name="sg_qadah2">آخری رکعت کے بعد بیٹھیں اور التحیات پڑھیں (پہلے کی طرح انگلی اٹھائیں)، پھر درود، پھر دعا۔</string>
+    <string name="sg_salam_r_t">دائیں طرف سلام</string>
+    <string name="sg_salam_r">چہرہ دائیں طرف پھیریں، نظر کندھے پر، اور سلام کہیں۔</string>
+    <string name="sg_salam_l_t">بائیں طرف سلام</string>
+    <string name="sg_salam_l">چہرہ بائیں طرف پھیریں اور پھر سلام کہیں۔ نماز پوری ہوئی۔</string>
+    <string name="sg_j1_t">پہلی تکبیر</string>
+    <string name="sg_j1_m">جنازہ کھڑے ہو کر پڑھا جاتا ہے، اس میں رکوع، سجدہ یا قعدہ نہیں۔ کانوں تک ہاتھ اٹھا کر تکبیر کہیں، ناف کے نیچے باندھیں اور ثنا پڑھیں۔</string>
+    <string name="sg_j1_w">جنازہ کھڑے ہو کر پڑھا جاتا ہے، اس میں رکوع، سجدہ یا قعدہ نہیں۔ کندھوں تک ہاتھ اٹھا کر تکبیر کہیں، سینے پر رکھیں اور ثنا پڑھیں۔</string>
+    <string name="sg_j2_t">دوسری تکبیر</string>
+    <string name="sg_j2">ہاتھ اٹھائے بغیر تکبیر کہیں، پھر درود ابراہیمی پڑھیں۔</string>
+    <string name="sg_j3_t">تیسری تکبیر</string>
+    <string name="sg_j3">ہاتھ اٹھائے بغیر تکبیر کہیں، پھر میت کی دعا پڑھیں۔</string>
+    <string name="sg_j4_t">چوتھی تکبیر</string>
+    <string name="sg_j4">ہاتھ اٹھائے بغیر تکبیر کہیں، اس کے بعد کچھ نہ پڑھیں، پھر دونوں طرف سلام پھیریں۔</string>
+    <string-array name="sg_special_names">
+        <item>تہجد</item>
+        <item>تراویح</item>
+        <item>اشراق</item>
+        <item>چاشت</item>
+        <item>اوابین</item>
+        <item>تحیۃ الوضو</item>
+        <item>تحیۃ المسجد</item>
+        <item>استخارہ</item>
+        <item>صلاۃ التسبیح</item>
+        <item>کسوف</item>
+    </string-array>
+    <string-array name="sg_special_details">
+        <item>2 سے 8 رکعت۔ رات کا آخری حصہ، سو کر اٹھنے کے بعد۔</item>
+        <item>رمضان میں 20 رکعت، عشاء کے بعد اور وتر سے پہلے۔</item>
+        <item>2 سے 4 رکعت، سورج نکلنے کے تقریباً 20 منٹ بعد۔</item>
+        <item>2 سے 12 رکعت، دن چڑھنے سے زوال سے پہلے تک۔</item>
+        <item>6 سے 20 رکعت، مغرب کے بعد۔</item>
+        <item>2 رکعت، وضو کے فوراً بعد۔</item>
+        <item>2 رکعت، مسجد میں داخل ہو کر بیٹھنے سے پہلے۔</item>
+        <item>2 رکعت، پھر استخارہ کی دعا، کسی کام کا فیصلہ کرتے وقت۔</item>
+        <item>4 رکعت، کل 300 بار تسبیح کے ساتھ۔</item>
+        <item>سورج گرہن کے وقت 2 رکعت۔</item>
+    </string-array>
+</resources>

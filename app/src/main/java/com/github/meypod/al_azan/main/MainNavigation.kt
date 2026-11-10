@@ -84,6 +84,7 @@ import com.github.meypod.al_azan.main.tabs.MainTabs
 import com.github.meypod.al_azan.main.tabs.MoreTabScreen
 import com.github.meypod.al_azan.main.duas.DuasScreen
 import com.github.meypod.al_azan.main.namaz.FaraizScreen
+import com.github.meypod.al_azan.main.namaz.HowToPrayScreen
 import com.github.meypod.al_azan.main.namaz.NamazScreen
 import com.github.meypod.al_azan.main.quran.ContentViewModel
 import com.github.meypod.al_azan.main.quran.QuranListScreen
@@ -182,6 +183,7 @@ fun MainNavigation(
                 NamazScreen(s, vm::onAction)
             }
             entry<Route.Main.Faraiz> { route -> FaraizScreen(route.topic) }
+            entry<Route.Main.HowToPray> { HowToPrayScreen(hiltViewModel<ContentViewModel>()) }
             entry<Route.Main.More> { MoreTabScreen() }
             entry<Route.Main.SilenceStatus> {
                 val vm = hiltViewModel<SilenceStatusViewModel>()

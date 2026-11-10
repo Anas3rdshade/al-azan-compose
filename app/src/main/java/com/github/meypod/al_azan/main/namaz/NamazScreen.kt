@@ -109,6 +109,12 @@ fun NamazScreen(
                 }
             }
         }
+        Section(R.string.sg_title) {
+            Text(stringResource(R.string.sg_intro), style = MaterialTheme.typography.bodyMedium)
+            FilledTonalButton(onClick = { NavigationController.navigateTo(Route.Main.HowToPray) }) {
+                Text(stringResource(R.string.sg_open))
+            }
+        }
         Section(R.string.qibla) {
             Text(stringResource(R.string.namaz_qibla_desc), style = MaterialTheme.typography.bodyMedium)
             FilledTonalButton(onClick = { NavigationController.navigateTo(Route.Main.Qibla) }) {

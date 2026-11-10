@@ -73,6 +73,10 @@ sealed interface Route : NavKey {
         @Serializable
         data class Faraiz(val topic: Int) : Route
 
+        /** "How to pray" step pager reached from the Namaz tab. */
+        @Serializable
+        data object HowToPray : Route
+
         @Serializable
         data object More : Route
 

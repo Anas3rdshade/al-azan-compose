@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- How to pray pager (P3 of 07_Salah_Guide_Plan.md, Hanafi). Keep keys in sync across values, values-hi, values-ur. -->
+<resources>
+    <string name="sg_title">नमाज़ कैसे पढ़ें</string>
+    <string name="sg_intro">हर क़दम तस्वीर के साथ, क्या पढ़ना है और कितनी बार।</string>
+    <string name="sg_open">शुरू करें</string>
+    <string name="sg_prayer">नमाज़</string>
+    <string name="sg_men">मर्द</string>
+    <string name="sg_women">औरतें</string>
+    <string name="sg_standing">खड़े होकर</string>
+    <string name="sg_ground">ज़मीन पर बैठकर</string>
+    <string name="sg_chair">कुर्सी पर</string>
+    <string name="sg_seated_draft">यहाँ औरतों, बैठकर और कुर्सी वाले तरीक़े ड्राफ़्ट हैं, इमाम साहब की जाँच बाक़ी है।</string>
+    <string name="sg_rakat">रकात %1$d / %2$d</string>
+    <string name="sg_step">%1$d / %2$d</string>
+    <string name="sg_prev">पीछे</string>
+    <string name="sg_next">आगे</string>
+    <string name="sg_aloud">इमाम और अकेला मर्द इसे आवाज़ से पढ़ें।</string>
+    <string name="sg_silent">इसे आहिस्ता, होंठ हिलाकर पढ़ें।</string>
+    <string name="sg_witr">वित्र</string>
+    <string name="sg_eid">ईद</string>
+    <string name="sg_janazah">जनाज़ा</string>
+    <string name="sg_special_title">दूसरी नमाज़ें</string>
+    <string name="sg_special_method">इन्हें नफ़्ल की तरह दो-दो रकात पढ़ें, हर रकात में फ़ातिहा के बाद सूरह मिलाएँ। हर दो रकात के लिए फ़ज्र वाले क़दम देखें।</string>
+    <string name="sg_niyyah_t">नीयत</string>
+    <string name="sg_niyyah">क़िबले की तरफ़ मुँह करें। दिल में नीयत करें कि कौन सी नमाज़ और कितनी रकात पढ़ रहे हैं। ज़बान से कहना ज़रूरी नहीं।</string>
+    <string name="sg_takbir_t">तकबीर-ए-तहरीमा</string>
+    <string name="sg_takbir_m">दोनों हाथ कानों तक उठाएँ, अंगूठे कान की लौ से लगें और हथेलियाँ क़िबले की तरफ़ हों, फिर तकबीर कहें।</string>
+    <string name="sg_takbir_w">दोनों हाथ कंधों तक उठाएँ, दुपट्टे के अंदर ही रखें, फिर तकबीर कहें।</string>
+    <string name="sg_thana_t">हाथ बाँधें, सना पढ़ें</string>
+    <string name="sg_thana_m">हाथ नाफ़ के नीचे बाँधें, दायाँ हाथ बाएँ पर, बाईं कलाई पकड़कर। सजदे की जगह देखें और सना पढ़ें।</string>
+    <string name="sg_thana_w">हाथ सीने पर रखें, दाईं हथेली बाएँ हाथ की पुश्त पर। सजदे की जगह देखें और सना पढ़ें।</string>
+    <string name="sg_eid_t">ज़ायद तकबीरें</string>
+    <string name="sg_eid1">तीन बार तकबीर कहें, हर बार हाथ कानों तक उठाकर छोड़ दें। तीसरी के बाद हाथ बाँध लें।</string>
+    <string name="sg_eid2">सूरह के बाद तीन बार हाथ उठाकर छोड़ते हुए तकबीर कहें। चौथी तकबीर हाथ उठाए बिना कहते हुए रुकू में जाएँ।</string>
+    <string name="sg_taawwudh_t">तअव्वुज़</string>
+    <string name="sg_taawwudh">क़ुरआन पढ़ने से पहले आहिस्ता अल्लाह की पनाह माँगें।</string>
+    <string name="sg_fatiha_t">सूरह फ़ातिहा</string>
+    <string name="sg_fatiha">आहिस्ता बिस्मिल्लाह पढ़ें, सूरह फ़ातिहा पढ़ें, फिर आहिस्ता आमीन कहें।</string>
+    <string name="sg_fatiha_next">इस रकात के लिए सीधे खड़े हों। आहिस्ता बिस्मिल्लाह पढ़ें, फ़ातिहा पढ़ें, फिर आहिस्ता आमीन कहें।</string>
+    <string name="sg_fatiha_only_seated">इस रकात में सिर्फ़ फ़ातिहा पढ़ें। फ़र्ज़ की इस रकात में सूरह नहीं मिलाई जाती।</string>
+    <string name="sg_fatiha_only">इस रकात के लिए खड़े हों और सिर्फ़ फ़ातिहा पढ़ें। फ़र्ज़ की इस रकात में सूरह नहीं मिलाई जाती।</string>
+    <string name="sg_surah_t">सूरह मिलाएँ</string>
+    <string name="sg_surah">कोई भी सूरह या कम से कम तीन छोटी आयतें पढ़ें। मिसाल के तौर पर सूरह इख़्लास दी गई है।</string>
+    <string name="sg_qunoot_t">दुआ-ए-क़ुनूत</string>
+    <string name="sg_qunoot_m">तीसरी रकात में सूरह के बाद कानों तक हाथ उठाकर तकबीर कहें, फिर नाफ़ के नीचे हाथ बाँधकर दुआ-ए-क़ुनूत पढ़ें।</string>
+    <string name="sg_qunoot_w">तीसरी रकात में सूरह के बाद कंधों तक हाथ उठाकर तकबीर कहें, फिर सीने पर हाथ रखकर दुआ-ए-क़ुनूत पढ़ें।</string>
+    <string name="sg_ruku_t">रुकू</string>
+    <string name="sg_ruku_m">तकबीर कहकर झुकें। उंगलियाँ खोलकर घुटने पकड़ें, कमर और सिर सीध में रखें और बाज़ू पहलू से अलग रखें।</string>
+    <string name="sg_ruku_w">तकबीर कहकर थोड़ा झुकें, बस इतना कि हाथ घुटनों तक पहुँचें। उंगलियाँ मिलाकर घुटनों पर रखें और बाज़ू जिस्म से मिले रहें।</string>
+    <string name="sg_ruku_ground">तकबीर कहकर बैठे-बैठे आगे झुकें, हाथ घुटनों पर रखें।</string>
+    <string name="sg_ruku_chair">तकबीर कहकर कुर्सी पर बैठे-बैठे थोड़ा आगे झुकें, हाथ घुटनों पर रखें।</string>
+    <string name="sg_qawmah_t">क़ौमा</string>
+    <string name="sg_qawmah">पहला कलिमा कहते हुए सीधे खड़े हों, खड़े होकर दूसरा कहें। एक पल ठहरें।</string>
+    <string name="sg_qawmah_seated">पहला कलिमा कहते हुए सीधे बैठें, फिर दूसरा कहें। एक पल ठहरें।</string>
+    <string name="sg_sajdah_t">सजदा</string>
+    <string name="sg_sajdah_m">तकबीर कहकर सजदे में जाएँ: पहले घुटने, फिर हाथ, फिर दोनों हाथों के बीच नाक और माथा। बाज़ू पहलू से अलग, कोहनियाँ ज़मीन से उठी हुई, पैरों की उंगलियाँ क़िबले की तरफ़ मुड़ी हों।</string>
+    <string name="sg_sajdah_w">तकबीर कहकर सिमटकर सजदा करें: पेट रानों से मिला हो, बाज़ू जिस्म से मिले और कलाइयाँ ज़मीन पर हों।</string>
+    <string name="sg_sajdah_ground">तकबीर कहकर सजदे के लिए झुकें। हो सके तो माथा ज़मीन पर रखें, न हो सके तो सिर रुकू से ज़्यादा नीचे झुकाएँ।</string>
+    <string name="sg_sajdah_chair">तकबीर कहकर रुकू से ज़्यादा नीचे झुकें। माथे से लगाने के लिए कोई चीज़ ऊपर न उठाएँ।</string>
+    <string name="sg_jalsa_t">जलसा</string>
+    <string name="sg_jalsa_m">तकबीर कहकर बाएँ पैर पर बैठें, दायाँ पैर खड़ा रखें, उंगलियाँ क़िबले की तरफ़, हाथ रानों पर। एक पल ठहरें।</string>
+    <string name="sg_jalsa_w">तकबीर कहकर बाएँ कूल्हे पर बैठें, दोनों पैर दाईं तरफ़ निकाल दें, हाथ रानों पर। एक पल ठहरें।</string>
+    <string name="sg_jalsa_chair">तकबीर कहकर कुर्सी पर सीधे बैठें, हाथ रानों पर। एक पल ठहरें।</string>
+    <string name="sg_sajdah2_t">दूसरा सजदा</string>
+    <string name="sg_sajdah2">तकबीर कहकर पहले की तरह दूसरा सजदा करें।</string>
+    <string name="sg_qadah1_t">क़ादा-ए-ऊला</string>
+    <string name="sg_qadah1">दूसरी रकात के बाद जलसे की तरह बैठें और सिर्फ़ अत्तहिय्यात पढ़ें। “ला इलाह” पर दाएँ हाथ की शहादत की उंगली उठाएँ और “इल्लल्लाह” पर रख दें। फिर तकबीर कहकर खड़े हों।</string>
+    <string name="sg_qadah2_t">क़ादा-ए-आख़िरा</string>
+    <string name="sg_qadah2">आख़िरी रकात के बाद बैठें और अत्तहिय्यात पढ़ें (पहले की तरह उंगली उठाएँ), फिर दुरूद, फिर दुआ।</string>
+    <string name="sg_salam_r_t">दाईं तरफ़ सलाम</string>
+    <string name="sg_salam_r">चेहरा दाईं तरफ़ फेरें, नज़र कंधे पर, और सलाम कहें।</string>
+    <string name="sg_salam_l_t">बाईं तरफ़ सलाम</string>
+    <string name="sg_salam_l">चेहरा बाईं तरफ़ फेरें और फिर सलाम कहें। नमाज़ पूरी हुई।</string>
+    <string name="sg_j1_t">पहली तकबीर</string>
+    <string name="sg_j1_m">जनाज़ा खड़े होकर पढ़ा जाता है, इसमें रुकू, सजदा या क़ादा नहीं। कानों तक हाथ उठाकर तकबीर कहें, नाफ़ के नीचे बाँधें और सना पढ़ें।</string>
+    <string name="sg_j1_w">जनाज़ा खड़े होकर पढ़ा जाता है, इसमें रुकू, सजदा या क़ादा नहीं। कंधों तक हाथ उठाकर तकबीर कहें, सीने पर रखें और सना पढ़ें।</string>
+    <string name="sg_j2_t">दूसरी तकबीर</string>
+    <string name="sg_j2">हाथ उठाए बिना तकबीर कहें, फिर दुरूद-ए-इब्राहीम पढ़ें।</string>
+    <string name="sg_j3_t">तीसरी तकबीर</string>
+    <string name="sg_j3">हाथ उठाए बिना तकबीर कहें, फिर मय्यत की दुआ पढ़ें।</string>
+    <string name="sg_j4_t">चौथी तकबीर</string>
+    <string name="sg_j4">हाथ उठाए बिना तकबीर कहें, इसके बाद कुछ न पढ़ें, फिर दोनों तरफ़ सलाम फेरें।</string>
+    <string-array name="sg_special_names">
+        <item>तहज्जुद</item>
+        <item>तरावीह</item>
+        <item>इशराक़</item>
+        <item>चाश्त</item>
+        <item>अव्वाबीन</item>
+        <item>तहिय्यतुल वुज़ू</item>
+        <item>तहिय्यतुल मस्जिद</item>
+        <item>इस्तिख़ारा</item>
+        <item>सलातुत तस्बीह</item>
+        <item>कुसूफ़</item>
+    </string-array>
+    <string-array name="sg_special_details">
+        <item>2 से 8 रकात। रात का आख़िरी हिस्सा, सोकर उठने के बाद।</item>
+        <item>रमज़ान में 20 रकात, इशा के बाद और वित्र से पहले।</item>
+        <item>2 से 4 रकात, सूरज निकलने के लगभग 20 मिनट बाद।</item>
+        <item>2 से 12 रकात, दिन चढ़ने से ज़वाल से पहले तक।</item>
+        <item>6 से 20 रकात, मग़रिब के बाद।</item>
+        <item>2 रकात, वुज़ू के फ़ौरन बाद।</item>
+        <item>2 रकात, मस्जिद में दाख़िल होकर बैठने से पहले।</item>
+        <item>2 रकात, फिर इस्तिख़ारे की दुआ, किसी काम का फ़ैसला करते वक़्त।</item>
+        <item>4 रकात, कुल 300 बार तस्बीह के साथ।</item>
+        <item>सूरज ग्रहण के वक़्त 2 रकात।</item>
+    </string-array>
+</resources>

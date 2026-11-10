@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- How to pray pager (P3 of 07_Salah_Guide_Plan.md, Hanafi). Keep keys in sync across values, values-hi, values-ur. -->
+<resources>
+    <string name="sg_title">How to pray</string>
+    <string name="sg_intro">Every step with a picture, what to recite and how many times.</string>
+    <string name="sg_open">Start</string>
+    <string name="sg_prayer">Prayer</string>
+    <string name="sg_men">Men</string>
+    <string name="sg_women">Women</string>
+    <string name="sg_standing">Standing</string>
+    <string name="sg_ground">Sitting on the ground</string>
+    <string name="sg_chair">Chair</string>
+    <string name="sg_seated_draft">The women\'s, seated and chair rules here are a draft, pending imam review.</string>
+    <string name="sg_rakat">Rakat %1$d of %2$d</string>
+    <string name="sg_step">%1$d / %2$d</string>
+    <string name="sg_prev">Back</string>
+    <string name="sg_next">Next</string>
+    <string name="sg_aloud">Imam and a man praying alone recite this aloud.</string>
+    <string name="sg_silent">Recite this silently, moving the lips.</string>
+    <string name="sg_witr">Witr</string>
+    <string name="sg_eid">Eid</string>
+    <string name="sg_janazah">Janazah</string>
+    <string name="sg_special_title">Other prayers</string>
+    <string name="sg_special_method">Pray these like nafl, two rakats at a time, with a surah after Al-Fatiha in every rakat. Follow the Fajr steps for each pair.</string>
+    <string name="sg_niyyah_t">Intention (niyyah)</string>
+    <string name="sg_niyyah">Face the qibla. In your heart, intend which prayer you are praying and how many rakats. Saying it out loud is not required.</string>
+    <string name="sg_takbir_t">Opening takbir</string>
+    <string name="sg_takbir_m">Raise both hands to your ears, thumbs touching the earlobes and palms facing the qibla, and say the takbir.</string>
+    <string name="sg_takbir_w">Raise both hands to your shoulders, kept inside your dupatta, and say the takbir.</string>
+    <string name="sg_thana_t">Fold hands, recite Thana</string>
+    <string name="sg_thana_m">Fold your hands below the navel, right hand over the left, holding the left wrist. Look at the place of sajdah and recite Thana.</string>
+    <string name="sg_thana_w">Place your hands on your chest, right palm over the back of the left hand. Look at the place of sajdah and recite Thana.</string>
+    <string name="sg_eid_t">Extra takbirs</string>
+    <string name="sg_eid1">Say takbir three times, raising your hands to the ears each time and letting them drop to your sides. After the third, fold them again.</string>
+    <string name="sg_eid2">After the surah, say takbir three times with hands raised and dropped. The fourth takbir is said without raising the hands as you go into ruku.</string>
+    <string name="sg_taawwudh_t">Seek refuge</string>
+    <string name="sg_taawwudh">Quietly seek refuge with Allah before reciting the Quran.</string>
+    <string name="sg_fatiha_t">Al-Fatiha</string>
+    <string name="sg_fatiha">Say Bismillah quietly, recite Al-Fatiha, then say Ameen quietly.</string>
+    <string name="sg_fatiha_next">Stand up straight for this rakat. Say Bismillah quietly, recite Al-Fatiha, then say Ameen quietly.</string>
+    <string name="sg_fatiha_only_seated">Recite only Al-Fatiha in this rakat. No surah is added in this rakat of a farz prayer.</string>
+    <string name="sg_fatiha_only">Stand up for this rakat and recite only Al-Fatiha. No surah is added in this rakat of a farz prayer.</string>
+    <string name="sg_surah_t">Add a surah</string>
+    <string name="sg_surah">Recite any surah or at least three short verses. Al-Ikhlas is shown as an example.</string>
+    <string name="sg_qunoot_t">Dua Qunoot</string>
+    <string name="sg_qunoot_m">After the surah of the third rakat, say takbir raising your hands to the ears, fold them again below the navel and recite Dua Qunoot.</string>
+    <string name="sg_qunoot_w">After the surah of the third rakat, say takbir raising your hands to the shoulders, place them on the chest again and recite Dua Qunoot.</string>
+    <string name="sg_ruku_t">Ruku</string>
+    <string name="sg_ruku_m">Say takbir and bow. Grip your knees with fingers spread, keep your back and head level and your arms away from your sides.</string>
+    <string name="sg_ruku_w">Say takbir and bow a little, only enough for the hands to reach the knees. Keep the fingers together on the knees and the arms close to the body.</string>
+    <string name="sg_ruku_ground">Say takbir and bow forward from where you sit, hands on the knees.</string>
+    <string name="sg_ruku_chair">Say takbir and bow forward a little from the chair, hands on the knees.</string>
+    <string name="sg_qawmah_t">Rise from ruku</string>
+    <string name="sg_qawmah">Stand up straight saying the first phrase, then say the second once you are upright. Pause for a moment.</string>
+    <string name="sg_qawmah_seated">Sit up straight saying the first phrase, then say the second. Pause for a moment.</string>
+    <string name="sg_sajdah_t">Sajdah</string>
+    <string name="sg_sajdah_m">Say takbir and go down: knees, then hands, then nose and forehead between the hands. Keep the arms away from the sides, elbows off the ground, toes bent towards the qibla.</string>
+    <string name="sg_sajdah_w">Say takbir and go down into a compact sajdah: belly against the thighs, arms close to the body and forearms on the ground.</string>
+    <string name="sg_sajdah_ground">Say takbir and bow for sajdah. If you can, put the forehead on the ground. If you cannot, bow the head lower than you did for ruku.</string>
+    <string name="sg_sajdah_chair">Say takbir and bow lower than you did for ruku. Do not lift anything up to the forehead to touch it.</string>
+    <string name="sg_jalsa_t">Sit between the sajdahs</string>
+    <string name="sg_jalsa_m">Say takbir and sit on the left foot with the right foot upright, toes towards the qibla, hands on the thighs. Pause for a moment.</string>
+    <string name="sg_jalsa_w">Say takbir and sit on the left hip with both feet out to the right side, hands on the thighs. Pause for a moment.</string>
+    <string name="sg_jalsa_chair">Say takbir and sit up straight on the chair, hands on the thighs. Pause for a moment.</string>
+    <string name="sg_sajdah2_t">Second sajdah</string>
+    <string name="sg_sajdah2">Say takbir and make the second sajdah the same way as the first.</string>
+    <string name="sg_qadah1_t">First sitting</string>
+    <string name="sg_qadah1">After the second rakat, sit as between the sajdahs and recite only At-Tahiyyat. Raise the right index finger at “la ilaha” and lower it at “illallah”. Then say takbir and stand up.</string>
+    <string name="sg_qadah2_t">Final sitting</string>
+    <string name="sg_qadah2">Sit after the last rakat and recite At-Tahiyyat (raising the finger as before), then Durood, then a dua.</string>
+    <string name="sg_salam_r_t">Salam to the right</string>
+    <string name="sg_salam_r">Turn your face to the right, looking at your shoulder, and say the salam.</string>
+    <string name="sg_salam_l_t">Salam to the left</string>
+    <string name="sg_salam_l">Turn your face to the left and say the salam again. The prayer is complete.</string>
+    <string name="sg_j1_t">First takbir</string>
+    <string name="sg_j1_m">Janazah is prayed standing, with no ruku, sajdah or sitting. Raise the hands to the ears, say takbir, fold them below the navel and recite Thana.</string>
+    <string name="sg_j1_w">Janazah is prayed standing, with no ruku, sajdah or sitting. Raise the hands to the shoulders, say takbir, place them on the chest and recite Thana.</string>
+    <string name="sg_j2_t">Second takbir</string>
+    <string name="sg_j2">Say takbir without raising the hands, then recite Durood Ibrahim.</string>
+    <string name="sg_j3_t">Third takbir</string>
+    <string name="sg_j3">Say takbir without raising the hands, then recite the dua for the deceased.</string>
+    <string name="sg_j4_t">Fourth takbir</string>
+    <string name="sg_j4">Say takbir without raising the hands, recite nothing after it, then give salam to both sides.</string>
+    <string-array name="sg_special_names">
+        <item>Tahajjud</item>
+        <item>Taraweeh</item>
+        <item>Ishraq</item>
+        <item>Chasht</item>
+        <item>Awwabin</item>
+        <item>Tahiyyat-ul-Wudu</item>
+        <item>Tahiyyat-ul-Masjid</item>
+        <item>Istikhara</item>
+        <item>Salat-ut-Tasbih</item>
+        <item>Kusoof</item>
+    </string-array>
+    <string-array name="sg_special_details">
+        <item>2 to 8 rakats. Last part of the night, after waking from sleep.</item>
+        <item>20 rakats in Ramadan, after Isha and before Witr.</item>
+        <item>2 to 4 rakats, about 20 minutes after sunrise.</item>
+        <item>2 to 12 rakats, from mid-morning until before zawal.</item>
+        <item>6 to 20 rakats, after Maghrib.</item>
+        <item>2 rakats, right after wudu.</item>
+        <item>2 rakats on entering the masjid, before sitting down.</item>
+        <item>2 rakats, then the Istikhara dua, when deciding on a matter.</item>
+        <item>4 rakats with the tasbih recited 300 times in all.</item>
+        <item>2 rakats during a solar eclipse.</item>
+    </string-array>
+</resources>
