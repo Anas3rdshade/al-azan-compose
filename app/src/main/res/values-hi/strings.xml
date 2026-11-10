@@ -790,6 +790,7 @@
     <string name="tab_more">और</string>
     <string name="tab_coming_soon">जल्द आ रहा है</string>
     <string name="today_next_prayer">अगली नमाज़</string>
+    <string name="today_no_location">नमाज़ के समय देखने के लिए अपना स्थान सेट करें।</string>
     <string name="today_left_until">बाक़ी · %1$s</string>
     <string name="today_adhan_on">अज़ान चालू</string>
     <string name="today_adhan_off">अज़ान बंद</string>

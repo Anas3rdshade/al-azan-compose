@@ -97,11 +97,13 @@ fun TodayScreen(
                     .weight(1f)
                     .clickable { onAction(HomeUiAction.OnLocationTextClick) },
             ) {
+                // No location yet (intro skipped): show a visible link instead of an empty tap target.
                 Text(
-                    detail?.label?.takeIf { it.isNotBlank() } ?: detail?.city?.toString() ?: detail?.toCoordsString().orEmpty(),
+                    detail?.label?.takeIf { it.isNotBlank() } ?: detail?.city?.toString() ?: detail?.toCoordsString()
+                        ?: stringResource(R.string.set_location_hint),
                     fontSize = 17.sp,
                     fontWeight = FontWeight.Bold,
-                    color = fg,
+                    color = if (detail == null) shade.accent else fg,
                 )
                 (detail?.state ?: detail?.country)?.let { Text(it.toString(), fontSize = 13.sp, color = MaterialTheme.colorScheme.onSurfaceVariant) }
             }
@@ -203,6 +205,11 @@ fun TodayScreen(
                             .clip(RoundedCornerShape(3.dp))
                             .background(shade.accent),
                     )
+                }
+            } else if (uiState.location == null) {
+                Text(stringResource(R.string.today_no_location), fontSize = 15.sp, color = shade.heroFg, modifier = Modifier.padding(horizontal = 24.dp, vertical = 8.dp))
+                androidx.compose.material3.Button(onClick = { onAction(HomeUiAction.OnLocationTextClick) }) {
+                    Text(stringResource(R.string.set_location_hint))
                 }
             } else {
                 Text("--:--", fontSize = 46.sp, fontWeight = FontWeight.ExtraBold, color = shade.heroFg)

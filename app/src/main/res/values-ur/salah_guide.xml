@@ -23,6 +23,7 @@
     <string name="sg_special_title">دوسری نمازیں</string>
     <string name="sg_special_method">انہیں نفل کی طرح دو دو رکعت پڑھیں، ہر رکعت میں فاتحہ کے بعد سورت ملائیں۔ ہر دو رکعت کے لیے فجر والے قدم دیکھیں۔</string>
     <string name="sg_niyyah_t">نیت</string>
+    <string name="sg_niyyah_janazah">قبلہ رخ ہوں۔ دل میں نیت کریں کہ اللہ کے لیے نمازِ جنازہ اور میت کے لیے دعا پڑھ رہے ہیں۔ اس میں رکعت نہیں ہوتی۔ زبان سے کہنا ضروری نہیں۔</string>
     <string name="sg_niyyah">قبلہ رخ ہوں۔ دل میں نیت کریں کہ کون سی نماز اور کتنی رکعت پڑھ رہے ہیں۔ زبان سے کہنا ضروری نہیں۔</string>
     <string name="sg_takbir_t">تکبیر تحریمہ</string>
     <string name="sg_takbir_m">دونوں ہاتھ کانوں تک اٹھائیں، انگوٹھے کان کی لو سے لگیں اور ہتھیلیاں قبلہ رخ ہوں، پھر تکبیر کہیں۔</string>
@@ -78,7 +79,7 @@
     <string name="sg_j2_t">دوسری تکبیر</string>
     <string name="sg_j2">ہاتھ اٹھائے بغیر تکبیر کہیں، پھر درود ابراہیمی پڑھیں۔</string>
     <string name="sg_j3_t">تیسری تکبیر</string>
-    <string name="sg_j3">ہاتھ اٹھائے بغیر تکبیر کہیں، پھر میت کی دعا پڑھیں۔</string>
+    <string name="sg_j3">ہاتھ اٹھائے بغیر تکبیر کہیں، پھر میت کی دعا پڑھیں۔ یہ بالغ کی دعا ہے؛ بچے کی دعا الگ ہے، امام سے پوچھیں۔</string>
     <string name="sg_j4_t">چوتھی تکبیر</string>
     <string name="sg_j4">ہاتھ اٹھائے بغیر تکبیر کہیں، اس کے بعد کچھ نہ پڑھیں، پھر دونوں طرف سلام پھیریں۔</string>
     <string-array name="sg_special_names">

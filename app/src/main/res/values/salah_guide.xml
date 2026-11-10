@@ -23,6 +23,7 @@
     <string name="sg_special_title">Other prayers</string>
     <string name="sg_special_method">Pray these like nafl, two rakats at a time, with a surah after Al-Fatiha in every rakat. Follow the Fajr steps for each pair.</string>
     <string name="sg_niyyah_t">Intention (niyyah)</string>
+    <string name="sg_niyyah_janazah">Face the qibla. In your heart, intend the Janazah prayer for Allah and as a dua for the deceased. It has no rakats. Saying it out loud is not required.</string>
     <string name="sg_niyyah">Face the qibla. In your heart, intend which prayer you are praying and how many rakats. Saying it out loud is not required.</string>
     <string name="sg_takbir_t">Opening takbir</string>
     <string name="sg_takbir_m">Raise both hands to your ears, thumbs touching the earlobes and palms facing the qibla, and say the takbir.</string>
@@ -78,7 +79,7 @@
     <string name="sg_j2_t">Second takbir</string>
     <string name="sg_j2">Say takbir without raising the hands, then recite Durood Ibrahim.</string>
     <string name="sg_j3_t">Third takbir</string>
-    <string name="sg_j3">Say takbir without raising the hands, then recite the dua for the deceased.</string>
+    <string name="sg_j3">Say takbir without raising the hands, then recite the dua for the deceased. This is the dua for an adult; a child has its own dua, so ask the imam.</string>
     <string name="sg_j4_t">Fourth takbir</string>
     <string name="sg_j4">Say takbir without raising the hands, recite nothing after it, then give salam to both sides.</string>
     <string-array name="sg_special_names">

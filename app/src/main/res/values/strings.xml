@@ -798,6 +798,7 @@
     <string name="tab_more">More</string>
     <string name="tab_coming_soon">Coming soon</string>
     <string name="today_next_prayer">Next prayer</string>
+    <string name="today_no_location">Set your location to see prayer times.</string>
     <string name="today_left_until">left · %1$s</string>
     <string name="today_adhan_on">Adhan on</string>
     <string name="today_adhan_off">Adhan off</string>

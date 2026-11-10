@@ -93,12 +93,15 @@ internal fun buildSteps(prayer: Prayer, women: Boolean, mode: Mode): List<PraySt
     )
     val niyyah = PrayStep(Pose.QIYAM, R.string.sg_niyyah_t, R.string.sg_niyyah)
     if (prayer == Prayer.JANAZAH) return listOf(
-        niyyah,
+        PrayStep(Pose.QIYAM, R.string.sg_niyyah_t, R.string.sg_niyyah_janazah),
         PrayStep(Pose.TAKBIR, R.string.sg_j1_t, g(R.string.sg_j1_m, R.string.sg_j1_w), listOf(Rec.TAKBIR to 1, Rec.THANA_JANAZAH to 1)),
         PrayStep(Pose.QIYAM, R.string.sg_j2_t, R.string.sg_j2, listOf(Rec.TAKBIR to 1, Rec.DUROOD to 1)),
         PrayStep(Pose.QIYAM, R.string.sg_j3_t, R.string.sg_j3, listOf(Rec.TAKBIR to 1, Rec.JANAZAH_DUA to 1)),
         PrayStep(Pose.QIYAM, R.string.sg_j4_t, R.string.sg_j4, listOf(Rec.TAKBIR to 1)),
-    ) + salam
+        // Janazah is prayed standing throughout, so its salam keeps the standing figure.
+        PrayStep(Pose.QIYAM, R.string.sg_salam_r_t, R.string.sg_salam_r, listOf(Rec.SALAM to 1)),
+        PrayStep(Pose.QIYAM, R.string.sg_salam_l_t, R.string.sg_salam_l, listOf(Rec.SALAM to 1)),
+    )
 
     val n = prayer.rakats
     val steps = mutableListOf(niyyah, PrayStep(Pose.TAKBIR, R.string.sg_takbir_t, takbirBody, listOf(Rec.TAKBIR to 1), 1))

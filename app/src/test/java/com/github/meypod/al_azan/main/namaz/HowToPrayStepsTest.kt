@@ -20,7 +20,10 @@ class HowToPrayStepsTest {
     fun sittingsAndSalam() {
         assertEquals(1, count(Prayer.FAJR, Pose.QADAH))
         assertEquals(2, count(Prayer.DHUHR, Pose.QADAH))
-        assertEquals(2, buildSteps(Prayer.JANAZAH, true, Mode.STANDING).count { it.pose == Pose.SALAM_R || it.pose == Pose.SALAM_L })
+        // Janazah ends with 2 salams but never shows a seated figure.
+        val janazah = buildSteps(Prayer.JANAZAH, true, Mode.STANDING)
+        assertEquals(2, janazah.count { it.title == com.github.meypod.al_azan.R.string.sg_salam_r_t || it.title == com.github.meypod.al_azan.R.string.sg_salam_l_t })
+        assertTrue(janazah.all { it.pose == Pose.QIYAM || it.pose == Pose.TAKBIR })
     }
 
     @Test
@@ -31,6 +34,8 @@ class HowToPrayStepsTest {
         assertEquals(3, witr.count { it.title == com.github.meypod.al_azan.R.string.sg_surah_t })
         assertEquals(2, buildSteps(Prayer.MAGHRIB, false, Mode.STANDING).count { it.title == com.github.meypod.al_azan.R.string.sg_surah_t })
         assertEquals(2, buildSteps(Prayer.EID, false, Mode.STANDING).count { it.title == com.github.meypod.al_azan.R.string.sg_eid_t })
+        // Janazah has no rakats, so its niyyah must not mention them.
+        assertEquals(com.github.meypod.al_azan.R.string.sg_niyyah_janazah, buildSteps(Prayer.JANAZAH, false, Mode.STANDING).first().body)
     }
 
     @Test
