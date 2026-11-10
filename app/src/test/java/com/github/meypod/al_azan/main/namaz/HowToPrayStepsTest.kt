@@ -20,10 +20,19 @@ class HowToPrayStepsTest {
     fun sittingsAndSalam() {
         assertEquals(1, count(Prayer.FAJR, Pose.QADAH))
         assertEquals(2, count(Prayer.DHUHR, Pose.QADAH))
-        // Janazah ends with 2 salams but never shows a seated figure.
+        // Janazah ends with its own standing salam figures, right then left, and never a seated one.
         val janazah = buildSteps(Prayer.JANAZAH, true, Mode.STANDING)
-        assertEquals(2, janazah.count { it.title == com.github.meypod.al_azan.R.string.sg_salam_r_t || it.title == com.github.meypod.al_azan.R.string.sg_salam_l_t })
-        assertTrue(janazah.all { it.pose == Pose.QIYAM || it.pose == Pose.TAKBIR })
+        assertEquals(listOf(Pose.J_SALAM_R, Pose.J_SALAM_L), janazah.takeLast(2).map { it.pose })
+        assertTrue(janazah.none { it.pose in setOf(Pose.JALSA, Pose.QADAH, Pose.SALAM_R, Pose.SALAM_L) })
+    }
+
+    @Test
+    fun everyPrayerStartsWithNiyyahAndEndsWithSalam() {
+        for (mode in Mode.entries) for (p in Prayer.entries) for (w in listOf(false, true)) {
+            val steps = buildSteps(p, w, mode)
+            assertEquals(Pose.NIYYAH, steps.first().pose)
+            assertEquals(2, steps.takeLast(2).count { it.pose in setOf(Pose.SALAM_R, Pose.SALAM_L, Pose.J_SALAM_R, Pose.J_SALAM_L) })
+        }
     }
 
     @Test

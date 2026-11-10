@@ -65,9 +65,10 @@ internal enum class Prayer(@StringRes val label: Int, val rakats: Int, val loudR
     JANAZAH(R.string.sg_janazah, 0, 0),
 }
 
-internal enum class Mode(@StringRes val label: Int) { STANDING(R.string.sg_standing), GROUND(R.string.sg_ground), CHAIR(R.string.sg_chair) }
+internal enum class Mode(@StringRes val label: Int) { STANDING(R.string.sg_standing), CHAIR(R.string.sg_chair) }
 
-internal enum class Pose { TAKBIR, QIYAM, RUKU, QAWMAH, SAJDAH, JALSA, QADAH, SALAM_R, SALAM_L }
+// Order indexes the image lists below. J_SALAM_* is the Janazah salam, said standing.
+internal enum class Pose { TAKBIR, QIYAM, RUKU, QAWMAH, SAJDAH, JALSA, QADAH, SALAM_R, SALAM_L, NIYYAH, J_SALAM_R, J_SALAM_L }
 
 internal enum class Rec {
     TAKBIR, THANA, THANA_JANAZAH, TAAWWUDH, TASMIYAH, FATIHA, AMEEN, IKHLAS, RUKU, TASMI, TAHMID, SAJDAH,
@@ -91,16 +92,15 @@ internal fun buildSteps(prayer: Prayer, women: Boolean, mode: Mode): List<PraySt
         PrayStep(Pose.SALAM_R, R.string.sg_salam_r_t, R.string.sg_salam_r, listOf(Rec.SALAM to 1)),
         PrayStep(Pose.SALAM_L, R.string.sg_salam_l_t, R.string.sg_salam_l, listOf(Rec.SALAM to 1)),
     )
-    val niyyah = PrayStep(Pose.QIYAM, R.string.sg_niyyah_t, R.string.sg_niyyah)
+    val niyyah = PrayStep(Pose.NIYYAH, R.string.sg_niyyah_t, R.string.sg_niyyah)
     if (prayer == Prayer.JANAZAH) return listOf(
-        PrayStep(Pose.QIYAM, R.string.sg_niyyah_t, R.string.sg_niyyah_janazah),
+        PrayStep(Pose.NIYYAH, R.string.sg_niyyah_t, R.string.sg_niyyah_janazah),
         PrayStep(Pose.TAKBIR, R.string.sg_j1_t, g(R.string.sg_j1_m, R.string.sg_j1_w), listOf(Rec.TAKBIR to 1, Rec.THANA_JANAZAH to 1)),
         PrayStep(Pose.QIYAM, R.string.sg_j2_t, R.string.sg_j2, listOf(Rec.TAKBIR to 1, Rec.DUROOD to 1)),
         PrayStep(Pose.QIYAM, R.string.sg_j3_t, R.string.sg_j3, listOf(Rec.TAKBIR to 1, Rec.JANAZAH_DUA to 1)),
         PrayStep(Pose.QIYAM, R.string.sg_j4_t, R.string.sg_j4, listOf(Rec.TAKBIR to 1)),
-        // Janazah is prayed standing throughout, so its salam keeps the standing figure.
-        PrayStep(Pose.QIYAM, R.string.sg_salam_r_t, R.string.sg_salam_r, listOf(Rec.SALAM to 1)),
-        PrayStep(Pose.QIYAM, R.string.sg_salam_l_t, R.string.sg_salam_l, listOf(Rec.SALAM to 1)),
+        PrayStep(Pose.J_SALAM_R, R.string.sg_salam_r_t, R.string.sg_salam_r, listOf(Rec.SALAM to 1)),
+        PrayStep(Pose.J_SALAM_L, R.string.sg_salam_l_t, R.string.sg_salam_l, listOf(Rec.SALAM to 1)),
     )
 
     val n = prayer.rakats
@@ -128,11 +128,11 @@ internal fun buildSteps(prayer: Prayer, women: Boolean, mode: Mode): List<PraySt
         if (prayer == Prayer.WITR && r == 3) steps += PrayStep(Pose.TAKBIR, R.string.sg_qunoot_t, g(R.string.sg_qunoot_m, R.string.sg_qunoot_w), listOf(Rec.TAKBIR to 1, Rec.QUNOOT to 1), r)
         steps += PrayStep(
             Pose.RUKU, R.string.sg_ruku_t,
-            when (mode) { Mode.STANDING -> g(R.string.sg_ruku_m, R.string.sg_ruku_w); Mode.GROUND -> R.string.sg_ruku_ground; Mode.CHAIR -> R.string.sg_ruku_chair },
+            when (mode) { Mode.STANDING -> g(R.string.sg_ruku_m, R.string.sg_ruku_w); Mode.CHAIR -> R.string.sg_ruku_chair },
             listOf(Rec.RUKU to 3), r,
         )
         steps += PrayStep(Pose.QAWMAH, R.string.sg_qawmah_t, if (seated) R.string.sg_qawmah_seated else R.string.sg_qawmah, listOf(Rec.TASMI to 1, Rec.TAHMID to 1), r)
-        val sajdahBody = when (mode) { Mode.STANDING -> g(R.string.sg_sajdah_m, R.string.sg_sajdah_w); Mode.GROUND -> R.string.sg_sajdah_ground; Mode.CHAIR -> R.string.sg_sajdah_chair }
+        val sajdahBody = when (mode) { Mode.STANDING -> g(R.string.sg_sajdah_m, R.string.sg_sajdah_w); Mode.CHAIR -> R.string.sg_sajdah_chair }
         steps += PrayStep(Pose.SAJDAH, R.string.sg_sajdah_t, sajdahBody, listOf(Rec.SAJDAH to 3), r)
         steps += PrayStep(Pose.JALSA, R.string.sg_jalsa_t, if (mode == Mode.CHAIR) R.string.sg_jalsa_chair else g(R.string.sg_jalsa_m, R.string.sg_jalsa_w), listOf(Rec.TAKBIR to 1), r)
         steps += PrayStep(Pose.SAJDAH, R.string.sg_sajdah2_t, R.string.sg_sajdah2, listOf(Rec.SAJDAH to 3), r)
@@ -142,34 +142,30 @@ internal fun buildSteps(prayer: Prayer, women: Boolean, mode: Mode): List<PraySt
     return steps + salam.map { PrayStep(it.pose, it.title, it.body, it.recs, n) }
 }
 
+// Niyyah shows the plain standing (or seated) figure, hands at rest, before the takbir.
 private val Standing = listOf(
     R.drawable.salah_men_takbir, R.drawable.salah_men_qiyam, R.drawable.salah_men_ruku, R.drawable.salah_men_qawmah, R.drawable.salah_men_sajdah,
     R.drawable.salah_men_jalsa, R.drawable.salah_men_qadah, R.drawable.salah_men_salam_right, R.drawable.salah_men_salam_left,
+    R.drawable.salah_men_qawmah, R.drawable.salah_men_stand_salam_right, R.drawable.salah_men_stand_salam_left,
 ) to listOf(
     R.drawable.salah_women_takbir, R.drawable.salah_women_qiyam, R.drawable.salah_women_ruku, R.drawable.salah_women_qawmah, R.drawable.salah_women_sajdah,
     R.drawable.salah_women_jalsa, R.drawable.salah_women_qadah, R.drawable.salah_women_salam_right, R.drawable.salah_women_salam_left,
-)
-
-// Ground mode stands for the takbir when able (09_Seated_Chair_Prayer_Research.md case 1A), so it reuses the standing takbir figure.
-private val Ground = listOf(
-    R.drawable.salah_men_takbir, R.drawable.salah_men_ground_qiyam, R.drawable.salah_men_ground_ruku, R.drawable.salah_men_ground_qiyam, R.drawable.salah_men_ground_sajdah,
-    R.drawable.salah_men_ground_tashahhud, R.drawable.salah_men_ground_tashahhud, R.drawable.salah_men_ground_salam, R.drawable.salah_men_ground_salam,
-) to listOf(
-    R.drawable.salah_women_takbir, R.drawable.salah_women_ground_qiyam, R.drawable.salah_women_ground_ruku, R.drawable.salah_women_ground_qiyam, R.drawable.salah_women_ground_sajdah,
-    R.drawable.salah_women_ground_tashahhud, R.drawable.salah_women_ground_tashahhud, R.drawable.salah_women_ground_salam, R.drawable.salah_women_ground_salam,
+    R.drawable.salah_women_qawmah, R.drawable.salah_women_stand_salam_right, R.drawable.salah_women_stand_salam_left,
 )
 
 private val Chair = listOf(
-    R.drawable.salah_men_chair_takbir, R.drawable.salah_men_chair_qiyam, R.drawable.salah_men_chair_ruku, R.drawable.salah_men_chair_qiyam, R.drawable.salah_men_chair_sajdah,
-    R.drawable.salah_men_chair_tashahhud, R.drawable.salah_men_chair_tashahhud, R.drawable.salah_men_chair_salam, R.drawable.salah_men_chair_salam,
+    R.drawable.salah_men_chair_takbir, R.drawable.salah_men_chair_qiyam, R.drawable.salah_men_chair_ruku, R.drawable.salah_men_chair_qawmah, R.drawable.salah_men_chair_sajdah,
+    R.drawable.salah_men_chair_tashahhud, R.drawable.salah_men_chair_qadah, R.drawable.salah_men_chair_salam, R.drawable.salah_men_chair_salam_left,
+    R.drawable.salah_men_chair_qawmah, R.drawable.salah_men_chair_salam, R.drawable.salah_men_chair_salam_left,
 ) to listOf(
-    R.drawable.salah_women_chair_takbir, R.drawable.salah_women_chair_qiyam, R.drawable.salah_women_chair_ruku, R.drawable.salah_women_chair_qiyam, R.drawable.salah_women_chair_sajdah,
-    R.drawable.salah_women_chair_tashahhud, R.drawable.salah_women_chair_tashahhud, R.drawable.salah_women_chair_salam, R.drawable.salah_women_chair_salam,
+    R.drawable.salah_women_chair_takbir, R.drawable.salah_women_chair_qiyam, R.drawable.salah_women_chair_ruku, R.drawable.salah_women_chair_qawmah, R.drawable.salah_women_chair_sajdah,
+    R.drawable.salah_women_chair_tashahhud, R.drawable.salah_women_chair_qadah, R.drawable.salah_women_chair_salam, R.drawable.salah_women_chair_salam_left,
+    R.drawable.salah_women_chair_qawmah, R.drawable.salah_women_chair_salam, R.drawable.salah_women_chair_salam_left,
 )
 
 @DrawableRes
 private fun figure(pose: Pose, women: Boolean, mode: Mode): Int {
-    val set = when (mode) { Mode.STANDING -> Standing; Mode.GROUND -> Ground; Mode.CHAIR -> Chair }
+    val set = if (mode == Mode.CHAIR) Chair else Standing
     return (if (women) set.second else set.first)[pose.ordinal]
 }
 
